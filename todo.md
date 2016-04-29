@@ -49,6 +49,15 @@ foto und email
 auch an michael dal grande
 http://www.loewgartenbau.ch
 
+## ofenbauer
+
+- domschat
+- phillipp, maulburg
+- irgendjemand in weil-friedlingen
+- [tulikivi](http://www.tulikivi.com)
+- [tonwwerk[(http://tonwerk-ag.com)]
+
+
 ## todo 2
 
 - router raus
@@ -124,6 +133,7 @@ ausmessen:
 
 ## hauptaufgaben
 
+- ofen
 - gaube
 - kueche
     - schraege decke freiklopfen
