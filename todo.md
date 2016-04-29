@@ -51,7 +51,7 @@ foto und email
 auch an michael dal grande
 http://www.loewgartenbau.ch
 
-## <a href="ofenbauer"></a>ofenbauer
+## ofenbauer
 
 - domschat
 - phillipp, maulburg
