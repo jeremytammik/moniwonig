@@ -1,7 +1,5 @@
 # moniwonig
 
--
-
 ## michael's architectural hints
 
 - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
