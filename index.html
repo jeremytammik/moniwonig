@@ -24,14 +24,14 @@
 
   function hashChange() {
 
-    //fileName = location.hash ? location.hash.split( '#' )[1] : 'readme.md';
+    //filename = location.hash ? location.hash.split( '#' )[1] : 'readme.md';
 
     filename = 'todo.md';
 
-    document.title = document.title ? document.title : fileName;
+    document.title = document.title ? document.title : filename;
 
     var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( 'GET', fileName, true );
+    xmlHttp.open( 'GET', filename, true );
     xmlHttp.onreadystatechange = function() {
 
       info.innerHTML = xmlHttp.readyState === 4
