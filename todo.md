@@ -135,7 +135,7 @@ ausmessen:
 
 ## hauptaufgaben
 
-- [ofen](ofenbauer)
+- ofen (how to jump to the 'ofenbauer' section from here now?)
 - gaube
 - kueche
     - schraege decke freiklopfen
