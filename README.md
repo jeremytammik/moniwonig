@@ -4,7 +4,7 @@ renovation plan for moni's new flat.
 
 the todo list [todo.md](todo.md) is stored in markdown.
 
-the markdwon is converted to html using [showdown.js](https://github.com/showdownjs/showdown) by [index.html](index.html).
+the markdown is converted to html using [showdown.js](https://github.com/showdownjs/showdown) by [index.html](index.html).
 
 the result is published and displayed using gh-pages.
 
