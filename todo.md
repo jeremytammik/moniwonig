@@ -51,7 +51,7 @@ foto und email
 auch an michael dal grande
 http://www.loewgartenbau.ch
 
-## ofenbauer
+## <a href="ofenbauer"></a>ofenbauer
 
 - domschat
 - phillipp, maulburg
@@ -135,7 +135,7 @@ ausmessen:
 
 ## hauptaufgaben
 
-- ofen
+- [ofen](ofenbauer)
 - gaube
 - kueche
     - schraege decke freiklopfen
