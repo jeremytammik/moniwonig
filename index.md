@@ -133,7 +133,7 @@ ausmessen:
 
 ## hauptaufgaben
 
-- [ofen](ofen)
+- [ofen](#ofen)
 - gaube
 - kueche
     - schraege decke freiklopfen
