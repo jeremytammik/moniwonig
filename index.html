@@ -1,49 +1,226 @@
-<!doctype html>
-<html>
-<head>
-<title>moniwonig</title>
-<meta charset="utf-8"/>
-</head>
-<body>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/1.2.3/showdown.min.js"></script>
-<script>
-
-  init();
-
-  function init() {
-
-    document.body.style.cssText = 'font: 12pt monospace; left: 0; margin: 0 auto; max-width: 800px; position: absolute; right: 0; ';
-
-    info = document.body.appendChild( document.createElement( 'div' ) );
-
-    window.addEventListener( 'hashchange', hashChange, false );
-
-    hashChange();
-
-  }
-
-  function hashChange() {
-
-    //filename = location.hash ? location.hash.split( '#' )[1] : 'readme.md';
-
-    filename = 'todo.md';
-
-    document.title = document.title ? document.title : filename;
-
-    var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( 'GET', filename, true );
-    xmlHttp.onreadystatechange = function() {
-
-      info.innerHTML = xmlHttp.readyState === 4
-        ? new showdown.Converter().makeHtml( xmlHttp.responseText )
-        : '';
-
-    };
-
-    xmlHttp.send( null );
-
-  }
-
-</script>
-</body>
-</html>
+<h1>moniwonig</h1>
+<p><a href="https://github.com/jeremytammik/moniwonig">source repo</a></p>
+<h2>michael's architectural hints</h2>
+<ul>
+<li><a href="http://www.brandlhuber.com/0131-antivilla-krampnitz">antivilla brandelhuber</a></li>
+<li><a href="http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html">beton vorarlberg buerogebaeude ohne heizung</a></li>
+<li>minenergie ist scheisse, nur sache der daemmstofflobby</li>
+<li>nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton</li>
+</ul>
+<h2>haus</h2>
+<ul>
+<li>8x8 m plus 45 grad schraege offen nach sueden</li>
+<li>flaechendeckend tiefgarage nach allen seiten offen oben alles garten plus wasser</li>
+<li>vollholz keine isolation keine heizung ausser grundofen cheminee</li>
+</ul>
+<h2>ideas 1</h2>
+<ul>
+<li>ask wolfgang about parking spaces ... in zrh no longer needed, unecological</li>
+<li>werner schmidt schweizer strohballenbau</li>
+<li>michael dal gande is thinking of flattening his land and is interested in a supporting wall</li>
+<li>supporting wall could be made of terasses of large natural stone blocks</li>
+<li>want to work less, and build a house ... how about dedicating my time and work and life to that?</li>
+<li>suggest the construction of a new house to autodesk, for architecture, energy analysis, visualisation, modelling<ul>
+<li>ask kean and emile whom to contact</li>
+<li>check with the new autodesk design studio</li>
+</ul>
+</li>
+<li>create a building team to help DIY: falk, otto, wolfgang, ecki, juergen</li>
+<li>ask simon seeger und victor portenier</li>
+<li>west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)</li>
+<li>im bad leitungen mit schrank verkleiden</li>
+</ul>
+<h2>todo 1</h2>
+<ul>
+<li>zaehler ablesen</li>
+<li>nuesse sammeln</li>
+<li>hinten treppe wieder oeffnen</li>
+<li>bauschrott oberhalb vom garten weg</li>
+<li>bauschrott in der nordecke weg</li>
+<li>beide dachziegelhaufen in die nordecke umplatzieren</li>
+<li>balkon unter den paletten saeubern (nach dem umbau? im winter?)</li>
+<li>balkonbretter schrubben</li>
+<li>waschbecken im bad ersetzen und hoeher legen</li>
+<li>badezimmerfenster vergroessern, tiefer legen</li>
+<li>badewanne aus dem bad raus, dusche einbauen</li>
+</ul>
+<h2>loew gartenbau muttenz</h2>
+<p>steinmauer auf dem weg hoch zum hagebaechli
+foto und email
+auch an michael dal grande
+http://www.loewgartenbau.ch</p>
+<h2>ofenbauer</h2>
+<ul>
+<li>domschat</li>
+<li>phillipp, maulburg</li>
+<li>irgendjemand in weil-friedlingen</li>
+<li><a href="http://www.tulikivi.com">tulikivi</a></li>
+<li><a href="http://tonwerk-ag.com">tonwerk</a></li>
+</ul>
+<h2>todo 2</h2>
+<ul>
+<li>router raus</li>
+<li>stromzaehler fuer heizung</li>
+<li>bauliche veraenderungen der feuerversicherung melden</li>
+<li>shopping<ul>
+<li>silikon kaufen und dach flicken asap</li>
+<li>gartenweg steinplatten granit - im tessin bestellen?</li>
+<li>sauna - in finland bestellen?</li>
+<li>holzterasse um die sauna rum</li>
+</ul>
+</li>
+<li>haus und gelaendemodell huenerbergweg</li>
+<li>recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model</li>
+</ul>
+<h2>zaunpfosten</h2>
+<p>ausmessen:</p>
+<ul>
+<li>7 stueck</li>
+<li>110 cm hoch</li>
+<li>11 * circumference c = 1360 mm</li>
+<li>c = 1360/11 = 123.6363636</li>
+<li>pi = 3.1415926535</li>
+<li>d = c / pi = 39.35467684 also ca 40 mm.</li>
+<li>stahlrundrohr 42 mm innen x 3 m</li>
+<li>42.4 = 5/4 zoll, aber aussen</li>
+<li>VA oder verzinkt?</li>
+<li>loecher?</li>
+<li>oben verschliessen?</li>
+<li>ringe oder laschen anbringen?</li>
+<li>http://www.burkard-brunner.de</li>
+<li>Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010</li>
+<li>48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel</li>
+</ul>
+<h2>done 2016-04-25</h2>
+<ul>
+<li>auf den markt gehen</li>
+<li>crumble backen</li>
+<li>klavier weg</li>
+<li>kleider sortieren</li>
+<li>zaunreste wegmachen</li>
+<li>zaunreste versorgen</li>
+<li>eingangsbereich aufraeumen</li>
+</ul>
+<h2>todo 3</h2>
+<ul>
+<li>zaun reparieren</li>
+<li>spuele und arbeitsplatte abbauen</li>
+<li>schutt aufraeumen</li>
+<li>bad planen</li>
+<li>beide (kleine) zimmer streichen</li>
+<li>axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen</li>
+<li>wer macht zimmermann?</li>
+<li>wer macht kueche? klaus von nicole?</li>
+<li>kostenvoranschlag badezimmer</li>
+<li>google for schalldaempfer heizung, heizungsrohr</li>
+<li>schraege in kueche aufmachen</li>
+<li>router umbauen</li>
+<li>FI-schutzschalter und stromzaehler einbauen</li>
+<li>kueche planan</li>
+<li>bad planen</li>
+<li>holzzaun reste entfernen und versorgen</li>
+<li>zaunpfosten ausmessen und bestellen</li>
+<li>fensteroeffnungen vergroessern, brett vom dach absaegen</li>
+<li>schutt aufraeumen</li>
+</ul>
+<h2>neuer zaun</h2>
+<ul>
+<li>gittermaschendrahtzaun auf metallpfosten<ol>
+<li>metallpfosten mit fuss oben auf die betonmauer montieren</li>
+<li>metallpfosten mit platte seitlich an die mauer montieren, mit dreiecksplatte and die montageplatte schweissen, groessere stabilitaet</li>
+<li>pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.</li>
+<li>jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.</li>
+</ol>
+</li>
+</ul>
+<h2>hauptaufgaben</h2>
+<ul>
+<li>ofen</li>
+<li>gaube</li>
+<li>kueche<ul>
+<li>schraege decke freiklopfen</li>
+<li>alles zusammen in praktischer griffnaehe wie im tessin</li>
+<li>schraenke nur unten, oben regale</li>
+<li>steinplatte oder holzplatte, hoehe</li>
+<li>herd, spuele, kuehlschrank</li>
+<li>wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer</li>
+<li>ablageflaechen platz rechts und links von jeden geraet</li>
+<li>steckdosen, licht, dunstabzug</li>
+<li>abtropfgestell ueber der spuele</li>
+<li>glasplatte hinter der spuele</li>
+<li>ecke ausnutzen</li>
+<li>vorratschschrank, maeusesicher</li>
+<li>steckdosen, beleuchtung (LED?)</li>
+<li>arbeitsplatte abbauen</li>
+<li>pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden</li>
+<li>korkboden verlegen im kuechenbereich, wo parkett beschaedigt</li>
+</ul>
+</li>
+<li>bad<ul>
+<li>keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile</li>
+<li>waschbecken</li>
+<li>waschmaschine</li>
+<li>heizung in schrank verbauen, akustisch isolieren, auch von der wand, heizungsrohre akustisch daempfen</li>
+<li>schrank aus schreinerplatten oder grobspanplatten</li>
+<li>kacheln oder platten fuer wand und boden aussuchen</li>
+<li>sanitaerauftrag vergeben</li>
+<li>holzfussboden? falk fragen wegen teak</li>
+<li>kork verlegen?</li>
+<li>steckdosen, beleuchtung (LED?)</li>
+</ul>
+</li>
+<li>flur<ul>
+<li>wand</li>
+<li>schrank</li>
+<li>schreinerplatten? grobspanplatten wie im mediraum?</li>
+</ul>
+</li>
+<li>zimmer<ul>
+<li>fensteroeffnungen vergroessern</li>
+<li>fenster streichen</li>
+<li>waende streichen</li>
+<li>fussboden renovieren, oelen, schleifen</li>
+<li>tapeten abloesen</li>
+<li>decken freilegen, farbe abloesen</li>
+<li>waende verputzen</li>
+<li>decke verputzen und streichen</li>
+</ul>
+</li>
+<li>elektro<ul>
+<li>zaehler fuer heizung - moni</li>
+<li>zaehler fuer gemeinschaftslicht - jeremy</li>
+<li>FI-schutzschalter</li>
+<li>beleuchtung ueberall, maybe LED-schlauch</li>
+<li>router verschieben</li>
+</ul>
+</li>
+<li>zaun<ul>
+<li>falk fragen wegen kollege</li>
+<li>gartenzaun gartenhag</li>
+<li>glyzinie, geissblatt, jasmin</li>
+</ul>
+</li>
+<li>eingangsbereich<ul>
+<li>fussboden mit grobspanplatten verlegen</li>
+</ul>
+</li>
+<li>draussen<ul>
+<li>steine oder ander absaetze in den garten</li>
+<li>muellzentrale: gelber sack, glas, blech, alu, muell, etc.</li>
+</ul>
+</li>
+</ul>
+<h2>todo 4</h2>
+<ul>
+<li>treppe freilegen</li>
+<li>arbeitsplatte in kueche weg</li>
+<li>trennplatte in kueche weg</li>
+<li>zaunreste wegmachen</li>
+<li>schopf aufraeumen</li>
+<li>leergut wegbringen</li>
+<li>fensteroeffnungen oben vergroessern</li>
+<li>schraege in kuechendecke aufmachen</li>
+<li>schraege in baddecke aufmachen</li>
+<li>router umbauen</li>
+<li>buecher sortieren und wegraeumen</li>
+</ul>
