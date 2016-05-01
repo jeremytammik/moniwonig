@@ -19,7 +19,7 @@
 
 - ask wolfgang about parking spaces ... in zrh no longer needed, unecological
 - werner schmidt schweizer strohballenbau
-- michael dal gande is thinking of flattening his land and is interested in a supporting wall
+- our neighbour above is thinking of flattening his land and is interested in a supporting wall
 - supporting wall could be made of terasses of large natural stone blocks
 - want to work less, and build a house ... how about dedicating my time and work and life to that?
 - suggest the construction of a new house to autodesk, for architecture, energy analysis, visualisation, modelling
@@ -46,12 +46,10 @@
 
 ## loew gartenbau muttenz
 
-steinmauer auf dem weg hoch zum hagebaechli
-foto und email
-auch an michael dal grande
-http://www.loewgartenbau.ch
+- (loew gartenbau)[http://www.loewgartenbau.ch] made the
+steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.g.
 
-## ofenbauer
+## <a name="ofen"></a>ofen
 
 - domschat
 - phillipp, maulburg
@@ -135,7 +133,7 @@ ausmessen:
 
 ## hauptaufgaben
 
-- ofen
+- [ofen](ofen)
 - gaube
 - kueche
     - schraege decke freiklopfen
