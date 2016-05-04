@@ -205,3 +205,9 @@ ausmessen:
 - schraege in baddecke aufmachen
 - router umbauen
 - buecher sortieren und wegraeumen
+
+## people
+
+- axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
+- falk empfiehlt seinen freund stefan
+- johannes, zimmermann in linnach
