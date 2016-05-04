@@ -189,7 +189,7 @@ ausmessen:
 - eingangsbereich
     - fussboden mit grobspanplatten verlegen
 - draussen
-    - steine oder ander absaetze in den garten
+    - steine oder andere absaetze in den garten
     - muellzentrale: gelber sack, glas, blech, alu, muell, etc.
 
 ## todo 4
