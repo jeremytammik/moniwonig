@@ -30,6 +30,12 @@
 - west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
 - im bad leitungen mit schrank verkleiden
 
+## people
+
+- axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
+- falk empfiehlt seinen freund stefan
+- johannes, zimmermann in linnach
+
 ## todo 1
 
 - zaehler ablesen
@@ -57,7 +63,6 @@ steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.
 - [tulikivi](http://www.tulikivi.com)
 - [tonwerk](http://tonwerk-ag.com)
 
-
 ## todo 2
 
 - router raus
@@ -71,9 +76,7 @@ steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.
 - haus und gelaendemodell huenerbergweg
 - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 
-## zaunpfosten
-
-ausmessen:
+## zaunpfosten ausmessen:
 
 - 7 stueck
 - 110 cm hoch
@@ -100,6 +103,7 @@ ausmessen:
 - zaunreste wegmachen
 - zaunreste versorgen
 - eingangsbereich aufraeumen
+- leergut wegbringen
 
 ## todo 3
 
@@ -133,9 +137,15 @@ ausmessen:
 
 ## done
 
+- treppe freilegen &ndash; nein, rausreissen
+- router umbauen
 - kueche
     - schraege decke freiklopfen
     - arbeitsplatte abbauen
+    - trennplatte abbauen
+    - schraege in kuechendecke aufmachen
+- gaube
+    - balkontuer ausbauen
 
 ## hauptaufgaben
 
@@ -143,7 +153,6 @@ ausmessen:
 - gaube
     - arbeitsplan mai
     - zimmerei ritter 23-25.5
-    - balkontuer ausbauen
     - kuechenfenster ausbauen
     - geruest hinstellen
     - ziegel abdecken
@@ -201,6 +210,9 @@ ausmessen:
     - decken freilegen, farbe abloesen
     - waende verputzen
     - decke verputzen und streichen
+- stauraum
+    - treppe abreissen
+    - wand im bad mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
 - elektro
     - zaehler fuer heizung - moni
     - zaehler fuer gemeinschaftslicht - jeremy
@@ -219,20 +231,13 @@ ausmessen:
 
 ## todo 4
 
-- treppe freilegen
-- arbeitsplatte in kueche weg
-- trennplatte in kueche weg
+- treppe rausreissen
 - zaunreste wegmachen
 - schopf aufraeumen
-- leergut wegbringen
-- fensteroeffnungen oben vergroessern
-- schraege in kuechendecke aufmachen
+- fensteroeffnungen nach westen oben vergroessern
 - schraege in baddecke aufmachen
-- router umbauen
 - buecher sortieren und wegraeumen
-
-## people
-
-- axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
-- falk empfiehlt seinen freund stefan
-- johannes, zimmermann in linnach
+- ask wolfgang:
+    - spenglerei gaubendach: wer, wann, auftrag vergeben?
+    - fenster in auftrag geben? erst nachdem die gaube steht? wie lange dauern die dann?
+    - wan kommt das geruest?
