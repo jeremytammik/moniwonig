@@ -131,12 +131,28 @@ ausmessen:
     3. pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.
     4. jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.
 
+## done
+
+- kueche
+    - schraege decke freiklopfen
+    - arbeitsplatte abbauen
+
 ## hauptaufgaben
 
 - [ofen](#ofen)
 - gaube
+    - arbeitsplan mai
+    - zimmerei ritter 23-25.5
+    - balkontuer ausbauen
+    - kuechenfenster ausbauen
+    - geruest hinstellen
+    - ziegel abdecken
+    - dach mit plane abdecken
+    - gauben abbauen
+    - wand abbrechen
+    - sparren absaegen
+    - fussboden schuetzen
 - kueche
-    - schraege decke freiklopfen
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - steinplatte oder holzplatte, hoehe
@@ -147,11 +163,20 @@ ausmessen:
     - abtropfgestell ueber der spuele
     - glasplatte hinter der spuele
     - ecke ausnutzen
-    - vorratschschrank, maeusesicher
+    - vorratschschrank, maeusesicher, blechverkleidete schublade
     - steckdosen, beleuchtung (LED?)
-    - arbeitsplatte abbauen
     - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
     - korkboden verlegen im kuechenbereich, wo parkett beschaedigt
+    - wie wo was
+    - alles hoeher legen als vorher, schauen wie hoch bei moni
+    - kann der hahn da bleiben?
+    - koennen die alten wasserrohre in der wand weiter benutzt werden?
+    - zwei spuelbecken
+    - steinplatte mit abgeschraegten einfassungen der beiden spuelbecken
+    - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
+    - glasschubladenregal fuer tee, gewuerzem zucker, usw.
+    - deckelfreie brotversorgung
+    - mausefreiheit
 - bad
     - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
     - waschbecken
