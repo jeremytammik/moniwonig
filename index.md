@@ -2,6 +2,101 @@
 
 [source repo](https://github.com/jeremytammik/moniwonig)
 
+## <a name="hauptaufgaben"></a>hauptaufgaben
+
+- [ofen](#ofen)
+- gaube
+    - arbeitsplan mai
+    - zimmerei ritter 23-25.5
+    - kuechenfenster ausbauen
+    - geruest hinstellen
+    - ziegel abdecken
+    - dach mit plane abdecken
+    - gauben abbauen
+    - wand abbrechen
+    - sparren absaegen
+    - fussboden schuetzen
+- kueche
+    - alles zusammen in praktischer griffnaehe wie im tessin
+    - schraenke nur unten, oben regale
+    - steinplatte oder holzplatte, hoehe
+    - herd, spuele, kuehlschrank
+    - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
+    - ablageflaechen platz rechts und links von jeden geraet
+    - steckdosen, licht, dunstabzug
+    - abtropfgestell ueber der spuele
+    - glasplatte hinter der spuele
+    - ecke ausnutzen
+    - vorratschschrank, maeusesicher, blechverkleidete schublade
+    - steckdosen, beleuchtung (LED?)
+    - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
+    - korkboden verlegen im kuechenbereich, wo parkett beschaedigt
+    - wie wo was
+    - alles hoeher legen als vorher, schauen wie hoch bei moni
+    - kann der hahn da bleiben?
+    - koennen die alten wasserrohre in der wand weiter benutzt werden?
+    - zwei spuelbecken
+    - steinplatte mit abgeschraegten einfassungen der beiden spuelbecken
+    - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
+    - glasschubladenregal fuer tee, gewuerzem zucker, usw.
+    - deckelfreie brotversorgung
+    - mausefreiheit
+- bad
+    - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
+    - waschbecken
+    - waschmaschine
+    - heizung in schrank verbauen, akustisch isolieren, auch von der wand, heizungsrohre akustisch daempfen
+    - schrank aus schreinerplatten oder grobspanplatten
+    - kacheln oder platten fuer wand und boden aussuchen
+    - sanitaerauftrag vergeben
+    - holzfussboden? falk fragen wegen teak
+    - kork verlegen?
+    - steckdosen, beleuchtung (LED?)
+- flur
+    - wand
+    - schrank
+    - schreinerplatten? grobspanplatten wie im mediraum?
+- zimmer
+    - fensteroeffnungen vergroessern
+    - fenster streichen
+    - waende streichen
+    - fussboden renovieren, oelen, schleifen
+    - tapeten abloesen
+    - decken freilegen, farbe abloesen
+    - waende verputzen
+    - decke verputzen und streichen
+- stauraum
+    - treppe abreissen
+    - wand im bad mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
+- elektro
+    - zaehler fuer heizung - moni
+    - zaehler fuer gemeinschaftslicht - jeremy
+    - FI-schutzschalter
+    - beleuchtung ueberall, maybe LED-schlauch
+    - router verschieben
+- zaun
+    - falk fragen wegen kollege
+    - gartenzaun gartenhag
+    - glyzinie, geissblatt, jasmin
+- eingangsbereich
+    - fussboden mit grobspanplatten verlegen
+- draussen
+    - steine oder andere absaetze in den garten
+    - muellzentrale: gelber sack, glas, blech, alu, muell, etc.
+
+## <a name="todo"></a>todo
+
+- treppe rausreissen
+- zaunreste wegmachen
+- schopf aufraeumen
+- fensteroeffnungen nach westen oben vergroessern
+- schraege in baddecke aufmachen
+- buecher sortieren und wegraeumen
+- ask wolfgang:
+    - spenglerei gaubendach: wer, wann, auftrag vergeben?
+    - fenster in auftrag geben? erst nachdem die gaube steht? wie lange dauern die dann?
+    - wan kommt das geruest?
+
 ## michael's architectural hints
 
 - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
@@ -135,7 +230,7 @@ steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.
     3. pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.
     4. jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.
 
-## done
+## done 2016-05-01
 
 - treppe freilegen &ndash; nein, rausreissen
 - router umbauen
@@ -147,97 +242,3 @@ steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.
 - gaube
     - balkontuer ausbauen
 
-## hauptaufgaben
-
-- [ofen](#ofen)
-- gaube
-    - arbeitsplan mai
-    - zimmerei ritter 23-25.5
-    - kuechenfenster ausbauen
-    - geruest hinstellen
-    - ziegel abdecken
-    - dach mit plane abdecken
-    - gauben abbauen
-    - wand abbrechen
-    - sparren absaegen
-    - fussboden schuetzen
-- kueche
-    - alles zusammen in praktischer griffnaehe wie im tessin
-    - schraenke nur unten, oben regale
-    - steinplatte oder holzplatte, hoehe
-    - herd, spuele, kuehlschrank
-    - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
-    - ablageflaechen platz rechts und links von jeden geraet
-    - steckdosen, licht, dunstabzug
-    - abtropfgestell ueber der spuele
-    - glasplatte hinter der spuele
-    - ecke ausnutzen
-    - vorratschschrank, maeusesicher, blechverkleidete schublade
-    - steckdosen, beleuchtung (LED?)
-    - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
-    - korkboden verlegen im kuechenbereich, wo parkett beschaedigt
-    - wie wo was
-    - alles hoeher legen als vorher, schauen wie hoch bei moni
-    - kann der hahn da bleiben?
-    - koennen die alten wasserrohre in der wand weiter benutzt werden?
-    - zwei spuelbecken
-    - steinplatte mit abgeschraegten einfassungen der beiden spuelbecken
-    - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
-    - glasschubladenregal fuer tee, gewuerzem zucker, usw.
-    - deckelfreie brotversorgung
-    - mausefreiheit
-- bad
-    - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
-    - waschbecken
-    - waschmaschine
-    - heizung in schrank verbauen, akustisch isolieren, auch von der wand, heizungsrohre akustisch daempfen
-    - schrank aus schreinerplatten oder grobspanplatten
-    - kacheln oder platten fuer wand und boden aussuchen
-    - sanitaerauftrag vergeben
-    - holzfussboden? falk fragen wegen teak
-    - kork verlegen?
-    - steckdosen, beleuchtung (LED?)
-- flur
-    - wand
-    - schrank
-    - schreinerplatten? grobspanplatten wie im mediraum?
-- zimmer
-    - fensteroeffnungen vergroessern
-    - fenster streichen
-    - waende streichen
-    - fussboden renovieren, oelen, schleifen
-    - tapeten abloesen
-    - decken freilegen, farbe abloesen
-    - waende verputzen
-    - decke verputzen und streichen
-- stauraum
-    - treppe abreissen
-    - wand im bad mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
-- elektro
-    - zaehler fuer heizung - moni
-    - zaehler fuer gemeinschaftslicht - jeremy
-    - FI-schutzschalter
-    - beleuchtung ueberall, maybe LED-schlauch
-    - router verschieben
-- zaun
-    - falk fragen wegen kollege
-    - gartenzaun gartenhag
-    - glyzinie, geissblatt, jasmin
-- eingangsbereich
-    - fussboden mit grobspanplatten verlegen
-- draussen
-    - steine oder andere absaetze in den garten
-    - muellzentrale: gelber sack, glas, blech, alu, muell, etc.
-
-## todo 4
-
-- treppe rausreissen
-- zaunreste wegmachen
-- schopf aufraeumen
-- fensteroeffnungen nach westen oben vergroessern
-- schraege in baddecke aufmachen
-- buecher sortieren und wegraeumen
-- ask wolfgang:
-    - spenglerei gaubendach: wer, wann, auftrag vergeben?
-    - fenster in auftrag geben? erst nachdem die gaube steht? wie lange dauern die dann?
-    - wan kommt das geruest?
