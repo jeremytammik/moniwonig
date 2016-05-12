@@ -9,7 +9,7 @@
     - baustelle vorbereiten fuer zimmerei ritter 23-25.5
     - fussboden schuetzen
     - spenglerei gaubendach: wer, wann, auftrag vergeben?
-    - fenster in auftrag geben? erst nachdem die gaube steht? wie lange dauern die dann?
+    - fenster in auftrag geben? erst nachdem die gaube steht? 6 wochen wartezeit.
 - kueche
     - kueche planen
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -20,7 +20,7 @@
     - ablageflaechen platz rechts und links von jeden geraet
     - steckdosen, licht, dunstabzug
     - abtropfgestell ueber der spuele
-    - glasplatte hinter der spuele
+    - glasplatte statt kacheln hinter der spuele
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - steckdosen, beleuchtung (LED?)
@@ -92,6 +92,9 @@
 - eingangsbereich
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen
+    - garderobe, schuhregale, weiterer stauram, schraenke
+    - arbeitsbereich, werkzeug
+- [ofen](#ofen)
 - dach
     - silikon kaufen und dach am schornstein flicken
     - isoflock von oben vom first aus nachstopfen
@@ -109,7 +112,6 @@
     - gartenweg steinplatten granit - im tessin bestellen?
     - [loew gartenbau](http://www.loewgartenbau.ch) steinmauer auf dem weg hoch zum hagebaechli
     - ask neighbour above about his plans
-- [ofen](#ofen)
 - sauna
     - in finland bestellen?
     - holzterasse um die sauna rum
@@ -214,13 +216,12 @@
 ## done 2016-05-11
 
 - gaube
-    - wann kommt das geruest?
     - kuechenfenster ausbauen
     - geruest hinstellen
-    - ziegel abdecken
-    - dach mit plane abdecken
+    - dachziegel abdecken
+    - dach mit plane zudecken
     - gauben abbauen
-    - wand abbrechen
+    - ziegelwand abbrechen
     - sparren absaegen machen zimmerleute
 - kueche
     - haehne abbauen, stopfen drauf, alte wasserleitungen entfernen
