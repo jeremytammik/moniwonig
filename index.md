@@ -107,10 +107,13 @@
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of terasses of large natural stone blocks
     - gartenweg steinplatten granit - im tessin bestellen?
+    - [loew gartenbau](http://www.loewgartenbau.ch) steinmauer auf dem weg hoch zum hagebaechli
+    - ask neighbour above about his plans
 - [ofen](#ofen)
 - sauna
     - in finland bestellen?
     - holzterasse um die sauna rum
+    - share with neighbour above
 - admin
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
@@ -143,11 +146,6 @@
 - create a building team to help DIY: falk, otto, wolfgang, ecki, juergen
 - ask simon seeger und victor portenier
 - wer macht kueche? klaus von nicole?
-
-## loew gartenbau muttenz
-
-- (loew gartenbau)[http://www.loewgartenbau.ch] made the
-steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.g.
 
 ## <a name="ofen"></a>ofen
 
