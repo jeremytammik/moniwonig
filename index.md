@@ -4,19 +4,14 @@
 
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
-- [ofen](#ofen)
 - gaube
     - arbeitsplan mai
-    - zimmerei ritter 23-25.5
-    - kuechenfenster ausbauen
-    - geruest hinstellen
-    - ziegel abdecken
-    - dach mit plane abdecken
-    - gauben abbauen
-    - wand abbrechen
-    - sparren absaegen machen Zimmerleute
+    - baustelle vorbereiten fuer zimmerei ritter 23-25.5
     - fussboden schuetzen
+    - spenglerei gaubendach: wer, wann, auftrag vergeben?
+    - fenster in auftrag geben? erst nachdem die gaube steht? wie lange dauern die dann?
 - kueche
+    - kueche planen
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - steinplatte oder holzplatte, hoehe
@@ -32,7 +27,7 @@
     - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
     - korkboden verlegen im kuechenbereich, wo parkett beschaedigt
     - wie wo was
-    - alles hoeher legen als vorher, schauen wie hoch bei moni
+    - alles hoeher legen als vorher, schauen wie hoch es jetzt bei moni ist
     - kann der hahn da bleiben?
     - koennen die alten wasserrohre in der wand weiter benutzt werden?
     - zwei spuelbecken
@@ -41,61 +36,85 @@
     - glasschubladenregal fuer tee, gewuerzem zucker, usw.
     - deckelfreie brotversorgung
     - mausefreiheit
+    - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - bad planen
+    - kostenvoranschlag badezimmer
+    - leerrohre verlegen unter balkonglastuer
+    - balkonglastuer einbauen
+    - schraege in baddecke aufmachen
     - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
+    - nein, keine glaswand
+    - badewanne ausbauen
+    - dusche einbauen
     - waschbecken
     - waschmaschine
+    - leitungen mit schrank verkleiden
     - heizung in schrank verbauen, akustisch isolieren, auch von der wand, heizungsrohre akustisch daempfen
+    - google for schalldaempfer heizung, heizungsrohr
     - schrank aus schreinerplatten oder grobspanplatten
     - kacheln oder platten fuer wand und boden aussuchen
     - sanitaerauftrag vergeben
     - holzfussboden? falk fragen wegen teak
     - kork verlegen?
     - steckdosen, beleuchtung (LED?)
+    - neuer heizkoerper besorgen und einbauen
 - flur
     - wand
     - schrank
     - schreinerplatten? grobspanplatten wie im mediraum?
 - zimmer
-    - fensteroeffnungen vergroessern
     - fenster streichen
-    - waende streichen
-    - fussboden renovieren, oelen, schleifen
+    - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
+    - west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
     - tapeten abloesen
     - decken freilegen, farbe abloesen
-    - waende verputzen
-    - decke verputzen und streichen
+    - waende verputzen oder streichen
+    - decke verputzen oder streichen
+    - alle alten heizkoerper ersetzen
+    - fussboden renovieren, oelen, schleifen
 - stauraum
     - treppe abreissen
     - wand im bad mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
+    - oder einfach schraenke, regale, garderobe in the bestehenden treppenraum
+    - schrankwand im bad
 - elektro
-    - zaehler fuer heizung - moni
-    - zaehler fuer gemeinschaftslicht - jeremy
+    - stromzaehler fuer heizung - moni
+    - stromzaehler fuer gemeinschaftslicht - jeremy
     - FI-schutzschalter
     - beleuchtung ueberall, maybe LED-schlauch
-    - router verschieben
 - zaun
-    - falk fragen wegen kollege
+    - [zaunpfosten](#zaunpfosten)
+    - holzzaun reste entfernen und versorgen
+    - falk fragen wegen kollege stefan
     - gartenzaun gartenhag
-    - glyzinie, geissblatt, jasmin
+    - bepflanzen: glyzinie, geissblatt, jasmin
 - eingangsbereich
+    - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen
+- dach
+    - silikon kaufen und dach am schornstein flicken
+    - isoflock von oben vom first aus nachstopfen
 - draussen
+    - bauschrott oberhalb vom garten weg
+    - bauschrott in der nordecke weg
+    - alle dachziegelhaufen zusammenfuehren und richtig schichten
+    - schopf aufraeumen
     - steine oder andere absaetze in den garten
-    - muellzentrale: gelber sack, glas, blech, alu, muell, etc.
-
-## <a name="todo"></a>todo
-
-- treppe rausreissen
-- zaunreste wegmachen
-- schopf aufraeumen
-- fensteroeffnungen nach westen oben vergroessern
-- schraege in baddecke aufmachen
-- buecher sortieren und wegraeumen
-- ask wolfgang:
-    - spenglerei gaubendach: wer, wann, auftrag vergeben?
-    - fenster in auftrag geben? erst nachdem die gaube steht? wie lange dauern die dann?
-    - wan kommt das geruest?
+    - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
+    - balkon unter den paletten saeubern (nach dem umbau? im winter?)
+    - balkonbretter schrubben
+    - our neighbour above is thinking of flattening his land and is interested in a supporting wall
+    - supporting wall could be made of terasses of large natural stone blocks
+    - gartenweg steinplatten granit - im tessin bestellen?
+- [ofen](#ofen)
+- sauna
+    - in finland bestellen?
+    - holzterasse um die sauna rum
+- admin
+    - bauliche veraenderungen der feuerversicherung melden
+    - haus und gelaendemodell huenerbergweg
+    - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 
 ## michael's architectural hints
 
@@ -104,46 +123,26 @@
 - minenergie ist scheisse, nur sache der daemmstofflobby
 - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 
-## haus
+## neues haus
 
 - 8x8 m plus 45 grad schraege offen nach sueden
 - flaechendeckend tiefgarage nach allen seiten offen oben alles garten plus wasser
 - vollholz keine isolation keine heizung ausser grundofen cheminee
-
-## ideas 1
-
 - ask wolfgang about parking spaces ... in zrh no longer needed, unecological
 - werner schmidt schweizer strohballenbau
-- our neighbour above is thinking of flattening his land and is interested in a supporting wall
-- supporting wall could be made of terasses of large natural stone blocks
 - want to work less, and build a house ... how about dedicating my time and work and life to that?
 - suggest the construction of a new house to autodesk, for architecture, energy analysis, visualisation, modelling
     - ask kean and emile whom to contact
     - check with the new autodesk design studio
-- create a building team to help DIY: falk, otto, wolfgang, ecki, juergen
-- ask simon seeger und victor portenier
-- west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
-- im bad leitungen mit schrank verkleiden
 
 ## people
 
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
 - falk empfiehlt seinen freund stefan
 - johannes, zimmermann in linnach
-
-## todo 1
-
-- zaehler ablesen
-- nuesse sammeln
-- hinten treppe wieder oeffnen
-- bauschrott oberhalb vom garten weg
-- bauschrott in der nordecke weg
-- beide dachziegelhaufen in die nordecke umplatzieren
-- balkon unter den paletten saeubern (nach dem umbau? im winter?)
-- balkonbretter schrubben
-- waschbecken im bad ersetzen und hoeher legen
-- badezimmerfenster vergroessern, tiefer legen
-- badewanne aus dem bad raus, dusche einbauen
+- create a building team to help DIY: falk, otto, wolfgang, ecki, juergen
+- ask simon seeger und victor portenier
+- wer macht kueche? klaus von nicole?
 
 ## loew gartenbau muttenz
 
@@ -158,20 +157,15 @@ steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.
 - [tulikivi](http://www.tulikivi.com)
 - [tonwerk](http://tonwerk-ag.com)
 
-## todo 2
+## neuer zaun
 
-- router raus
-- stromzaehler fuer heizung
-- bauliche veraenderungen der feuerversicherung melden
-- shopping
-    - silikon kaufen und dach flicken asap
-    - gartenweg steinplatten granit - im tessin bestellen?
-    - sauna - in finland bestellen?
-    - holzterasse um die sauna rum
-- haus und gelaendemodell huenerbergweg
-- recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
+- gittermaschendrahtzaun auf metallpfosten
+    1. metallpfosten mit fuss oben auf die betonmauer montieren
+    2. metallpfosten mit platte seitlich an die mauer montieren, mit dreiecksplatte and die montageplatte schweissen, groessere stabilitaet
+    3. pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.
+    4. jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.
 
-## zaunpfosten ausmessen:
+## <a name="zaunpfosten"></a>zaunpfosten
 
 - 7 stueck
 - 110 cm hoch
@@ -189,6 +183,12 @@ steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.
 - Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010
 - 48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel
 
+# done
+
+## done before novemberparty
+
+- hintere treppe wieder oeffnen
+
 ## done 2016-04-25
 
 - auf den markt gehen
@@ -200,44 +200,34 @@ steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.
 - eingangsbereich aufraeumen
 - leergut wegbringen
 
-## todo 3
-
-- zaun reparieren
-- spuele und arbeitsplatte abbauen
-- schutt aufraeumen
-- bad planen
-- beide (kleine) zimmer streichen
-- axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
-- wer macht zimmermann?
-- wer macht kueche? klaus von nicole?
-- kostenvoranschlag badezimmer
-- google for schalldaempfer heizung, heizungsrohr
-- schraege in kueche aufmachen
-- router umbauen
-- FI-schutzschalter und stromzaehler einbauen
-- kueche planan
-- bad planen
-- holzzaun reste entfernen und versorgen
-- zaunpfosten ausmessen und bestellen
-- fensteroeffnungen vergroessern, brett vom dach absaegen
-- schutt aufraeumen
-
-## neuer zaun
-
-- gittermaschendrahtzaun auf metallpfosten
-    1. metallpfosten mit fuss oben auf die betonmauer montieren
-    2. metallpfosten mit platte seitlich an die mauer montieren, mit dreiecksplatte and die montageplatte schweissen, groessere stabilitaet
-    3. pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.
-    4. jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.
-
 ## done 2016-05-01
 
-- treppe freilegen &ndash; nein, rausreissen
-- router umbauen
+- treppe freilegen &ndash; nein, new todo: rausreissen
+- router umbauen/verschieben
 - kueche
     - schraege decke freiklopfen
     - arbeitsplatte abbauen
+    - spuele abbauen
     - trennplatte abbauen
     - schraege in kuechendecke aufmachen
 - gaube
     - balkontuer ausbauen
+
+## done 2016-05-11
+
+- gaube
+    - wann kommt das geruest?
+    - kuechenfenster ausbauen
+    - geruest hinstellen
+    - ziegel abdecken
+    - dach mit plane abdecken
+    - gauben abbauen
+    - wand abbrechen
+    - sparren absaegen machen zimmerleute
+- kueche
+    - haehne abbauen, stopfen drauf, alte wasserleitungen entfernen
+- bad
+    - heizkoerper ausbauen
+    - alte wasserleitung entfernen
+    - fenster ausbauen
+    - oeffnung fuer balkonglastuer
