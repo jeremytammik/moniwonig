@@ -14,10 +14,8 @@
     - dach mit plane abdecken
     - gauben abbauen
     - wand abbrechen
-    - sparren absaegen wenn Zimmerleute da
+    - sparren absaegen machen Zimmerleute
     - fussboden schuetzen
-    - 
-    - 
 - kueche
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
@@ -243,4 +241,3 @@ steinmauer auf dem weg hoch zum hagebaechli; foto und email; also ask michael d.
     - schraege in kuechendecke aufmachen
 - gaube
     - balkontuer ausbauen
-
