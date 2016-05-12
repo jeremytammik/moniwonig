@@ -14,8 +14,10 @@
     - dach mit plane abdecken
     - gauben abbauen
     - wand abbrechen
-    - sparren absaegen
+    - sparren absaegen wenn Zimmerleute da
     - fussboden schuetzen
+    - 
+    - 
 - kueche
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
