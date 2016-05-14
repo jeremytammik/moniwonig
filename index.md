@@ -121,10 +121,15 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 
-## possibility for falk?
+## possibilities for falk
 
 - balkontuer in badezimmereinbauen mit leerrohre fuer heizung drunter
 - hintere treppe abreissen
+
+## notes on werkplan draft
+
+- balkonpfosten auf den vorderen gaubenbalken
+- schiebetuer statt zwei fluegeln
 
 
 ## michael's architectural hints
