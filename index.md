@@ -127,7 +127,7 @@
     - bits
     - evtl. bewaehrungband
     - spachtelmasse
-- zangenbretter 2 x 30 x 200 x laenge
+- 2 stueck zangenbretter 3 x 20 x 370
 - 80 mm balkennaegel
 - badecke aussen von johanna's balkon aus isolieren
 - wasserrohr im bad groesser verlegen
