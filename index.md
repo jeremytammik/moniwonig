@@ -5,10 +5,9 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - arbeitsplan juni
     - spenglerei gaubendach: wer, wann, auftrag vergeben?
     - fenster in auftrag geben? erst nachdem die gaube steht? 6 wochen wartezeit.
-    - decke: osb + rigips, isoflock von oben rein
+    - decke innen verkleiden und isolieren: osb + rigips, isoflock von oben rein
     - zange
     - pfosten in zimmermitte weg
 - kueche
@@ -60,10 +59,14 @@
     - kork verlegen?
     - steckdosen, beleuchtung (LED?)
     - neuer heizkoerper besorgen und einbauen
-- flur stauraum
+- flur und stauraum
     - wand
     - schrank
     - schreinerplatten? grobspanplatten wie im mediraum?
+    - apothekerschrank auszug
+    - vorne gewindestangen von der decke haengen
+    - blindboden mit 35 cm luft
+    - falltuer oben mit ecke aussparung fuer balken beim hochklappen
 - zimmer
     - fenster streichen
     - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
@@ -134,6 +137,10 @@
     - spachtelmasse
 - zangenbretter 2 x 30 x 200 x laenge
 - 80 mm balkennaegel
+- badecke aussen von johanna's balkon aus isolieren
+- wasserrohr im bad groesser verlegen
+- wandvorsprung in badecke terminieren
+
 
 ## michael's architectural hints
 
