@@ -132,6 +132,15 @@
 - badecke aussen von johanna's balkon aus isolieren
 - wasserrohr im bad groesser verlegen
 - wandvorsprung in badecke terminieren
+- westfenster oben vergroessern
+
+
+## falk in june?
+
+- bathroom?
+- stauraum?
+- elektro?
+- zimmer?
 
 
 ## michael's architectural hints
