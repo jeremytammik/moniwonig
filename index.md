@@ -5,11 +5,12 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - arbeitsplan mai
-    - baustelle vorbereiten fuer zimmerei ritter 23-25.5
-    - fussboden schuetzen
+    - arbeitsplan juni
     - spenglerei gaubendach: wer, wann, auftrag vergeben?
     - fenster in auftrag geben? erst nachdem die gaube steht? 6 wochen wartezeit.
+    - decke: osb + rigips, isoflock von oben rein
+    - zange
+    - pfosten in zimmermitte weg
 - kueche
     - kueche planen
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -59,7 +60,7 @@
     - kork verlegen?
     - steckdosen, beleuchtung (LED?)
     - neuer heizkoerper besorgen und einbauen
-- flur
+- flur stauraum
     - wand
     - schrank
     - schreinerplatten? grobspanplatten wie im mediraum?
@@ -121,16 +122,18 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 
-## possibilities for falk
+## to do immediately
 
-- balkontuer in badezimmereinbauen mit leerrohre fuer heizung drunter
-- hintere treppe abreissen
-
-## notes on werkplan draft
-
-- balkonpfosten auf den vorderen gaubenbalken
-- schiebetuer statt zwei fluegeln
-
+- jeremy besorgt material fuer gaubendecke innen: 122 cm im norden, 123 im sueden, 6 m lang, 7.5 qm; dampfsperre innen, osb 15 mm und rigips, rigipsschrauben, rigipsspachtel masse mit bewaehrung, platten mit vertiefung mit bewaehrungsband oder platten ohne vertiefung ohne band, spachtelbreite haengt davon ab, 60 mm oder kleine traufel
+    - dampfsperre
+    - osb
+    - rigips
+    - schrauben
+    - bits
+    - evtl. bewaehrungband
+    - spachtelmasse
+- zangenbretter 2 x 30 x 200 x laenge
+- 80 mm balkennaegel
 
 ## michael's architectural hints
 
@@ -241,3 +244,15 @@
     - alte wasserleitung entfernen
     - fenster ausbauen
     - oeffnung fuer balkonglastuer
+
+## done in may
+
+- baustelle vorbereiten fuer zimmerei ritter 24-25.5
+- fussboden schuetzen
+- balkontuer in badezimmereinbauen mit leerrohre fuer heizung drunter
+- hintere treppe abreissen
+
+## notes on werkplan draft in may
+
+- balkonpfosten auf den vorderen gaubenbalken
+- schiebetuer statt zwei fluegeln
