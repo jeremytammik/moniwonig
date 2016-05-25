@@ -39,9 +39,7 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
     - bad planen
-    - kostenvoranschlag badezimmer
     - leerrohre verlegen unter balkonglastuer
-    - balkonglastuer einbauen
     - schraege in baddecke aufmachen
     - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
     - nein, keine glaswand
@@ -54,19 +52,18 @@
     - google for schalldaempfer heizung, heizungsrohr
     - schrank aus schreinerplatten oder grobspanplatten
     - kacheln oder platten fuer wand und boden aussuchen
-    - sanitaerauftrag vergeben
-    - holzfussboden? falk fragen wegen teak
+    - holzfussboden? teak?
     - kork verlegen?
     - steckdosen, beleuchtung (LED?)
     - neuer heizkoerper besorgen und einbauen
 - flur und stauraum
-    - wand
-    - schrank
     - schreinerplatten? grobspanplatten wie im mediraum?
     - apothekerschrank auszug
     - vorne gewindestangen von der decke haengen
     - blindboden mit 35 cm luft
     - falltuer oben mit ecke aussparung fuer balken beim hochklappen
+    - trennkwand im bad? mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
+    - oder einfach schrankwand oder regale im bad und stauraum vom flur aus
 - zimmer
     - fenster streichen
     - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
@@ -77,11 +74,6 @@
     - decke verputzen oder streichen
     - alle alten heizkoerper ersetzen
     - fussboden renovieren, oelen, schleifen
-- stauraum
-    - treppe abreissen
-    - wand im bad mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
-    - oder einfach schraenke, regale, garderobe in the bestehenden treppenraum
-    - schrankwand im bad
 - elektro
     - stromzaehler fuer heizung - moni
     - stromzaehler fuer gemeinschaftslicht - jeremy
