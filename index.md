@@ -235,6 +235,11 @@
 - gaube
     - balkontuer ausbauen
 
+## notes on werkplan draft in may
+
+- balkonpfosten auf den vorderen gaubenbalken
+- schiebetuer statt zwei fluegeln
+
 ## done 2016-05-11
 
 - gaube
@@ -260,7 +265,39 @@
 - balkontuer in badezimmereinbauen mit leerrohre fuer heizung drunter
 - hintere treppe abreissen
 
-## notes on werkplan draft in may
+## done by falk 2016-06-19
 
-- balkonpfosten auf den vorderen gaubenbalken
-- schiebetuer statt zwei fluegeln
+Done:
+
+- decke zweimal vergipst
+- sturz vergossen
+- baustuetzen raus
+
+Todo:
+
+- lampen rein
+- strom legen
+- verkabeln
+- schalten
+- andere lampenhoehlungen
+- zangen
+- wasserzuleitung
+- wc fertig
+- wandschrank planen und baden
+- kueche?
+- heizkoerper ersetzen
+- holzzaunreste entfernen
+
+## done by falk 2016-06-24
+
+- Dach ist nahezu fertig; Blechner kommt am Montag noch mal um fertig zu machen.
+- Dachbalkon: Holmer hat so ein Gummi f.d. Stempel. Bringt Muster. Vom Schlosser würd ich die Platten aus Alu (günstiger als Edelstahl) bekommen.
+- Wasserleitung: Liegt dann auch am Montag. Ich hab heute mal den Filter gereinigt unten im Keller und den Druck auf 4.5 bar erhöht. Damit läuft es dann bei allen etwas besser ;-)  und Katja wollte gleich wissen, wie man das macht &ndash; den Filter rückspühlen. Jetzt weiss sie es.
+- Elektrik: Lampenöffnungen sind weitestgehend verdrahtet. Hab heute aber erst mal die Isolierung eingebracht; hat nur knapp gereicht mit ein paar Säcken von unten. Planen sind wieder vom Boden weg; nur zukleben muss man noch. Dass mit dem Hochstopfen ging recht gut.
+Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch kein platz dort &ndash; hab hier das Kabel vom Voschaltgerät verlängert und oben zu den Kabeln hingeführt; das geht. Die restlichen Lampenöffnungnen sind so tief und nicht isoliert, dass man mit Gerät einbauen kann.
+- Doppel-T Träger ist mit der Wand vergossen; gut geworden. Statisch ist alles eingebunden, Balken liegen auf.
+- Zange: Einbau ist fertig vorbereitet
+- Heizung: Holmer kennt den Pumpentyp. Er fragt nach einer elektronisch lastgeregelten Pume und kommt mit dem Preis. P.S.: Die Pumpe stand übrigens auf 3 = Maximum. Hab sie auf 2 gestellt. 1 akzeptiert die Regelung interessanter Weise nicht; geht dann auf Störung.
+- Bad: Mit der Abwasserleitung für die Dusche (und das neue Waschbecken) sind wir doch noch tiefer gekommen = Chancen auf keine bis wenig Erhöhung. Der Blechner mailt noch ein paar Ideen für die Dusche (fertige Wanne vs. selber fliesen). WC und Waschmaschine sind angeschlossen.
+- Offen ist u.a. die Frage der Heizkörperpositionierung im Wohnzimmer. Vorschlag: Gleich nach Eingangstür links.
+
