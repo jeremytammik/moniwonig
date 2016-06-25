@@ -5,9 +5,9 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - spenglerei gaubendach: wer, wann, auftrag vergeben?
-    - fenster in auftrag geben? erst nachdem die gaube steht? 6 wochen wartezeit.
-    - decke innen verkleiden und isolieren: osb + rigips, isoflock von oben rein
+    - deckenlampen fertig installieren
+    - decke fertig isolieren: isoflock von oben rein
+    - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
     - zange
     - pfosten in zimmermitte weg
 - kueche
@@ -24,7 +24,6 @@
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - steckdosen, beleuchtung (LED?)
-    - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
     - korkboden verlegen im kuechenbereich, wo parkett beschaedigt
     - wie wo was
     - alles hoeher legen als vorher, schauen wie hoch es jetzt bei moni ist
@@ -35,12 +34,9 @@
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
     - glasschubladenregal fuer tee, gewuerzem zucker, usw.
     - deckelfreie brotversorgung
-    - mausefreiheit
+    - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - bad planen
-    - leerrohre verlegen unter balkonglastuer
-    - schraege in baddecke aufmachen
     - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
     - nein, keine glaswand
     - badewanne ausbauen
@@ -82,7 +78,6 @@
 - zaun
     - [zaunpfosten](#zaunpfosten)
     - holzzaun reste entfernen und versorgen
-    - falk fragen wegen kollege stefan
     - gartenzaun gartenhag
     - bepflanzen: glyzinie, geissblatt, jasmin
 - eingangsbereich
@@ -111,36 +106,11 @@
 - sauna
     - in finland bestellen?
     - holzterasse um die sauna rum
-    - share with neighbour above
+    - share with neighbour above?
 - admin
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
-
-## to do immediately
-
-- jeremy besorgt material fuer gaubendecke innen: 122 cm im norden, 123 im sueden, 6 m lang, 7.5 qm; dampfsperre innen, osb 15 mm und rigips, rigipsschrauben, rigipsspachtel masse mit bewaehrung, platten mit vertiefung mit bewaehrungsband oder platten ohne vertiefung ohne band, spachtelbreite haengt davon ab, 60 mm oder kleine traufel
-    - dampfsperre
-    - osb
-    - rigips
-    - schrauben
-    - bits
-    - evtl. bewaehrungband
-    - spachtelmasse
-- 2 stueck zangenbretter 3 x 20 x 370
-- 80 mm balkennaegel
-- badecke aussen von johanna's balkon aus isolieren
-- wasserrohr im bad groesser verlegen
-- wandvorsprung in badecke terminieren
-- westfenster oben vergroessern
-
-
-## falk in june?
-
-- bathroom?
-- stauraum?
-- elektro?
-- zimmer?
 
 
 ## michael's architectural hints
@@ -265,6 +235,29 @@
 - balkontuer in badezimmereinbauen mit leerrohre fuer heizung drunter
 - hintere treppe abreissen
 
+## done
+
+- jeremy besorgt material fuer gaubendecke innen: 122 cm im norden, 123 im sueden, 6 m lang, 7.5 qm; dampfsperre innen, osb 15 mm und rigips, rigipsschrauben, rigipsspachtel masse mit bewaehrung, platten mit vertiefung mit bewaehrungsband oder platten ohne vertiefung ohne band, spachtelbreite haengt davon ab, 60 mm oder kleine traufel
+    - dampfsperre
+    - osb
+    - rigips
+    - schrauben
+    - bits
+    - evtl. bewaehrungband
+    - spachtelmasse
+- 2 stueck zangenbretter 3 x 20 x 370
+- 80 mm balkennaegel
+- badecke aussen von johanna's balkon aus isolieren
+- wasserrohr im bad groesser verlegen
+- wandvorsprung in badecke terminieren
+
+## falk in june
+
+- bathroom
+- stauraum
+- elektro
+- zimmer
+
 ## done by falk 2016-06-19
 
 Done:
@@ -301,3 +294,11 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - Bad: Mit der Abwasserleitung für die Dusche (und das neue Waschbecken) sind wir doch noch tiefer gekommen = Chancen auf keine bis wenig Erhöhung. Der Blechner mailt noch ein paar Ideen für die Dusche (fertige Wanne vs. selber fliesen). WC und Waschmaschine sind angeschlossen.
 - Offen ist u.a. die Frage der Heizkörperpositionierung im Wohnzimmer. Vorschlag: Gleich nach Eingangstür links.
 
+## done in june
+
+- spenglerei gaubendach: wer, wann, auftrag vergeben?
+- fenster in auftrag geben? erst nachdem die gaube steht? 6 wochen wartezeit.
+- decke innen verkleiden mit osb + rigips
+- bad planen
+- leerrohre verlegen unter balkonglastuer
+- schraege in baddecke aufmachen
