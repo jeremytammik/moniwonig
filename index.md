@@ -37,6 +37,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - leck von der heizung?
     - pissoir?
     - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
     - nein, keine glaswand
