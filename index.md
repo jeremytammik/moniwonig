@@ -37,6 +37,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - pissoir?
     - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
     - nein, keine glaswand
     - badewanne ausbauen
@@ -285,7 +286,7 @@ Todo:
 
 - Dach ist nahezu fertig; Blechner kommt am Montag noch mal um fertig zu machen.
 - Dachbalkon: Holmer hat so ein Gummi f.d. Stempel. Bringt Muster. Vom Schlosser würd ich die Platten aus Alu (günstiger als Edelstahl) bekommen.
-- Wasserleitung: Liegt dann auch am Montag. Ich hab heute mal den Filter gereinigt unten im Keller und den Druck auf 4.5 bar erhöht. Damit läuft es dann bei allen etwas besser ;-)  und Katja wollte gleich wissen, wie man das macht &ndash; den Filter rückspühlen. Jetzt weiss sie es.
+- Wasserleitung: Liegt dann auch am Montag. Ich hab heute mal den Filter gereinigt unten im Keller und den Druck auf 4.5 bar erhöht. Damit läuft es dann bei allen etwas besser ;-)  und Katja wollte gleich wissen, wie man das macht &ndash; den Filter rückspülen. Jetzt weiss sie es.
 - Elektrik: Lampenöffnungen sind weitestgehend verdrahtet. Hab heute aber erst mal die Isolierung eingebracht; hat nur knapp gereicht mit ein paar Säcken von unten. Planen sind wieder vom Boden weg; nur zukleben muss man noch. Dass mit dem Hochstopfen ging recht gut.
 Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch kein platz dort &ndash; hab hier das Kabel vom Voschaltgerät verlängert und oben zu den Kabeln hingeführt; das geht. Die restlichen Lampenöffnungnen sind so tief und nicht isoliert, dass man mit Gerät einbauen kann.
 - Doppel-T Träger ist mit der Wand vergossen; gut geworden. Statisch ist alles eingebunden, Balken liegen auf.
