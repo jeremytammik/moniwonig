@@ -5,6 +5,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
+    - fehlende stuetze am ende vom firstbalken?
     - deckenlampen fertig installieren
     - decke fertig isolieren: isoflock von oben rein
     - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
