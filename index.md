@@ -72,7 +72,7 @@
     - stromzaehler fuer heizung - moni
     - stromzaehler fuer gemeinschaftslicht - jeremy
     - FI-schutzschalter
-    - beleuchtung ueberall, maybe LED-schlauch
+    - LED-beleuchtung ueberall
 - zaun
     - [zaunpfosten](#zaunpfosten)
     - holzzaun reste entfernen und versorgen
@@ -88,13 +88,14 @@
     - silikon kaufen und dach am schornstein flicken
     - isoflock von oben vom first aus nachstopfen
 - draussen
+    - nussbaum beschneiden
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
     - alle dachziegelhaufen zusammenfuehren und richtig schichten
     - schopf aufraeumen
     - steine oder andere absaetze in den garten
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
-    - balkon unter den paletten saeubern (nach dem umbau? im winter?)
+    - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of terasses of large natural stone blocks
@@ -102,6 +103,7 @@
     - [loew gartenbau](http://www.loewgartenbau.ch) steinmauer auf dem weg hoch zum hagebaechli
     - ask neighbour above about his plans
 - sauna
+    - mit michael beswprechen
     - in finland bestellen?
     - holzterasse um die sauna rum
     - share with neighbour above?
