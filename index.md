@@ -25,46 +25,41 @@
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - steckdosen, beleuchtung (LED?)
-    - korkboden verlegen im kuechenbereich, wo parkett beschaedigt
-    - wie wo was
-    - alles hoeher legen als vorher, schauen wie hoch es jetzt bei moni ist
-    - kann der hahn da bleiben?
-    - koennen die alten wasserrohre in der wand weiter benutzt werden?
+    - korkboden verlegen im kuechenbereich, wo parkett beschaedigt, linoleum?
+    - alles hoeher legen als vorher, schauen wie hoch es jetzt bei moni ist, genaues mass von moni
+    - hahn da lassen wo er istsserhhn besorgen und anbringen
     - zwei spuelbecken
     - steinplatte mit abgeschraegten einfassungen der beiden spuelbecken
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
-    - glasschubladenregal fuer tee, gewuerzem zucker, usw.
+    - glasschubladenregal fuer tee, gewuerze, zucker, usw.
     - deckelfreie brotversorgung
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - leck von der heizung?
-    - pissoir?
-    - keine badewanne, grosszuegige offene dusche, glaswand ohne bewegliche teile
+    - grosszuegige offene dusche, glaswand ohne bewegliche teile
     - nein, keine glaswand
-    - badewanne ausbauen
     - dusche einbauen
     - waschbecken
     - waschmaschine
     - leitungen mit schrank verkleiden
-    - heizung in schrank verbauen, akustisch isolieren, auch von der wand, heizungsrohre akustisch daempfen
-    - google for schalldaempfer heizung, heizungsrohr
+    - putzschrank und heizungsschrank bauen
+    - heizung akustisch isolieren, auch von der wand
+    - heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr
+    - heizungspumpe optimieren
     - schrank aus schreinerplatten oder grobspanplatten
     - kacheln oder platten fuer wand und boden aussuchen
     - holzfussboden? teak?
     - kork verlegen?
-    - steckdosen, beleuchtung (LED?)
+    - steckdosen und beleuchtung anschliessen
     - neuer heizkoerper besorgen und einbauen
+    - schrankstreifen oder regalstreifen quer
 - flur und stauraum
-    - schreinerplatten? grobspanplatten wie im mediraum?
+    - schreinerplatten
     - apothekerschrank auszug
     - vorne gewindestangen von der decke haengen
-    - blindboden mit 35 cm luft
-    - falltuer oben mit ecke aussparung fuer balken beim hochklappen
-    - trennkwand im bad? mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
-    - oder einfach schrankwand oder regale im bad und stauraum vom flur aus
 - zimmer
     - fenster streichen
+    - westfenster mit alustreifen unten am glas ausbessern
     - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
     - west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
     - tapeten abloesen
@@ -274,7 +269,7 @@ Todo:
 - lampen rein
 - strom legen
 - verkabeln
-- schalten
+- schalter
 - andere lampenhoehlungen
 - zangen
 - wasserzuleitung
@@ -305,3 +300,14 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - bad planen
 - leerrohre verlegen unter balkonglastuer
 - schraege in baddecke aufmachen
+- badewanne ausbauen
+- blindboden mit 35 cm luft oberhalb vom stauraum
+- falltuer oben zum hochklappen
+- erledigt: keine trennkwand im bad; mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
+
+## Todo next:
+
+- isolation raus, dampfsperre verschliessen und abdichten, elektro verkablen
+- fussboden oben putzen
+- badewanne einmauern und anheizen
+- dusche, mauer, fussbodenbelag, waschbecken, ablagen im bad planen
