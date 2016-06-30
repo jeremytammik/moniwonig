@@ -309,7 +309,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 ## Todo next:
 
-- isolation raus, dampfsperre verschliessen und abdichten, elektro verkablen
+- isolation raus, dampfsperre verschliessen und abdichten, elektro verkabeln
 - fussboden oben putzen
 - badewanne einmauern und anheizen
 - dusche, mauer, fussbodenbelag, waschbecken, ablagen im bad planen
