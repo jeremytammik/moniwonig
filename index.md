@@ -5,12 +5,11 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
+    - decke streichen bevor lampen einbauen?
     - fehlende stuetze am ende vom firstbalken?
     - deckenlampen fertig installieren
-    - decke fertig isolieren: isoflock von oben rein
-    - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
-    - zange
-    - pfosten in zimmermitte weg
+    - fenster einbauen
+    - verkleidung von aussen
 - kueche
     - kueche planen
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -307,9 +306,17 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - falltuer oben zum hochklappen
 - erledigt: keine trennkwand im bad; mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
 
+## done in july
+
+- decke fertig isolieren: isoflock von oben rein
+- pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
+- zange
+- pfosten in zimmermitte weg
+- isolation raus, dampfsperre verschliessen und abdichten
+
 ## Todo next:
 
-- isolation raus, dampfsperre verschliessen und abdichten, elektro verkabeln
+- elektro verkabeln
 - fussboden oben putzen
 - badewanne einmauern und anheizen
 - dusche, mauer, fussbodenbelag, waschbecken, ablagen im bad planen
