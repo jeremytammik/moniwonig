@@ -6,12 +6,15 @@
 
 - gaube
     - decke streichen bevor lampen einbauen?
-    - fehlende stuetze am ende vom firstbalken?
+    - fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen?
+    - kuechenfenster und schiebetuer einbauen
     - deckenlampen fertig installieren
-    - fenster einbauen
+    - heizkoerper kaufen und anschliessen
     - verkleidung von aussen
 - kueche
     - kueche planen
+    - freiliegende balken buersten
+    - dachschraege weisseln?
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - steinplatte oder holzplatte, hoehe
@@ -20,7 +23,8 @@
     - ablageflaechen platz rechts und links von jeden geraet
     - steckdosen, licht, dunstabzug
     - abtropfgestell ueber der spuele
-    - glasplatte statt kacheln hinter der spuele
+    - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe?
+    - ziegeln freilassen oder verputzen?
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - steckdosen, beleuchtung (LED?)
@@ -147,6 +151,8 @@
 - irgendjemand in weil-friedlingen
 - [tulikivi](http://www.tulikivi.com)
 - [tonwerk](http://tonwerk-ag.com)
+- [wodke]()
+- lina
 
 ## neuer zaun
 
@@ -306,7 +312,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - falltuer oben zum hochklappen
 - erledigt: keine trennkwand im bad; mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
 
-## done in july
+## done in 2016-07-03
 
 - decke fertig isolieren: isoflock von oben rein
 - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
@@ -314,9 +320,34 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - pfosten in zimmermitte weg
 - isolation raus, dampfsperre verschliessen und abdichten
 
+## done in 2016-07-12
+
+- brettchen zum isoflock abdecken auf fussbodenniveau im dachgeschoss: 1 20x48 2 19x7 3 17x34 4 19x22 5 20x18 6 18x54 7 17x4 8 19x37 9 18x51 10 17x6 11 16x37 12 17x14 13 12x27 14 11x50
+- led-lichter wohnzimmer und kueche elektro verkabeln: SO SW NO NW
+
+
 ## Todo next:
 
-- elektro verkabeln
 - fussboden oben putzen
-- badewanne einmauern und anheizen
+- balkontuer im badezimmer fertig abdichten
+- abwasserrinne bestellen und installieren
 - dusche, mauer, fussbodenbelag, waschbecken, ablagen im bad planen
+- solnhofer naturstein bestellen fuer badfussboden und -waende
+- stahlrahmen einfassen
+- freigelegte balken abbuersten
+- freizulassende ziegelmauerpartien saeubern und festigen
+- glasplatten zum abdecken bestellen und montierenx
+
+## Solnhofer Naturstein Verlegen a la Madlee
+
+- 33 cm breite platten, variierende laenge, handbekantet, nicht geschnitten.
+- eur/qm: iloma 32, also 36.
+- vor dem verfugen impraegnieren!
+- die also-webseite empfiehlt kleber usw.
+- rakofix natursteinkleber
+- fliesenkleber
+- moertelbett zum ausgleichen
+- nach den verlegen trocknen lassen, dann impraegnieren
+- z.b. mit litufin, 1 liter reicht
+- man kann auch bei krueckes in schopfheim die impraegnierung holen, fuer granitplatten
+- verfugen mit karafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
