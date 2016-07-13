@@ -39,6 +39,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - place a second radiator beside toilet?
     - grosszuegige offene dusche, glaswand ohne bewegliche teile
     - nein, keine glaswand
     - dusche einbauen
@@ -339,6 +340,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 ## Todo next:
 
 - fussboden oben putzen
+- decke fertig gipsen
 - balkontuer im badezimmer fertig abdichten
 - abwasserrinne bestellen und installieren
 - dusche, mauer, fussbodenbelag, waschbecken, ablagen im bad planen
