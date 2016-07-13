@@ -318,7 +318,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - falltuer oben zum hochklappen
 - erledigt: keine trennkwand im bad; mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
 
-## done in 2016-07-03
+## done 2016-07-03
 
 - decke fertig isolieren: isoflock von oben rein
 - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
@@ -326,10 +326,14 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - pfosten in zimmermitte weg
 - isolation raus, dampfsperre verschliessen und abdichten
 
-## done in 2016-07-12
+## done 2016-07-12
 
 - brettchen zum isoflock abdecken auf fussbodenniveau im dachgeschoss: 1 20x48 2 19x7 3 17x34 4 19x22 5 20x18 6 18x54 7 17x4 8 19x37 9 18x51 10 17x6 11 16x37 12 17x14 13 12x27 14 11x50
 - led-lichter wohnzimmer und kueche elektro verkabeln: SO SW NO NW
+
+## done 2016-07-13
+
+- chopped down tree at entrance for large lorries to enter
 
 
 ## Todo next:
