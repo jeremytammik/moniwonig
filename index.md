@@ -151,8 +151,14 @@
 - irgendjemand in weil-friedlingen
 - [tulikivi](http://www.tulikivi.com)
 - [tonwerk](http://tonwerk-ag.com)
-- [wodke]()
-- lina
+- [wodtke](http://www.wodtke.com)
+- lina ofen
+    - ofenkoerper von [ofen innovativ](http://www.ofen-innovativ.de), abgestammt von brunner
+    - ofenbauer [formteq](http://www.formteq.de)
+    - eur 10000, einsteigermodell ab 6000 euro
+    - 140 hoch 177 breit 70 tief
+    - eckige tuer
+
 
 ## neuer zaun
 
