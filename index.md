@@ -15,6 +15,8 @@
     - kueche planen
     - freiliegende balken buersten
     - dachschraege weisseln?
+    - glas an der wand hinter der spuele aussuchen
+    - steinspuelbecken anschauen, spuelbecken aussuchen
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - steinplatte oder holzplatte, hoehe
