@@ -333,7 +333,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 ## done 2016-07-13
 
-- chopped down tree at entrance for large lorries to enter
+- chopped down tree at entrance for large lorries to pass through
 
 
 ## Todo next:
