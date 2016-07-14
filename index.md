@@ -65,6 +65,7 @@
         - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b = 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100 = 11.71 qm
         - tuerlaibung 300h x 25b
         - klonischenwaende mindestens 30 mm dick x 330h x 25b
+        - fussbodenleisten 80 + 200 + 200 + 100 cm = 3.8 m
         - 7-9 mm dick 33 cm breit 11.64 + 11.71 = 23.35 qm
         - 7-9 mm dick 25 cm breit 3 m
         - 30-33 mm dick 25 cm breit 3.3 m
