@@ -44,6 +44,7 @@
     - place a second radiator beside toilet?
     - grosszuegige offene dusche, glaswand ohne bewegliche teile
     - nein, keine glaswand
+    - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
     - dusche einbauen
     - waschbecken
     - waschmaschine
@@ -59,6 +60,14 @@
     - steckdosen und beleuchtung anschliessen
     - neuer heizkoerper besorgen und einbauen
     - schrankstreifen oder regalstreifen quer
+    - flaechenberechnung fuer steinplatten oder kacheln:
+        - fussboden 11.64 qm
+        - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b = 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100 = 11.71 qm
+        - tuerlaibung 300h x 25b
+        - klonischenwaende mindestens 30 mm dick x 330h x 25b
+        - 7-9 mm dick 33 cm breit 11.64 + 11.71 = 23.35 qm
+        - 7-9 mm dick 25 cm breit 3 m
+        - 30-33 mm dick 25 cm breit 3.3 m
 - flur und stauraum
     - schreinerplatten
     - apothekerschrank auszug
