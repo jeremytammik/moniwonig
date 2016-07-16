@@ -351,6 +351,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 ## Todo next:
 
+- 9 sack kalkmoertelzement
 - fussboden oben putzen
 - decke fertig gipsen
 - balkontuer im badezimmer fertig abdichten
@@ -375,3 +376,4 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - z.b. mit litufin, 1 liter reicht
 - man kann auch bei krueckes in schopfheim die impraegnierung holen, fuer granitplatten
 - verfugen mit karafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
+
