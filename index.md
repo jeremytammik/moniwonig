@@ -61,14 +61,19 @@
     - neuer heizkoerper besorgen und einbauen
     - schrankstreifen oder regalstreifen quer
     - flaechenberechnung fuer steinplatten oder kacheln:
-        - fussboden 11.64 qm
-        - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b = 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100 = 11.71 qm
+        - fussboden 11.64 qm --> 12 qm
+        - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
+          = 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100
+          = 11.71 qm --> 12 qm
         - tuerlaibung 300h x 25b
         - klonischenwaende mindestens 30 mm dick x 330h x 25b
         - fussbodenleisten 80 + 200 + 200 + 100 cm = 3.8 m
         - 7-9 mm dick 33 cm breit 11.64 + 11.71 = 23.35 qm
         - 7-9 mm dick 25 cm breit 3 m
         - 30-33 mm dick 25 cm breit 3.3 m
+    - kleber und fugen:
+        - 350 kg carraflex
+        - 75 kg carrafug jurabeige
 - flur und stauraum
     - schreinerplatten
     - apothekerschrank auszug
