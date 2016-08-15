@@ -4,44 +4,56 @@
 
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
+- firstbalken pfettenabstuetzungsbalken
+    - fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen
 - gaube
     - decke streichen bevor lampen einbauen?
-    - fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen?
     - kuechenfenster und schiebetuer einbauen
     - deckenlampen fertig installieren
-    - heizkoerper kaufen und anschliessen
+    - heizkoerper kaufen und anschliessen bzwl rohre legen und in wand
+    - detaillierte regenrinnenplanung unter der schiebentuer sobald fenster montiert ist
     - verkleidung von aussen
+    - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
+    - deckelschalung verkleidung von fenster und schiebetuer
 - kueche
-    - kueche planen
+    - glasplatten zum kuechenwand abdecken bestellen und montieren
+    - fussboden verlegen: linoleum im nassbereich, trittschutzflies
+    - arbeitsplatte buche stabverleimt
+    - unterschraenke: mechanik von ikea, fronten aus holz
+    - waschbecken reinholen
+    - 93 cm arbeitshoehe
     - freiliegende balken buersten
     - dachschraege weisseln?
     - glas an der wand hinter der spuele aussuchen
     - steinspuelbecken anschauen, spuelbecken aussuchen
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
-    - steinplatte oder holzplatte, hoehe
     - herd, spuele, kuehlschrank
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
     - ablageflaechen platz rechts und links von jeden geraet
-    - steckdosen, licht, dunstabzug
     - abtropfgestell ueber der spuele
     - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe?
     - ziegeln freilassen oder verputzen?
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
-    - steckdosen, beleuchtung (LED?)
     - korkboden verlegen im kuechenbereich, wo parkett beschaedigt, linoleum?
-    - alles hoeher legen als vorher, schauen wie hoch es jetzt bei moni ist, genaues mass von moni
-    - hahn da lassen wo er istsserhhn besorgen und anbringen
-    - zwei spuelbecken
-    - steinplatte mit abgeschraegten einfassungen der beiden spuelbecken
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
     - glasschubladenregal fuer tee, gewuerze, zucker, usw.
     - deckelfreie brotversorgung
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
+    - heizkoerper schlanker und breiter machen, maximale leistung
+    - tapete im kochbereich bis zum gasrohr entfernen
 - bad
-    - place a second radiator beside toilet?
+    - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
+    - isolationsecke fertigbauen
+    - baddecke abschliessen
+    - deckenlampenkabel verstecken
+    - duschabwasserrinne mit heizleitungen, rueckwand muss exakt definiert sein plus minus 3-4 mm
+    - wasserleitungen fuer waschbecken hochziehen verlaengern
+    - heizleitungen verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr
+    - wandheizkoerper vorbereiten
+    - place a second radiator beside toilet? -- nope
     - grosszuegige offene dusche, glaswand ohne bewegliche teile
     - nein, keine glaswand
     - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
@@ -49,7 +61,7 @@
     - waschbecken
     - waschmaschine
     - leitungen mit schrank verkleiden
-    - putzschrank und heizungsschrank bauen
+    - putzschrank und heizungsschrank bauen: tiefe = kaminflucht, wand bauen, flexible fugen, senkrechte stuetze mit metallwinkeln luftig verlegen
     - heizung akustisch isolieren, auch von der wand
     - heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr
     - heizungspumpe optimieren
@@ -78,7 +90,12 @@
     - schreinerplatten
     - apothekerschrank auszug
     - vorne gewindestangen von der decke haengen
+    - tapete ganz runter
+    - waende schoen machen
+    - verputzen
 - zimmer
+    - decken so lassen, wie sie sind
+    - alten tuerrahmen entfernen und rigipsplatte einsetzen
     - fenster streichen
     - westfenster mit alustreifen unten am glas ausbessern
     - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
@@ -89,6 +106,7 @@
     - decke verputzen oder streichen
     - alle alten heizkoerper ersetzen
     - fussboden renovieren, oelen, schleifen
+    - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
 - elektro
     - stromzaehler fuer heizung - moni
     - stromzaehler fuer gemeinschaftslicht - jeremy
@@ -203,6 +221,21 @@
 - http://www.burkard-brunner.de
 - Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010
 - 48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel
+
+## Solnhofer Naturstein Verlegen a la Madlee
+
+- 33 cm breite platten, variierende laenge, handbekantet, nicht geschnitten.
+- eur/qm: iloma 32, also 36.
+- vor dem verfugen impraegnieren!
+- die also-webseite empfiehlt kleber usw.
+- rakofix natursteinkleber
+- fliesenkleber
+- moertelbett zum ausgleichen
+- nach den verlegen trocknen lassen, dann impraegnieren
+- z.b. mit litufin, 1 liter reicht
+- man kann auch bei krueckes in schopfheim die impraegnierung holen, fuer granitplatten
+- verfugen mit karrafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
+
 
 # done
 
@@ -353,32 +386,54 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 - chopped down tree at entrance for large lorries to pass through
 
+## done 2016-08-15
+
+- stahlrahmen einfassen
+- duschabwasserrinne bestellen 
+- solnhofer naturstein bestellen fuer badfussboden und -waende
+- freizulassende ziegelmauerpartien saeubern und festigen
+- 1. Der Aufschiebling auf dem bestehenden Untersparren (Achse 3) ist noch entsprechend der geprüften Positionszeichnung kraftschlüssig einzubauen: der Aufschiebling ist auf dem bestehenden Untersparrenverschraubt mit 12 x 300 kraftschlüssig verschraubt.
 
 ## Todo next:
 
-- 9 sack kalkmoertelzement
+- alle arbeiten fuer fliesenleger im bad abschliessen
+- heizungsschrank mauer fuer die dusche bauen
+- kloinstallationswand mit rigips fertigstellen
+- alle freigelegte balken abbuersten
+- isolationsecken fertigstellen
+- termin machen mit fussbodenverleger, axel fragen, fragen was mit dem loch an der alten eingangstuer, loch vom pfostenende im fussboden, schadhafte parkettstellen flicken
+- alten tuerrahmen in falks zimmer ausbauen
+- kuechenspuelstein reinholen und befestigung planen
+- elektro reinmachen und lampen reinmachen
 - fussboden oben putzen
 - decke fertig gipsen
 - balkontuer im badezimmer fertig abdichten
-- abwasserrinne bestellen und installieren
+- abwasserrinne installieren
 - dusche, mauer, fussbodenbelag, waschbecken, ablagen im bad planen
-- solnhofer naturstein bestellen fuer badfussboden und -waende
-- stahlrahmen einfassen
-- freigelegte balken abbuersten
-- freizulassende ziegelmauerpartien saeubern und festigen
-- glasplatten zum abdecken bestellen und montierenx
+- flur: tapete ganz runter, waende schoen machen
+- putz von der rolle: mit lammfellrolle auftragen, trocknen lassen bis er lederartig ist und sich tupfen machen lassen mit dem finger, dann mit einem groben schwamm leicht verwischen
+- wohnzimmerwand restlos papoierfetzen entfernen
+- 2. Unter der Firstpfette ist, wie ursprünglich vorhanden, der Dachpfosten mit Querschnitt 12/12 cm in Achse 2 umgehend wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftrtenden biegekraefte durch den lotversatz von ca. 30 cm werden durch kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: Welches stahlrohr nehmen wir, um das 12x12 holzblaken zu ersetzen?
+- flurwand abschmirgeln, putzfehler verspachten
+- stauraum balken und badtuerrahmen abbuersten und schmirgeln
+- wandniveau fuer duschabwasserrinne definieren
+- heizleitungen unter duschabwasserrinne verlaengern
+- badklowand: gruene oelfarbe komplett eliminieren
+- balken im bad abschleifen
+- tapete im kochbereich bis zum gasrohr entfernen
+- lampenkabel im flur verlegen und anschliessen
 
-## Solnhofer Naturstein Verlegen a la Madlee
 
-- 33 cm breite platten, variierende laenge, handbekantet, nicht geschnitten.
-- eur/qm: iloma 32, also 36.
-- vor dem verfugen impraegnieren!
-- die also-webseite empfiehlt kleber usw.
-- rakofix natursteinkleber
-- fliesenkleber
-- moertelbett zum ausgleichen
-- nach den verlegen trocknen lassen, dann impraegnieren
-- z.b. mit litufin, 1 liter reicht
-- man kann auch bei krueckes in schopfheim die impraegnierung holen, fuer granitplatten
-- verfugen mit karafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
+## Shop
+
+- 350 kg carraflex eur 2.00 pro kg
+- 75 kg carrafug eur 3.00 pro kg jurabeige
+- lithofin steinoel fuer impraegnierung (schopfheim, steinmetz): Lithofin MN Stain Stop Impregnator: Lithofin MN Stain Stop Impregnator is an ultra-high performance silicone (alkoxysilane) impregnator suitable and recommended for use on all natural and man-made stones, regardless of finish type. Lithofin MN Stain Stop is recommended for both interior and exterior applications, and provides maximum protection from water penetration and water-borne stains. Oil stain protection is also very good (the best we've seen for a silicone impregnator), outperforming some recent fluoropolymer products -- http://www.mystonecare.com/Lithofin-Stone-Care-and-Tile-Care-Products-s/31.htm
+- wc-dusche?
+- rundes becken in brett eingelassen?
+- duravit waschbecken wie bei moni? in hornbach bestellen?
+- armaturen entscheiden fuer bad und kueche
+- gasherd anschauen
+- gruene gipsplatte fuer die heizungsschrankwand
+- putz von der rolle fuer X qm, koernung 0.5-1.0 mm
 
