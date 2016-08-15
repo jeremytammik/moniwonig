@@ -15,6 +15,7 @@
     - verkleidung von aussen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - deckelschalung verkleidung von fenster und schiebetuer
+    - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
     - glasplatten zum kuechenwand abdecken bestellen und montieren
     - fussboden verlegen: linoleum im nassbereich, trittschutzflies
@@ -436,4 +437,5 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - gasherd anschauen
 - gruene gipsplatte fuer die heizungsschrankwand
 - putz von der rolle fuer X qm, koernung 0.5-1.0 mm
+
 
