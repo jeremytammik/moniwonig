@@ -437,10 +437,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - gasherd anschauen
 - gruene gipsplatte fuer die heizungsschrankwand
 - putz von der rolle fuer X qm, koernung 0.5-1.0 mm
-
-
-## Heizkoerper
-
-typ 22 200 b 50 h
-typ 22 100 b 50 b
-typ 21 120 b 50 h
+- heizkoerper:
+    - Typ 22 Hoehe 50 Breite 200-220
+    - Typ 22 Hoehe 50 Breite 100
+    - Typ 21 Hoehe 50 Breite 140
