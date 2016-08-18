@@ -223,7 +223,7 @@
 - Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010
 - 48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel
 
-## Solnhofer Naturstein Verlegen a la Madlee
+## Badezimmer Solnhofer Naturstein Verlegen a la Madlee
 
 - 33 cm breite platten, variierende laenge, handbekantet, nicht geschnitten.
 - eur/qm: iloma 32, also 36.
@@ -244,6 +244,14 @@
     - http://dime-fluessigkunststoffe.de
     - goetz und moritz naturstein herr lais 4007-153
 
+## Badezimmer Heizungsrohr Anschluss
+
+- Vestol 12/16.1/2
+- Uebergang 12/16.1/2 auf halbzoll
+- Frima Vestol --> Vescal SA --> Walter Meier (Klima Schweiz) AG [www.waltermeier.com](http://www.waltermeier.com)
+- Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com
+
+  
 # done
 
 ## done before novemberparty
@@ -458,5 +466,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - fussbodenabdichtung fuer untr den stein, zwei-komponenten, sack + fluessig
 
 
-
-
+- Heizungsrohr Anschluss
+  Vestol 12/16.1/2
+  Uebergang 12/16.1/2 auf halbzoll
+  Frima Vestol --> Vescal SA --> Walter Meier (Klima Schweiz) AG
+  http://www.waltermeier.com
+  Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com
+  
