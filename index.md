@@ -387,7 +387,13 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 ## done 2016-07-12
 
 - brettchen zum isoflock abdecken auf fussbodenniveau im dachgeschoss: 1 20x48 2 19x7 3 17x34 4 19x22 5 20x18 6 18x54 7 17x4 8 19x37 9 18x51 10 17x6 11 16x37 12 17x14 13 12x27 14 11x50
-- led-lichter wohnzimmer und kueche elektro verkabeln: SO SW NO NW
+- led-lichter wohnzimmer und kueche elektro verkabeln:
+    - earth yellow-green in cable
+    - null blue in cable
+    - NO brown in cable
+    - NW light blue separate wire
+    - SO black separate wire
+    - SW dark blue separate wire
 
 ## done 2016-07-13
 
