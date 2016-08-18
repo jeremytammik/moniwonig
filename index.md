@@ -234,9 +234,15 @@
 - moertelbett zum ausgleichen
 - nach den verlegen trocknen lassen, dann impraegnieren
 - z.b. mit litufin, 1 liter reicht
-- man kann auch bei krueckes in schopfheim die impraegnierung holen, fuer granitplatten
+- man kann auch bei firma krueckes in schopfheim die impraegnierung holen, fuer granitplatten
 - verfugen mit karrafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
-
+- impraegnierung: http://www.lithofin.de/de/lithofinder &ndash; NN loesemittelhaltig W wasserloeslich
+- abdichtung:
+    - https://www.sg-weber.de &ndash; zwei-komponenten dichtungsschlaemme weber.tec Superflex D 2 -- goetz und moritz 1 woche lieferzeit -- ebay (GP.4,71€/Kg) 24 Kg weber.tec Superflex D 2 Flex Dichtschlämme 2 K Abdichtung -- min. 3,5 kg/m² --> 24 * 3.5 = 84 kg --> 3 * 24 kg kombigebinde a eur 115 --> eur 345
+    - http://www.ardex.co.uk -- abdichtung zementaer 24 qm sack 15 kg eur 95 reicht fuer 2.4 kg / qm flexible dichtschlaemme ardex s7 plus available from ebay for eur 85 per sack, 4 sacks needed --> 340
+    - polyurethan? bitumen? zwei kompenenten; flachdach, balkon; badloesung, muss ueberklebbar sein
+    - http://dime-fluessigkunststoffe.de
+    - goetz und moritz naturstein herr lais 4007-153
 
 # done
 
@@ -438,6 +444,13 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - gruene gipsplatte fuer die heizungsschrankwand
 - putz von der rolle fuer X qm, koernung 0.5-1.0 mm
 - heizkoerper:
-    - Typ 22 Hoehe 50 Breite 200-220
     - Typ 22 Hoehe 50 Breite 100
+    - Typ 22 Hoehe 50 Breite 200-220
     - Typ 21 Hoehe 50 Breite 140
+- bei firma krueckes in schopfheim
+    - steinimpraegnierung in schopfheim abchecken (glatt naturstein hat ferien und oeffnet erst am 22.8)
+    - fussbodenabdichtung fuer untr den stein, zwei-komponenten, sack + fluessig
+
+
+
+
