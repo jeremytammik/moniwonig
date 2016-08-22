@@ -2,15 +2,6 @@
 
 [url](http://jeremytammik.github.io/moniwonig) &ndash; [source repo](https://github.com/jeremytammik/moniwonig)
 
-## <a name="plan"></a>plan
-
-- kueche planen
-    - schubladen, kaesten, usw., in ikea schauen, fronten waehlen
-    - schubladeneinteilung
-    - glasplatten
-    - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
-    
-
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - firstbalken pfettenabstuetzungsbalken
@@ -26,7 +17,9 @@
     - deckelschalung verkleidung von fenster und schiebetuer
     - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
-    - glasplatten zum kuechenwand abdecken bestellen und montieren
+    - festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw., in ikea schauen
+    - glasplatten zum kuechenwand abdecken bestellen und montieren &ndash; nee, doch nicht
+    - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
     - fussboden verlegen: linoleum im nassbereich, trittschutzflies
     - arbeitsplatte buche stabverleimt
     - unterschraenke: mechanik von ikea, fronten aus holz
