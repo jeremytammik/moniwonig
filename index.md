@@ -2,6 +2,15 @@
 
 [url](http://jeremytammik.github.io/moniwonig) &ndash; [source repo](https://github.com/jeremytammik/moniwonig)
 
+## <a name="plan"></a>plan
+
+- kueche planen
+    - schubladen, kaesten, usw., in ikea schauen, fronten waehlen
+    - schubladeneinteilung
+    - glasplatten
+    - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
+    
+
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - firstbalken pfettenabstuetzungsbalken
