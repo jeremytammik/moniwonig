@@ -17,6 +17,8 @@
     - deckelschalung verkleidung von fenster und schiebetuer
     - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
+    - zwei kuechenbuffets zerlegen und teilweise nutzen?
+    - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw., in ikea schauen
     - glasplatten zum kuechenwand abdecken bestellen und montieren &ndash; nee, doch nicht
     - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
