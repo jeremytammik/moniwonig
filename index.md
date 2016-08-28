@@ -17,6 +17,12 @@
     - deckelschalung verkleidung von fenster und schiebetuer
     - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
+    - steinplatten
+        - http://www.naturstein-indri.de
+        - http://natursteinwerk-glatt.de
+        - http://staechelin.de
+        - http://natursteinepost.de/materialien/granit-klassisch/
+        - der in schopfheim, der goetz und mortiz beliefert    
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw., in ikea schauen
