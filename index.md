@@ -17,6 +17,7 @@
     - deckelschalung verkleidung von fenster und schiebetuer
     - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
+    - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann)
     - steinplatten
         - http://www.naturstein-indri.de
         - http://natursteinwerk-glatt.de
