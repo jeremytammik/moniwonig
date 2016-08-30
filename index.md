@@ -56,6 +56,7 @@
     - heizkoerper schlanker und breiter machen, maximale leistung
     - tapete im kochbereich bis zum gasrohr entfernen
 - bad
+    - heizkoerper [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
     - [waschtisch unterbau](https://www.megabad.com), z.b. [Duravit DuraStyle Möbelwaschtisch 80 cm, ohne Hahnloch](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw), unterbauwaschtisch, undercounter washbasin, Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung, Villeroy & Boch Loop & Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung, [selber giessen](http://www.dani-danhaus.de/Anleitung_Waschbecken-Bau.pdf), [einbauwaschtisch](https://www.calmwaters.de/waschbecken-und-waschtisch/waschbecken/426/waschbecken-tobago-in-weiss-51-6-cm?c=103), [bauarten](https://www.calmwaters.de/ratgeber/waschbecken-bauarten), [Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit](http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1), [EINBAUWASCHBECKEN Unterbau Waschtisch Porzellan Baeder-Boutique](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937), [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken)
     - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
     - isolationsecke fertigbauen
@@ -106,7 +107,6 @@
     - waende schoen machen
     - verputzen
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
-
 - zimmer
     - decken so lassen, wie sie sind
     - alten tuerrahmen entfernen und rigipsplatte einsetzen
