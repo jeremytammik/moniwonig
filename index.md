@@ -27,24 +27,20 @@
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw., in ikea schauen
-    - glasplatten zum kuechenwand abdecken bestellen und montieren &ndash; nee, doch nicht
+    - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
     - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
     - fussboden verlegen: linoleum im nassbereich, trittschutzflies
     - arbeitsplatte buche stabverleimt
     - unterschraenke: mechanik von ikea, fronten aus holz
-    - waschbecken reinholen
     - 93 cm arbeitshoehe
     - freiliegende balken buersten
     - dachschraege weisseln?
-    - glas an der wand hinter der spuele aussuchen
-    - steinspuelbecken anschauen, spuelbecken aussuchen
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
     - ablageflaechen platz rechts und links von jeden geraet
     - abtropfgestell ueber der spuele
-    - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe?
-    - ziegeln freilassen oder verputzen?
+    - ziegelecke in kuechenwand grundieren und schleifen
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - korkboden verlegen im kuechenbereich, wo parkett beschaedigt, linoleum?
@@ -54,35 +50,16 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
     - heizkoerper schlanker und breiter machen, maximale leistung
-    - tapete im kochbereich bis zum gasrohr entfernen
 - bad
     - heizkoerper [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
     - [waschtisch unterbau](https://www.megabad.com), z.b. [Duravit DuraStyle Möbelwaschtisch 80 cm, ohne Hahnloch](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw), unterbauwaschtisch, undercounter washbasin, Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung, Villeroy & Boch Loop & Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung, [selber giessen](http://www.dani-danhaus.de/Anleitung_Waschbecken-Bau.pdf), [einbauwaschtisch](https://www.calmwaters.de/waschbecken-und-waschtisch/waschbecken/426/waschbecken-tobago-in-weiss-51-6-cm?c=103), [bauarten](https://www.calmwaters.de/ratgeber/waschbecken-bauarten), [Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit](http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1), [EINBAUWASCHBECKEN Unterbau Waschtisch Porzellan Baeder-Boutique](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937), [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken)
     - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
-    - isolationsecke fertigbauen
-    - baddecke abschliessen
-    - deckenlampenkabel verstecken
-    - duschabwasserrinne mit heizleitungen, rueckwand muss exakt definiert sein plus minus 3-4 mm
     - wasserleitungen fuer waschbecken hochziehen verlaengern
     - heizleitungen verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr
-    - wandheizkoerper vorbereiten
-    - place a second radiator beside toilet? -- nope
-    - grosszuegige offene dusche, glaswand ohne bewegliche teile
-    - nein, keine glaswand
     - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
     - dusche einbauen
     - waschbecken
     - waschmaschine
-    - leitungen mit schrank verkleiden
-    - putzschrank und heizungsschrank bauen: tiefe = kaminflucht, wand bauen, flexible fugen, senkrechte stuetze mit metallwinkeln luftig verlegen
-    - heizung akustisch isolieren, auch von der wand
-    - heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr
-    - heizungspumpe optimieren
-    - schrank aus schreinerplatten oder grobspanplatten
-    - kacheln oder platten fuer wand und boden aussuchen
-    - holzfussboden? teak?
-    - kork verlegen?
-    - steckdosen und beleuchtung anschliessen
     - neuer heizkoerper besorgen und einbauen
     - schrankstreifen oder regalstreifen quer
     - flaechenberechnung fuer steinplatten oder kacheln:
@@ -99,26 +76,18 @@
     - kleber und fugen:
         - 350 kg carraflex
         - 75 kg carrafug jurabeige
-- flur und stauraum
+- stauraum
     - schreinerplatten
     - apothekerschrank auszug
     - vorne gewindestangen von der decke haengen
-    - tapete ganz runter
-    - waende schoen machen
-    - verputzen
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
 - zimmer
-    - decken so lassen, wie sie sind
-    - alten tuerrahmen entfernen und rigipsplatte einsetzen
+    - decken verputzen
     - fenster streichen
     - westfenster mit alustreifen unten am glas ausbessern
     - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
     - west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
-    - tapeten abloesen
-    - decken freilegen, farbe abloesen
     - waende verputzen oder streichen
-    - decke verputzen oder streichen
-    - alle alten heizkoerper ersetzen
     - fussboden renovieren, oelen, schleifen
     - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
 - elektro
@@ -126,11 +95,6 @@
     - stromzaehler fuer gemeinschaftslicht - jeremy
     - FI-schutzschalter
     - LED-beleuchtung ueberall
-- zaun
-    - [zaunpfosten](#zaunpfosten)
-    - holzzaun reste entfernen und versorgen
-    - gartenzaun gartenhag
-    - bepflanzen: glyzinie, geissblatt, jasmin
 - eingangsbereich
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen
@@ -140,8 +104,7 @@
 - dach
     - silikon kaufen und dach am schornstein flicken
     - isoflock von oben vom first aus nachstopfen
-- draussen
-    - nussbaum beschneiden
+- garten
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
     - alle dachziegelhaufen zusammenfuehren und richtig schichten
@@ -155,11 +118,18 @@
     - gartenweg steinplatten granit - im tessin bestellen?
     - [loew gartenbau](http://www.loewgartenbau.ch) steinmauer auf dem weg hoch zum hagebaechli
     - ask neighbour above about his plans
-- sauna
-    - mit michael beswprechen
-    - in finland bestellen?
-    - holzterasse um die sauna rum
-    - share with neighbour above?
+    - gartengestaltung tilo scheurer
+    - sauna
+        - mit michael beswprechen
+        - in finland bestellen?
+        - holzterasse um die sauna rum
+        - share with neighbour above?
+    - regenwasser sammeln und hochpumpen, auch fuer klopsuelung nutzen?
+    - zaun
+        - [zaunpfosten](#zaunpfosten)
+        - holzzaun reste entfernen und versorgen
+        - gartenzaun gartenhag
+        - bepflanzen: glyzinie, geissblatt, jasmin
 - admin
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
@@ -427,6 +397,44 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - solnhofer naturstein bestellen fuer badfussboden und -waende
 - freizulassende ziegelmauerpartien saeubern und festigen
 - 1. Der Aufschiebling auf dem bestehenden Untersparren (Achse 3) ist noch entsprechend der geprüften Positionszeichnung kraftschlüssig einzubauen: der Aufschiebling ist auf dem bestehenden Untersparrenverschraubt mit 12 x 300 kraftschlüssig verschraubt.
+
+## done 2016-08-30
+
+- kueche
+    - steinspuelbecken anschauen, spuelbecken aussuchen, waschbecken reinholen
+    - ziegelecke in kuechenwand freilassen, saeubern, fugen ausbessern
+    - tapete in kueche im kochbereich bis zum gasrohr entfernen
+- bad
+    - isolationsecken, wo dach auf wand trifft, fertigbauen
+    - decke abschliessen
+    - deckenlampenkabel verstecken
+    - duschabwasserrinne mit rohren und heizleitungen einbauen; rueckwand muss vorher exakt definiert sein plus minus 3-4 mm
+    - wandheizkoerper vorbereiten
+    - place a second radiator beside toilet? -- nope, open copper tubes instead
+    - grosszuegige offene dusche, glaswand ohne bewegliche teile -- nein, doch keine glaswand
+    - heizung akustisch isolieren, auch von der wand
+    - heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr
+    - heizungspumpe optimieren
+    - schrank aus schreinerplatten oder grobspanplatten
+    - kacheln oder platten fuer wand und boden aussuchen
+    - holzfussboden? teak?
+    - kork verlegen?
+    - steckdosen und beleuchtung anschliessen
+    - leitungen mit schrank verkleiden
+    - putzschrank und heizungsschrank bauen: tiefe = kaminflucht, wand bauen, flexible fugen, senkrechte stuetze mit metallwinkeln luftig verlegen
+- flur und stauraum
+    - tapete ganz runter
+    - waende schoen machen
+    - verputzen
+- zimmer
+    - decken neu verputzen
+    - alten tuerrahmen entfernen und rigipsplatte einsetzen
+    - decken freilegen, farbe abloesen, verputzen oder streichen
+    - tapeten abloesen
+    - alle alten heizkoerper abbauen
+- garten
+    - nussbaum beschneiden
+
 
 ## Todo next:
 
