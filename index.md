@@ -105,6 +105,8 @@
     - tapete ganz runter
     - waende schoen machen
     - verputzen
+    - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
+
 - zimmer
     - decken so lassen, wie sie sind
     - alten tuerrahmen entfernen und rigipsplatte einsetzen
