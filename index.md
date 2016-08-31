@@ -478,14 +478,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - gasherd anschauen
 - gruene gipsplatte fuer die heizungsschrankwand
 - putz von der rolle fuer X qm, koernung 0.5-1.0 mm
-- heizkoerper:
-    - Typ 22 Hoehe 50 Breite 100
-    - Typ 22 Hoehe 50 Breite 200-220
-    - Typ 21 Hoehe 50 Breite 140
+- heizkoerper, schmal, breit, hoehe 50, 3 stueck, breite 120 + 200 + 140
 - bei firma krueckes in schopfheim
     - steinimpraegnierung in schopfheim abchecken (glatt naturstein hat ferien und oeffnet erst am 22.8)
     - fussbodenabdichtung fuer untr den stein, zwei-komponenten, sack + fluessig
-
 
 - Heizungsrohr Anschluss
   Vestol 12/16.1/2
