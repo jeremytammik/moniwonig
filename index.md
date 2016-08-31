@@ -19,11 +19,11 @@
 - kueche
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann)
     - steinplatten
-        - http://www.naturstein-indri.de
-        - http://natursteinwerk-glatt.de
-        - http://staechelin.de
-        - http://natursteinepost.de/materialien/granit-klassisch/
-        - der in schopfheim, der goetz und mortiz beliefert    
+        - [naturstein-indri.de](http://www.naturstein-indri.de)
+        - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
+        - [staechelin.de](http://staechelin.de)
+        - [natursteinepost.de/materialien/granit-klassisch](http://natursteinepost.de/materialien/granit-klassisch)
+        - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de) -- der in schopfheim, der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26 79650 tel. 07622/5600
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw., in ikea schauen
