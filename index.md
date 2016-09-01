@@ -106,6 +106,7 @@
 - dach
     - silikon kaufen und dach am schornstein flicken
     - isoflock von oben vom first aus nachstopfen
+    - dachbalkon lerchenholz ausmessen und bestellen 4 cm dielen
 - garten
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
@@ -402,11 +403,21 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 ## done 2016-08-30
 
+- wohnzimmer
+    - wohnzimmerwand restlos papoierfetzen entfernen
+    - termin machen mit fussbodenverleger, axel fragen, fragen was mit dem loch an der alten eingangstuer, loch vom pfostenende im fussboden, schadhafte parkettstellen flicken
 - kueche
-    - steinspuelbecken anschauen, spuelbecken aussuchen, waschbecken reinholen
+    - steinspuelbecken anschauen, spuelbecken aussuchen, kuechenspuelstein waschbecken reinholen, befestigung planen
     - ziegelecke in kuechenwand freilassen, saeubern, fugen ausbessern
     - tapete in kueche im kochbereich bis zum gasrohr entfernen
 - bad
+    - decke fertig gipsen
+    - balkontuer im badezimmer fertig abdichten
+    - abwasserrinne installieren
+    - alle freigelegte balken abbuersten
+    - alle arbeiten fuer fliesenleger im bad abschliessen
+    - heizungsschrank mauer fuer die dusche bauen
+    - kloinstallationswand mit rigips fertigstellen
     - isolationsecken, wo dach auf wand trifft, fertigbauen
     - decke abschliessen
     - deckenlampenkabel verstecken
@@ -424,11 +435,17 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - steckdosen und beleuchtung anschliessen
     - leitungen mit schrank verkleiden
     - putzschrank und heizungsschrank bauen: tiefe = kaminflucht, wand bauen, flexible fugen, senkrechte stuetze mit metallwinkeln luftig verlegen
+    - heizleitungen unter duschabwasserrinne verlaengern
+    - badklowand: gruene oelfarbe komplett eliminieren
+    - balken im bad abschleifen
+    - wandniveau fuer duschabwasserrinne definieren
 - flur und stauraum
+    - lampenkabel im flur verlegen und anschliessen
     - tapete ganz runter
     - waende schoen machen
     - verputzen
 - zimmer
+    - alten tuerrahmen in falks zimmer ausbauen
     - decken neu verputzen
     - alten tuerrahmen entfernen und rigipsplatte einsetzen
     - decken freilegen, farbe abloesen, verputzen oder streichen
@@ -436,59 +453,32 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - alle alten heizkoerper abbauen
 - garten
     - nussbaum beschneiden
-
+- shop
+    - 350 kg carraflex eur 2.00 pro kg
+    - 75 kg carrafug eur 3.00 pro kg jurabeige
+    - steinimpraegnierung (glatt naturstein in schopfheim hat ferien und oeffnet erst am 22.8); firma krueckes in schopfheim?
+    - lithofin steinoel fuer impraegnierung (schopfheim, steinmetz): [Lithofin MN Stain Stop Impregnator](http://www.mystonecare.com/Lithofin-Stone-Care-and-Tile-Care-Products-s/31.htm), an ultra-high performance silicone (alkoxysilane) impregnator suitable and recommended for use on all natural and man-made stones, regardless of finish type. Lithofin MN Stain Stop is recommended for both interior and exterior applications, and provides maximum protection from water penetration and water-borne stains. Oil stain protection is also very good (the best we've seen for a silicone impregnator), outperforming some recent fluoropolymer products
+    - duravit waschbecken wie bei moni? in hornbach bestellen? &ndash; nope
+    - rundes becken in brett eingelassen
+    - gruene gipsplatte fuer die heizungsschrankwand
+    - putz von der rolle fuer X qm, koernung 0.5-1.0 mm: mit lammfellrolle auftragen, trocknen lassen bis er lederartig ist und sich tupfen machen lassen mit dem finger, dann mit einem groben schwamm leicht verwischen
+    - fussbodenabdichtung fuer unter den stein, zwei-komponenten, sack + fluessig
+    - Heizungsrohr Anschluss: Vestol 12/16.1/2, Uebergang auf halbzoll, Firma Vestol --> Vescal SA --> [Walter Meier (Klima Schweiz) AG](http://www.waltermeier.com), , Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, [email](mailto:ch.klima@waltermeier.com)
 
 ## Todo next:
 
-- alle arbeiten fuer fliesenleger im bad abschliessen
-- heizungsschrank mauer fuer die dusche bauen
-- kloinstallationswand mit rigips fertigstellen
-- alle freigelegte balken abbuersten
-- isolationsecken fertigstellen
-- termin machen mit fussbodenverleger, axel fragen, fragen was mit dem loch an der alten eingangstuer, loch vom pfostenende im fussboden, schadhafte parkettstellen flicken
-- alten tuerrahmen in falks zimmer ausbauen
-- kuechenspuelstein reinholen und befestigung planen
 - elektro reinmachen und lampen reinmachen
 - fussboden oben putzen
-- decke fertig gipsen
-- balkontuer im badezimmer fertig abdichten
-- abwasserrinne installieren
-- dusche, mauer, fussbodenbelag, waschbecken, ablagen im bad planen
-- flur: tapete ganz runter, waende schoen machen
-- putz von der rolle: mit lammfellrolle auftragen, trocknen lassen bis er lederartig ist und sich tupfen machen lassen mit dem finger, dann mit einem groben schwamm leicht verwischen
-- wohnzimmerwand restlos papoierfetzen entfernen
-- 2. Unter der Firstpfette ist, wie ursprünglich vorhanden, der Dachpfosten mit Querschnitt 12/12 cm in Achse 2 umgehend wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen?
+- waschbecken und ablagen im bad planen
+- Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.pdf)
 - flurwand abschmirgeln, putzfehler verspachten
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
-- wandniveau fuer duschabwasserrinne definieren
-- heizleitungen unter duschabwasserrinne verlaengern
-- badklowand: gruene oelfarbe komplett eliminieren
-- balken im bad abschleifen
-- tapete im kochbereich bis zum gasrohr entfernen
-- lampenkabel im flur verlegen und anschliessen
-
 
 ## Shop
 
-- 350 kg carraflex eur 2.00 pro kg
-- 75 kg carrafug eur 3.00 pro kg jurabeige
-- lithofin steinoel fuer impraegnierung (schopfheim, steinmetz): Lithofin MN Stain Stop Impregnator: Lithofin MN Stain Stop Impregnator is an ultra-high performance silicone (alkoxysilane) impregnator suitable and recommended for use on all natural and man-made stones, regardless of finish type. Lithofin MN Stain Stop is recommended for both interior and exterior applications, and provides maximum protection from water penetration and water-borne stains. Oil stain protection is also very good (the best we've seen for a silicone impregnator), outperforming some recent fluoropolymer products -- http://www.mystonecare.com/Lithofin-Stone-Care-and-Tile-Care-Products-s/31.htm
-- wc-dusche?
-- rundes becken in brett eingelassen?
-- duravit waschbecken wie bei moni? in hornbach bestellen?
+- wc-dusche
 - armaturen entscheiden fuer bad und kueche
 - gasherd anschauen
-- gruene gipsplatte fuer die heizungsschrankwand
-- putz von der rolle fuer X qm, koernung 0.5-1.0 mm
 - heizkoerper, schmal, breit, hoehe 50, 3 stueck, breite 120 + 200 + 140
-- bei firma krueckes in schopfheim
-    - steinimpraegnierung in schopfheim abchecken (glatt naturstein hat ferien und oeffnet erst am 22.8)
-    - fussbodenabdichtung fuer untr den stein, zwei-komponenten, sack + fluessig
-
-- Heizungsrohr Anschluss
-  Vestol 12/16.1/2
-  Uebergang 12/16.1/2 auf halbzoll
-  Frima Vestol --> Vescal SA --> Walter Meier (Klima Schweiz) AG
-  http://www.waltermeier.com
-  Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com
-  
+- kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag
+- holz fuer dachbalkon kalkuelieren
