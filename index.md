@@ -64,7 +64,8 @@
       [bauarten](https://www.calmwaters.de/ratgeber/waschbecken-bauarten),
       [Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit](http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1),
       [EINBAUWASCHBECKEN Unterbau Waschtisch Porzellan Baeder-Boutique](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937),
-      [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken) tel. +49-511/5907041
+      [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken) tel. +49-511/5907041,
+      [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html)
     - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
     - heizleitungen verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr
     - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
@@ -501,3 +502,4 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - heizkoerper, schmal, breit, hoehe 50, 3 stueck, breite 120 + 200 + 140
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag
 - holz fuer dachbalkon kalkuelieren
+
