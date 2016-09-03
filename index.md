@@ -51,21 +51,6 @@
     - klo kaufen und montieren
     - handtuchtrockenhalter montieren
     - heizkoerper [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
-    - waschbecken ohne unterbau [keramag](http://www.keramag.com)
-      [preciosa wash basin 800 x 550 mm, without tap hole, without overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-wash-basin-800-x-550-mm-without-tap-hole-without-overflow/5473) [sketch](img/keramag_21577124284.pdf),
-      [Preciosa II Wash basin 900 x 500 mm, with tap hole, with overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-ii-wash-basin-900-x-500-mm-without-tap-hole-without-overflow/5435) [sketch](img/keramag_22641123291.docx)
-    - [waschtisch unterbau](https://www.megabad.com),
-      z.b. [Duravit DuraStyle Möbelwaschtisch 80 cm, ohne Hahnloch](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw),
-      unterbauwaschtisch, undercounter washbasin,
-      Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung,
-      Villeroy & Boch Loop & Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung,
-      [selber giessen](http://www.dani-danhaus.de/Anleitung_Waschbecken-Bau.pdf),
-      [einbauwaschtisch](https://www.calmwaters.de/waschbecken-und-waschtisch/waschbecken/426/waschbecken-tobago-in-weiss-51-6-cm?c=103),
-      [bauarten](https://www.calmwaters.de/ratgeber/waschbecken-bauarten),
-      [Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit](http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1),
-      [EINBAUWASCHBECKEN Unterbau Waschtisch Porzellan Baeder-Boutique](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937),
-      [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken) tel. +49-511/5907041,
-      [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html)
     - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
     - heizleitungen verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr
     - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
@@ -74,6 +59,22 @@
     - waschmaschine
     - neuer badheizkoerper besorgen und einbauen
     - schrankstreifen oder regalstreifen quer
+    - waschtisch fuer ein- und unterbau, unterbauwaschtisch, undercounter washbasin,
+      Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung,
+      Villeroy & Boch Loop & Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung,
+      [selber giessen](http://www.dani-danhaus.de/Anleitung_Waschbecken-Bau.pdf),
+      [einbauwaschtisch](https://www.calmwaters.de/waschbecken-und-waschtisch/waschbecken/426/waschbecken-tobago-in-weiss-51-6-cm?c=103),
+      [bauarten](https://www.calmwaters.de/ratgeber/waschbecken-bauarten),
+      [Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit](http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1),
+      [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken) tel. +49-511/5907041 [Unterbau Waschtisch Porzellan](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937)
+    - waschbecken ohne unterbau
+      [keramag](http://www.keramag.com)
+      [preciosa wash basin 800 x 550 mm, without tap hole, without overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-wash-basin-800-x-550-mm-without-tap-hole-without-overflow/5473) [sketch](img/keramag_21577124284.pdf),
+      [Preciosa II Wash basin 900 x 500 mm, with tap hole, with overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-ii-wash-basin-900-x-500-mm-without-tap-hole-without-overflow/5435) [sketch](img/keramag_22641123291.docx),
+      [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html), 
+      [Fliesenonkel](http://www.fliesenonkel.de) [Waschbecken aus Flusskiesel](http://www.fliesenonkel.de/Natursteinwaschbecken/Waschbecken-Flusskiesel-Findling/?filter_fv_id%5B1%5D%5B%5D=3&value_conjunction%5B1%5D=1&value_conjunction%5B2%5D=1&gm_boosted_category=Waschbecken-Flusskiesel-Findling&Natursteinwaschbecken=Waschbecken-Flusskiesel-Findling&cat=c474&cPath=473_474), 
+      [baliandmore](http://www.baliandmore.ch) [Lavabo Stone LB-005](http://www.baliandmore.ch/?gclid=CLfLr8z58s4CFUo8GwodZ_8MrA#!product-page/pu9if/8b0953c3-5d01-2c24-c75f-f8fc06f4cbf8),
+      [megabad](https://www.megabad.com) [Duravit DuraStyle 80 cm](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw)
     - flaechenberechnung fuer steinplatten oder kacheln:
         - fussboden 11.64 qm --> 12 qm
         - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
