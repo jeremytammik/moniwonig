@@ -4,15 +4,11 @@
 
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
-- firstbalken pfettenabstuetzungsbalken
-    - fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen
 - gaube
-    - decke streichen bevor lampen einbauen?
-    - kuechenfenster und schiebetuer einbauen
-    - deckenlampen fertig installieren
-    - heizkoerper kaufen und anschliessen bzwl rohre legen und in wand
-    - detaillierte regenrinnenplanung unter der schiebentuer sobald fenster montiert ist
-    - verkleidung von aussen
+    - deckenlampen wieder einbauen
+    - heizkoerper kaufen und anschliessen bzw. rohre legen und in wand
+    - uebergangsstufe vor der schiebentuer auf den balkon bauen
+    - regenrinne vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - deckelschalung verkleidung von fenster und schiebetuer
     - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
@@ -31,7 +27,6 @@
     - festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw., in ikea schauen
     - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
     - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
-    - fussboden verlegen: linoleum im nassbereich, trittschutzflies
     - arbeitsplatte buche stabverleimt
     - unterschraenke: mechanik von ikea, fronten aus holz
     - 93 cm arbeitshoehe
@@ -45,7 +40,7 @@
     - ziegelecke in kuechenwand grundieren und schleifen
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
-    - korkboden verlegen im kuechenbereich, wo parkett beschaedigt, linoleum?
+    - fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies!
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
     - glasschubladenregal fuer tee, gewuerze, zucker, usw.
     - deckelfreie brotversorgung
@@ -53,16 +48,17 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
     - heizkoerper schlanker und breiter machen, maximale leistung
 - bad
+    - klo kaufen und montieren
+    - handtuchtrockenhalter montieren
     - heizkoerper [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
     - [waschtisch unterbau](https://www.megabad.com), z.b. [Duravit DuraStyle Möbelwaschtisch 80 cm, ohne Hahnloch](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw), unterbauwaschtisch, undercounter washbasin, Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung, Villeroy & Boch Loop & Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung, [selber giessen](http://www.dani-danhaus.de/Anleitung_Waschbecken-Bau.pdf), [einbauwaschtisch](https://www.calmwaters.de/waschbecken-und-waschtisch/waschbecken/426/waschbecken-tobago-in-weiss-51-6-cm?c=103), [bauarten](https://www.calmwaters.de/ratgeber/waschbecken-bauarten), [Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit](http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1), [EINBAUWASCHBECKEN Unterbau Waschtisch Porzellan Baeder-Boutique](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937), [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken)
     - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
-    - wasserleitungen fuer waschbecken hochziehen verlaengern
     - heizleitungen verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr
     - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
     - dusche einbauen
     - waschbecken
     - waschmaschine
-    - neuer heizkoerper besorgen und einbauen
+    - neuer badheizkoerper besorgen und einbauen
     - schrankstreifen oder regalstreifen quer
     - flaechenberechnung fuer steinplatten oder kacheln:
         - fussboden 11.64 qm --> 12 qm
@@ -75,7 +71,7 @@
         - 7-9 mm dick 33 cm breit 11.64 + 11.71 = 23.35 qm
         - 7-9 mm dick 25 cm breit 3 m
         - 30-33 mm dick 25 cm breit 3.3 m
-    - kleber und fugen:
+    - steinkleber und fugen:
         - 350 kg carraflex
         - 75 kg carrafug jurabeige
 - stauraum
@@ -84,8 +80,8 @@
     - vorne gewindestangen von der decke haengen
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
 - zimmer
-    - decken verputzen
     - fenster streichen
+    - regalschrank in nische einbauen
     - westfenster mit alustreifen unten am glas ausbessern
     - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
     - west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
@@ -107,7 +103,11 @@
     - silikon kaufen und dach am schornstein flicken
     - isoflock von oben vom first aus nachstopfen
     - dachbalkon lerchenholz ausmessen und bestellen 4 cm dielen
+    - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
+    - dachbalkon wieder aufbauen
 - garten
+    - gartengestaltung tilo scheurer kontaktieren
+    - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
     - alle dachziegelhaufen zusammenfuehren und richtig schichten
@@ -118,10 +118,9 @@
     - balkonbretter schrubben
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of terasses of large natural stone blocks
-    - gartenweg steinplatten granit - im tessin bestellen?
+    - gartenweg steinplatten granit -- im tessin bestellen?
     - [loew gartenbau](http://www.loewgartenbau.ch) steinmauer auf dem weg hoch zum hagebaechli
     - ask neighbour above about his plans
-    - gartengestaltung tilo scheurer
     - sauna
         - mit michael beswprechen
         - in finland bestellen?
@@ -137,6 +136,8 @@
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
+- firstbalken pfettenabstuetzungsbalken
+    - fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.pdf)
 
 
 ## michael's architectural hints
@@ -404,6 +405,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 ## done 2016-08-30
 
 - wohnzimmer
+    - detaillierte regenrinnenplanung unter der schiebentuer sobald fenster montiert ist
+    - deckenlampen fertig installieren
+    - kuechenfenster und schiebetuer einbauen
+    - decke streichen bevor lampen einbauen?
     - wohnzimmerwand restlos papoierfetzen entfernen
     - termin machen mit fussbodenverleger, axel fragen, fragen was mit dem loch an der alten eingangstuer, loch vom pfostenende im fussboden, schadhafte parkettstellen flicken
 - kueche
@@ -416,18 +421,19 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - abwasserrinne installieren
     - alle freigelegte balken abbuersten
     - alle arbeiten fuer fliesenleger im bad abschliessen
-    - heizungsschrank mauer fuer die dusche bauen
     - kloinstallationswand mit rigips fertigstellen
     - isolationsecken, wo dach auf wand trifft, fertigbauen
     - decke abschliessen
     - deckenlampenkabel verstecken
     - duschabwasserrinne mit rohren und heizleitungen einbauen; rueckwand muss vorher exakt definiert sein plus minus 3-4 mm
-    - wandheizkoerper vorbereiten
+    - wasserleitungen fuer waschbecken hochziehen verlaengern
+    - wandheizkoerper vorbereiten leitungen legen
     - place a second radiator beside toilet? -- nope, open copper tubes instead
     - grosszuegige offene dusche, glaswand ohne bewegliche teile -- nein, doch keine glaswand
     - heizung akustisch isolieren, auch von der wand
     - heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr
     - heizungspumpe optimieren
+    - heizungsschrank mauer fuer die dusche bauen -- nope, keine mauer noetig    
     - schrank aus schreinerplatten oder grobspanplatten
     - kacheln oder platten fuer wand und boden aussuchen
     - holzfussboden? teak?
@@ -467,10 +473,9 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 ## Todo next:
 
-- elektro reinmachen und lampen reinmachen
+- elektroinstallation und lampen wieder einbauen
 - fussboden oben putzen
 - waschbecken und ablagen im bad planen
-- Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.pdf)
 - flurwand abschmirgeln, putzfehler verspachten
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - warmer fleck im kuehlschrankinnenraum isolieren
