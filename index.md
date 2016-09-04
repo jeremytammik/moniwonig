@@ -48,11 +48,14 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
     - heizkoerper schlanker und breiter machen, maximale leistung
 - bad
+    - duscharmatur waehlen
+    - dusche montieren
     - klo kaufen und montieren
     - handtuchtrockenhalter montieren
-    - heizkoerper [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
+    - spiegel aussuchen und montieren
+    - schraenke und regale bauen und montieren
+    - heizkoerper einbauen [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
     - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
-    - heizleitungen verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr
     - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
     - dusche einbauen
     - waschbecken
@@ -95,12 +98,15 @@
     - vorne gewindestangen von der decke haengen
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
 - zimmer
+    - leerraeumen
+    - boden wachsen
+    - fussbodenleiste?
+    - elektro anschliessen
     - fenster streichen
     - regalschrank in nische einbauen
     - westfenster mit alustreifen unten am glas ausbessern
     - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
     - west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
-    - waende verputzen oder streichen
     - fussboden renovieren, oelen, schleifen
     - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
 - elektro
@@ -120,6 +126,8 @@
     - dachbalkon lerchenholz ausmessen und bestellen 4 cm dielen
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
     - dachbalkon wieder aufbauen
+    - fussbodenleiste montieren
+    - boden wachsen
 - garten
     - gartengestaltung tilo scheurer kontaktieren
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
@@ -456,7 +464,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - steckdosen und beleuchtung anschliessen
     - leitungen mit schrank verkleiden
     - putzschrank und heizungsschrank bauen: tiefe = kaminflucht, wand bauen, flexible fugen, senkrechte stuetze mit metallwinkeln luftig verlegen
-    - heizleitungen unter duschabwasserrinne verlaengern
+    - heizleitungen unter duschabwasserrinne verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr
     - badklowand: gruene oelfarbe komplett eliminieren
     - balken im bad abschleifen
     - wandniveau fuer duschabwasserrinne definieren
@@ -466,12 +474,13 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - waende schoen machen
     - verputzen
 - zimmer
-    - alten tuerrahmen in falks zimmer ausbauen
+    - alten tuerrahmen im kleinen zimmer ausbauen
     - decken neu verputzen
     - alten tuerrahmen entfernen und rigipsplatte einsetzen
     - decken freilegen, farbe abloesen, verputzen oder streichen
     - tapeten abloesen
     - alle alten heizkoerper abbauen
+    - waende verputzen oder streichen
 - garten
     - nussbaum beschneiden
 - shop
