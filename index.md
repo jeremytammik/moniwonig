@@ -139,6 +139,7 @@
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
+    - balkongelaender um 20 cm kuerzen, pfosten absaegen
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of terasses of large natural stone blocks
     - gartenweg steinplatten granit -- im tessin bestellen?
