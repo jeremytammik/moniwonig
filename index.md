@@ -522,6 +522,6 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - Breite: 60.0 cm
     - System, Tiefe: 60.0 cm
     - Höhe: 80.0 cm
-- Kuehlschrank [Bomann KG 180 silber](http://www.billiger.de/show/produkt/307964689-Bomann-KG-180-silber.htm) eur 279
+- Kuehlschrank [Bomann KG 180 silber](http://www.billiger.de/show/produkt/307964689-Bomann-KG-180-silber.htm) eur 279, nee besser [185](http://www.notebooksbilliger.de/bomann+kg+185+weiss/eqsqid/6e42be67-00e9-4931-99f7-9ec7fa3140f1), eur 299
 - Korkfussboden 6 mm
 - [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790)
