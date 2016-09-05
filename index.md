@@ -13,7 +13,14 @@
     - deckelschalung verkleidung von fenster und schiebetuer
     - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
-    - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann)
+    - Metod Korpus Produktmasse
+        - Tiefe ohne Aufhängeschiene: 59.0 cm
+        - Tiefe inkl. Aufhängeschiene: 60.0 cm
+        - Breite: 60.0 cm
+        - System, Tiefe: 60.0 cm
+        - Höhe: 80.0 cm
+    - Korkfussboden 6 mm [Korkplatten 925 x 625 x 6 mm](http://korkrollen.de/category/korkplatten), [Klebekork](http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html)
+    - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
     - steinplatten granitplatten
         - [naturstein-indri.de](http://www.naturstein-indri.de)
         - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
@@ -62,6 +69,7 @@
     - waschmaschine
     - neuer badheizkoerper besorgen und einbauen
     - schrankstreifen oder regalstreifen quer
+    - wc-dusche?
     - waschtisch fuer ein- und unterbau, unterbauwaschtisch, undercounter washbasin,
       Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung,
       Villeroy & Boch Loop & Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung,
@@ -97,6 +105,7 @@
     - apothekerschrank auszug
     - vorne gewindestangen von der decke haengen
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
+    - Schubladengleitband [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790), [PP oder PE oder PA als Plattenmaterial für die Gleitschienen](https://online-plast.com)
 - zimmer
     - leerraeumen
     - boden wachsen
@@ -507,21 +516,8 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 ## Shop
 
-- wc-dusche
 - armaturen entscheiden fuer bad und kueche
 - gasherd anschauen
 - heizkoerper, schmal, breit, hoehe 50, 3 stueck, breite 120 + 200 + 140
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag
 - holz fuer dachbalkon kalkuelieren
-
-## Kuechenplanung
-
-- Metod Korpus Produktmasse
-    - Tiefe ohne Aufhängeschiene: 59.0 cm
-    - Tiefe inkl. Aufhängeschiene: 60.0 cm
-    - Breite: 60.0 cm
-    - System, Tiefe: 60.0 cm
-    - Höhe: 80.0 cm
-- Kuehlschrank [Bomann KG 180 silber](http://www.billiger.de/show/produkt/307964689-Bomann-KG-180-silber.htm) eur 279, nee besser [185](http://www.notebooksbilliger.de/bomann+kg+185+weiss/eqsqid/6e42be67-00e9-4931-99f7-9ec7fa3140f1), eur 299
-- Korkfussboden 6 mm [Korkplatten 925 x 625 x 6 mm](http://korkrollen.de/category/korkplatten), [Klebekork](http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html)
-- Schubladen [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790), [PP oder PE oder PA als Plattenmaterial für die Gleitschienen](https://online-plast.com)
