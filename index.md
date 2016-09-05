@@ -514,3 +514,14 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag
 - holz fuer dachbalkon kalkuelieren
 
+## Kuechenplanung
+
+- Metod Korpus Produktmasse
+    - Tiefe ohne Aufhängeschiene: 59.0 cm
+    - Tiefe inkl. Aufhängeschiene: 60.0 cm
+    - Breite: 60.0 cm
+    - System, Tiefe: 60.0 cm
+    - Höhe: 80.0 cm
+- Kuehlschrank [Bomann KG 180 silber](http://www.billiger.de/show/produkt/307964689-Bomann-KG-180-silber.htm) eur 279
+- Korkfussboden 6 mm
+- [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790)
