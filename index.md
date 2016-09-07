@@ -13,13 +13,6 @@
     - deckelschalung verkleidung von fenster und schiebetuer
     - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
-    - Metod Korpus Produktmasse
-        - Tiefe ohne Aufhängeschiene: 59.0 cm
-        - Tiefe inkl. Aufhängeschiene: 60.0 cm
-        - Breite: 60.0 cm
-        - System, Tiefe: 60.0 cm
-        - Höhe: 80.0 cm
-    - Korkfussboden 6 mm [Korkplatten 925 x 625 x 6 mm](http://korkrollen.de/category/korkplatten), [Klebekork](http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
     - steinplatten granitplatten
         - [naturstein-indri.de](http://www.naturstein-indri.de)
@@ -31,12 +24,9 @@
         - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de) &ndash; der in schopfheim, der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26 79650 tel. 07622/5600
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
-    - festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw., in ikea schauen
     - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
     - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
     - arbeitsplatte buche stabverleimt
-    - unterschraenke: mechanik von ikea, fronten aus holz
-    - 93 cm arbeitshoehe
     - freiliegende balken buersten
     - dachschraege weisseln?
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -504,6 +494,15 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - putz von der rolle fuer X qm, koernung 0.5-1.0 mm: mit lammfellrolle auftragen, trocknen lassen bis er lederartig ist und sich tupfen machen lassen mit dem finger, dann mit einem groben schwamm leicht verwischen
     - fussbodenabdichtung fuer unter den stein, zwei-komponenten, sack + fluessig
     - Heizungsrohr Anschluss: Vestol 12/16.1/2, Uebergang auf halbzoll, Firma Vestol --> Vescal SA --> [Walter Meier (Klima Schweiz) AG](http://www.waltermeier.com), , Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, [email](mailto:ch.klima@waltermeier.com)
+
+## done 2016-09-07
+
+- kitchen
+    - keep the parquet floor, no cork, so ignore this research: Korkfussboden 6 mm [Korkplatten 925 x 625 x 6 mm](http://korkrollen.de/category/korkplatten), [Klebekork](http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html)
+    - 93 cm arbeitshoehe
+    - unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.: [ikea kitchen korpus plan](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
+- stauraum
+    - gleitschienen von [online-plast.com](https://online-plast.com)
 
 ## Todo next:
 
