@@ -8,13 +8,12 @@
     - deckenlampen wieder einbauen
     - heizkoerper kaufen und anschliessen bzw. rohre legen und in wand
     - uebergangsstufe vor der schiebentuer auf den balkon bauen
-    - regenrinne vor der schiebentuer bauen
+    - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
-    - deckelschalung verkleidung von fenster und schiebetuer
     - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
-    - steinplatten granitplatten
+    - kuechenarbeitsplatte steinplatten granitplatten
         - [naturstein-indri.de](http://www.naturstein-indri.de)
         - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
         - [staechelin.de](http://staechelin.de)
@@ -27,8 +26,6 @@
     - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
     - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
     - arbeitsplatte buche stabverleimt
-    - freiliegende balken buersten
-    - dachschraege weisseln?
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
@@ -37,7 +34,6 @@
     - ziegelecke in kuechenwand grundieren und schleifen
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
-    - fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies!
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
     - glasschubladenregal fuer tee, gewuerze, zucker, usw.
     - deckelfreie brotversorgung
@@ -45,37 +41,19 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
     - heizkoerper schlanker und breiter machen, maximale leistung
 - bad
+    - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
     - duscharmatur waehlen
     - dusche montieren
     - klo kaufen und montieren
+    - duravit waschtisch montieren
     - handtuchtrockenhalter montieren
     - spiegel aussuchen und montieren
     - schraenke und regale bauen und montieren
     - heizkoerper einbauen [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
-    - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
-    - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
-    - dusche einbauen
-    - waschbecken
     - waschmaschine
     - neuer badheizkoerper besorgen und einbauen
     - schrankstreifen oder regalstreifen quer
     - wc-dusche?
-    - waschtisch fuer ein- und unterbau, unterbauwaschtisch, undercounter washbasin,
-      Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung,
-      Villeroy & Boch Loop & Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung,
-      [selber giessen](http://www.dani-danhaus.de/Anleitung_Waschbecken-Bau.pdf),
-      [einbauwaschtisch](https://www.calmwaters.de/waschbecken-und-waschtisch/waschbecken/426/waschbecken-tobago-in-weiss-51-6-cm?c=103),
-      [bauarten](https://www.calmwaters.de/ratgeber/waschbecken-bauarten),
-      [Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit](http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1),
-      [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken) tel. +49-511/5907041 [Unterbau Waschtisch Porzellan](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937)
-    - waschbecken ohne unterbau
-      [keramag](http://www.keramag.com)
-      [preciosa wash basin 800 x 550 mm, without tap hole, without overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-wash-basin-800-x-550-mm-without-tap-hole-without-overflow/5473) [sketch](img/keramag_21577124284.pdf),
-      [Preciosa II Wash basin 900 x 500 mm, with tap hole, with overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-ii-wash-basin-900-x-500-mm-without-tap-hole-without-overflow/5435) [sketch](img/keramag_22641123291.docx),
-      [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html), 
-      [Fliesenonkel](http://www.fliesenonkel.de) [Waschbecken aus Flusskiesel](http://www.fliesenonkel.de/Natursteinwaschbecken/Waschbecken-Flusskiesel-Findling/?filter_fv_id%5B1%5D%5B%5D=3&value_conjunction%5B1%5D=1&value_conjunction%5B2%5D=1&gm_boosted_category=Waschbecken-Flusskiesel-Findling&Natursteinwaschbecken=Waschbecken-Flusskiesel-Findling&cat=c474&cPath=473_474), 
-      [baliandmore](http://www.baliandmore.ch) [Lavabo Stone LB-005](http://www.baliandmore.ch/?gclid=CLfLr8z58s4CFUo8GwodZ_8MrA#!product-page/pu9if/8b0953c3-5d01-2c24-c75f-f8fc06f4cbf8),
-      [megabad](https://www.megabad.com) [Duravit DuraStyle 80 cm](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw)
     - flaechenberechnung fuer steinplatten oder kacheln:
         - fussboden 11.64 qm --> 12 qm
         - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
@@ -92,12 +70,8 @@
         - 75 kg carrafug jurabeige
 - stauraum
     - schreinerplatten
-    - apothekerschrank auszug
-    - vorne gewindestangen von der decke haengen
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
-    - Schubladengleitband [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790), [PP oder PE oder PA als Plattenmaterial für die Gleitschienen](https://online-plast.com)
 - zimmer
-    - leerraeumen
     - boden wachsen
     - fussbodenleiste?
     - elektro anschliessen
@@ -125,8 +99,8 @@
     - dachbalkon lerchenholz ausmessen und bestellen 4 cm dielen
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
     - dachbalkon wieder aufbauen
-    - fussbodenleiste montieren
-    - boden wachsen
+    - DG fussbodenleiste montieren
+    - DG boden wachsen
 - garten
     - gartengestaltung tilo scheurer kontaktieren
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
@@ -145,7 +119,7 @@
     - [loew gartenbau](http://www.loewgartenbau.ch) steinmauer auf dem weg hoch zum hagebaechli
     - ask neighbour above about his plans
     - sauna
-        - mit michael beswprechen
+        - mit michael besprechen
         - in finland bestellen?
         - holzterasse um die sauna rum
         - share with neighbour above?
@@ -435,6 +409,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - wohnzimmerwand restlos papoierfetzen entfernen
     - termin machen mit fussbodenverleger, axel fragen, fragen was mit dem loch an der alten eingangstuer, loch vom pfostenende im fussboden, schadhafte parkettstellen flicken
 - kueche
+    - freiliegende balken buersten
     - steinspuelbecken anschauen, spuelbecken aussuchen, kuechenspuelstein waschbecken reinholen, befestigung planen
     - ziegelecke in kuechenwand freilassen, saeubern, fugen ausbessern
     - tapete in kueche im kochbereich bis zum gasrohr entfernen
@@ -463,6 +438,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - kork verlegen?
     - steckdosen und beleuchtung anschliessen
     - leitungen mit schrank verkleiden
+    - heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier
     - putzschrank und heizungsschrank bauen: tiefe = kaminflucht, wand bauen, flexible fugen, senkrechte stuetze mit metallwinkeln luftig verlegen
     - heizleitungen unter duschabwasserrinne verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr
     - badklowand: gruene oelfarbe komplett eliminieren
@@ -498,11 +474,38 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 ## done 2016-09-07
 
 - kitchen
+    - dachschraege weisseln? -- nope, don't think so
     - keep the parquet floor, no cork, so ignore this research: Korkfussboden 6 mm [Korkplatten 925 x 625 x 6 mm](http://korkrollen.de/category/korkplatten), [Klebekork](http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html)
+    - fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies! nope, keep parkett
     - 93 cm arbeitshoehe
     - unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.: [ikea kitchen korpus plan](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
 - stauraum
+    - eliminated the idea of apothekerschrank auszug 
+    - vorne gewindestangen von der decke haengen
+    - schubladengleitband [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790), [PP oder PE oder PA als Plattenmaterial für die Gleitschienen](https://online-plast.com) -- nein, siehe naechster punkt:
     - gleitschienen von [online-plast.com](https://online-plast.com)
+- bad
+    - duravit waschtisch bestellt von megabad, s.u.
+        - waschtisch fuer ein- und unterbau, unterbauwaschtisch, undercounter washbasin,
+          Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung,
+          Villeroy & Boch Loop & Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung,
+          [selber giessen](http://www.dani-danhaus.de/Anleitung_Waschbecken-Bau.pdf),
+          [einbauwaschtisch](https://www.calmwaters.de/waschbecken-und-waschtisch/waschbecken/426/waschbecken-tobago-in-weiss-51-6-cm?c=103),
+          [bauarten](https://www.calmwaters.de/ratgeber/waschbecken-bauarten),
+          [Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit](http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1),
+          [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken) tel. +49-511/5907041 [Unterbau Waschtisch Porzellan](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937)
+        - waschbecken ohne unterbau
+          [keramag](http://www.keramag.com)
+          [preciosa wash basin 800 x 550 mm, without tap hole, without overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-wash-basin-800-x-550-mm-without-tap-hole-without-overflow/5473) [sketch](img/keramag_21577124284.pdf),
+          [Preciosa II Wash basin 900 x 500 mm, with tap hole, with overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-ii-wash-basin-900-x-500-mm-without-tap-hole-without-overflow/5435) [sketch](img/keramag_22641123291.docx),
+          [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html), 
+          [Fliesenonkel](http://www.fliesenonkel.de) [Waschbecken aus Flusskiesel](http://www.fliesenonkel.de/Natursteinwaschbecken/Waschbecken-Flusskiesel-Findling/?filter_fv_id%5B1%5D%5B%5D=3&value_conjunction%5B1%5D=1&value_conjunction%5B2%5D=1&gm_boosted_category=Waschbecken-Flusskiesel-Findling&Natursteinwaschbecken=Waschbecken-Flusskiesel-Findling&cat=c474&cPath=473_474), 
+          [baliandmore](http://www.baliandmore.ch) [Lavabo Stone LB-005](http://www.baliandmore.ch/?gclid=CLfLr8z58s4CFUo8GwodZ_8MrA#!product-page/pu9if/8b0953c3-5d01-2c24-c75f-f8fc06f4cbf8),
+          [megabad](https://www.megabad.com) [Duravit DuraStyle 80 cm](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw)
+- gaube
+    - deckelschalung verkleidung von fenster und schiebetuer
+- zimmer
+    - leerraeumen
 
 ## Todo next:
 
