@@ -515,6 +515,9 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - flurwand abschmirgeln, putzfehler verspachten
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - warmer fleck im kuehlschrankinnenraum isolieren
+- parkettreparaturkleber holz auf stein [sika](http://deu.sika.com/de/Kleben-und-Dichten-am-Bau/KlebenDichtenBau.html)
+- led-leiste verdeckt unter balkonvodach sebson
+
 
 ## Shop
 
