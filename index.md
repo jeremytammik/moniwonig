@@ -6,7 +6,7 @@
 
 - gaube
     - deckenlampen wieder einbauen
-    - heizkoerper kaufen und anschliessen bzw. rohre legen und in wand
+    - heizkoerper anschliessen bzw. heizrohre legen in der wand
     - uebergangsstufe vor der schiebentuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
@@ -39,7 +39,6 @@
     - deckelfreie brotversorgung
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
-    - heizkoerper schlanker und breiter machen, maximale leistung
 - bad
     - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
     - duscharmatur waehlen
@@ -51,7 +50,7 @@
     - schraenke und regale bauen und montieren
     - heizkoerper einbauen [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
     - waschmaschine
-    - neuer badheizkoerper besorgen und einbauen
+    - badheizkoerper einbauen
     - schrankstreifen oder regalstreifen quer
     - wc-dusche?
     - flaechenberechnung fuer steinplatten oder kacheln:
@@ -65,9 +64,6 @@
         - 7-9 mm dick 33 cm breit 11.64 + 11.71 = 23.35 qm
         - 7-9 mm dick 25 cm breit 3 m
         - 30-33 mm dick 25 cm breit 3.3 m
-    - steinkleber und fugen:
-        - 350 kg carraflex
-        - 75 kg carrafug jurabeige
 - stauraum
     - schreinerplatten
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
@@ -76,17 +72,16 @@
     - fussbodenleiste?
     - elektro anschliessen
     - fenster streichen
+    - fensterbleche befestigen
     - regalschrank in nische einbauen
-    - westfenster mit alustreifen unten am glas ausbessern
+    - westfenster mit sprosse4nschutzdeckel alustreifen unten am glas ausbessern
     - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
     - west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
     - fussboden renovieren, oelen, schleifen
     - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
 - elektro
-    - stromzaehler fuer heizung - moni
-    - stromzaehler fuer gemeinschaftslicht - jeremy
+    - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
-    - LED-beleuchtung ueberall
 - eingangsbereich
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen
@@ -471,7 +466,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - fussbodenabdichtung fuer unter den stein, zwei-komponenten, sack + fluessig
     - Heizungsrohr Anschluss: Vestol 12/16.1/2, Uebergang auf halbzoll, Firma Vestol --> Vescal SA --> [Walter Meier (Klima Schweiz) AG](http://www.waltermeier.com), , Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, [email](mailto:ch.klima@waltermeier.com)
 
-## done 2016-09-07
+## done 2016-09-08
 
 - kitchen
     - dachschraege weisseln? -- nope, don't think so
@@ -479,12 +474,18 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies! nope, keep parkett
     - 93 cm arbeitshoehe
     - unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.: [ikea kitchen korpus plan](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
+    - heizkoerper schlanker und breiter machen, maximale leistung
 - stauraum
     - eliminated the idea of apothekerschrank auszug 
     - vorne gewindestangen von der decke haengen
     - schubladengleitband [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790), [PP oder PE oder PA als Plattenmaterial für die Gleitschienen](https://online-plast.com) -- nein, siehe naechster punkt:
     - gleitschienen von [online-plast.com](https://online-plast.com)
 - bad
+    - waschbecken und ablagen im bad planen
+    - neuer badheizkoerper besorgen
+    - steinkleber und fugen:
+        - 350 kg carraflex
+        - 75 kg carrafug jurabeige
     - duravit waschtisch bestellt von megabad, s.u.
         - waschtisch fuer ein- und unterbau, unterbauwaschtisch, undercounter washbasin,
           Villeroy & Boch Loop & Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung,
@@ -506,23 +507,31 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - deckelschalung verkleidung von fenster und schiebetuer
 - zimmer
     - leerraeumen
+    - neue heizkoerper kaufen: schmal, breit, hoehe 50, 3 stueck, breite 120 + 200 + 140
+-elektro
+    - LED-beleuchtung ueberall
+    - stromzufuhr fuer heizung sitzt in monis stromkreis &ndash; separaten stromzaehler installieren
+
+## done 2016-09-11
+
+- warmer fleck im kuehlschrankinnenraum isolieren
+
 
 ## Todo next:
 
-- elektroinstallation und lampen wieder einbauen
+- elektro FI und zaehler einbauen
+- holz vom nussbaum zu saegen und spalten
+- fussboden in der kueche aufraeumen und wachsen
 - fussboden oben putzen
-- waschbecken und ablagen im bad planen
-- flurwand abschmirgeln, putzfehler verspachten
+- loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
-- warmer fleck im kuehlschrankinnenraum isolieren
 - parkettreparaturkleber holz auf stein [sika](http://deu.sika.com/de/Kleben-und-Dichten-am-Bau/KlebenDichtenBau.html)
-- led-leiste verdeckt unter balkonvodach sebson
+- led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 
 
 ## Shop
 
 - armaturen entscheiden fuer bad und kueche
 - gasherd anschauen
-- heizkoerper, schmal, breit, hoehe 50, 3 stueck, breite 120 + 200 + 140
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag
 - holz fuer dachbalkon kalkuelieren
