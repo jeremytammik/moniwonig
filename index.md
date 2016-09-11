@@ -10,7 +10,7 @@
     - uebergangsstufe vor der schiebentuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
-    - parkett renovieren: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
+    - [mosaikparkett renovieren](doc/mosaikparkett_renovieren.pdf): axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
     - kuechenarbeitsplatte steinplatten granitplatten
