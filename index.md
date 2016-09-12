@@ -7,11 +7,12 @@
 - gaube
     - deckenlampen wieder einbauen
     - heizkoerper anschliessen bzw. heizrohre legen in der wand
-    - uebergangsstufe vor der schiebentuer auf den balkon bauen
+    - uebergangsstufe vor der schiebetuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - [mosaikparkett renovieren](doc/mosaikparkett_renovieren.pdf): axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - kueche
+    - schubladenfronten [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
     - kuechenarbeitsplatte steinplatten granitplatten
         - [naturstein-indri.de](http://www.naturstein-indri.de)
@@ -473,7 +474,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - keep the parquet floor, no cork, so ignore this research: Korkfussboden 6 mm [Korkplatten 925 x 625 x 6 mm](http://korkrollen.de/category/korkplatten), [Klebekork](http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html)
     - fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies! nope, keep parkett
     - 93 cm arbeitshoehe
-    - unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.: [ikea kitchen korpus plan](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
+    - unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.: [ikea kitchen korpus plan and shopping list](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
     - heizkoerper schlanker und breiter machen, maximale leistung
 - stauraum
     - eliminated the idea of apothekerschrank auszug 
@@ -514,14 +515,16 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 ## done 2016-09-11
 
+- gasherd anschauen &ndash; done, we bought a gas cooking range and an electric stove
+- [ikea kitchen korpus plan and shopping list](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
 - warmer fleck im kuehlschrankinnenraum isolieren
+- fussboden in der kueche aufraeumen und wachsen
 
 
 ## Todo next:
 
 - elektro FI und zaehler einbauen
 - holz vom nussbaum zu saegen und spalten
-- fussboden in der kueche aufraeumen und wachsen
 - fussboden oben putzen
 - loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
@@ -532,6 +535,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 ## Shop
 
 - armaturen entscheiden fuer bad und kueche
-- gasherd anschauen
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag
 - holz fuer dachbalkon kalkuelieren
+- torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze/?cm_mmc=DE-PPC-_-google-_-1_DE_DE_G_Screwdrivers_Exact-_-Screwdriver_Bit_Sets&mkwid=s2EDhNXVc_dc|pcrid|98959341058|pkw|torx%20bit|pmt|e|prd|&gclid=CPaajb7Aic8CFcUGcwodgr8FIw#esid=4294958716&applied-dimensions=4294261688&sort-by=P_breakPrice1&sort-order=asc)
+- [Abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227)
