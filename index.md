@@ -530,6 +530,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - parkettreparaturkleber holz auf stein [sika](http://deu.sika.com/de/Kleben-und-Dichten-am-Bau/KlebenDichtenBau.html)
 - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
+- wieslaw 2016-09-17
+    - fugenrisse
+    - zweite impraegnierung
+    - rollputz oberhalb der dusche
 
 
 ## Shop
@@ -539,3 +543,6 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - holz fuer dachbalkon kalkuelieren
 - torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze/?cm_mmc=DE-PPC-_-google-_-1_DE_DE_G_Screwdrivers_Exact-_-Screwdriver_Bit_Sets&mkwid=s2EDhNXVc_dc|pcrid|98959341058|pkw|torx%20bit|pmt|e|prd|&gclid=CPaajb7Aic8CFcUGcwodgr8FIw#esid=4294958716&applied-dimensions=4294261688&sort-by=P_breakPrice1&sort-order=asc)
 - [Abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227)
+
+
+
