@@ -14,7 +14,7 @@
 - kueche
     - schubladenfronten [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
-    - kuechenarbeitsplatte steinplatten granitplatten
+    - kuechenarbeitsplatte holz oder stein? buche stabverleimt? kambala? steinplatten, granit, marmor?
         - [naturstein-indri.de](http://www.naturstein-indri.de)
         - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
         - [staechelin.de](http://staechelin.de)
@@ -22,17 +22,15 @@
         - [granit-discount.com](https://www.granit-discount.com/granit_marmor_kuechenarbeitsplatten.php) &ndash; 100 x 60 Gesamtpreis poliert eur 552,04
         - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
         - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de) &ndash; der in schopfheim, der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26 79650 tel. 07622/5600
+    - wasserarmatur? spueldusche? schwenkhahn mit schnuddel?
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
-    - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
-    - arbeitsplatte buche stabverleimt
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
     - ablageflaechen platz rechts und links von jeden geraet
     - abtropfgestell ueber der spuele
-    - ziegelecke in kuechenwand grundieren und schleifen
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
@@ -41,7 +39,6 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
     - duscharmatur waehlen
     - dusche montieren
     - klo kaufen und montieren
@@ -49,37 +46,22 @@
     - handtuchtrockenhalter montieren
     - spiegel aussuchen und montieren
     - schraenke und regale bauen und montieren
-    - heizkoerper einbauen [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
     - waschmaschine
     - badheizkoerper einbauen
     - schrankstreifen oder regalstreifen quer
     - wc-dusche?
-    - flaechenberechnung fuer steinplatten oder kacheln:
-        - fussboden 11.64 qm --> 12 qm
-        - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
-          = 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100
-          = 11.71 qm --> 12 qm
-        - tuerlaibung 300h x 25b
-        - klonischenwaende mindestens 30 mm dick x 330h x 25b
-        - fussbodenleisten 80 + 200 + 200 + 100 cm = 3.8 m
-        - 7-9 mm dick 33 cm breit 11.64 + 11.71 = 23.35 qm
-        - 7-9 mm dick 25 cm breit 3 m
-        - 30-33 mm dick 25 cm breit 3.3 m
 - stauraum
     - schreinerplatten
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
 - zimmer
+    - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
     - boden wachsen
     - fussbodenleiste?
-    - elektro anschliessen
-    - fenster streichen
     - fensterbleche befestigen
     - regalschrank in nische einbauen
-    - westfenster mit sprosse4nschutzdeckel alustreifen unten am glas ausbessern
-    - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
-    - west-fensterlaibungen aussen neu steichen (oder neues brett drueber nageln)
+    - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern
+    - vergroesserte westfensteroeffnungen oben abschluss
     - fussboden renovieren, oelen, schleifen
-    - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
 - elektro
     - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
@@ -108,7 +90,6 @@
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
-    - balkongelaender um 20 cm kuerzen, pfosten absaegen
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of terasses of large natural stone blocks
     - gartenweg steinplatten granit -- im tessin bestellen?
@@ -125,6 +106,7 @@
         - holzzaun reste entfernen und versorgen
         - gartenzaun gartenhag
         - bepflanzen: glyzinie, geissblatt, jasmin
+    - verrottete schopfpfosten ersetzen oder kompletter neubau
 - admin
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
@@ -202,6 +184,19 @@
 - http://www.burkard-brunner.de
 - Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010
 - 48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel
+
+## Badflaechenberechnung fuer Natursteinplatten
+
+- fussboden 11.64 qm --> 12 qm
+- waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
+  = 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100
+  = 11.71 qm --> 12 qm
+- tuerlaibung 300h x 25b
+- klonischenwaende mindestens 30 mm dick x 330h x 25b
+- fussbodenleisten 80 + 200 + 200 + 100 cm = 3.8 m
+- 7-9 mm dick 33 cm breit 11.64 + 11.71 = 23.35 qm
+- 7-9 mm dick 25 cm breit 3 m
+- 30-33 mm dick 25 cm breit 3.3 m
 
 ## Badezimmer Solnhofer Naturstein Verlegen a la Madlee
 
@@ -509,16 +504,34 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - zimmer
     - leerraeumen
     - neue heizkoerper kaufen: schmal, breit, hoehe 50, 3 stueck, breite 120 + 200 + 140
--elektro
+- elektro
     - LED-beleuchtung ueberall
     - stromzufuhr fuer heizung sitzt in monis stromkreis &ndash; separaten stromzaehler installieren
 
-## done 2016-09-11
+## done 2016-09-13
 
-- gasherd anschauen &ndash; done, we bought a gas cooking range and an electric stove
-- [ikea kitchen korpus plan and shopping list](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
-- warmer fleck im kuehlschrankinnenraum isolieren
-- fussboden in der kueche aufraeumen und wachsen
+- kueche
+    - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
+    - gasherd anschauen &ndash; done, we bought a gas cooking range and an electric stove
+    - [ikea kitchen korpus plan and shopping list](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
+    - warmer fleck im kuehlschrankinnenraum isolieren
+    - fussboden in der kueche aufraeumen und wachsen
+    - ziegelecke in kuechenwand grundieren und schleifen
+    - parkettreparaturkleber holz auf stein [sika](http://deu.sika.com/de/Kleben-und-Dichten-am-Bau/KlebenDichtenBau.html); erledigt mit montagekleber
+- bad
+    - alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall
+    - heizkoerper aussuchen [duschmeister.de](https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html)
+- zimmer
+    - elektro anschliessen
+    - fenster streichen
+    - fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen
+    - west-fensterlaibungen aussen neu streichen (oder neues brett drueber nageln)
+- balkon
+    - balkongelaender um 20 cm kuerzen, pfosten absaegen
+- shop
+    - torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze/?cm_mmc=DE-PPC-_-google-_-1_DE_DE_G_Screwdrivers_Exact-_-Screwdriver_Bit_Sets&mkwid=s2EDhNXVc_dc|pcrid|98959341058|pkw|torx%20bit|pmt|e|prd|&gclid=CPaajb7Aic8CFcUGcwodgr8FIw#esid=4294958716&applied-dimensions=4294261688&sort-by=P_breakPrice1&sort-order=asc)
+    - [Abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227)
+    - Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch    
 
 
 ## Todo next:
@@ -528,19 +541,15 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - fussboden oben putzen
 - loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
-- parkettreparaturkleber holz auf stein [sika](http://deu.sika.com/de/Kleben-und-Dichten-am-Bau/KlebenDichtenBau.html)
 - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - wieslaw 2016-09-17
     - fugenrisse
     - zweite impraegnierung
     - rollputz oberhalb der dusche
-
-
-## Shop
-
+- gartengestaltung tilo scheurer kontaktieren
+- steinplatten skizzieren und in auftrag geben
 - armaturen entscheiden fuer bad und kueche
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag
 - holz fuer dachbalkon kalkuelieren
-- torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze/?cm_mmc=DE-PPC-_-google-_-1_DE_DE_G_Screwdrivers_Exact-_-Screwdriver_Bit_Sets&mkwid=s2EDhNXVc_dc|pcrid|98959341058|pkw|torx%20bit|pmt|e|prd|&gclid=CPaajb7Aic8CFcUGcwodgr8FIw#esid=4294958716&applied-dimensions=4294261688&sort-by=P_breakPrice1&sort-order=asc)
-- [Abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227)
-- Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch
+
+
