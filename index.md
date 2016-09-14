@@ -60,7 +60,7 @@
     - fussbodenleiste?
     - fensterbleche befestigen
     - regalschrank in nische einbauen
-    - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern
+    - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
     - vergroesserte westfensteroeffnungen oben abschluss
     - fussboden renovieren, oelen, schleifen
 - elektro
