@@ -22,7 +22,7 @@
         - [granit-discount.com](https://www.granit-discount.com/granit_marmor_kuechenarbeitsplatten.php) &ndash; 100 x 60 Gesamtpreis poliert eur 552,04
         - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
         - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de), der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600
-        - [Krückels Michael](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44
+        - [Krückels Michael](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
     - wasserarmatur? spueldusche? schwenkhahn mit schnuddel?
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
