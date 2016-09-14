@@ -15,7 +15,7 @@
     - schubladenfronten [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
     - kuechenarbeitsplatte holz oder stein? buche stabverleimt? kambala? steinplatten, granit, marmor?
-        - [naturstein-indri.de](http://www.naturstein-indri.de)
+        - [Naturstein Indri](http://www.naturstein-indri.de), Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12 
         - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
         - [staechelin.de](http://staechelin.de)
         - [natursteinepost.de/materialien/granit-klassisch](http://natursteinepost.de/materialien/granit-klassisch)
