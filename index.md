@@ -542,9 +542,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 
 ## Todo next:
 
-- gaubendeckenlampen einkleben
+- gaubendeckenlampen einkleben mit acrylkleber in der blauen pistole
 - plastikfolie unter estrich an der alten eingangstuer abschneiden
-- isolatiosfolie hinter den heizkoerpern ankleben, vorher styropordreieck anbringen
+- isolatiosfolie hinter den heizkoerpern ankleben, vorher styropordreieck anbringen, mit styroporkleber
+- kupferblech an schornstein neu ausfugen mit silikoferm
 - elektro FI und zaehler einbauen
 - holz vom nussbaum zu saegen und spalten
 - fussboden oben putzen
