@@ -9,6 +9,7 @@
     - uebergangsstufe vor der schiebetuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
+    - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
     - [mosaikparkett renovieren](doc/mosaikparkett_renovieren.pdf): axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
     - parkettfugenmasse
         - [zoechling-holz.at](https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726): Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.
@@ -132,11 +133,9 @@
 ## people
 
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
-- falk empfiehlt seinen freund stefan
 - johannes, zimmermann in linnach
-- create a building team to help DIY: falk, otto, wolfgang, ecki, juergen
-- ask simon seeger und victor portenier
-- wer macht kueche? klaus von nicole?
+- diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
+- klaus von nicole
 
 ## <a name="ofen"></a>ofen
 
@@ -318,14 +317,14 @@
 - wasserrohr im bad groesser verlegen
 - wandvorsprung in badecke terminieren
 
-## falk in june
+## done in june
 
 - bathroom
 - stauraum
 - elektro
 - zimmer
 
-## done by falk 2016-06-19
+## done 2016-06-19
 
 Done:
 
@@ -348,7 +347,7 @@ Todo:
 - heizkoerper ersetzen
 - holzzaunreste entfernen
 
-## done by falk 2016-06-24
+## done 2016-06-24
 
 - Dach ist nahezu fertig; Blechner kommt am Montag noch mal um fertig zu machen.
 - Dachbalkon: Holmer hat so ein Gummi f.d. Stempel. Bringt Muster. Vom Schlosser würd ich die Platten aus Alu (günstiger als Edelstahl) bekommen.
@@ -559,7 +558,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - plastikfolie unter estrich an der alten eingangstuer abschneiden
 - daemmschicht isolationsfolie hinter den heizkoerpern ankleben, vorher styropordreieck anbringen, mit styroporkleber
 
-## Todo next:
+## todo next
 
 - wieslaw 2016-09-17
     - fugenrisse
@@ -568,13 +567,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - fussbodenleisten hinter stauraum entfernen
 - kupferblech an schornstein neu ausfugen mit silikoferm
 - elektro FI und zaehler einbauen
-- holz vom nussbaum zu saegen und spalten
+- holz vom nussbaum saegen und spalten
 - fussboden oben putzen
 - loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
-- led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
-
-
 - armaturen entscheiden fuer bad und kueche
 - defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
