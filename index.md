@@ -572,5 +572,11 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
-- armaturen entscheiden fuer bad und kueche
 - defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
+- armaturen entscheiden fuer kueche
+    - [Wandmontage-Mischbatterie / aus Messing / Küchen / 2-Loch
+Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [AquaPrestige](http://www.aquaprestige.be/nl/producten/keuken/keuken-tweegreepsmengkranen/mont-blanc-keuken-wand-tweegreepsmengkraan)
+    - [Küchenarmatur schwenkbarer Auslauf, Wandmontage Mischbatterie Küche Wasserhahn](https://www.amazon.de/Küchenarmatur-schwenkbarer-Wandmontage-Mischbatterie-Wasserhahn/dp/B016AAW80S/ref=sr_1_1)
+    - [KALUD Wandmontage Einhebel Zweilöche verchromt Mischbatterie mit Schlauchbrause Wasserhahn aus robustem Messing für Dusch](https://www.amazon.de/Wandmontage-Zweil%C3%B6che-Mischbatterie-Schlauchbrause-Wasserhahn/dp/B012AF81U8/ref=sr_1_11)
+    - [](http://www.archiexpo.de/prod/delabie/product-107-1291093.html)
+- armaturen entscheiden fuer bad
