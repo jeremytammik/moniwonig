@@ -16,7 +16,7 @@
         - [hanno.at](http://www.hanno.at/de/parkettfugenmasse.html): Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.
         - [Ferax](http://ferax.de/parkett-fugenmasse.html): Parkettfugenmasse, gebrauchsfertige, einkomponentige, silikonfreie, lösemittel- und formaldehydfreie Fugenmasse auf der Basis einer hochwertigen Polyacrylat-Dispersion. Eignet sich hervorragend zum Verschließen von Fugen bei allen Arten von Holzböden, wie z. B. Parkett, Dielen, Holzpflaster, Sockelleisten usw. sowohl vor als auch nach der Holzversiegelung. Zum Verfugen von Sockelleisten und anderen Abschlüssen. Nur für den Innenbereich einsetzbar, silikonfrei, lösemittelfrei, geruchsneutral, schnelltrocknend, schleifbar, überstreichbar, ohne Verlaufstörungen überversiegelbar, lange lagerfähig, temperaturbeständig.
 - kueche
-    - fensterbank im selben stein wie kuechenarbeitsplatte? [skizze](img/kuechenfensterbank_skizze_1.jpg)
+    - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
     - wasserarmatur? spueldusche? schwenkhahn mit schnuddel?
