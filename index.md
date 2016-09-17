@@ -5,7 +5,6 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - deckenlampen wieder einbauen
     - heizkoerper anschliessen bzw. heizrohre legen in der wand
     - uebergangsstufe vor der schiebetuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
@@ -49,15 +48,15 @@
 - stauraum
     - schreinerplatten
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
+    - apothekerschrank
 - zimmer
     - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
-    - boden wachsen
     - fussbodenleiste?
     - fensterbleche befestigen
     - regalschrank in nische einbauen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
-    - vergroesserte westfensteroeffnungen oben abschluss
-    - fussboden renovieren, oelen, schleifen
+    - vergroesserte westfensteroeffnungen oben abschliessen
+    - fussboden renovieren, oelen, schleifen, wachsen
 - elektro
     - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
@@ -70,13 +69,12 @@
 - dach
     - silikon kaufen und dach am schornstein flicken
     - isoflock von oben vom first aus nachstopfen
-    - dachbalkon lerchenholz ausmessen und bestellen 4 cm dielen
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
     - dachbalkon wieder aufbauen
     - DG fussbodenleiste montieren
     - DG boden wachsen
 - garten
-    - gartengestaltung tilo scheurer kontaktieren
+    - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
@@ -88,7 +86,7 @@
     - balkonbretter schrubben
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of terasses of large natural stone blocks
-    - gartenweg steinplatten granit -- im tessin bestellen?
+    - gartenweg steinplatten granit &ndash; im tessin bestellen?
     - [loew gartenbau](http://www.loewgartenbau.ch) steinmauer auf dem weg hoch zum hagebaechli
     - ask neighbour above about his plans
     - sauna
@@ -550,11 +548,13 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - [Abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227)
     - Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch    
 - georg holzbestellung
-    - holz fuer dachbalkon kalkuelieren
+    - lerchenholz fuer dachbalkon ausmessen, kalkuelieren und bestellen 4 cm dielen
+
 
 ## done 2016-09-17
 
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag, in auftrag geben
+- deckenlampen wieder einbauen
 - gaubendeckenlampen einkleben mit acrylkleber in der blauen pistole
 - plastikfolie unter estrich an der alten eingangstuer abschneiden
 - daemmschicht isolationsfolie hinter den heizkoerpern ankleben, vorher styropordreieck anbringen, mit styroporkleber
@@ -573,6 +573,8 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
-- gartengestaltung tilo scheurer kontaktieren
+- gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
+
+
 - armaturen entscheiden fuer bad und kueche
 - defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
