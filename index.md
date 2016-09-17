@@ -549,16 +549,23 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze/?cm_mmc=DE-PPC-_-google-_-1_DE_DE_G_Screwdrivers_Exact-_-Screwdriver_Bit_Sets&mkwid=s2EDhNXVc_dc|pcrid|98959341058|pkw|torx%20bit|pmt|e|prd|&gclid=CPaajb7Aic8CFcUGcwodgr8FIw#esid=4294958716&applied-dimensions=4294261688&sort-by=P_breakPrice1&sort-order=asc)
     - [Abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227)
     - Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch    
+- georg holzbestellung
+    - holz fuer dachbalkon kalkuelieren
 
 ## done 2016-09-17
 
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag, in auftrag geben
+- gaubendeckenlampen einkleben mit acrylkleber in der blauen pistole
+- plastikfolie unter estrich an der alten eingangstuer abschneiden
+- daemmschicht isolationsfolie hinter den heizkoerpern ankleben, vorher styropordreieck anbringen, mit styroporkleber
 
 ## Todo next:
 
-- gaubendeckenlampen einkleben mit acrylkleber in der blauen pistole
-- plastikfolie unter estrich an der alten eingangstuer abschneiden
-- isolatiosfolie hinter den heizkoerpern ankleben, vorher styropordreieck anbringen, mit styroporkleber
+- wieslaw 2016-09-17
+    - fugenrisse
+    - zweite impraegnierung
+    - rollputz oberhalb der dusche
+- fussbodenleisten hinter stauraum entfernen
 - kupferblech an schornstein neu ausfugen mit silikoferm
 - elektro FI und zaehler einbauen
 - holz vom nussbaum zu saegen und spalten
@@ -566,12 +573,6 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
-- wieslaw 2016-09-17
-    - fugenrisse
-    - zweite impraegnierung
-    - rollputz oberhalb der dusche
 - gartengestaltung tilo scheurer kontaktieren
 - armaturen entscheiden fuer bad und kueche
-- holz fuer dachbalkon kalkuelieren
 - defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
-- georg holzbestellung:
