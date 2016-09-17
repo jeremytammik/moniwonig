@@ -108,7 +108,7 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 - firstbalken pfettenabstuetzungsbalken
-    - fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.pdf)
+    - auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.pdf)
 - projects
     - warmwasser- und heizungssolaranlage
 
@@ -327,13 +327,13 @@
 
 ## done 2016-06-19
 
-Done:
+done:
 
 - decke zweimal vergipst
 - sturz vergossen
 - baustuetzen raus
 
-Todo:
+todo:
 
 - lampen rein
 - strom legen
@@ -403,7 +403,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - duschabwasserrinne bestellen 
 - solnhofer naturstein bestellen fuer badfussboden und -waende
 - freizulassende ziegelmauerpartien saeubern und festigen
-- 1. Der Aufschiebling auf dem bestehenden Untersparren (Achse 3) ist noch entsprechend der geprüften Positionszeichnung kraftschlüssig einzubauen: der Aufschiebling ist auf dem bestehenden Untersparrenverschraubt mit 12 x 300 kraftschlüssig verschraubt.
+- auflage 1 vom pruefstatiker: Der Aufschiebling auf dem bestehenden Untersparren (Achse 3) ist noch entsprechend der geprüften Positionszeichnung kraftschlüssig einzubauen: der Aufschiebling ist auf dem bestehenden Untersparrenverschraubt mit 12 x 300 kraftschlüssig verschraubt.
 
 ## done 2016-08-30
 
