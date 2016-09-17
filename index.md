@@ -18,15 +18,6 @@
 - kueche
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
-    - kuechenarbeitsplatte holz oder stein? buche stabverleimt? kambala? steinplatten, granit, marmor?
-        - [Naturstein Indri](http://www.naturstein-indri.de), Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12 
-        - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
-        - [staechelin.de](http://staechelin.de)
-        - [natursteinepost.de/materialien/granit-klassisch](http://natursteinepost.de/materialien/granit-klassisch)
-        - [granit-discount.com](https://www.granit-discount.com/granit_marmor_kuechenarbeitsplatten.php) &ndash; 100 x 60 Gesamtpreis poliert eur 552,04
-        - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
-        - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de), der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600
-        - [Krückels Michael](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
     - wasserarmatur? spueldusche? schwenkhahn mit schnuddel?
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
@@ -215,7 +206,7 @@
 - moertelbett zum ausgleichen
 - nach den verlegen trocknen lassen, dann impraegnieren
 - z.b. mit litufin, 1 liter reicht
-- man kann auch bei firma krueckes in schopfheim die impraegnierung holen, fuer granitplatten
+- man kann auch bei firma krueckels in schopfheim die impraegnierung holen, fuer granitplatten
 - verfugen mit karrafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
 - impraegnierung: http://www.lithofin.de/de/lithofinder &ndash; NN loesemittelhaltig W wasserloeslich
 - abdichtung:
@@ -231,6 +222,26 @@
 - Uebergang 12/16.1/2 auf halbzoll
 - Frima Vestol --> Vescal SA --> Walter Meier (Klima Schweiz) AG [www.waltermeier.com](http://www.waltermeier.com)
 - Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com
+
+## Kuechenarbeitsplatte
+
+- kaschmir granit von [Michael Krückels](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
+- skizzen
+    - [rechtecke](img/moniwonigkuechenarbeitsplatte01.png)
+    - [masse](img/moniwonigkuechenarbeitsplatte02.png)
+    - [rundungen](img/moniwonigkuechenarbeitsplatte03.png)
+    - [radius und vorsprung](img/moniwonigkuechenarbeitsplatte04.png)
+    - [skizze krueckels](img/kuechenarbeitsplatten_skizze_1.jpg)
+    - [exakte masse](img/kuechenarbeitsplatten_skizze_2.jpg)
+- kuechenarbeitsplatte holz oder stein? buche stabverleimt? kambala? steinplatten, granit, marmor?
+- anbieter
+    - [Naturstein Indri](http://www.naturstein-indri.de), Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12 
+    - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
+    - [staechelin.de](http://staechelin.de)
+    - [natursteinepost.de/materialien/granit-klassisch](http://natursteinepost.de/materialien/granit-klassisch)
+    - [granit-discount.com](https://www.granit-discount.com/granit_marmor_kuechenarbeitsplatten.php) &ndash; 100 x 60 Gesamtpreis poliert eur 552,04
+    - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
+    - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de), der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600
 
   
 # done
@@ -539,6 +550,9 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - [Abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227)
     - Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch    
 
+## done 2016-09-17
+
+- kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag, in auftrag geben
 
 ## Todo next:
 
@@ -557,9 +571,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - zweite impraegnierung
     - rollputz oberhalb der dusche
 - gartengestaltung tilo scheurer kontaktieren
-- steinplatten skizzieren und in auftrag geben
 - armaturen entscheiden fuer bad und kueche
-- kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag
 - holz fuer dachbalkon kalkuelieren
 - defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
 - georg holzbestellung:
