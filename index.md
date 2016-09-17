@@ -578,5 +578,5 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [AquaPrestige](http://www.aquaprestige.be/nl/producten/keuken/keuken-tweegreepsmengkranen/mont-blanc-keuken-wand-tweegreepsmengkraan)
     - [Küchenarmatur schwenkbarer Auslauf, Wandmontage Mischbatterie Küche Wasserhahn](https://www.amazon.de/Küchenarmatur-schwenkbarer-Wandmontage-Mischbatterie-Wasserhahn/dp/B016AAW80S/ref=sr_1_1)
     - [KALUD Wandmontage Einhebel Zweilöche verchromt Mischbatterie mit Schlauchbrause Wasserhahn aus robustem Messing für Dusch](https://www.amazon.de/Wandmontage-Zweil%C3%B6che-Mischbatterie-Schlauchbrause-Wasserhahn/dp/B012AF81U8/ref=sr_1_11)
-    - [](http://www.archiexpo.de/prod/delabie/product-107-1291093.html)
+    - [delabie](http://www.archiexpo.de/prod/delabie/product-107-1291093.html), simple but boring
 - armaturen entscheiden fuer bad
