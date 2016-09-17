@@ -558,14 +558,13 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - gaubendeckenlampen einkleben mit acrylkleber in der blauen pistole
 - plastikfolie unter estrich an der alten eingangstuer abschneiden
 - daemmschicht isolationsfolie hinter den heizkoerpern ankleben, vorher styropordreieck anbringen, mit styroporkleber
+- fussbodenleiste hinten am stauraum entfernen
+- zweite badbodenimpraegnierung
+- rollputz oberhalb der dusche
 
 ## todo next
 
-- wieslaw 2016-09-17
-    - fugenrisse
-    - zweite impraegnierung
-    - rollputz oberhalb der dusche
-- fussbodenleisten hinter stauraum entfernen
+- fugenrisse ausbessern, bodensteinplattenfugen ebener abschliessen
 - kupferblech an schornstein neu ausfugen mit silikoferm
 - elektro FI und zaehler einbauen
 - holz vom nussbaum saegen und spalten
