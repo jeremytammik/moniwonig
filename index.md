@@ -226,7 +226,7 @@
 
 ## Kuechenarbeitsplatte
 
-- kaschmir granit von [Michael Krückels](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
+- kaschmir granit von [Michael Krückels, krueckels-steinmetz.de](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
 - skizzen
     - [rechtecke](img/moniwonigkuechenarbeitsplatte01.png)
     - [masse](img/moniwonigkuechenarbeitsplatte02.png)
