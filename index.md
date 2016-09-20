@@ -52,7 +52,9 @@
     - wc-dusche?
 - stauraum
     - schreinerplatten
-    - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert)
+    - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert) [email bestellung](mailto:i.montag@swap-sachsen.de) standardplatten mit kaschierung mit kraftliner braun:
+        - 5 platten 1250 x 2380x15 mm a ca. eur 21 = ca. eur 105
+        - 2 platten 1250 x 2380x30 mm a ca. eur 27 = ca. eur 54
     - apothekerschrank
 - zimmer
     - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
