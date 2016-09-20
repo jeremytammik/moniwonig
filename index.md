@@ -207,7 +207,7 @@
 - moertelbett zum ausgleichen
 - nach den verlegen trocknen lassen, dann impraegnieren
 - z.b. mit litufin, 1 liter reicht
-- man kann auch bei firma krueckels in schopfheim die impraegnierung holen, fuer granitplatten
+- man kann auch bei der firma krueckels in schopfheim die impraegnierung holen, fuer granitplatten
 - verfugen mit karrafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
 - impraegnierung: http://www.lithofin.de/de/lithofinder &ndash; NN loesemittelhaltig W wasserloeslich
 - abdichtung:
@@ -471,7 +471,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - shop
     - 350 kg carraflex eur 2.00 pro kg
     - 75 kg carrafug eur 3.00 pro kg jurabeige
-    - steinimpraegnierung (glatt naturstein in schopfheim hat ferien und oeffnet erst am 22.8); firma krueckes in schopfheim?
+    - steinimpraegnierung (glatt naturstein in schopfheim hat ferien und oeffnet erst am 22.8)
     - lithofin steinoel fuer impraegnierung (schopfheim, steinmetz): [Lithofin MN Stain Stop Impregnator](http://www.mystonecare.com/Lithofin-Stone-Care-and-Tile-Care-Products-s/31.htm), an ultra-high performance silicone (alkoxysilane) impregnator suitable and recommended for use on all natural and man-made stones, regardless of finish type. Lithofin MN Stain Stop is recommended for both interior and exterior applications, and provides maximum protection from water penetration and water-borne stains. Oil stain protection is also very good (the best we've seen for a silicone impregnator), outperforming some recent fluoropolymer products
     - duravit waschbecken wie bei moni? in hornbach bestellen? &ndash; nope
     - rundes becken in brett eingelassen
