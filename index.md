@@ -10,7 +10,7 @@
     - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
-    - [mosaikparkett renovieren](doc/mosaikparkett_renovieren.pdf): unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm. wir brauchen noch 16 + 25 + 18 = ca. 60 paeckli. axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
+    - [mosaikparkett renovieren](doc/mosaikparkett_renovieren.pdf): unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm. wir brauchen noch 16 + 25 + 18 = ca. 60 paeckli
     - parkettfugenmasse
         - [zoechling-holz.at](https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726): Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.
         - [hanno.at](http://www.hanno.at/de/parkettfugenmasse.html): Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.
@@ -138,6 +138,7 @@
 
 ## people
 
+- fussboden: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
 - johannes, zimmermann in linnach
 - diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
