@@ -237,7 +237,8 @@
     - [radius und vorsprung](img/moniwonigkuechenarbeitsplatte04.png)
     - [skizze krueckels](img/kuechenarbeitsplatten_skizze_1.jpg)
     - [exakte masse](img/kuechenarbeitsplatten_skizze_2.jpg)
-    - [waschtrog](img/waschtrog.png)
+    - [waschtrog](img/waschtrog.png) in solvespace
+    - [waschtrog2](img/waschtrog2.png) in AutoCAD
 - kuechenarbeitsplatte holz oder stein? buche stabverleimt? kambala? steinplatten, granit, marmor?
 - anbieter
     - [Naturstein Indri](http://www.naturstein-indri.de), Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12 
