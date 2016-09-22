@@ -18,7 +18,7 @@
 - kueche
     - [fotos von marias kueche](/p/2016/2016-09-22_maria_kueche)
     - eine steckdose in der schublade fuer elektrosachen
-    - gasrohr legen fuer kochfeld
+    - neues gasrohr legen fuer kochfeld: vier Rohrstücke 1/2" verzinkt, an beiden Enden Gewinde, Länge über Alles mit zwei Mal AA Winkel eingeschraubt: 71 + 274 + 180 + 60 cm + 3 Stück AA Winkel 1/2"
     - heizungsueberlaufabwasserleitung neu und schlank verlegen
     - befestigung fuer waschtrog planen
     - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
