@@ -20,6 +20,10 @@
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
     - wasserarmatur? spueldusche? schwenkhahn mit schnuddel?
+        - Hornbach Costa L Spültisch-Wandbatterie, DN 15 Grohe Costa Spültisch-Wandbatterie DN15 31187001
+        - ebay ATCO Wandarmatur Spültischarmatur Küchenarmatur Zweigriff Retro Küche flexibel [tal-discount.de](http://tal-discount.de/shopware/armaturen/kuechenarmaturen/wandarmatur/209/atco-wandarmatur-spueltischarmatur-kuechenarmatur-einhebelmischer-kueche-flexibel)
+        - ebay Wandarmatur-Spueltisch-Wandmontage-Wasserhahn-Zweigriffmischer-Kueche-Bad-Armatur
+
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
@@ -39,7 +43,7 @@
     - glasplatte fuer kloregal fertig schneiden
     - duscharmatur waehlen
     - dusche montieren
-    - klo kaufen und montieren
+    - wc vorwandelement spuelrandlos kaufen und montieren
     - duravit waschtisch montieren
     - handtuchtrockenhalter montieren
     - spiegel aussuchen und montieren
