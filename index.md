@@ -16,6 +16,8 @@
         - [hanno.at](http://www.hanno.at/de/parkettfugenmasse.html): Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.
         - [Ferax](http://ferax.de/parkett-fugenmasse.html): Parkettfugenmasse, gebrauchsfertige, einkomponentige, silikonfreie, lösemittel- und formaldehydfreie Fugenmasse auf der Basis einer hochwertigen Polyacrylat-Dispersion. Eignet sich hervorragend zum Verschließen von Fugen bei allen Arten von Holzböden, wie z. B. Parkett, Dielen, Holzpflaster, Sockelleisten usw. sowohl vor als auch nach der Holzversiegelung. Zum Verfugen von Sockelleisten und anderen Abschlüssen. Nur für den Innenbereich einsetzbar, silikonfrei, lösemittelfrei, geruchsneutral, schnelltrocknend, schleifbar, überstreichbar, ohne Verlaufstörungen überversiegelbar, lange lagerfähig, temperaturbeständig.
 - kueche
+    - [fotos von marias kueche](/p/2016/2016-09-22_maria_kueche)
+    - eine steckdose in der schublade fuer elektrosachen
     - gasrohr legen fuer kochfeld
     - heizungsueberlaufabwasserleitung neu und schlank verlegen
     - befestigung fuer waschtrog planen
