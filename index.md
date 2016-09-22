@@ -5,22 +5,17 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - heizkoerper anschliessen bzw. heizrohre legen in der wand
+    - heizkoerper anschliessen
     - uebergangsstufe vor der schiebetuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
-    - [mosaikparkett renovieren](doc/mosaikparkett_renovieren.pdf): unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm quadrate von 0.12 * 0.12 = 0.0144 qm pro stueck. wir brauchen noch 16 + 25 + 18 = ca. 60 quadrate = 0.864 qm.
-    - parkettfugenmasse
-        - [zoechling-holz.at](https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726): Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.
-        - [hanno.at](http://www.hanno.at/de/parkettfugenmasse.html): Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.
-        - [Ferax](http://ferax.de/parkett-fugenmasse.html): Parkettfugenmasse, gebrauchsfertige, einkomponentige, silikonfreie, lösemittel- und formaldehydfreie Fugenmasse auf der Basis einer hochwertigen Polyacrylat-Dispersion. Eignet sich hervorragend zum Verschließen von Fugen bei allen Arten von Holzböden, wie z. B. Parkett, Dielen, Holzpflaster, Sockelleisten usw. sowohl vor als auch nach der Holzversiegelung. Zum Verfugen von Sockelleisten und anderen Abschlüssen. Nur für den Innenbereich einsetzbar, silikonfrei, lösemittelfrei, geruchsneutral, schnelltrocknend, schleifbar, überstreichbar, ohne Verlaufstörungen überversiegelbar, lange lagerfähig, temperaturbeständig.
+    - mosaikparkett fertig renovieren
 - kueche
     - [fotos von marias kueche](/p/2016/2016-09-22_maria_kueche)
     - eine steckdose in der schublade fuer elektrosachen
     - neues gasrohr legen fuer kochfeld: vier Rohrstücke 1/2" verzinkt, an beiden Enden Gewinde, Länge über Alles mit zwei Mal AA Winkel eingeschraubt: 71 + 274 + 180 + 60 cm + 3 Stück AA Winkel 1/2"
     - heizungsueberlaufabwasserleitung neu und schlank verlegen
-    - befestigung fuer waschtrog planen
     - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
@@ -41,6 +36,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - glasplatte fuer kloregal fertig schneiden
     - duscharmatur waehlen
     - dusche montieren
     - klo kaufen und montieren
@@ -48,8 +44,7 @@
     - handtuchtrockenhalter montieren
     - spiegel aussuchen und montieren
     - schraenke und regale bauen und montieren
-    - waschmaschine
-    - badheizkoerper einbauen
+    - waschmaschine anschliessen
     - schrankstreifen oder regalstreifen quer
     - wc-dusche?
 - stauraum
@@ -65,7 +60,6 @@
     - regalschrank in nische einbauen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
     - vergroesserte westfensteroeffnungen oben abschliessen
-    - fussboden renovieren, oelen, schleifen, wachsen
 - elektro
     - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
@@ -76,7 +70,6 @@
     - arbeitsbereich, werkzeug
 - [ofen](#ofen)
 - dach
-    - silikon kaufen und dach am schornstein flicken
     - isoflock von oben vom first aus nachstopfen
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
     - dachbalkon wieder aufbauen
@@ -85,6 +78,8 @@
 - garten
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
+    - gewishte auf die mauer legen und einen bauzaun provisorisch hinstellen
+    - kaputte veranda auf der strassenseite abbauen und eine neue wieder aufbauen
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
     - alle dachziegelhaufen zusammenfuehren und richtig schichten
@@ -111,6 +106,8 @@
         - bepflanzen: glyzinie, geissblatt, jasmin
     - verrottete schopfpfosten ersetzen oder kompletter neubau
 - admin
+    - feuerversicherung bei SV sparkassenversicherung kuendigen
+    - neue feuerversicherung abschliessen
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
@@ -555,11 +552,9 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - balkongelaender um 20 cm kuerzen, pfosten absaegen
 - shop
     - torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze/?cm_mmc=DE-PPC-_-google-_-1_DE_DE_G_Screwdrivers_Exact-_-Screwdriver_Bit_Sets&mkwid=s2EDhNXVc_dc|pcrid|98959341058|pkw|torx%20bit|pmt|e|prd|&gclid=CPaajb7Aic8CFcUGcwodgr8FIw#esid=4294958716&applied-dimensions=4294261688&sort-by=P_breakPrice1&sort-order=asc)
-    - mosaikparkettlamellen: [abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227)
     - Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch    
 - georg holzbestellung
     - lerchenholz fuer dachbalkon ausmessen, kalkuelieren und bestellen 4 cm dielen
-
 
 ## done 2016-09-17
 
@@ -571,15 +566,31 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - fussbodenleiste hinten am stauraum entfernen
 - zweite badbodenimpraegnierung
 - rollputz oberhalb der dusche
+- im bad die fugenrisse ausbessern, bodensteinplattenfugen ebener abschliessen
+- kupferblech an schornstein neu ausfugen mit silikoferm
+
+## done 2016-09-22
+
+- fussboden in den beiden zimmern renovieren, oelen, schleifen, wachsen
+- befestigung fuer kuechen waschbecken waschtrog planen
+- badheizkoerper einbauen
+- wandheizkoerper heizrohre in der wand verlegen
+- loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
+- silikon kaufen und dach am schornstein flicken &ndash; i habe einfach ein kupferblh oben drueber eingeklemmt
+- material fuer mosaikparkett renovieren
+    - [anleitung](doc/mosaikparkett_renovieren.pdf)
+    - unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm quadrate von 0.12 * 0.12 = 0.0144 qm pro stueck. wir brauchen noch 16 + 25 + 18 = ca. 60 quadrate = 0.864 qm
+    - nachschub  von neuen lamellen kaufen: [gunreben.de](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227) sagt: abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge; 2.3 qm entspricht ca 160 quadrate 12 x 12 cm
+    - parkettfugenmasse
+        - [zoechling-holz.at](https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726): Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.
+        - [hanno.at](http://www.hanno.at/de/parkettfugenmasse.html): Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.
+        - [Ferax](http://ferax.de/parkett-fugenmasse.html): Parkettfugenmasse, gebrauchsfertige, einkomponentige, silikonfreie, lösemittel- und formaldehydfreie Fugenmasse auf der Basis einer hochwertigen Polyacrylat-Dispersion. Eignet sich hervorragend zum Verschließen von Fugen bei allen Arten von Holzböden, wie z. B. Parkett, Dielen, Holzpflaster, Sockelleisten usw. sowohl vor als auch nach der Holzversiegelung. Zum Verfugen von Sockelleisten und anderen Abschlüssen. Nur für den Innenbereich einsetzbar, silikonfrei, lösemittelfrei, geruchsneutral, schnelltrocknend, schleifbar, überstreichbar, ohne Verlaufstörungen überversiegelbar, lange lagerfähig, temperaturbeständig.
 
 ## todo next
 
-- fugenrisse ausbessern, bodensteinplattenfugen ebener abschliessen
-- kupferblech an schornstein neu ausfugen mit silikoferm
 - elektro FI und zaehler einbauen
 - holz vom nussbaum saegen und spalten
 - fussboden oben putzen
-- loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
 - defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
@@ -587,6 +598,6 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - [Wandmontage-Mischbatterie / aus Messing / Küchen / 2-Loch
 Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [AquaPrestige](http://www.aquaprestige.be/nl/producten/keuken/keuken-tweegreepsmengkranen/mont-blanc-keuken-wand-tweegreepsmengkraan)
     - [Küchenarmatur schwenkbarer Auslauf, Wandmontage Mischbatterie Küche Wasserhahn](https://www.amazon.de/Küchenarmatur-schwenkbarer-Wandmontage-Mischbatterie-Wasserhahn/dp/B016AAW80S/ref=sr_1_1)
-    - [KALUD Wandmontage Einhebel Zweilöche verchromt Mischbatterie mit Schlauchbrause Wasserhahn aus robustem Messing für Dusch](https://www.amazon.de/Wandmontage-Zweil%C3%B6che-Mischbatterie-Schlauchbrause-Wasserhahn/dp/B012AF81U8/ref=sr_1_11)
-    - [delabie](http://www.archiexpo.de/prod/delabie/product-107-1291093.html), simple but boring
+    - [Kalud Wandmontage Einhebel Zweilöche verchromt Mischbatterie mit Schlauchbrause Wasserhahn aus robustem Messing für Dusch](https://www.amazon.de/Wandmontage-Zweil%C3%B6che-Mischbatterie-Schlauchbrause-Wasserhahn/dp/B012AF81U8/ref=sr_1_11)
+    - [Delabie](http://www.archiexpo.de/prod/delabie/product-107-1291093.html), simple but boring
 - armaturen entscheiden fuer bad
