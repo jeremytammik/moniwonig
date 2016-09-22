@@ -23,7 +23,6 @@
         - Hornbach Costa L Spültisch-Wandbatterie, DN 15 Grohe Costa Spültisch-Wandbatterie DN15 31187001
         - ebay ATCO Wandarmatur Spültischarmatur Küchenarmatur Zweigriff Retro Küche flexibel [tal-discount.de](http://tal-discount.de/shopware/armaturen/kuechenarmaturen/wandarmatur/209/atco-wandarmatur-spueltischarmatur-kuechenarmatur-einhebelmischer-kueche-flexibel)
         - ebay Wandarmatur-Spueltisch-Wandmontage-Wasserhahn-Zweigriffmischer-Kueche-Bad-Armatur
-
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
