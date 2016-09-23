@@ -6,23 +6,21 @@
 
 - gaube
     - wandheizkoerper anschliessen
+    - fussboden vor schiebetuer abschliessen
+    - mosaikparkett fertig renovieren
     - uebergangsstufe vor der schiebetuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
-    - mosaikparkett fertig renovieren
 - kueche
     - [fotos von marias kueche](/p/2016/2016-09-22_maria_kueche)
-    - eine steckdose in der schublade fuer elektrosachen
+    - eine steckdose anschliessen in der schublade fuer elektrosachen
     - neues gasrohr legen fuer kochfeld: vier Rohrstücke 1/2" verzinkt, an beiden Enden Gewinde, Länge über Alles mit zwei Mal AA Winkel eingeschraubt: 71 + 274 + 180 + 60 cm + 3 Stück AA Winkel 1/2"
     - heizungsueberlaufabwasserleitung neu und schlank verlegen
     - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
-    - wasserarmatur? spueldusche? schwenkhahn mit schnuddel?
-        - Hornbach Costa L Spültisch-Wandbatterie, DN 15 Grohe Costa Spültisch-Wandbatterie DN15 31187001
-        - ebay ATCO Wandarmatur Spültischarmatur Küchenarmatur Zweigriff Retro Küche flexibel [tal-discount.de](http://tal-discount.de/shopware/armaturen/kuechenarmaturen/wandarmatur/209/atco-wandarmatur-spueltischarmatur-kuechenarmatur-einhebelmischer-kueche-flexibel)
-        - ebay Wandarmatur-Spueltisch-Wandmontage-Wasserhahn-Zweigriffmischer-Kueche-Bad-Armatur
+    - kuechenhahn wandmontage wasserarmatur installieren
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
@@ -57,9 +55,9 @@
         - 2 platten 1250 x 2380x30 mm a ca. eur 27 = ca. eur 54
     - apothekerschrank
 - zimmer
-    - im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, unter dem fenster verlegen, damit die ecke frei bleibt?
-    - fussbodenleiste?
-    - fensterbleche befestigen
+    - im beiden zimmern die heizkoerper anschliessen
+    - fehlende fussbodenleisten ergaenzen
+    - fensterbleche aussen befestigen
     - regalschrank in nische einbauen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
     - vergroesserte westfensteroeffnungen oben abschliessen
@@ -577,7 +575,8 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - fussboden in den beiden zimmern renovieren, oelen, schleifen, wachsen
 - befestigung fuer kuechen waschbecken waschtrog planen
 - badheizkoerper einbauen
-- wandheizkoerper heizrohre in der wand verlegen
+- wandheizkoerper lenks von schiebetuer heizrohre in der wand verlegen
+- im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, und unter dem fenster verlegen, damit die ecke frei bleibt
 - loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
 - silikon kaufen und dach am schornstein flicken &ndash; i habe einfach ein kupferblh oben drueber eingeklemmt
 - material fuer mosaikparkett renovieren
@@ -588,6 +587,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
         - [zoechling-holz.at](https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726): Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.
         - [hanno.at](http://www.hanno.at/de/parkettfugenmasse.html): Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.
         - [Ferax](http://ferax.de/parkett-fugenmasse.html): Parkettfugenmasse, gebrauchsfertige, einkomponentige, silikonfreie, lösemittel- und formaldehydfreie Fugenmasse auf der Basis einer hochwertigen Polyacrylat-Dispersion. Eignet sich hervorragend zum Verschließen von Fugen bei allen Arten von Holzböden, wie z. B. Parkett, Dielen, Holzpflaster, Sockelleisten usw. sowohl vor als auch nach der Holzversiegelung. Zum Verfugen von Sockelleisten und anderen Abschlüssen. Nur für den Innenbereich einsetzbar, silikonfrei, lösemittelfrei, geruchsneutral, schnelltrocknend, schleifbar, überstreichbar, ohne Verlaufstörungen überversiegelbar, lange lagerfähig, temperaturbeständig.
+- kuechenhahn wandmontage wasserarmatur bestellen: spueldusche mit schwenkhahn und schnuddel:
+    - Hornbach Costa L Spültisch-Wandbatterie, DN 15 Grohe Costa Spültisch-Wandbatterie DN15 31187001
+    - ebay ATCO Wandarmatur Spültischarmatur Küchenarmatur Zweigriff Retro Küche flexibel [tal-discount.de](http://tal-discount.de/shopware/armaturen/kuechenarmaturen/wandarmatur/209/atco-wandarmatur-spueltischarmatur-kuechenarmatur-einhebelmischer-kueche-flexibel)
+    - ebay Wandarmatur-Spueltisch-Wandmontage-Wasserhahn-Zweigriffmischer-Kueche-Bad-Armatur
 
 ## todo next
 
