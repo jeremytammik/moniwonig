@@ -5,7 +5,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - heizkoerper anschliessen
+    - wandheizkoerper anschliessen
     - uebergangsstufe vor der schiebetuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
