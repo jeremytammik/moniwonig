@@ -37,6 +37,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - tuer absaegen und einbauen
     - glasplatte fuer kloregal fertig schneiden
     - duscharmatur waehlen
     - dusche montieren
