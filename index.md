@@ -54,7 +54,7 @@
     - wc-dusche?
 - stauraum
     - regale bauen aus swap wabenplatten
-    - boxen bauen mit wand aus multiplex schreinerplatten und boden wabenplatten
+    - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 - zimmer
     - im beiden zimmern die heizkoerper anschliessen
