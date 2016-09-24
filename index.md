@@ -13,8 +13,11 @@
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
-    - [fotos von marias kueche](/p/2016/2016-09-22_maria_kueche)
-    - eine steckdose anschliessen in der schublade fuer elektrosachen
+    - fotos von marias kueche
+        - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
+        - [schublade](img/2016-09-22_maria_kueche/2_ikeaschublade.png)
+        - [multiplex birke schubladenfront](img/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
+        - eine steckdose anschliessen in der schublade fuer elektrosachen
     - neues gasrohr legen fuer kochfeld: vier Rohrstücke 1/2" verzinkt, an beiden Enden Gewinde, Länge über Alles mit zwei Mal AA Winkel eingeschraubt: 71 + 274 + 180 + 60 cm + 3 Stück AA Winkel 1/2"
     - heizungsueberlaufabwasserleitung neu und schlank verlegen
     - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
