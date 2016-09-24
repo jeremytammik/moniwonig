@@ -53,10 +53,8 @@
     - schrankstreifen oder regalstreifen quer
     - wc-dusche?
 - stauraum
-    - schreinerplatten
-    - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert) [email bestellung](mailto:i.montag@swap-sachsen.de) standardplatten mit kaschierung mit kraftliner braun:
-        - 5 platten 1250 x 2380x15 mm a ca. eur 21 = ca. eur 105
-        - 2 platten 1250 x 2380x30 mm a ca. eur 27 = ca. eur 54
+    - regale bauen aus swap wabenplatten
+    - boxen bauen mit wand aus multiplex schreinerplatten und boden wabenplatten
     - apothekerschrank
 - zimmer
     - im beiden zimmern die heizkoerper anschliessen
@@ -595,6 +593,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - Hornbach Costa L Spültisch-Wandbatterie, DN 15 Grohe Costa Spültisch-Wandbatterie DN15 31187001
     - ebay ATCO Wandarmatur Spültischarmatur Küchenarmatur Zweigriff Retro Küche flexibel [tal-discount.de](http://tal-discount.de/shopware/armaturen/kuechenarmaturen/wandarmatur/209/atco-wandarmatur-spueltischarmatur-kuechenarmatur-einhebelmischer-kueche-flexibel)
     - ebay Wandarmatur-Spueltisch-Wandmontage-Wasserhahn-Zweigriffmischer-Kueche-Bad-Armatur
+- bestellung fuer stauraum und regale
+    - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert) [email bestellung](mailto:i.montag@swap-sachsen.de) standardplatten mit kaschierung mit kraftliner braun:
+    - 5 platten 1250 x 2380x15 mm a ca. eur 21 = ca. eur 105
+    - 2 platten 1250 x 2380x30 mm a ca. eur 27 = ca. eur 54
 
 ## todo next
 
