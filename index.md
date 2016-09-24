@@ -222,7 +222,7 @@
     - http://dime-fluessigkunststoffe.de
     - goetz und moritz naturstein herr lais 4007-153
 
-## Badezimmer Heizungsrohr Anschluss
+## Alter Schweizer Heizungsrohr Anschluss
 
 - Vestol 12/16.1/2
 - Uebergang 12/16.1/2 auf halbzoll
