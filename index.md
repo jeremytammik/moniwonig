@@ -589,6 +589,12 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
         - [zoechling-holz.at](https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726): Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.
         - [hanno.at](http://www.hanno.at/de/parkettfugenmasse.html): Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.
         - [Ferax](http://ferax.de/parkett-fugenmasse.html): Parkettfugenmasse, gebrauchsfertige, einkomponentige, silikonfreie, lösemittel- und formaldehydfreie Fugenmasse auf der Basis einer hochwertigen Polyacrylat-Dispersion. Eignet sich hervorragend zum Verschließen von Fugen bei allen Arten von Holzböden, wie z. B. Parkett, Dielen, Holzpflaster, Sockelleisten usw. sowohl vor als auch nach der Holzversiegelung. Zum Verfugen von Sockelleisten und anderen Abschlüssen. Nur für den Innenbereich einsetzbar, silikonfrei, lösemittelfrei, geruchsneutral, schnelltrocknend, schleifbar, überstreichbar, ohne Verlaufstörungen überversiegelbar, lange lagerfähig, temperaturbeständig.
+- armaturen entscheiden fuer kueche
+    - [Wandmontage-Mischbatterie / aus Messing / Küchen / 2-Loch
+Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [AquaPrestige](http://www.aquaprestige.be/nl/producten/keuken/keuken-tweegreepsmengkranen/mont-blanc-keuken-wand-tweegreepsmengkraan)
+    - [Küchenarmatur schwenkbarer Auslauf, Wandmontage Mischbatterie Küche Wasserhahn](https://www.amazon.de/Küchenarmatur-schwenkbarer-Wandmontage-Mischbatterie-Wasserhahn/dp/B016AAW80S/ref=sr_1_1)
+    - [Kalud Wandmontage Einhebel Zweilöche verchromt Mischbatterie mit Schlauchbrause Wasserhahn aus robustem Messing für Dusch](https://www.amazon.de/Wandmontage-Zweil%C3%B6che-Mischbatterie-Schlauchbrause-Wasserhahn/dp/B012AF81U8/ref=sr_1_11)
+    - [Delabie](http://www.archiexpo.de/prod/delabie/product-107-1291093.html), simple but boring
 - kuechenhahn wandmontage wasserarmatur bestellen: spueldusche mit schwenkhahn und schnuddel:
     - Hornbach Costa L Spültisch-Wandbatterie, DN 15 Grohe Costa Spültisch-Wandbatterie DN15 31187001
     - ebay ATCO Wandarmatur Spültischarmatur Küchenarmatur Zweigriff Retro Küche flexibel [tal-discount.de](http://tal-discount.de/shopware/armaturen/kuechenarmaturen/wandarmatur/209/atco-wandarmatur-spueltischarmatur-kuechenarmatur-einhebelmischer-kueche-flexibel)
@@ -606,10 +612,5 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
 - defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
-- armaturen entscheiden fuer kueche
-    - [Wandmontage-Mischbatterie / aus Messing / Küchen / 2-Loch
-Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [AquaPrestige](http://www.aquaprestige.be/nl/producten/keuken/keuken-tweegreepsmengkranen/mont-blanc-keuken-wand-tweegreepsmengkraan)
-    - [Küchenarmatur schwenkbarer Auslauf, Wandmontage Mischbatterie Küche Wasserhahn](https://www.amazon.de/Küchenarmatur-schwenkbarer-Wandmontage-Mischbatterie-Wasserhahn/dp/B016AAW80S/ref=sr_1_1)
-    - [Kalud Wandmontage Einhebel Zweilöche verchromt Mischbatterie mit Schlauchbrause Wasserhahn aus robustem Messing für Dusch](https://www.amazon.de/Wandmontage-Zweil%C3%B6che-Mischbatterie-Schlauchbrause-Wasserhahn/dp/B012AF81U8/ref=sr_1_11)
-    - [Delabie](http://www.archiexpo.de/prod/delabie/product-107-1291093.html), simple but boring
 - armaturen entscheiden fuer bad
+- eingangsbereich aufraeumen
