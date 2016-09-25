@@ -160,8 +160,11 @@
     - eur 10000, einsteigermodell ab 6000 euro
     - 140 hoch 177 breit 70 tief
     - eckige tuer
-
-
+- bauhaus
+    - [Smartfire Kaminbausatz Vitasystem Angolo 39-58 DX](https://www.bauhaus.info/kaminoefen/smartfire-kaminbausatz-vitasystem-angolo-39-58-dx-/p/23557789) eur kW 8
+    - [Justus Kaminofen Sylt](https://www.bauhaus.info/kaminoefen/justus-kaminofen-sylt-/p/23511226) eur 1500 kW 6
+- hornbach
+    - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850 
 ## neuer zaun
 
 - gittermaschendrahtzaun auf metallpfosten
