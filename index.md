@@ -41,7 +41,7 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
     - tuer absaegen und einbauen
-    - glasplatte fuer kloregal fertig schneiden
+    - glasplatte fuer kloregal trotz schraeglage montieren
     - duscharmatur waehlen
     - dusche montieren
     - wc vorwandelement spuelrandlos kaufen und montieren
@@ -584,7 +584,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - material fuer mosaikparkett renovieren
     - [anleitung](doc/mosaikparkett_renovieren.pdf)
     - unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm quadrate von 0.12 * 0.12 = 0.0144 qm pro stueck. wir brauchen noch 16 + 25 + 18 = ca. 60 quadrate = 0.864 qm
-    - nachschub  von neuen lamellen kaufen: [gunreben.de](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227) sagt: abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge; 2.3 qm entspricht ca 160 quadrate 12 x 12 cm
+    - nachschub  von neuen lamellen kaufen: [gunreben.de](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227) sagt: abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge; 2.3 qm entspricht ca 160 quadrate 12 x 12 cm [email](mailto:d.egloffstein@gunreben.de)
     - parkettfugenmasse
         - [zoechling-holz.at](https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726): Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.
         - [hanno.at](http://www.hanno.at/de/parkettfugenmasse.html): Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.
@@ -603,6 +603,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - [swap wabenplatte](http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert) [email bestellung](mailto:i.montag@swap-sachsen.de) standardplatten mit kaschierung mit kraftliner braun:
     - 5 platten 1250 x 2380x15 mm a ca. eur 21 = ca. eur 105
     - 2 platten 1250 x 2380x30 mm a ca. eur 27 = ca. eur 54
+- glasplatte fuer kloregal fertig schneiden
 
 ## todo next
 
