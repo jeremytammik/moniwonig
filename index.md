@@ -41,9 +41,8 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
     - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
-    - duscharmatur waehlen
     - dusche montieren
-    - wc vorwandelement spuelrandlos kaufen und montieren
+    - wc vorwandelement spuelrandlos holen und montieren
     - duravit waschtisch montieren
     - handtuchtrockenhalter montieren
     - spiegel aussuchen und montieren
@@ -70,7 +69,7 @@
     - fussboden mit grobspanplatten verlegen
     - garderobe, schuhregale, weiterer stauram, schraenke
     - arbeitsbereich, werkzeug
-- [ofen](#ofen)
+- [ofen](#ofen) aussuchen
 - dach
     - isoflock von oben vom first aus nachstopfen
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
@@ -609,6 +608,14 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - 2 platten 1250 x 2380x30 mm a ca. eur 27 = ca. eur 54
 - glasplatte fuer kloregal fertig schneiden
 
+## done 2016-09-26
+
+- eingangsbereich aufraeumen
+- replacement arrived for defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
+- duscharmatur waehlen &ndash; ordered duschthermostat from amazon
+    - [Auralum Duschthermostat Duscharmatur Thermostat Brausethermostat Brausemischer Aufputz Chrom Thermostat-Brausebatterie](https://www.amazon.de/Duschthermostat-Duscharmatur-Brausethermostat-Brausemischer-Thermostat-Brausebatterie/dp/B00UYXDO6A/ref=pd_sim_60_3) eur 46, ean/artikelnummer 1682015625001, herstellerreferenz 1682015625001, asin b00uyxdo6a
+    - [Eisl Duschsäule Easy Energy DX12004](https://www.amazon.de/EISL-Duschs%C3%A4ule-EASY-ENERGY-DX12004/dp/B00I1NFJ86/ref=pd_bxgy_60_2) eur 40
+
 ## todo next
 
 - prioritaeten:
@@ -620,16 +627,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - fussboden oben putzen
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
-- defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
-- armaturen entscheiden fuer bad
-- eingangsbereich aufraeumen
+- armaturen entscheiden fuer waschtisch
 
 ## Armaturen
 
-- amazon duschthermostaten
-    - [Duschthermostat-Thermostat Armatur-Duscharmatur-Chrom](https://www.amazon.de/gp/product/B008QZAFL0/ref=oh_aui_detailpage_o09_s00) eur 43
-    - [Auralum Duschthermostat Duscharmatur Thermostat Brausethermostat Brausemischer Aufputz Chrom Thermostat-Brausebatterie](https://www.amazon.de/Duschthermostat-Duscharmatur-Brausethermostat-Brausemischer-Thermostat-Brausebatterie/dp/B00UYXDO6A/ref=pd_sim_60_3) eur 46
-    - [EISL Duschsäule EASY ENERGY, DX12004](https://www.amazon.de/EISL-Duschs%C3%A4ule-EASY-ENERGY-DX12004/dp/B00I1NFJ86/ref=pd_bxgy_60_2) eur 40
 - amazon waschtischarmaturen
     - [1](https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&pd_rd_i=B019E2HDZ4&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
     - [2](https://www.amazon.de/Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn-Sp%C3%BClbeckenarmatur-K%C3%BCchenarmatur/dp/B00BCNMK4I/ref=pd_lutyp_simh_1_2?ie=UTF8&pd_rd_i=B00BCNMK4I&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
