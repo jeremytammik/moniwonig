@@ -40,8 +40,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - tuer absaegen und einbauen
-    - glasplatte fuer kloregal trotz schraeglage montieren
+    - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
     - duscharmatur waehlen
     - dusche montieren
     - wc vorwandelement spuelrandlos kaufen und montieren
@@ -51,7 +50,7 @@
     - schraenke und regale bauen und montieren
     - waschmaschine anschliessen
     - schrankstreifen oder regalstreifen quer
-    - wc-dusche?
+    - wc-dusche
 - stauraum
     - regale bauen aus swap wabenplatten
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
@@ -164,7 +163,8 @@
     - [Smartfire Kaminbausatz Vitasystem Angolo 39-58 DX](https://www.bauhaus.info/kaminoefen/smartfire-kaminbausatz-vitasystem-angolo-39-58-dx-/p/23557789) eur kW 8
     - [Justus Kaminofen Sylt](https://www.bauhaus.info/kaminoefen/justus-kaminofen-sylt-/p/23511226) eur 1500 kW 6
 - hornbach
-    - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850 
+    - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850
+    
 ## neuer zaun
 
 - gittermaschendrahtzaun auf metallpfosten
@@ -242,6 +242,8 @@
     - [radius und vorsprung](img/moniwonigkuechenarbeitsplatte04.png)
     - [skizze krueckels](img/kuechenarbeitsplatten_skizze_1.jpg)
     - [exakte masse](img/kuechenarbeitsplatten_skizze_2.jpg)
+    - einbaukochfeld småkoka [masse](img/arbeitsplatte_kochfeld_smakoka_1.png) [lochmasse](img/arbeitsplatte_kochfeld_smakoka_2.png)
+    - [exakte masse inkl. kochfeld](img/kuechenarbeitsplatten_skizze_3.jpg)
     - [waschtrog](img/waschtrog.png) in solvespace
     - [waschtrog2](img/waschtrog2.png) in AutoCAD
 - kuechenarbeitsplatte holz oder stein? buche stabverleimt? kambala? steinplatten, granit, marmor?
@@ -610,6 +612,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## todo next
 
+- prioritaeten:
+    - fussboden fertig: material liefern, verlegen, schleifen, oelen
+    - alle heizungen anschliessen: bad (fertig), zwei zimmer, essbereich
+    - kuechenzeile fertig: gasanschluss, wasserleitungen, korpus, waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
 - elektro FI und zaehler einbauen
 - holz vom nussbaum saegen und spalten
 - fussboden oben putzen
@@ -618,3 +624,15 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
 - armaturen entscheiden fuer bad
 - eingangsbereich aufraeumen
+
+## Armaturen
+
+- amazon duschthermostaten
+    - [Duschthermostat-Thermostat Armatur-Duscharmatur-Chrom](https://www.amazon.de/gp/product/B008QZAFL0/ref=oh_aui_detailpage_o09_s00) eur 43
+    - [Auralum Duschthermostat Duscharmatur Thermostat Brausethermostat Brausemischer Aufputz Chrom Thermostat-Brausebatterie](https://www.amazon.de/Duschthermostat-Duscharmatur-Brausethermostat-Brausemischer-Thermostat-Brausebatterie/dp/B00UYXDO6A/ref=pd_sim_60_3) eur 46
+    - [EISL Duschsäule EASY ENERGY, DX12004](https://www.amazon.de/EISL-Duschs%C3%A4ule-EASY-ENERGY-DX12004/dp/B00I1NFJ86/ref=pd_bxgy_60_2) eur 40
+- amazon waschtischarmaturen
+    - [1](https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&pd_rd_i=B019E2HDZ4&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
+    - [2](https://www.amazon.de/Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn-Sp%C3%BClbeckenarmatur-K%C3%BCchenarmatur/dp/B00BCNMK4I/ref=pd_lutyp_simh_1_2?ie=UTF8&pd_rd_i=B00BCNMK4I&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
+    - [3](https://www.amazon.de/Zweigriffmischer-K%C3%BCchenarmatur-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B00BKNOPZC/ref=pd_lutyp_simh_1_3?ie=UTF8&pd_rd_i=B00BKNOPZC&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
+    - [4](https://www.amazon.de/Retro-New-Sp%C3%BCltischarmatur-Retro-New-K%C3%BCchenarmatur-Hochdruckarmatur-Zweilochmischer/dp/B00BQAO4LY/ref=pd_lutyp_simh_1_4?ie=UTF8&pd_rd_i=B00BQAO4LY&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
