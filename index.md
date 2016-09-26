@@ -232,7 +232,7 @@
 - Frima Vestol --> Vescal SA --> Walter Meier (Klima Schweiz) AG [www.waltermeier.com](http://www.waltermeier.com)
 - Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com
 
-## Kuechenarbeitsplatte
+## <a name="kuechenarbeitsplatte"></a>Kuechenarbeitsplatte
 
 - kaschmir granit von [Michael Krückels, krueckels-steinmetz.de](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
 - skizzen
