@@ -13,20 +13,18 @@
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
+    - waschtrog fertig montieren
     - fotos von marias kueche
         - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
         - [schublade](img/2016-09-22_maria_kueche/2_ikeaschublade.png)
         - [multiplex birke schubladenfront](img/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
         - eine steckdose anschliessen in der schublade fuer elektrosachen
-    - neues gasrohr legen fuer kochfeld: vier Rohrstücke 1/2" verzinkt, an beiden Enden Gewinde, Länge über Alles mit zwei Mal AA Winkel eingeschraubt: 71 + 274 + 180 + 60 cm + 3 Stück AA Winkel 1/2"
-    - heizungsueberlaufabwasserleitung neu und schlank verlegen
     - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
-    - fridge [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß Kühl-/Gefrierkombination, A++, 164/61 Liter](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299
     - kuechenhahn wandmontage wasserarmatur installieren
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
-    - glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
+    - acrylfarbe statt glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
@@ -79,7 +77,7 @@
 - garten
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
-    - gewishte auf die mauer legen und einen bauzaun provisorisch hinstellen
+    - gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen
     - kaputte veranda auf der strassenseite abbauen und eine neue wieder aufbauen
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
@@ -618,9 +616,12 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## done 2016-09-30
 
+- siphon fuer kuechenspuele waschtrog besorgen und vorbereiten
+- heizungsueberlaufabwasserleitung hinter kuechenkorpus neu und schlank verlegen
+- neues gasrohr legen fuer kochfeld: vier Rohrstücke 1/2" verzinkt, an beiden Enden Gewinde, Länge über Alles mit zwei Mal AA Winkel eingeschraubt: 71 + 274 + 180 + 60 cm + 3 Stück AA Winkel 1/2"
 - kuechenzeile: gasanschluss, wasserleitungen, korpus
 - wc-dusch-armatur bestellen amazon Auralum Duschthermostat Aufputz Chrom Verkauf durch: UNION CA eur 45.99 Lieferung Mi. 5. okt.
-- kuehlschrank bestellen: ebay Bomann KG 185 Kühl-Gefrier-Kombination 225 Liter Weiss Lieferung Mi. 5. Okt. - Fr. 7. Okt. Artikelnr.: 301767237993 Transaktionsnr. 1303916436020
+- fridge kuehlschrank bestellen: [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299, unfortunately gone, go it from ebay Bomann KG 185 Kühl-Gefrier-Kombination 225 Liter Weiss Lieferung Mi. 5. Okt. - Fr. 7. Okt. Artikelnr.: 301767237993 Transaktionsnr. 1303916436020
 
 ## todo next
 
