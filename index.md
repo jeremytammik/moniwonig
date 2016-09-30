@@ -616,12 +616,25 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - [Auralum Duschthermostat Duscharmatur Thermostat Brausethermostat Brausemischer Aufputz Chrom Thermostat-Brausebatterie](https://www.amazon.de/Duschthermostat-Duscharmatur-Brausethermostat-Brausemischer-Thermostat-Brausebatterie/dp/B00UYXDO6A/ref=pd_sim_60_3) eur 46, ean/artikelnummer 1682015625001, herstellerreferenz 1682015625001, asin b00uyxdo6a
     - [Eisl Duschsäule Easy Energy DX12004](https://www.amazon.de/EISL-Duschs%C3%A4ule-EASY-ENERGY-DX12004/dp/B00I1NFJ86/ref=pd_bxgy_60_2) eur 40
 
+## done 2016-09-29
+
+- kuechenzeile: gasanschluss, wasserleitungen, korpus
+
 ## todo next
 
+- wc-dusch-armatur bestellen
+- kuehlschrank bestellen
+- bad impraegnieren
 - prioritaeten:
+    - alle heizungen fertig anschliessen: zwei zimmer, essbereich
+    - in den zimmern kleine eckfussbodenleisten fertig legen
     - fussboden fertig: material liefern, verlegen, schleifen, oelen
-    - alle heizungen anschliessen: bad (fertig), zwei zimmer, essbereich
-    - kuechenzeile fertig: gasanschluss, wasserleitungen, korpus, waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
+    - kuechenzeile fertig: waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
+- moni malerrolle und malerkrepe
+- verputzen links von schiebetuer mit malerrolle 
+- balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
+- fussboden in den zwei zimmern oelen
+- essbereich leerraeumen und fussboden oelen
 - elektro FI und zaehler einbauen
 - holz vom nussbaum saegen und spalten
 - fussboden oben putzen
