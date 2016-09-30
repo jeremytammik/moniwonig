@@ -5,6 +5,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
+    - eingangstuer abschleifen, tuerrahmen bauen, tuer montieren
     - wandheizkoerper anschliessen
     - fussboden vor schiebetuer abschliessen
     - mosaikparkett fertig renovieren
@@ -58,7 +59,7 @@
     - fensterbleche aussen befestigen
     - regalschrank in nische einbauen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
-    - vergroesserte westfensteroeffnungen oben abschliessen
+    - vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte
 - elektro
     - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
@@ -636,6 +637,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - fussboden in den zwei zimmern oelen
 - essbereich leerraeumen und fussboden oelen
+- vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte
 - fussboden oben putzen
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - elektro FI und zaehler einbauen
