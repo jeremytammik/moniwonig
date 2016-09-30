@@ -616,14 +616,14 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - [Auralum Duschthermostat Duscharmatur Thermostat Brausethermostat Brausemischer Aufputz Chrom Thermostat-Brausebatterie](https://www.amazon.de/Duschthermostat-Duscharmatur-Brausethermostat-Brausemischer-Thermostat-Brausebatterie/dp/B00UYXDO6A/ref=pd_sim_60_3) eur 46, ean/artikelnummer 1682015625001, herstellerreferenz 1682015625001, asin b00uyxdo6a
     - [Eisl Duschsäule Easy Energy DX12004](https://www.amazon.de/EISL-Duschs%C3%A4ule-EASY-ENERGY-DX12004/dp/B00I1NFJ86/ref=pd_bxgy_60_2) eur 40
 
-## done 2016-09-29
+## done 2016-09-30
 
 - kuechenzeile: gasanschluss, wasserleitungen, korpus
+- wc-dusch-armatur bestellen amazon Auralum Duschthermostat Aufputz Chrom Verkauf durch: UNION CA eur 45.99 Lieferung Mi. 5. okt.
+- kuehlschrank bestellen: ebay Bomann KG 185 Kühl-Gefrier-Kombination 225 Liter Weiss Lieferung Mi. 5. Okt. - Fr. 7. Okt. Artikelnr.: 301767237993 Transaktionsnr. 1303916436020
 
 ## todo next
 
-- wc-dusch-armatur bestellen
-- kuehlschrank bestellen
 - bad impraegnieren
 - prioritaeten:
     - alle heizungen fertig anschliessen: zwei zimmer, essbereich
@@ -635,10 +635,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - fussboden in den zwei zimmern oelen
 - essbereich leerraeumen und fussboden oelen
-- elektro FI und zaehler einbauen
-- holz vom nussbaum saegen und spalten
 - fussboden oben putzen
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
+- elektro FI und zaehler einbauen
+- holz vom nussbaum saegen und spalten
 - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
 - armaturen entscheiden fuer waschtisch
 
@@ -649,3 +649,4 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - [2](https://www.amazon.de/Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn-Sp%C3%BClbeckenarmatur-K%C3%BCchenarmatur/dp/B00BCNMK4I/ref=pd_lutyp_simh_1_2?ie=UTF8&pd_rd_i=B00BCNMK4I&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
     - [3](https://www.amazon.de/Zweigriffmischer-K%C3%BCchenarmatur-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B00BKNOPZC/ref=pd_lutyp_simh_1_3?ie=UTF8&pd_rd_i=B00BKNOPZC&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
     - [4](https://www.amazon.de/Retro-New-Sp%C3%BCltischarmatur-Retro-New-K%C3%BCchenarmatur-Hochdruckarmatur-Zweilochmischer/dp/B00BQAO4LY/ref=pd_lutyp_simh_1_4?ie=UTF8&pd_rd_i=B00BQAO4LY&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
+
