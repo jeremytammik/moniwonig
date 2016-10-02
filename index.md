@@ -643,8 +643,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueffetfotos machen und robert schicken
 - lithofin bestellen
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
-- fussboden fertig: parkett lamellen ersatzmaterial liefern, verlegen, schleifen, oelen
-- kuechenzeile fertig: waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
 - malen mit rollputz links von schiebetuer mit malerrolle 
 - balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - fussboden in den zwei zimmern oelen
@@ -656,6 +654,9 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - holz vom nussbaum saegen und spalten
 - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
 - armaturen entscheiden fuer waschtisch
+- falk
+    - fussboden fertig: parkett lamellen ersatzmaterial liefern, verlegen, schleifen, oelen
+    - kuechenzeile fertig: waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
 
 ## Armaturen
 
