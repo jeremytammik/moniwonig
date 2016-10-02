@@ -641,6 +641,9 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 ## <a name="todo-next"></a>todo next
 
 - bueffetfotos machen und robert schicken
+- Spiegel für Bad ausprobieren und montieren 
+- schönes Ablagebrett unter diesem Spiegel ganze Länge
+- Fussleiste im Esszimmer in Türnische
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
 - lithofin bestellen
 - armaturen entscheiden fuer waschtisch
