@@ -623,10 +623,15 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kuechenzeile: gasanschluss, wasserleitungen, korpus
 - wc-dusch-armatur bestellen amazon Auralum Duschthermostat Aufputz Chrom Verkauf durch: UNION CA eur 45.99 Lieferung Mi. 5. okt.
 - fridge kuehlschrank bestellen: [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299, unfortunately gone, go it from ebay Bomann KG 185 Kühl-Gefrier-Kombination 225 Liter Weiss Lieferung Mi. 5. Okt. - Fr. 7. Okt. Artikelnr.: 301767237993 Transaktionsnr. 1303916436020
+- bad impraegnieren
 
 ## todo next
 
-- bad impraegnieren
+- essbereich leerraeumen und fussboden oelen
+- bueffetfotos machen und robert schicken
+- foto vom alten holzschrank karl schicken
+- lithonfin bestellen
+- krueckels fragen, ob lithofin fuer granitplatte geeignet
 - prioritaeten:
     - alle heizungen fertig anschliessen: zwei zimmer, essbereich
     - in den zimmern kleine eckfussbodenleisten fertig legen
@@ -636,7 +641,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - verputzen links von schiebetuer mit malerrolle 
 - balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - fussboden in den zwei zimmern oelen
-- essbereich leerraeumen und fussboden oelen
+- rote farbe kaufen und kuechenzeile streichen
 - vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte
 - fussboden oben putzen
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
