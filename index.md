@@ -39,8 +39,9 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - steckdose und spotstrahler oberhalb waschbecken montieren
     - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
-    - dusche montieren
+    - duscharmatur montieren und dusche anschliessen
     - wc vorwandelement spuelrandlos holen und montieren
     - duravit waschtisch montieren
     - handtuchtrockenhalter montieren
@@ -48,14 +49,12 @@
     - schraenke und regale bauen und montieren
     - waschmaschine anschliessen
     - schrankstreifen oder regalstreifen quer
-    - wc-dusche
+    - wc-dusche armatur montieren und dusche anschliessen
 - stauraum
     - regale bauen aus swap wabenplatten
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 - zimmer
-    - im beiden zimmern die heizkoerper anschliessen
-    - fehlende fussbodenleisten ergaenzen
     - fensterbleche aussen befestigen
     - regalschrank in nische einbauen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
@@ -65,7 +64,7 @@
     - FI-schutzschalter
 - eingangsbereich
     - buecher sortieren und wegraeumen
-    - fussboden mit grobspanplatten verlegen
+    - fussboden mit grobspanplatten verlegen; oder terracotta?
     - garderobe, schuhregale, weiterer stauram, schraenke
     - arbeitsbereich, werkzeug
 - [ofen](#ofen) aussuchen
@@ -618,32 +617,35 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## done 2016-09-31
 
+- stufe an der alten eingangstuer absaegen and schoeen abschluss machen
 - siphon fuer kuechenspuele waschtrog besorgen und vorbereiten
 - heizungsueberlaufabwasserleitung hinter kuechenkorpus neu und schlank verlegen
 - neues gasrohr legen fuer kochfeld: vier Rohrstücke 1/2" verzinkt, an beiden Enden Gewinde, Länge über Alles mit zwei Mal AA Winkel eingeschraubt: 71 + 274 + 180 + 60 cm + 3 Stück AA Winkel 1/2"
 - kuechenzeile: gasanschluss, wasserleitungen, korpus
 - wc-dusch-armatur bestellen amazon Auralum Duschthermostat Aufputz Chrom Verkauf durch: UNION CA eur 45.99 Lieferung Mi. 5. okt.
 - fridge kuehlschrank bestellen: [notebooksbilliger.de](https://www.notebooksbilliger.de) [Bomann KG 185 Weiß](https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann), eur 299, unfortunately gone, go it from ebay Bomann KG 185 Kühl-Gefrier-Kombination 225 Liter Weiss Lieferung Mi. 5. Okt. - Fr. 7. Okt. Artikelnr.: 301767237993 Transaktionsnr. 1303916436020
-- alle heizungen fertig anschliessen: zwei zimmer, essbereich
-- in den xwei zimmern kleine eckfussbodenleisten fertig legen
-- bad impraegnieren
+- alle heizungen fertig anschliessen: zwei zimmer, essbereich; im beiden zimmern und im essbereich die heizkoerper anschliessen
+- fehlende fussbodenleisten ergaenzen; in den xwei zimmern kleine eckfussbodenleisten fertig legen
+- badfussboden stein impraegnieren
+- duschlopf montieren
 
 ## done 2016-10-02
 
+- moni malerrolle und malerkrepe mitbringen
 - tischtennistisch und essbereich leerraeumen
 - balkonbretter entalgen und schrubben
+- essbereich fussboden oelen
+- foto vom alten holzschrank karl schicken
+
 
 ## todo next
 
-- essbereich fussboden oelen
 - bueffetfotos machen und robert schicken
-- foto vom alten holzschrank karl schicken
 - lithofin bestellen
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
-- fussboden fertig: material liefern, verlegen, schleifen, oelen
+- fussboden fertig: parkett lamellen ersatzmaterial liefern, verlegen, schleifen, oelen
 - kuechenzeile fertig: waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
-- moni malerrolle und malerkrepe
-- verputzen links von schiebetuer mit malerrolle 
+- malen mit rollputz links von schiebetuer mit malerrolle 
 - balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - fussboden in den zwei zimmern oelen
 - rote farbe kaufen und kuechenzeile streichen
