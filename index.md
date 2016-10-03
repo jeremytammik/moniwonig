@@ -75,6 +75,7 @@
     - DG fussbodenleiste montieren
     - DG boden wachsen
 - garten
+    - renovierung der betonstrassenmauer links vom haupteingangstoerchen, loecher zubetonieren oder was?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturhoz, astgabel oder so
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
