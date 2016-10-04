@@ -14,6 +14,7 @@
     - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
+    - kuechenwand ueber spuele und arbeitsplatte rot lackieren
     - waschtrog fertig montieren
     - fotos von marias kueche
         - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
@@ -58,7 +59,6 @@
     - fensterbleche aussen befestigen
     - regalschrank in nische einbauen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
-    - vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte
 - elektro
     - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
@@ -630,28 +630,32 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - badfussboden stein impraegnieren
 - duschlopf montieren
 
-## done 2016-10-02
+## done 2016-10-04
 
 - moni malerrolle und malerkrepe mitbringen
 - tischtennistisch und essbereich leerraeumen
 - balkonbretter entalgen und schrubben
 - essbereich fussboden oelen
 - foto vom alten holzschrank karl schicken
+- vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte
+- fenster putzen
+- spiegel für bad ausprobieren und montieren 
+- rote farbe kaufen und kuechenzeile streichen
+- kuechenwand ueber spuele und arbeitsplatte erste schicht rot lackieren
+- malen mit rollputz links von schiebetuer mit malerrolle erste schicht 
 
 
 ## <a name="todo-next"></a>todo next
 
+- malen mit rollputz links von schiebetuer mit malerrolle zweite schicht
+- kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren zweite schicht
+- schönes Ablagebrett unter diesem Spiegel ganze Länge aussuchen und montieren
 - bueffetfotos machen und robert schicken
-- Spiegel für Bad ausprobieren und montieren 
-- schönes Ablagebrett unter diesem Spiegel ganze Länge
 - Fussleiste im Esszimmer in Türnische
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
 - lithofin bestellen
 - armaturen entscheiden fuer waschtisch
-- malen mit rollputz links von schiebetuer mit malerrolle 
 - balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
-- rote farbe kaufen und kuechenzeile streichen
-- vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - elektro FI und zaehler einbauen
 - holz vom nussbaum saegen und spalten
