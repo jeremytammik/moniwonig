@@ -163,7 +163,8 @@
     - [Justus Kaminofen Sylt](https://www.bauhaus.info/kaminoefen/justus-kaminofen-sylt-/p/23511226) eur 1500 kW 6
 - hornbach
     - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850
-    
+- rene [ofart](http://ofart.de) &gt; Galerie &gt; Heizkamine &gt; [Bildergalerie](http://ofart.de/?q=heizkamine)
+
 ## neuer zaun
 
 - gittermaschendrahtzaun auf metallpfosten
