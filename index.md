@@ -526,7 +526,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
           [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html), 
           [Fliesenonkel](http://www.fliesenonkel.de) [Waschbecken aus Flusskiesel](http://www.fliesenonkel.de/Natursteinwaschbecken/Waschbecken-Flusskiesel-Findling/?filter_fv_id%5B1%5D%5B%5D=3&value_conjunction%5B1%5D=1&value_conjunction%5B2%5D=1&gm_boosted_category=Waschbecken-Flusskiesel-Findling&Natursteinwaschbecken=Waschbecken-Flusskiesel-Findling&cat=c474&cPath=473_474), 
           [baliandmore](http://www.baliandmore.ch) [Lavabo Stone LB-005](http://www.baliandmore.ch/?gclid=CLfLr8z58s4CFUo8GwodZ_8MrA#!product-page/pu9if/8b0953c3-5d01-2c24-c75f-f8fc06f4cbf8),
-          [megabad](https://www.megabad.com) [Duravit DuraStyle 80 cm](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw)
+          [megabad](https://www.megabad.com) [Duravit DuraStyle 80 cm](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw), tel. +49-2237/6556-0 
 - gaube
     - deckelschalung verkleidung von fenster und schiebetuer
 - zimmer
