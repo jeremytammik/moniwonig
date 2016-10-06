@@ -135,6 +135,7 @@
 - suggest the construction of a new house to autodesk, for architecture, energy analysis, visualisation, modelling
     - ask kean and emile whom to contact
     - check with the new autodesk design studio
+- [thoma holz100 hundert](http://www.thoma.at)
 
 ## people
 
