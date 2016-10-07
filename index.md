@@ -633,7 +633,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - badfussboden stein impraegnieren
 - duschlopf montieren
 
-## done 2016-10-04
+## done 2016-10-07
 
 - moni malerrolle und malerkrepe mitbringen
 - tischtennistisch und essbereich leerraeumen
@@ -646,13 +646,15 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - rote farbe kaufen und kuechenzeile streichen
 - kuechenwand ueber spuele und arbeitsplatte erste schicht rot lackieren
 - malen mit rollputz links von schiebetuer mit malerrolle erste schicht 
+- schönes ablagebrett unter badspiegel ganze länge aussuchen und montieren
+- malen mit rollputz links von schiebetuer mit malerrolle zweite schicht
+- kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren zweite schicht
 
 
 ## <a name="todo-next"></a>todo next
 
-- malen mit rollputz links von schiebetuer mit malerrolle zweite schicht
-- kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren zweite schicht
-- schönes Ablagebrett unter diesem Spiegel ganze Länge aussuchen und montieren
+- malen mit rollputz links von schiebetuer mit malerrolle dritte schicht
+- kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren dritte schicht
 - bueffetfotos machen und robert schicken
 - Fussleiste im Esszimmer in Türnische
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
