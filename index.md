@@ -8,18 +8,16 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
-    - eingangstuer abschleifen, tuerrahmen bauen, tuer montieren
     - wandheizkoerper anschliessen
+    - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
     - fussboden vor schiebetuer abschliessen
     - mosaikparkett fertig renovieren
     - uebergangsstufe vor der schiebetuer auf den balkon bauen
     - regenrinne unten vor der schiebentuer bauen
-    - eingangstuer in metallrahmen einbauen, reinholen, rahmen dicht setzen, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
+    - moniwonig eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
-    - kuechenwand ueber spuele und arbeitsplatte rot lackieren
-    - waschtrog fertig montieren
+    - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
     - fotos von marias kueche
         - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
         - [schublade](img/2016-09-22_maria_kueche/2_ikeaschublade.png)
@@ -28,9 +26,9 @@
     - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - kuechenhahn wandmontage wasserarmatur installieren
+    - fussboden parkett lamellen schleifen und oelen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
-    - acrylfarbe statt glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe? auswaehlen, bestellen und montieren &ndash; nee, doch nicht?
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
@@ -50,7 +48,6 @@
     - wc vorwandelement spuelrandlos montieren
     - duravit waschtisch montieren
     - handtuchtrockenhalter montieren
-    - spiegel aussuchen und montieren
     - schraenke und regale bauen und montieren
     - waschmaschine anschliessen
     - schrankstreifen oder regalstreifen quer
@@ -71,7 +68,7 @@
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen; oder terracotta?
     - garderobe, schuhregale, weiterer stauram, schraenke
-    - arbeitsbereich, werkzeug
+    - weerkbank, arbeitsbereich, werkzeug
 - [ofen](#ofen) aussuchen
 - dach
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
@@ -145,6 +142,7 @@
 ## people
 
 - fussboden: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
+- bad, ofenrohr, sanitaer martin richardson +49-172/7173108
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
 - johann neuhaus tango und metall
 - johannes, zimmermann in linnach
@@ -172,7 +170,7 @@
     - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850
 - rene [ofart](http://ofart.de) &gt; Galerie &gt; Heizkamine &gt; [Bildergalerie](http://ofart.de/?q=heizkamine)
 
-## neuer zaun
+## zaun
 
 - gittermaschendrahtzaun auf metallpfosten
     1. metallpfosten mit fuss oben auf die betonmauer montieren
@@ -453,6 +451,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - wasserleitungen fuer waschbecken hochziehen verlaengern
     - wandheizkoerper vorbereiten leitungen legen
     - place a second radiator beside toilet? -- nope, open copper tubes instead
+    - shower glass partition idea: mount a strip of metal at the top of the glass, attach that to the ceiling, and let the whole thing hang free, no fixed connection to anything, neither floor or ceiling
     - grosszuegige offene dusche, glaswand ohne bewegliche teile -- nein, doch keine glaswand
     - heizung akustisch isolieren, auch von der wand
     - heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr
@@ -646,8 +645,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - foto vom alten holzschrank karl schicken
 - vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte
 - fenster putzen
-- spiegel für bad ausprobieren und montieren 
-- rote farbe kaufen und kuechenzeile streichen
+- spiegel im bad aussuchen, ausprobieren und montieren 
+- rote farbe kaufen und kuechenzeile streichen: acrylfarbe statt glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe?
 - kuechenwand ueber spuele und arbeitsplatte erste schicht rot lackieren
 - malen mit rollputz links von schiebetuer mit malerrolle erste schicht 
 - schönes ablagebrett unter badspiegel ganze länge aussuchen und montieren
@@ -673,8 +672,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren?
 - falk
-    - fussboden fertig: parkett lamellen ersatzmaterial liefern, verlegen, schleifen, oelen
-    - kuechenzeile fertig: waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
+    - heizkoerper anschliessen inkl. heizwand, vor- und ruecklauf an der heizung selber
+    - waschtrog fertig montieren
+    - kuechenzeile: hahn, herd, schubladen
+    - fussboden parkett lamellen verlegen
 
 ## Armaturen
 
