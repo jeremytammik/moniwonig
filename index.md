@@ -74,7 +74,7 @@
     - arbeitsbereich, werkzeug
 - [ofen](#ofen) aussuchen
 - dach
-    - isoflock von oben vom first aus nachstopfen
+    - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
     - dachbalkon wieder aufbauen
     - DG boden wachsen
@@ -261,7 +261,6 @@
     - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
     - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de), der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600
 
-  
 # done
 
 ## done before novemberparty
