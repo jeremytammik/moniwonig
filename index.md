@@ -66,6 +66,7 @@
 - elektro
     - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
+    - vierte klingel an haustuer montieren und tuerklingel anschliessen
 - eingangsbereich
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen; oder terracotta?
