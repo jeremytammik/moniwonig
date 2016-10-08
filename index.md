@@ -77,7 +77,6 @@
     - isoflock von oben vom first aus nachstopfen
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
     - dachbalkon wieder aufbauen
-    - DG fussbodenleiste montieren
     - DG boden wachsen
 - garten
     - renovierung der betonstrassenmauer links vom haupteingangstoerchen, loecher zubetonieren oder was?
@@ -655,6 +654,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - malen mit rollputz links von schiebetuer mit malerrolle zweite schicht
 - kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren dritte schicht
 - wc-kloschuessel vorwandelement spuelrandlos in hornbach abholen
+- DG fussbodenleiste montieren
 
 ## <a name="todo-next"></a>todo next
 
