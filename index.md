@@ -79,6 +79,7 @@
     - renovierung der betonstrassenmauer links vom haupteingangstoerchen, loecher zubetonieren oder was?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturhoz, astgabel oder so
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
+    - holz vom nussbaum saegen und spalten
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
     - gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen
     - kaputte veranda auf der strassenseite abbauen und eine neue wieder aufbauen
@@ -665,10 +666,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - armaturen entscheiden fuer waschtisch
 - balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
-- elektro FI und zaehler einbauen
-- holz vom nussbaum saegen und spalten
-- gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
-- fussboden oben putzen
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren?
 - falk
