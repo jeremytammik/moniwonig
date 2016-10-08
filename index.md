@@ -5,6 +5,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
+    - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
     - eingangstuer abschleifen, tuerrahmen bauen, tuer montieren
     - wandheizkoerper anschliessen
     - fussboden vor schiebetuer abschliessen
