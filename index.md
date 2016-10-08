@@ -146,6 +146,7 @@
 
 - fussboden: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
+- johann neuhaus tango und metall
 - johannes, zimmermann in linnach
 - diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
 - klaus von nicole
