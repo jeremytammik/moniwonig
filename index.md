@@ -2,7 +2,7 @@
 
 [url](http://jeremytammik.github.io/moniwonig)
 &ndash; [source repo](https://github.com/jeremytammik/moniwonig)
-&ndash; <a href="#todo-next">todo-next</a>
+&ndash; <a href="#todo-next">todo next</a>
 
 
 ## <a name="hauptaufgaben"></a>hauptaufgaben
@@ -47,7 +47,7 @@
     - steckdose und spotstrahler oberhalb waschbecken montieren
     - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
     - duscharmatur montieren und dusche anschliessen
-    - wc vorwandelement spuelrandlos holen und montieren
+    - wc vorwandelement spuelrandlos montieren
     - duravit waschtisch montieren
     - handtuchtrockenhalter montieren
     - spiegel aussuchen und montieren
@@ -637,7 +637,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - badfussboden stein impraegnieren
 - duschlopf montieren
 
-## done 2016-10-07
+## done 2016-10-08
 
 - moni malerrolle und malerkrepe mitbringen
 - tischtennistisch und essbereich leerraeumen
@@ -652,13 +652,12 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - malen mit rollputz links von schiebetuer mit malerrolle erste schicht 
 - schönes ablagebrett unter badspiegel ganze länge aussuchen und montieren
 - malen mit rollputz links von schiebetuer mit malerrolle zweite schicht
-- kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren zweite schicht
-
+- kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren dritte schicht
+- wc-kloschuessel vorwandelement spuelrandlos in hornbach abholen
 
 ## <a name="todo-next"></a>todo next
 
 - malen mit rollputz links von schiebetuer mit malerrolle dritte schicht
-- kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren dritte schicht
 - bueffetfotos machen und robert schicken
 - Fussleiste im Esszimmer in Türnische
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
