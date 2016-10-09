@@ -12,7 +12,7 @@
     - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
     - fussboden vor schiebetuer abschliessen
     - mosaikparkett fertig renovieren
-    - uebergangsstufe vor der schiebetuer auf den balkon bauen
+    - [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen?
     - regenrinne unten vor der schiebentuer bauen
     - moniwonig eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
