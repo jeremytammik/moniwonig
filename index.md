@@ -17,6 +17,7 @@
     - regenrinne unten vor der schiebentuer bauen
     - moniwonig eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
+    - [ofen](#ofen) aussuchen
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
 - kueche
     - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen
@@ -72,7 +73,6 @@
     - fussboden mit grobspanplatten verlegen; oder terracotta?
     - garderobe, schuhregale, weiterer stauram, schraenke
     - weerkbank, arbeitsbereich, werkzeug
-- [ofen](#ofen) aussuchen
 - dach
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
