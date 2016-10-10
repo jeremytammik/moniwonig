@@ -16,13 +16,15 @@
     - [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen?
     - regenrinne unten vor der schiebentuer bauen
     - moniwonig eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
-    - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
     - [ofen](#ofen) aussuchen
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
+    - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
     - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
+    - fussboden parkett lamellen schleifen und oelen
     - kuehlschrank anschliessen
+    - muellschublade und regale dahinter in der ecke unter der spuele?
     - fotos von marias kueche
         - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
         - [schublade](img/2016-09-22_maria_kueche/2_ikeaschublade.png)
@@ -30,7 +32,6 @@
         - eine steckdose anschliessen in der schublade fuer elektrosachen
     - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
     - kuechenhahn wandmontage wasserarmatur installieren
-    - fussboden parkett lamellen schleifen und oelen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -46,40 +47,40 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - steckdose und spotstrahler oberhalb waschbecken montieren
-    - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
     - duscharmatur montieren und dusche anschliessen
     - wc vorwandelement spuelrandlos montieren
+    - steckdose und spotstrahler oberhalb waschbecken montieren
+    - waschmaschine anschliessen
+    - wc-dusche armatur montieren und dusche anschliessen
+    - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
     - duravit waschtisch montieren
     - handtuchtrockenhalter montieren
     - schraenke und regale bauen und montieren
-    - waschmaschine anschliessen
     - schrankstreifen oder regalstreifen quer
-    - wc-dusche armatur montieren und dusche anschliessen
 - stauraum
     - regale bauen aus swap wabenplatten
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 - zimmer
-    - fensterbleche aussen befestigen
+    - fensterbleche aussen abdichten und befestigen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
     - im arbeitszimmernische regale einbauen aus swap wabenplatten
 - elektro
-    - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
+    - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
     - vierte klingel an haustuer montieren und tuerklingel anschliessen
 - eingangsbereich
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen; oder terracotta?
     - garderobe, schuhregale, weiterer stauram, schraenke
-    - weerkbank, arbeitsbereich, werkzeug
+    - werkbank, arbeitsbereich, werkzeug
 - dach
-    - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
     - dachbalkon wieder aufbauen
     - DG boden wachsen
+    - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
 - garten
-    - renovierung der betonstrassenmauer links vom haupteingangstoerchen, loecher zubetonieren oder was?
+    - renovierung der betonstrassenmauer links vom haupteingangstoerchen vor dem haus, zubetonieren?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturhoz, astgabel oder so
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
     - holz vom nussbaum saegen und spalten
