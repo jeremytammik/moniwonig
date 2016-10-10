@@ -9,6 +9,7 @@
 
 - gaube
     - wandheizkoerper anschliessen
+    - alle heizkoerper komplett fertig anschliessen inkl. vor- und ruecklauf an der heizung selber
     - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
     - fussboden vor schiebetuer abschliessen
     - mosaikparkett fertig renovieren
@@ -16,21 +17,23 @@
     - regenrinne unten vor der schiebentuer bauen
     - moniwonig eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
+    - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
 - kueche
-    - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen, regale
+    - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen
+    - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
+    - kuehlschrank anschliessen
     - fotos von marias kueche
         - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
         - [schublade](img/2016-09-22_maria_kueche/2_ikeaschublade.png)
         - [multiplex birke schubladenfront](img/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
         - eine steckdose anschliessen in der schublade fuer elektrosachen
     - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
-    - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - kuechenhahn wandmontage wasserarmatur installieren
     - fussboden parkett lamellen schleifen und oelen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - alles zusammen in praktischer griffnaehe wie im tessin
-    - schraenke nur unten, oben regale
+    - schraenke nur unten, oben regale?
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
     - ablageflaechen platz rechts und links von jeden geraet
     - abtropfgestell ueber der spuele
@@ -58,8 +61,8 @@
     - apothekerschrank
 - zimmer
     - fensterbleche aussen befestigen
-    - regalschrank in nische einbauen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
+    - im arbeitszimmernische regale einbauen aus swap wabenplatten
 - elektro
     - separaten stromzaehler installieren fuer gemeinschaftslicht, von jeremy trennen
     - FI-schutzschalter
@@ -169,6 +172,7 @@
     - [Justus Kaminofen Sylt](https://www.bauhaus.info/kaminoefen/justus-kaminofen-sylt-/p/23511226) eur 1500 kW 6
 - hornbach
     - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850
+    - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - rene [ofart](http://ofart.de) &gt; Galerie &gt; Heizkamine &gt; [Bildergalerie](http://ofart.de/?q=heizkamine)
 
 ## zaun
@@ -671,8 +675,12 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - falk
     - heizkoerper anschliessen inkl. heizwand, vor- und ruecklauf an der heizung selber
     - waschtrog fertig montieren
-    - kuechenzeile: hahn, herd, schubladen
+    - kuechenzeile: hahn, herd, schubladen, schubladenfronten
     - fussboden parkett lamellen verlegen
+    - stauraumregale und boxen bauen
+    - fragen:
+        - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
+        - [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen?
 
 ## Armaturen
 
