@@ -54,6 +54,7 @@
     - wc-dusche armatur montieren und dusche anschliessen
     - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
     - duravit waschtisch montieren
+    - [waschtischarmatur](#waschtischarmatur) waehlen
     - handtuchtrockenhalter montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
@@ -162,6 +163,7 @@
 - [tulikivi](http://www.tulikivi.com)
 - [tonwerk](http://tonwerk-ag.com)
 - [wodtke](http://www.wodtke.com)
+- rene [ofart](http://ofart.de) &gt; Galerie &gt; Heizkamine &gt; [Bildergalerie](http://ofart.de/?q=heizkamine) &ndash; leider veraltet
 - lina ofen
     - ofenkoerper von [ofen innovativ](http://www.ofen-innovativ.de), abgestammt von brunner
     - ofenbauer [formteq](http://www.formteq.de)
@@ -174,7 +176,6 @@
 - hornbach
     - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
-- rene [ofart](http://ofart.de) &gt; Galerie &gt; Heizkamine &gt; [Bildergalerie](http://ofart.de/?q=heizkamine)
 
 ## zaun
 
@@ -265,6 +266,15 @@
     - [granit-discount.com](https://www.granit-discount.com/granit_marmor_kuechenarbeitsplatten.php) &ndash; 100 x 60 Gesamtpreis poliert eur 552,04
     - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
     - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de), der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600
+
+## <a name="waschtischarmatur"></a>waschtischarmatur
+
+- amazon 
+    - [1](https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&pd_rd_i=B019E2HDZ4&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
+    - [2](https://www.amazon.de/Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn-Sp%C3%BClbeckenarmatur-K%C3%BCchenarmatur/dp/B00BCNMK4I/ref=pd_lutyp_simh_1_2?ie=UTF8&pd_rd_i=B00BCNMK4I&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
+    - [3](https://www.amazon.de/Zweigriffmischer-K%C3%BCchenarmatur-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B00BKNOPZC/ref=pd_lutyp_simh_1_3?ie=UTF8&pd_rd_i=B00BKNOPZC&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
+    - [4](https://www.amazon.de/Retro-New-Sp%C3%BCltischarmatur-Retro-New-K%C3%BCchenarmatur-Hochdruckarmatur-Zweilochmischer/dp/B00BQAO4LY/ref=pd_lutyp_simh_1_4?ie=UTF8&pd_rd_i=B00BQAO4LY&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
+
 
 # done
 
@@ -668,7 +678,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - Fussleiste im Esszimmer in Türnische
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
 - lithofin bestellen
-- armaturen entscheiden fuer waschtisch
+- [waschtischarmatur](#waschtischarmatur) waehlen
 - balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
@@ -682,13 +692,5 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - fragen:
         - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
         - [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen?
-
-## Armaturen
-
-- amazon waschtischarmaturen
-    - [1](https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&pd_rd_i=B019E2HDZ4&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
-    - [2](https://www.amazon.de/Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn-Sp%C3%BClbeckenarmatur-K%C3%BCchenarmatur/dp/B00BCNMK4I/ref=pd_lutyp_simh_1_2?ie=UTF8&pd_rd_i=B00BCNMK4I&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
-    - [3](https://www.amazon.de/Zweigriffmischer-K%C3%BCchenarmatur-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B00BKNOPZC/ref=pd_lutyp_simh_1_3?ie=UTF8&pd_rd_i=B00BKNOPZC&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
-    - [4](https://www.amazon.de/Retro-New-Sp%C3%BCltischarmatur-Retro-New-K%C3%BCchenarmatur-Hochdruckarmatur-Zweilochmischer/dp/B00BQAO4LY/ref=pd_lutyp_simh_1_4?ie=UTF8&pd_rd_i=B00BQAO4LY&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
 
 <a href="#top">top</a>
