@@ -81,6 +81,7 @@
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
 - garten
+    - veranda entlasten, die fussbodenbohlen biegen zu sehr durch
     - renovierung der betonstrassenmauer links vom haupteingangstoerchen vor dem haus, zubetonieren?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturhoz, astgabel oder so
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
