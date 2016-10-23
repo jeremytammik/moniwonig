@@ -673,6 +673,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
+- veranda entlasten, die fussbodenbohlen biegen zu sehr durch
 - malen mit rollputz links von schiebetuer mit malerrolle dritte schicht
 - bueffetfotos machen und robert schicken
 - Fussleiste im Esszimmer in Türnische
