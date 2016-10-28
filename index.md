@@ -8,6 +8,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
+    - neue eingangstuer bestellen
     - wandheizkoerper anschliessen
     - alle heizkoerper komplett fertig anschliessen inkl. vor- und ruecklauf an der heizung selber
     - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
@@ -47,6 +48,8 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - heizungsstraenge vor- und ruecklauf anschliessen
+    - heizung reinigen, therme warten
     - duscharmatur montieren und dusche anschliessen
     - wc vorwandelement spuelrandlos montieren
     - steckdose und spotstrahler oberhalb waschbecken montieren
@@ -63,6 +66,8 @@
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 - zimmer
+    - loch im kamin zumauern
+    - im schlafzimmer metalldeckel auf die kaminoeffnung setzen
     - fensterbleche aussen abdichten und befestigen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
     - im arbeitszimmernische regale einbauen aus swap wabenplatten
@@ -73,14 +78,18 @@
 - eingangsbereich
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen; oder terracotta?
+    - fussbodenheizung drunter?
     - garderobe, schuhregale, weiterer stauram, schraenke
     - werkbank, arbeitsbereich, werkzeug
 - dach
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
+    - dachbolkonfuesse aus beton giessen
     - dachbalkon wieder aufbauen
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
 - garten
+    - plattenweg zur tuer neu verlegen
+    - platten vor der tuer verlegen?
     - veranda entlasten, die fussbodenbohlen biegen zu sehr durch
     - renovierung der betonstrassenmauer links vom haupteingangstoerchen vor dem haus, zubetonieren?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturhoz, astgabel oder so
@@ -672,27 +681,39 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - wc-kloschuessel vorwandelement spuelrandlos in hornbach abholen
 - DG fussbodenleiste montieren
 
+## done 2016-10-28
+
+- malen mit rollputz links von schiebetuer mit malerrolle dritte schicht
+- heizkoerper anschliessen inkl. heizwand, vor- und ruecklauf an der heizung selber
+- [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen &ndash; nein, nicht noetig
+
 ## <a name="todo-next"></a>todo next
 
+- flecken auf balken links von schiebetuer und waagerechten balken schleifen
+- balken links von schiebetuer und waagerechten balken oelen
+- kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
+- fussboden schleifen mit 180er papier
+- im eingangsbereich wand nochmal mit rollputz uebermalen
 - veranda entlasten, die fussbodenbohlen biegen zu sehr durch
-- malen mit rollputz links von schiebetuer mit malerrolle dritte schicht
 - bueffetfotos machen und robert schicken
-- Fussleiste im Esszimmer in Türnische
+- fussleiste im esszimmer in türnische weiss streichen und montieren
+- fussleiste neben stauraum unter der alten eingangstuer montieren
+- badheizung auspacken
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
 - lithofin bestellen
 - [waschtischarmatur](#waschtischarmatur) waehlen
-- balken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
+- dachbalken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren?
+- loch im kamin zubetonieren
+- metalldeckel auf ofenrohr im schlafzimmer
 - falk
-    - heizkoerper anschliessen inkl. heizwand, vor- und ruecklauf an der heizung selber
+    - therme reinigen
     - waschtrog fertig montieren
     - kuechenzeile: hahn, herd, schubladen, schubladenfronten
     - fussboden parkett lamellen verlegen
     - stauraumregale und boxen bauen
-    - fragen:
-        - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
-        - [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen?
+    - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
 
 <a href="#top">top</a>
