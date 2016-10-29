@@ -682,33 +682,34 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - wc-kloschuessel vorwandelement spuelrandlos in hornbach abholen
 - DG fussbodenleiste montieren
 
-## done 2016-10-28
+## done 2016-10-29
 
+- krueckels fragen, ob lithofin fuer granitplatte geeignet
 - malen mit rollputz links von schiebetuer mit malerrolle dritte schicht
 - heizkoerper anschliessen inkl. heizwand, vor- und ruecklauf an der heizung selber
 - [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen &ndash; nein, nicht noetig
+- badheizung auspacken
+- flecken auf balken links von schiebetuer und waagerechten balken abschleifen und oelen
+- ofenrohrloch im schlafzimmer mit metalldeckel innendurchmesser 150 mm abdecken (die alten sind kleiner)
+- balken links von schiebetuer oelen
+- dachbalken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 
 ## <a name="todo-next"></a>todo next
 
-- flecken auf balken links von schiebetuer und waagerechten balken schleifen
-- balken links von schiebetuer und waagerechten balken oelen
+- lithofin bestellen
+- fussleiste im esszimmer in türnische weiss streichen und montieren
+- waagerechten balken unter schiebetuer oelen
 - kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
 - fussboden schleifen mit 180er papier
 - im eingangsbereich wand nochmal mit rollputz uebermalen
 - veranda entlasten, die fussbodenbohlen biegen zu sehr durch
 - bueffetfotos machen und robert schicken
-- fussleiste im esszimmer in türnische weiss streichen und montieren
 - fussleiste neben stauraum unter der alten eingangstuer montieren
-- badheizung auspacken
-- krueckels fragen, ob lithofin fuer granitplatte geeignet
-- lithofin bestellen
 - [waschtischarmatur](#waschtischarmatur) waehlen
-- dachbalken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren?
 - loch im kamin zubetonieren
-- metalldeckel auf ofenrohr im schlafzimmer
 - falk
     - therme reinigen
     - waschtrog fertig montieren
