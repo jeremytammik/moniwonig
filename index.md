@@ -75,6 +75,7 @@
     - FI-schutzschalter
     - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
     - vierte klingel an haustuer montieren und tuerklingel anschliessen
+    - kurzschluss in der leitung auf dem firstbalken beheben
 - eingangsbereich
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen; oder terracotta?
