@@ -693,23 +693,29 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - ofenrohrloch im schlafzimmer mit metalldeckel innendurchmesser 150 mm abdecken (die alten sind kleiner)
 - balken links von schiebetuer oelen
 - dachbalken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
+- stauraum balken und badtuerrahmen abbuersten und schmirgeln
+
+## todo 2016-10-30
+
+- geburieinladung
+- im eingangsbereich wand nochmal mit rollputz uebermalen
+- waagerechten balken unter schiebetuer oelen
+- neuer putz neben alter eingangstuer ueberstreichen
+- veranda entlasten, die fussbodenbohlen biegen zu sehr durch
+- lithofin bestellen
+- fussleiste neben stauraum unter der alten eingangstuer montieren
 
 ## <a name="todo-next"></a>todo next
 
-- lithofin bestellen
+- loch im kamin zubetonieren
+- weisse holzlasur kaufen
 - fussleiste im esszimmer in türnische weiss streichen und montieren
-- waagerechten balken unter schiebetuer oelen
 - kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
-- fussboden schleifen mit 180er papier
-- im eingangsbereich wand nochmal mit rollputz uebermalen
-- veranda entlasten, die fussbodenbohlen biegen zu sehr durch
+- fussboden schleifen mit 180er papier und oelen
 - bueffetfotos machen und robert schicken
-- fussleiste neben stauraum unter der alten eingangstuer montieren
 - [waschtischarmatur](#waschtischarmatur) waehlen
-- stauraum balken und badtuerrahmen abbuersten und schmirgeln
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren?
-- loch im kamin zubetonieren
 - falk
     - therme reinigen
     - waschtrog fertig montieren
