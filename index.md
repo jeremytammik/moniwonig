@@ -695,15 +695,19 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - dachbalken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
 
-## todo 2016-10-30
+## done 2016-10-30
 
-- geburieinladung
 - im eingangsbereich wand nochmal mit rollputz uebermalen
 - waagerechten balken unter schiebetuer oelen
 - neuer putz neben alter eingangstuer ueberstreichen
 - veranda entlasten, die fussbodenbohlen biegen zu sehr durch
-- lithofin bestellen
 - fussleiste neben stauraum unter der alten eingangstuer montieren
+
+## todo 2016-10-30
+
+- geburieinladung
+- lithofin bestellen
+- fussboden schleifen mit 180er papier und oelen
 
 ## <a name="todo-next"></a>todo next
 
