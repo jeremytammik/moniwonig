@@ -91,8 +91,7 @@
 - garten
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
-    - veranda entlasten, die fussbodenbohlen biegen zu sehr durch
-    - renovierung der betonstrassenmauer links vom haupteingangstoerchen vor dem haus, zubetonieren?
+    - renovierung der betonstrassenmauerkrone links vom haupteingangstoerchen vor dem haus
     - gartenschlauchaufhaengung montieren, vielleicht aus naturhoz, astgabel oder so
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
     - holz vom nussbaum saegen und spalten
@@ -711,6 +710,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
+- kaminfeger fragen wegen aussenluftzufuhr
 - loch im kamin zubetonieren
 - weisse holzlasur kaufen
 - fussleiste im esszimmer in türnische weiss streichen und montieren
@@ -721,11 +721,13 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren?
 - falk
+    - renovierung der betonstrassenmauerkrone links vom haupteingangstoerchen vor dem haus
     - therme reinigen
     - waschtrog fertig montieren
     - kuechenzeile: hahn, herd, schubladen, schubladenfronten
     - fussboden parkett lamellen verlegen
     - stauraumregale und boxen bauen
     - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
+    - heizungsschranktuer bauen und weisseln
 
 <a href="#top">top</a>
