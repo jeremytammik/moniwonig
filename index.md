@@ -8,7 +8,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - neue eingangstuer bestellen
+    - neue eingangstuer bei georg bestellen
     - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
     - fussboden vor schiebetuer abschliessen
     - mosaikparkett fertig renovieren
@@ -18,18 +18,19 @@
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
+    - bretter ueber den balken oberhalb der spuele fertig befestigen
     - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - kuehlschrank anschliessen
     - muellschublade und regale dahinter in der ecke unter der spuele?
-    - kuechenhahn wandmontage wasserarmatur installieren
+    - kuechenhahn anschluesse nachverputzen und lackieren
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale?
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
     - ablageflaechen platz rechts und links von jeden geraet
-    - abtropfgestell ueber der spuele
+    - abtropfgestell ueber der spuele?
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
@@ -39,12 +40,10 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
     - waschbeckenabwasser siphonanschluss suchen und montieren
-    - heizung reinigen, therme warten
     - steckdose und spotstrahler oberhalb waschbecken montieren
+    - heizung reinigen, therme warten
     - waschmaschine anschliessen
     - wc-dusche armatur montieren und dusche anschliessen
-    - duravit waschtisch montieren
-    - [waschtischarmatur](#waschtischarmatur) waehlen
     - handtuchtrockenhalter montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
@@ -76,7 +75,6 @@
 - garten
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
-    - renovierung der betonstrassenmauerkrone links vom haupteingangstoerchen vor dem haus
     - gartenschlauchaufhaengung montieren, vielleicht aus naturhoz, astgabel oder so
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
     - holz vom nussbaum saegen und spalten
@@ -87,14 +85,13 @@
     - bauschrott in der nordecke weg
     - alle dachziegelhaufen zusammenfuehren und richtig schichten
     - schopf aufraeumen
-    - steine oder andere absaetze in den garten
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
+    - terassen mit steine oder andere absaetze in den garten
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of terasses of large natural stone blocks
     - gartenweg steinplatten granit &ndash; im tessin bestellen?
-    - [loew gartenbau](http://www.loewgartenbau.ch) steinmauer auf dem weg hoch zum hagebaechli
     - ask neighbour above about his plans
     - sauna
         - mit michael besprechen
@@ -149,6 +146,7 @@
 - johannes, zimmermann in linnach
 - diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
 - klaus von nicole
+- [loew gartenbau](http://www.loewgartenbau.ch) hat eine nette steinmauer gebaut in pratteln auf dem weg hoch zum hagebaechli
 
 ## <a name="ofen"></a>ofen
 
@@ -262,7 +260,7 @@
     - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
     - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de), der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600
 
-## <a name="waschtischarmatur"></a>waschtischarmatur
+## <a name="waschtischarmatur"></a>waschtischarmatur im bad
 
 - amazon 
     - [1](https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&pd_rd_i=B019E2HDZ4&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
@@ -698,12 +696,13 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - neuer putz neben alter eingangstuer ueberstreichen
 - veranda entlasten, die fussbodenbohlen biegen zu sehr durch
 - fussleiste neben stauraum unter der alten eingangstuer montieren
+- im schlafzimmer metalldeckel auf die kaminoeffnung setzen
 
-## done 2016-11-01
+## done 2016-11-02
 
 - lithofin bestellen
-- der halbe fussboden schleifen mit 180er papier und oelen
-- [waschtischarmatur](#waschtischarmatur) waehlen und bestellen
+- der halbe fussboden ist geschliffen mit 180er papier und geoelt
+- [waschtischarmatur](#waschtischarmatur) gewaehlt, bestellt, erhalten, montiert
 - loch im kamin zubetonieren
 - weisse holzlasur kaufen
 - renovierung der betonstrassenmauerkrone links vom haupteingangstoerchen vor dem haus
@@ -711,18 +710,18 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - duscharmatur montieren und dusche anschliessen
 - wc vorwandelement spuelrandlos montieren
 - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
-- loch im kamin zumauern
-- im schlafzimmer metalldeckel auf die kaminoeffnung setzen
+- kuechenhahn wandmontage wasserarmatur installieren
+- duravit waschtisch montieren
 
 ## <a name="todo-next"></a>todo next
 
+- steckdose im bad ueber waschbecken montieren
 - krueckels fragen, was er fuer die abdichtung waschtrog-steinplantte nehmen wuerde; silikon, teakschiffsdecksabdichtung, gebaeudeabdichtung PU von sika?
 - waschbeckenabwasser siphonanschluss suchen und montieren
-- der halbe fussboden schleifen mit 180er papier und oelen
 - kaminfeger fragen wegen aussenluftzufuhr
-- fussleiste im esszimmer in türnische weiss streichen und montieren
+- fussleiste im esszimmer in türnische weiss lasieren und montieren
 - kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
-- fussboden schleifen mit 180er papier und oelen
+- fussboden schleifen und oelen
 - bueffetfotos machen und robert schicken
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren?
