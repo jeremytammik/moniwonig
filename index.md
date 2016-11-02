@@ -9,29 +9,19 @@
 
 - gaube
     - neue eingangstuer bestellen
-    - wandheizkoerper anschliessen
-    - alle heizkoerper komplett fertig anschliessen inkl. vor- und ruecklauf an der heizung selber
     - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
     - fussboden vor schiebetuer abschliessen
     - mosaikparkett fertig renovieren
-    - [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen?
     - regenrinne unten vor der schiebentuer bauen
     - moniwonig eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
-    - [ofen](#ofen) aussuchen
+    - [ofen](#ofen) bestellen
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
     - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
-    - fussboden parkett lamellen schleifen und oelen
     - kuehlschrank anschliessen
     - muellschublade und regale dahinter in der ecke unter der spuele?
-    - fotos von marias kueche
-        - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
-        - [schublade](img/2016-09-22_maria_kueche/2_ikeaschublade.png)
-        - [multiplex birke schubladenfront](img/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
-        - eine steckdose anschliessen in der schublade fuer elektrosachen
-    - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
     - kuechenhahn wandmontage wasserarmatur installieren
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
@@ -48,14 +38,11 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - heizungsstraenge vor- und ruecklauf anschliessen
+    - waschbeckenabwasser siphonanschluss suchen und montieren
     - heizung reinigen, therme warten
-    - duscharmatur montieren und dusche anschliessen
-    - wc vorwandelement spuelrandlos montieren
     - steckdose und spotstrahler oberhalb waschbecken montieren
     - waschmaschine anschliessen
     - wc-dusche armatur montieren und dusche anschliessen
-    - glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
     - duravit waschtisch montieren
     - [waschtischarmatur](#waschtischarmatur) waehlen
     - handtuchtrockenhalter montieren
@@ -66,8 +53,6 @@
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 - zimmer
-    - loch im kamin zumauern
-    - im schlafzimmer metalldeckel auf die kaminoeffnung setzen
     - fensterbleche aussen abdichten und befestigen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
     - im arbeitszimmernische regale einbauen aus swap wabenplatten
@@ -285,6 +270,13 @@
     - [3](https://www.amazon.de/Zweigriffmischer-K%C3%BCchenarmatur-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B00BKNOPZC/ref=pd_lutyp_simh_1_3?ie=UTF8&pd_rd_i=B00BKNOPZC&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
     - [4](https://www.amazon.de/Retro-New-Sp%C3%BCltischarmatur-Retro-New-K%C3%BCchenarmatur-Hochdruckarmatur-Zweilochmischer/dp/B00BQAO4LY/ref=pd_lutyp_simh_1_4?ie=UTF8&pd_rd_i=B00BQAO4LY&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
 
+## kuechenplanung
+
+- fotos von marias kueche
+    - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
+    - [schublade](img/2016-09-22_maria_kueche/2_ikeaschublade.png)
+    - [multiplex birke schubladenfront](img/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
+    - eine steckdose anschliessen in der schublade fuer elektrosachen
 
 # done
 
@@ -683,16 +675,21 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## done 2016-10-29
 
+- wandheizkoerper anschliessen
+- alle heizkoerper komplett fertig anschliessen inkl. vor- und ruecklauf an der heizung selber
+- heizungsstraenge vor- und ruecklauf anschliessen
 - krueckels fragen, ob lithofin fuer granitplatte geeignet
 - malen mit rollputz links von schiebetuer mit malerrolle dritte schicht
 - heizkoerper anschliessen inkl. heizwand, vor- und ruecklauf an der heizung selber
-- [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen &ndash; nein, nicht noetig
 - badheizung auspacken
 - flecken auf balken links von schiebetuer und waagerechten balken abschleifen und oelen
 - ofenrohrloch im schlafzimmer mit metalldeckel innendurchmesser 150 mm abdecken (die alten sind kleiner)
 - balken links von schiebetuer oelen
 - dachbalken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
 - stauraum balken und badtuerrahmen abbuersten und schmirgeln
+- [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen &ndash; nein, nicht noetig
+- [ofen](#ofen) aussuchen
+- fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
 
 ## done 2016-10-30
 
@@ -710,9 +707,17 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - loch im kamin zubetonieren
 - weisse holzlasur kaufen
 - renovierung der betonstrassenmauerkrone links vom haupteingangstoerchen vor dem haus
+- in kueche fussboden parkett lamellen schleifen und oelen
+- duscharmatur montieren und dusche anschliessen
+- wc vorwandelement spuelrandlos montieren
+- glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden
+- loch im kamin zumauern
+- im schlafzimmer metalldeckel auf die kaminoeffnung setzen
 
 ## <a name="todo-next"></a>todo next
 
+- krueckels fragen, was er fuer die abdichtung waschtrog-steinplantte nehmen wuerde; silikon, teakschiffsdecksabdichtung, gebaeudeabdichtung PU von sika?
+- waschbeckenabwasser siphonanschluss suchen und montieren
 - der halbe fussboden schleifen mit 180er papier und oelen
 - kaminfeger fragen wegen aussenluftzufuhr
 - fussleiste im esszimmer in türnische weiss streichen und montieren
