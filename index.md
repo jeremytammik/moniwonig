@@ -702,26 +702,26 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - veranda entlasten, die fussbodenbohlen biegen zu sehr durch
 - fussleiste neben stauraum unter der alten eingangstuer montieren
 
-## todo 2016-10-30
+## done 2016-11-01
 
-- geburieinladung
 - lithofin bestellen
-- fussboden schleifen mit 180er papier und oelen
+- der halbe fussboden schleifen mit 180er papier und oelen
+- [waschtischarmatur](#waschtischarmatur) waehlen und bestellen
+- loch im kamin zubetonieren
+- weisse holzlasur kaufen
+- renovierung der betonstrassenmauerkrone links vom haupteingangstoerchen vor dem haus
 
 ## <a name="todo-next"></a>todo next
 
+- der halbe fussboden schleifen mit 180er papier und oelen
 - kaminfeger fragen wegen aussenluftzufuhr
-- loch im kamin zubetonieren
-- weisse holzlasur kaufen
 - fussleiste im esszimmer in türnische weiss streichen und montieren
 - kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
 - fussboden schleifen mit 180er papier und oelen
 - bueffetfotos machen und robert schicken
-- [waschtischarmatur](#waschtischarmatur) waehlen
 - fussboden in den zwei zimmern und essbereich nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren?
 - falk
-    - renovierung der betonstrassenmauerkrone links vom haupteingangstoerchen vor dem haus
     - therme reinigen
     - waschtrog fertig montieren
     - kuechenzeile: hahn, herd, schubladen, schubladenfronten
