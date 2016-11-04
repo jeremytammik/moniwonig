@@ -169,7 +169,7 @@
 - hornbach
     - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
-- [Xeoos Twinfire X8 Solo ULEB](http://www.xeoos.co.nz/solo.html)
+- [Xeoos Twinfire X8 Solo ULEB](http://www.xeoos.co.nz/solo.html) [video](https://www.youtube.com/watch?v=bfyZhCy_4OE)
 
 ## zaun
 
