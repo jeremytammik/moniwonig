@@ -22,8 +22,8 @@
     - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - kuehlschrank anschliessen
-    - muellschublade und regale dahinter in der ecke unter der spuele?
-    - kuechenhahn anschluesse nachverputzen und lackieren
+    - muellschublade und regale dahinter in der ecke unter der spuele bauen
+    - kuechenhahnanschluesse nachverputzen und lackieren
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -40,10 +40,10 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
     - waschbeckenabwasser siphonanschluss suchen und montieren
-    - steckdose und spotstrahler oberhalb waschbecken montieren
+    - steckdose und lichterkette oberhalb waschbecken montieren
     - heizung reinigen, therme warten
     - waschmaschine anschliessen
-    - wc-dusche armatur montieren und dusche anschliessen
+    - wc-dusche besorgen und montieren
     - handtuchtrockenhalter montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
@@ -63,7 +63,6 @@
 - eingangsbereich
     - buecher sortieren und wegraeumen
     - fussboden mit grobspanplatten verlegen; oder terracotta?
-    - fussbodenheizung drunter?
     - garderobe, schuhregale, weiterer stauram, schraenke
     - werkbank, arbeitsbereich, werkzeug
 - dach
@@ -75,7 +74,7 @@
 - garten
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
-    - gartenschlauchaufhaengung montieren, vielleicht aus naturhoz, astgabel oder so
+    - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
     - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
     - holz vom nussbaum saegen und spalten
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
@@ -714,9 +713,16 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kuechenhahn wandmontage wasserarmatur installieren
 - duravit waschtisch montieren
 
+## done 2016-11-06
+
+- fussbodenheizung unter den terracottafliesen im eingangsbereich? &ndash; nein, unbeheizt, auch weil der bereich nicht perfekt isoliert oder abgedichtet ist
+- wc-dusche armatur montieren und dusche anschliessen
+- wohnzimmerfussboden schleifen und oelen
+- ofen bestellen
+
 ## <a name="todo-next"></a>todo next
 
-- ofen bestellen
+- holmer rechnung stellung nehmen
 - mammutholztischplatte bestellen 90 x 200
 - steckdose im bad ueber waschbecken montieren
 - krueckels fragen, was er fuer die abdichtung waschtrog-steinplantte nehmen wuerde; silikon, teakschiffsdecksabdichtung, gebaeudeabdichtung PU von sika?
@@ -724,10 +730,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kaminfeger fragen wegen aussenluftzufuhr
 - fussleiste im esszimmer in türnische weiss lasieren und montieren
 - kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
-- fussboden schleifen und oelen
+- fussboeden nachschleifen?
+- alle fussboeden nochmal oelen?
+- solnhofer naturstein nochmal impraegnieren
 - bueffetfotos machen und robert schicken
-- fussboden in den zwei zimmern und essbereich nochmal oelen?
-- solnhofer naturstein nochmal impraegnieren?
 - falk
     - therme reinigen
     - waschtrog fertig montieren
