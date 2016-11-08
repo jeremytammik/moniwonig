@@ -18,12 +18,12 @@
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
+    - kuechenhahnanschluesse nachverputzen und lackieren
     - bretter ueber den balken oberhalb der spuele fertig befestigen
     - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - kuehlschrank anschliessen
     - muellschublade und regale dahinter in der ecke unter der spuele bauen
-    - kuechenhahnanschluesse nachverputzen und lackieren
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -39,6 +39,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - uebergang von wand- auf dachisolation von aussen abdichten
     - waschbeckenabwasser siphonanschluss suchen und montieren
     - steckdose und lichterkette oberhalb waschbecken montieren
     - heizung reinigen, therme warten
@@ -67,7 +68,8 @@
     - werkbank, arbeitsbereich, werkzeug
 - dach
     - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
-    - dachbolkonfuesse aus beton giessen
+    - dachbalkonstahlrahmen aufbauen zur genauen positionierung der balkonfuesse
+    - dachbolkonfuesse aus beton in situ giessen
     - dachbalkon wieder aufbauen
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
@@ -111,6 +113,7 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 - firstbalken pfettenabstuetzungsbalken
+    - badanteil vom grundofen abbauen? &ndash; dann kann man einen senkrechten firstbalkenstuetzbalken einbauen
     - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.
 - projects
     - warmwasser- und heizungssolaranlage
@@ -721,16 +724,22 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - wohnzimmerfussboden schleifen und oelen
 - ofen bestellen
 
+## done 2016-11-08
+
+- mammutholztischplatte bestellen 90 x 200
+- krueckels fragen, was er fuer die abdichtung waschtrog-steinplantte nehmen wuerde; silikon, teakschiffsdecksabdichtung, gebaeudeabdichtung PU von sika? &ndash; essigfreies silikon, fuer marmor und naturstein
+- kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
+
 ## <a name="todo-next"></a>todo next
 
+- gelbe saecke aufraeumen und rausstellen
+- im garten zwei loecher fuer pflanzen buddeln
+- granitsteinkuechenplatte impraegnieren mit lithofin
 - holmer rechnung stellung nehmen
-- mammutholztischplatte bestellen 90 x 200
 - steckdose im bad ueber waschbecken montieren
-- krueckels fragen, was er fuer die abdichtung waschtrog-steinplantte nehmen wuerde; silikon, teakschiffsdecksabdichtung, gebaeudeabdichtung PU von sika?
 - waschbeckenabwasser siphonanschluss suchen und montieren
 - kaminfeger fragen wegen aussenluftzufuhr
 - fussleiste im esszimmer in türnische weiss lasieren und montieren
-- kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
 - fussboeden nachschleifen?
 - alle fussboeden nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren
