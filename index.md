@@ -8,12 +8,11 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - neue eingangstuer bei georg bestellen
+    - moniwonig neue eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
     - fussboden vor schiebetuer abschliessen
     - mosaikparkett fertig renovieren
     - regenrinne unten vor der schiebentuer bauen
-    - moniwonig eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - [ofen](#ofen) bestellen
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
@@ -39,10 +38,10 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - uebergang von wand- auf dachisolation von aussen abdichten
+    - heizung reinigen, therme warten
+    - uebergang von wand- auf dachisolation von aussen abdichten &ndash; den vorhandenen luftschlitz unter dem isoflock und der dampfsperre luftdicht ausschaeumen
     - waschbeckenabwasser siphonanschluss suchen und montieren
     - steckdose und lichterkette oberhalb waschbecken montieren
-    - heizung reinigen, therme warten
     - waschmaschine anschliessen
     - wc-dusche besorgen und montieren
     - handtuchtrockenhalter montieren
@@ -67,13 +66,18 @@
     - garderobe, schuhregale, weiterer stauram, schraenke
     - werkbank, arbeitsbereich, werkzeug
 - dach
-    - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen
-    - dachbalkonstahlrahmen aufbauen zur genauen positionierung der balkonfuesse
-    - dachbolkonfuesse aus beton in situ giessen
+    - dachbalkonstahlrahmen aufbauen zur genauen positionierung und ausgiessen der balkonfuesse aus beton
+    - dachbolkonfuesse aus beton rahmen bauen und in situ giessen
     - dachbalkon wieder aufbauen
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
+- balkon
+    - balkon unter den paletten saeubern nach dem umbau
+    - regenschutz fuer karens eingang verbessern, neue wellplatten verlegen
+    - balkonbretter schrubben
+    - balkondielenpalettenbretter dichter setzen, um die schlitze kleiner zu machen
 - garten
+    - briefkasten mir nummer 32 besorgen und aufhaengen
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
@@ -87,8 +91,6 @@
     - alle dachziegelhaufen zusammenfuehren und richtig schichten
     - schopf aufraeumen
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
-    - balkon unter den paletten saeubern nach dem umbau
-    - balkonbretter schrubben
     - terassen mit steine oder andere absaetze in den garten
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of terasses of large natural stone blocks
@@ -99,7 +101,6 @@
         - in finland bestellen?
         - holzterasse um die sauna rum
         - share with neighbour above?
-    - regenwasser sammeln und hochpumpen, auch fuer klopsuelung nutzen?
     - zaun
         - [zaunpfosten](#zaunpfosten)
         - holzzaun reste entfernen und versorgen
@@ -116,6 +117,7 @@
     - badanteil vom grundofen abbauen? &ndash; dann kann man einen senkrechten firstbalkenstuetzbalken einbauen
     - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.
 - projects
+    - regenwasser sammeln und hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - warmwasser- und heizungssolaranlage
     - [kompotoi](http://www.kompotoi.ch) komposttoilette mit trennung von kot und urin
 
@@ -174,7 +176,7 @@
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - [externe verbrennungsluftzufuhr fuer kamine und kaminoefen](http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/)
 
-## zaun
+## <a name="zaun"></a>zaun
 
 - gittermaschendrahtzaun auf metallpfosten
     1. metallpfosten mit fuss oben auf die betonmauer montieren
@@ -724,17 +726,20 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - wohnzimmerfussboden schleifen und oelen
 - ofen bestellen
 
-## done 2016-11-08
+## done 2016-11-09
 
 - mammutholztischplatte bestellen 90 x 200
 - krueckels fragen, was er fuer die abdichtung waschtrog-steinplantte nehmen wuerde; silikon, teakschiffsdecksabdichtung, gebaeudeabdichtung PU von sika? &ndash; essigfreies silikon, fuer marmor und naturstein
 - kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen &ndash; schraube unter heizungsrohr durch und kupferschlaufe drueber
+- gelbe saecke aufraeumen und rausstellen
+- im garten zwei loecher fuer pflanzen buddeln
+- granitsteinkuechenplatte impraegnieren mit lithofin und fertig montieren
+- neue eingangstuer bei georg bestellen &ndash; machen wir selber
+- isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen &ndash; entfaellt, wir giessen fuesse aus beton
+
 
 ## <a name="todo-next"></a>todo next
 
-- gelbe saecke aufraeumen und rausstellen
-- im garten zwei loecher fuer pflanzen buddeln
-- granitsteinkuechenplatte impraegnieren mit lithofin
 - holmer rechnung stellung nehmen
 - steckdose im bad ueber waschbecken montieren
 - waschbeckenabwasser siphonanschluss suchen und montieren
