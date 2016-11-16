@@ -257,6 +257,7 @@
     - [exakte masse inkl. kochfeld](img/kuechenarbeitsplatten_skizze_3.jpg)
     - [waschtrog](img/waschtrog.png) in solvespace
     - [waschtrog2](img/waschtrog2.png) in AutoCAD
+    - [waschtrogeckhalterung](img/2016-11-16_waschtroghalterung.jpeg) von falk
 - andere anbieter
     - [Naturstein Indri](http://www.naturstein-indri.de), Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12 
     - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
