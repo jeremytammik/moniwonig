@@ -738,6 +738,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - neue eingangstuer bei georg bestellen &ndash; machen wir selber
 - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen &ndash; entfaellt, wir giessen fuesse aus beton
 
+## done 2016-11-16
+
+- waschtrog fertig montieren
+
 
 ## <a name="todo-next"></a>todo next
 
@@ -752,7 +756,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueffetfotos machen und robert schicken
 - falk
     - therme reinigen
-    - waschtrog fertig montieren
     - kuechenzeile: hahn, herd, schubladen, schubladenfronten
     - fussboden parkett lamellen verlegen
     - stauraumregale und boxen bauen
