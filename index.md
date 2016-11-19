@@ -10,18 +10,13 @@
 - gaube
     - moniwonig neue eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
-    - fussboden vor schiebetuer abschliessen
-    - mosaikparkett fertig renovieren
-    - regenrinne unten vor der schiebentuer bauen
     - [ofen](#ofen) bestellen
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
-    - kuechenhahnanschluesse nachverputzen und lackieren
     - bretter ueber den balken oberhalb der spuele fertig befestigen
-    - kuechenzeile fertigstellen: waschtrog, hahn, arbeitsplatte, herd, schubladen
+    - kuechenzeile fertigstellen: schubladen und fronten
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
-    - kuehlschrank anschliessen
     - muellschublade und regale dahinter in der ecke unter der spuele bauen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
@@ -738,26 +733,36 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - neue eingangstuer bei georg bestellen &ndash; machen wir selber
 - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen &ndash; entfaellt, wir giessen fuesse aus beton
 
-## done 2016-11-16
+## done 2016-11-19
 
-- waschtrog fertig montieren
+- kuehlschrank anschliessen
+- waschtrog und arbeitsplatte fertig montieren
+- kuechenzeile: hahn und herd anschliessen
+- kuechenhahnanschluesse nachverputzen und lackieren
+- steckdose im bad ueber waschbecken montieren
+- waschbeckenabwasser siphonanschluss montieren
+- therme mit kompressor ausblasen und reinigen
+- fussboden parkett lamellen verlegen
+- fussboden vor schiebetuer abschliessen
+- mosaikparkett fertig renovieren
+- regenrinne unten vor der schiebentuer bauen
 
 
 ## <a name="todo-next"></a>todo next
 
+- plastikwellblech putzen und ausrichten
+- putzschranktueren weiss lasieren
+- schopf aus- und aufrauemen
 - holmer rechnung stellung nehmen
-- steckdose im bad ueber waschbecken montieren
-- waschbeckenabwasser siphonanschluss suchen und montieren
 - kaminfeger fragen wegen aussenluftzufuhr
 - fussleiste im esszimmer in türnische weiss lasieren und montieren
+- badwaschbeckenabwasser siphon fertig anschliessen
 - fussboeden nachschleifen?
 - alle fussboeden nochmal oelen?
 - solnhofer naturstein nochmal impraegnieren
 - bueffetfotos machen und robert schicken
 - falk
-    - therme reinigen
-    - kuechenzeile: hahn, herd, schubladen, schubladenfronten
-    - fussboden parkett lamellen verlegen
+    - kuechenzeile: schubladen, schubladenfronten
     - stauraumregale und boxen bauen
     - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
     - heizungsschranktuer bauen und weisseln
