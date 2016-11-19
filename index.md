@@ -33,10 +33,8 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - heizung reinigen, therme warten
     - uebergang von wand- auf dachisolation von aussen abdichten &ndash; den vorhandenen luftschlitz unter dem isoflock und der dampfsperre luftdicht ausschaeumen
-    - waschbeckenabwasser siphonanschluss suchen und montieren
-    - steckdose und lichterkette oberhalb waschbecken montieren
+    - waschbeckenabwasser siphonanschluss fertig montieren
     - waschmaschine anschliessen
     - wc-dusche besorgen und montieren
     - handtuchtrockenhalter montieren
@@ -68,7 +66,6 @@
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
 - balkon
     - balkon unter den paletten saeubern nach dem umbau
-    - regenschutz fuer karens eingang verbessern, neue wellplatten verlegen
     - balkonbretter schrubben
     - balkondielenpalettenbretter dichter setzen, um die schlitze kleiner zu machen
 - garten
@@ -80,7 +77,8 @@
     - holz vom nussbaum saegen und spalten
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
     - gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen
-    - kaputte veranda auf der strassenseite abbauen und eine neue wieder aufbauen
+    - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
+    - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
     - alle dachziegelhaufen zusammenfuehren und richtig schichten
@@ -741,16 +739,18 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kuechenhahnanschluesse nachverputzen und lackieren
 - steckdose im bad ueber waschbecken montieren
 - waschbeckenabwasser siphonanschluss montieren
-- therme mit kompressor ausblasen und reinigen
+- heizung reinigen, therme warten, mit kompressor ausblasen und reinigen
+- steckdose und lichterkette oberhalb badwaschbecken montieren
 - fussboden parkett lamellen verlegen
 - fussboden vor schiebetuer abschliessen
 - mosaikparkett fertig renovieren
 - regenrinne unten vor der schiebentuer bauen
+- regenschutz fuer karens eingang verbessern
 
 
 ## <a name="todo-next"></a>todo next
 
-- plastikwellblech putzen und ausrichten
+- plastik-wellplatten putzen und ausrichten
 - putzschranktueren weiss lasieren
 - schopf aus- und aufrauemen
 - holmer rechnung stellung nehmen
