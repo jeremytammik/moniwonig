@@ -759,7 +759,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - schopf aus- und aufrauemen
 - boden oelen
 - kuechenschubladenfronten oelen
-
 - holmer rechnung stellung nehmen
 - kaminfeger fragen wegen aussenluftzufuhr
 - fussleiste im esszimmer in türnische weiss lasieren und montieren
