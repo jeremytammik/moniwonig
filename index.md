@@ -10,7 +10,7 @@
 - gaube
     - moniwonig neue eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
-    - [ofen](#ofen) bestellen
+    - [ofen](#ofen) installieren
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
@@ -730,6 +730,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - granitsteinkuechenplatte impraegnieren mit lithofin und fertig montieren
 - neue eingangstuer bei georg bestellen &ndash; machen wir selber
 - isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen &ndash; entfaellt, wir giessen fuesse aus beton
+- [ofen](#ofen) bestellen
+
 
 ## done 2016-11-19
 
@@ -750,9 +752,14 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
+- eingang aufraeumen
+- buecher sortieren
 - plastik-wellplatten putzen und ausrichten
 - putzschranktueren weiss lasieren
 - schopf aus- und aufrauemen
+- boden oelen
+- kuechenschubladenfronten oelen
+
 - holmer rechnung stellung nehmen
 - kaminfeger fragen wegen aussenluftzufuhr
 - fussleiste im esszimmer in türnische weiss lasieren und montieren
