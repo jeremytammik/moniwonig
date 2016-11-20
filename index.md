@@ -757,15 +757,13 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - plastik-wellplatten putzen und ausrichten
 - putzschranktueren weiss lasieren
 - schopf aus- und aufrauemen
-- boden oelen
+- fussboeden nochmal oelen
 - kuechenschubladenfronten oelen
+- solnhofer naturstein nochmal impraegnieren
 - holmer rechnung stellung nehmen
 - kaminfeger fragen wegen aussenluftzufuhr
 - fussleiste im esszimmer in türnische weiss lasieren und montieren
 - badwaschbeckenabwasser siphon fertig anschliessen
-- fussboeden nachschleifen?
-- alle fussboeden nochmal oelen?
-- solnhofer naturstein nochmal impraegnieren
 - bueffetfotos machen und robert schicken
 - falk
     - kuechenzeile: schubladen, schubladenfronten
