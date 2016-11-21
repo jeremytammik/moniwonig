@@ -753,14 +753,15 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 ## <a name="todo-next"></a>todo next
 
 - vor der fete
-    - eingang aufraeumen
-    - plastik-wellplatten putzen und ausrichten
-    - schopf aus- und aufrauemen
-    - fussboeden nochmal oelen
     - kuechenschubladenfronten oelen
-    - badfussboden nochmal impraegnieren
+    - plastik-wellplatten putzen und ausrichten
     - fussleiste im esszimmer in türnische weiss lasieren und montieren
+    - fussboeden nochmal oelen
+    - badfussboden nochmal impraegnieren
+    - eingang aufraeumen
+    - schopf aus- und aufrauemen
     - badwaschbeckenabwasser siphon fertig anschliessen
+    - regal im bad aufhaengen
     - falk
         - kuechenfronten montieren
         - schiebetuer und kuechefenster abdichten und anschlussliesten montieren
