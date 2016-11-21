@@ -762,6 +762,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - fussleiste im esszimmer in türnische weiss lasieren und montieren
     - badwaschbeckenabwasser siphon fertig anschliessen
     - falk
+        - kuechenfronten montieren
         - schiebetuer und kuechefenster abdichten und anschlussliesten montieren
         - abdichtung vom uebergang wand-dachschraege auf der ganzen laenge
         - badwaschbeckenabwasser siphonanschluss gebrauchsfertigstellen
