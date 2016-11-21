@@ -19,7 +19,6 @@
     - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - muellschublade und regale dahinter in der ecke unter der spuele bauen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
-    - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
     - alles zusammen in praktischer griffnaehe wie im tessin
     - schraenke nur unten, oben regale?
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
@@ -40,6 +39,7 @@
     - handtuchtrockenhalter montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
+    - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
 - stauraum
     - regale bauen aus swap wabenplatten
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
@@ -60,7 +60,7 @@
     - werkbank, arbeitsbereich, werkzeug
 - dach
     - dachbalkonstahlrahmen aufbauen zur genauen positionierung und ausgiessen der balkonfuesse aus beton
-    - dachbolkonfuesse aus beton rahmen bauen und in situ giessen
+    - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
     - dachbalkon wieder aufbauen
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
@@ -729,7 +729,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - im garten zwei loecher fuer pflanzen buddeln
 - granitsteinkuechenplatte impraegnieren mit lithofin und fertig montieren
 - neue eingangstuer bei georg bestellen &ndash; machen wir selber
-- isolationsplatte und rostfreie stahlplatte fuer die dachbolkonfuesse besorgen &ndash; entfaellt, wir giessen fuesse aus beton
+- isolationsplatte und rostfreie stahlplatte fuer die dachbalkonfuesse besorgen &ndash; entfaellt, wir giessen fuesse aus beton
 - [ofen](#ofen) bestellen
 
 
@@ -752,18 +752,25 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
-- eingang aufraeumen
+- vor der fete
+    - eingang aufraeumen
+    - plastik-wellplatten putzen und ausrichten
+    - schopf aus- und aufrauemen
+    - fussboeden nochmal oelen
+    - kuechenschubladenfronten oelen
+    - badfussboden nochmal impraegnieren
+    - fussleiste im esszimmer in türnische weiss lasieren und montieren
+    - badwaschbeckenabwasser siphon fertig anschliessen
+    - falk
+        - schiebetuer und kuechefenster abdichten und anschlussliesten montieren
+        - abdichtung vom uebergang wand-dachschraege auf der ganzen laenge
+        - badwaschbeckenabwasser siphonanschluss gebrauchsfertigstellen
+        - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
+        - balkonplatten wieder aufbauen
 - buecher sortieren
-- plastik-wellplatten putzen und ausrichten
 - putzschranktueren weiss lasieren
-- schopf aus- und aufrauemen
-- fussboeden nochmal oelen
-- kuechenschubladenfronten oelen
-- solnhofer naturstein nochmal impraegnieren
 - holmer rechnung stellung nehmen
 - kaminfeger fragen wegen aussenluftzufuhr
-- fussleiste im esszimmer in türnische weiss lasieren und montieren
-- badwaschbeckenabwasser siphon fertig anschliessen
 - bueffetfotos machen und robert schicken
 - falk
     - kuechenzeile: schubladen, schubladenfronten
