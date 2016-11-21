@@ -749,18 +749,20 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - regenrinne unten vor der schiebentuer bauen
 - regenschutz fuer karens eingang verbessern
 
+## done 2016-11-21
+
+- badfussboden nochmal impraegnieren
+- kuechenschubladenfronten oelen
+- plastik-wellplatten putzen und ausrichten
+- fussleiste im esszimmer in türnische weiss lasieren und montieren
 
 ## <a name="todo-next"></a>todo next
 
 - vor der fete
-    - kuechenschubladenfronten oelen
-    - plastik-wellplatten putzen und ausrichten
-    - fussleiste im esszimmer in türnische weiss lasieren und montieren
     - fussboeden nochmal oelen
-    - badfussboden nochmal impraegnieren
     - eingang aufraeumen
     - schopf aus- und aufrauemen
-    - badwaschbeckenabwasser siphon fertig anschliessen
+    - badwaschbeckenabwassersiphon fertig anschliessen
     - regal im bad aufhaengen
     - falk
         - kuechenfronten montieren
