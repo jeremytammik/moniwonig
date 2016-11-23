@@ -9,7 +9,6 @@
 
 - gaube
     - moniwonig neue eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
-    - schiebetuer- und fensterumrandung abdichten, daemmen und dampfsperre von innen
     - [ofen](#ofen) installieren
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
@@ -760,7 +759,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 ## done 2016-11-22
 
 - regal im bad aufhaengen erledigt sich, passt nicht
-- schiebetuer und kuechenfenster abdichten und anschlussleisten montieren
+- schiebetuer- und kuechenfensterumrandung abdichten, daemmen, dampfsperre von innen, anschlussleisten montieren
 - abdichtung vom uebergang wand-dachschraege auf der ganzen laenge
 - putzschranktueren weiss lasieren, heizungsschranktuer zwischenschliff und zweites mal weisseln
 - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
@@ -768,6 +767,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
+- kurzschluss auf dem firstbalken beheben
+- defekten deckenstrahler ersetzen
 - fussboeden oelen
 - deckenleuchten in allen zimmern
 - eingang aufraeumen
