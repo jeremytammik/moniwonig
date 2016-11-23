@@ -16,7 +16,6 @@
 - kueche
     - bretter ueber den balken oberhalb der spuele fertig befestigen
     - kuechenzeile fertigstellen: schubladen und fronten
-    - schubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - muellschublade und regale dahinter in der ecke unter der spuele bauen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -33,7 +32,6 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
     - uebergang von wand- auf dachisolation von aussen abdichten &ndash; den vorhandenen luftschlitz unter dem isoflock und der dampfsperre luftdicht ausschaeumen
-    - waschbeckenabwasser siphonanschluss fertig montieren
     - waschmaschine anschliessen
     - wc-dusche besorgen und montieren
     - handtuchtrockenhalter montieren
@@ -58,6 +56,7 @@
     - fussboden mit grobspanplatten verlegen; oder terracotta?
     - garderobe, schuhregale, weiterer stauram, schraenke
     - werkbank, arbeitsbereich, werkzeug
+    - 500 Watt strahler durch energiesparlampen ersetzen
 - dach
     - dachbalkonstahlrahmen aufbauen zur genauen positionierung und ausgiessen der balkonfuesse aus beton
     - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
@@ -107,7 +106,7 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 - firstbalken pfettenabstuetzungsbalken
-    - badanteil vom grundofen abbauen? &ndash; dann kann man einen senkrechten firstbalkenstuetzbalken einbauen
+    - badanteil vom grundofen abbauen? &ndash; dann kann man einen senkrechten firstbalkenstuetzbalken einbauen aus holz
     - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.
 - projects
     - regenwasser sammeln und hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
@@ -732,7 +731,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - isolationsplatte und rostfreie stahlplatte fuer die dachbalkonfuesse besorgen &ndash; entfaellt, wir giessen fuesse aus beton
 - [ofen](#ofen) bestellen
 
-
 ## done 2016-11-19
 
 - kuehlschrank anschliessen
@@ -752,34 +750,37 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 ## done 2016-11-21
 
 - badfussboden nochmal impraegnieren
+- kuechenschubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
 - kuechenschubladenfronten oelen
 - plastik-wellplatten putzen und ausrichten
 - fussleiste im esszimmer in türnische weiss lasieren und montieren
+- badwaschbeckenabwassersiphon gebrauchsfertig anschliessen
+- heizungsschranktuer bauen und erstes mal weisseln
+
+## done 2016-11-22
+
+- regal im bad aufhaengen erledigt sich, passt nicht
+- schiebetuer und kuechenfenster abdichten und anschlussleisten montieren
+- abdichtung vom uebergang wand-dachschraege auf der ganzen laenge
+- putzschranktueren weiss lasieren, heizungsschranktuer zwischenschliff und zweites mal weisseln
+- dachbalkonfuesse aus beton rahmen bauen und in situ giessen
+- kuechenfronten montieren
 
 ## <a name="todo-next"></a>todo next
 
-- vor der fete
-    - fussboeden nochmal oelen
-    - eingang aufraeumen
-    - schopf aus- und aufrauemen
-    - badwaschbeckenabwassersiphon fertig anschliessen
-    - regal im bad aufhaengen
-    - falk
-        - kuechenfronten montieren
-        - schiebetuer und kuechefenster abdichten und anschlussliesten montieren
-        - abdichtung vom uebergang wand-dachschraege auf der ganzen laenge
-        - badwaschbeckenabwasser siphonanschluss gebrauchsfertigstellen
-        - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
-        - balkonplatten wieder aufbauen
+- fussboeden oelen
+- eingang aufraeumen
+- schopf aus- und aufrauemen
+- regal im bad bauen
+- heizungsschranktuer montieren
+- schubladengriffe
+- schalungsbretter montieren
+- balkonplatten wieder aufbauen
 - buecher sortieren
-- putzschranktueren weiss lasieren
 - holmer rechnung stellung nehmen
 - kaminfeger fragen wegen aussenluftzufuhr
+- stauraumregale und boxen bauen
+- 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
 - bueffetfotos machen und robert schicken
-- falk
-    - kuechenzeile: schubladen, schubladenfronten
-    - stauraumregale und boxen bauen
-    - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
-    - heizungsschranktuer bauen und weisseln
 
 <a href="#top">top</a>
