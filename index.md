@@ -769,6 +769,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 ## <a name="todo-next"></a>todo next
 
 - fussboeden oelen
+- deckenleuchten in allen zimmern
 - eingang aufraeumen
 - schopf aus- und aufrauemen
 - regal im bad bauen
