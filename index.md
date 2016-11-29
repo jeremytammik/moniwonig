@@ -765,24 +765,31 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
 - kuechenfronten montieren
 
+## done 2016-11-25
+
+- heizungsschranktuer montieren
+- schopf aus- und aufrauemen
+- eingang aufraeumen
+
 ## <a name="todo-next"></a>todo next
 
+- kuechenschubladengriffe
+- waschmaschine drehen und nivellieren
+- jahreszeitendekoregal in tuernische aus altem poliertem holz
 - kurzschluss auf dem firstbalken beheben
-- defekten deckenstrahler ersetzen
-- fussboeden oelen
 - deckenleuchten in allen zimmern
-- eingang aufraeumen
-- schopf aus- und aufrauemen
+- fussboeden oelen
 - regal im bad bauen
-- heizungsschranktuer montieren
-- schubladengriffe
-- schalungsbretter montieren
-- balkonplatten wieder aufbauen
+- schraubenregal bauen
 - buecher sortieren
 - holmer rechnung stellung nehmen
 - kaminfeger fragen wegen aussenluftzufuhr
-- stauraumregale und boxen bauen
 - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
 - bueffetfotos machen und robert schicken
+- falk
+    - dachbalkonboden wieder aufbauen
+    - moniwonig eingangstuer schleifen, rahmen bauen, einsetzen
+    - stauraumregale und boxen bauen
+    - bueronischenregal bauen
 
 <a href="#top">top</a>
