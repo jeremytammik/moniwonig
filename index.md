@@ -775,7 +775,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - kuechenschubladengriffe
 - waschmaschine drehen und nivellieren
-- jahreszeitendekoregal in tuernische aus altem poliertem holz
+- jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm
 - kurzschluss auf dem firstbalken beheben
 - deckenleuchten in allen zimmern
 - fussboeden oelen
