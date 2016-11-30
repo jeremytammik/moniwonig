@@ -787,6 +787,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
 - bueffetfotos machen und robert schicken
 - falk
+    - firststuetzenpfosten einbauen
     - dachbalkonboden wieder aufbauen
     - moniwonig eingangstuer schleifen, rahmen bauen, einsetzen
     - stauraumregale und boxen bauen
