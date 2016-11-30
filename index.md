@@ -771,8 +771,15 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - schopf aus- und aufrauemen
 - eingang aufraeumen
 
+## done 2016-11-30
+
+- moniwonig eingangstuer abschleifen
+- dachbalkonfuesse bleilappen abloeten
+- badteil des grundofens abbauen um platz fuer firststuetzenpfosten zu schaffen
+
 ## <a name="todo-next"></a>todo next
 
+- moniwonig eingangstuer oelen
 - kuechenschubladengriffe
 - waschmaschine drehen und nivellieren
 - jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm
@@ -789,7 +796,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - falk
     - firststuetzenpfosten einbauen
     - dachbalkonboden wieder aufbauen
-    - moniwonig eingangstuer schleifen, rahmen bauen, einsetzen
+    - moniwonig eingangstuer rahmen bauen und einsetzen
     - stauraumregale und boxen bauen
     - bueronischenregal bauen
 
