@@ -8,13 +8,14 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - moniwonig neue eingangstuer abschleifen, tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
+    - moniwonig neue eingangstuer tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - [ofen](#ofen) installieren
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
+    - kuehlschrankstromstecker unten anschliessen
     - bretter ueber den balken oberhalb der spuele fertig befestigen
-    - kuechenzeile fertigstellen: schubladen und fronten
+    - kuechenzeile fertigstellen: schubladengriffe
     - muellschublade und regale dahinter in der ecke unter der spuele bauen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - alles zusammen in praktischer griffnaehe wie im tessin
@@ -30,8 +31,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
-    - uebergang von wand- auf dachisolation von aussen abdichten &ndash; den vorhandenen luftschlitz unter dem isoflock und der dampfsperre luftdicht ausschaeumen
-    - waschmaschine anschliessen
+    - waschmaschine umdrehen und nivellieren
     - wc-dusche besorgen und montieren
     - handtuchtrockenhalter montieren
     - schraenke und regale bauen und montieren
@@ -52,13 +52,11 @@
     - kurzschluss in der leitung auf dem firstbalken beheben
 - eingangsbereich
     - buecher sortieren und wegraeumen
-    - fussboden mit grobspanplatten verlegen; oder terracotta?
+    - fussboden mit terracotta verlegen
     - garderobe, schuhregale, weiterer stauram, schraenke
     - werkbank, arbeitsbereich, werkzeug
     - 500 Watt strahler durch energiesparlampen ersetzen
 - dach
-    - dachbalkonstahlrahmen aufbauen zur genauen positionierung und ausgiessen der balkonfuesse aus beton
-    - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
     - dachbalkon wieder aufbauen
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
@@ -80,7 +78,6 @@
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
     - alle dachziegelhaufen zusammenfuehren und richtig schichten
-    - schopf aufraeumen
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
     - terassen mit steine oder andere absaetze in den garten
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
@@ -760,8 +757,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - regal im bad aufhaengen erledigt sich, passt nicht
 - schiebetuer- und kuechenfensterumrandung abdichten, daemmen, dampfsperre von innen, anschlussleisten montieren
+- uebergang von wand- auf dachisolation von aussen abdichten &ndash; den vorhandenen luftschlitz unter dem isoflock und der dampfsperre luftdicht ausschaeumen
 - abdichtung vom uebergang wand-dachschraege auf der ganzen laenge
 - putzschranktueren weiss lasieren, heizungsschranktuer zwischenschliff und zweites mal weisseln
+- dachbalkonstahlrahmen aufbauen zur genauen positionierung und ausgiessen der balkonfuesse aus beton
 - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
 - kuechenfronten montieren
 
