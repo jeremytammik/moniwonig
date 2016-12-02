@@ -785,11 +785,11 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 ## <a name="todo-next"></a>todo next
 
 - regalbretter:
-    - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 --> 400 * 15 breit + 400 * 5 breit
-    - 15 breit: 2 * 80 + 2 * 20 = 200 --> 200 * 15 breit
-    - 10 breit: 5 * 85 = 425 --> 425 x 15 breit 
-    - 2.5 breit: 8 * 50 = 400 --> 100 x 15 breit
-    - also 15 cm breite bretter insgesamt 200 + 
+    - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 &rarr; 400 * 15 breit + 400 * 5 breit
+    - 15 breit: 2 * 80 + 2 * 20 = 200 &rarr; 200 * 15 breit
+    - 10 breit: 5 * 85 = 425 &rarr; 425 x 15 breit
+    - 2.5 breit: 8 * 50 = 400 &rarr; 100 x 15 breit
+    - also 15 cm breite bretter insgesamt: 4 * 160, 5 * 85, 2 * 80, 4 * 50
 - kuechenschubladengriffe
 - waschmaschine drehen und nivellieren
 - jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm
