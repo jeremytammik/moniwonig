@@ -777,15 +777,25 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - dachbalkonfuesse bleilappen abloeten
 - badteil des grundofens abbauen um platz fuer firststuetzenpfosten zu schaffen
 
-## <a name="todo-next"></a>todo next
+## done 2016-12-02
 
 - moniwonig eingangstuer oelen
+- firststuetzenpfosten einbauen
+- dachbalkonboden wieder aufbauen
+
+## <a name="todo-next"></a>todo next
+
+- regalbretter:
+    - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 --> 400 * 15 breit + 400 * 5 breit
+    - 15 breit: 2 * 80 + 2 * 20 = 200 --> 200 * 15 breit
+    - 10 breit: 5 * 85 = 425 --> 425 x 15 breit 
+    - 2.5 breit: 8 * 50 = 400 --> 100 x 15 breit
+    - also 15 cm breite bretter insgesamt 200 + 
 - kuechenschubladengriffe
 - waschmaschine drehen und nivellieren
 - jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm
 - kurzschluss auf dem firstbalken beheben
 - deckenleuchten in allen zimmern
-- fussboeden oelen
 - regal im bad bauen
 - schraubenregal bauen
 - buecher sortieren
@@ -794,8 +804,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
 - bueffetfotos machen und robert schicken
 - falk
-    - firststuetzenpfosten einbauen
-    - dachbalkonboden wieder aufbauen
     - moniwonig eingangstuer rahmen bauen und einsetzen
     - stauraumregale und boxen bauen
     - bueronischenregal bauen
