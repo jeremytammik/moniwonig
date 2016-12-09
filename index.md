@@ -800,9 +800,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - rauchmelder montieren
 - uhr batterie ersetzen
 - kuehlschrankstromstecker hinter den kuechenschubladen anschliessen
-- regale montieren in essbereichtuernische, kueche, bad
+- regale montieren in kueche und essbereichstuernische
 - kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - kuechenschubladengriffe
+- ch steckdose in kueche komplett anschliessen
 - dachbalkonreling wieder hinbauen
 - kaputten gaubenfirstziegel ersetzen
 - badezimmerregal im abgebauten ofen einbauen
