@@ -8,7 +8,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - moniwonig neue eingangstuer tuerrahmen in metallrahmen bauen, rahmen dicht setzen, tuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
+    - moniwonig neue eingangstuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - [ofen](#ofen) installieren
     - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
@@ -782,18 +782,32 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - firststuetzenpfosten einbauen
 - dachbalkonboden wieder aufbauen
 
-## <a name="todo-next"></a>todo next
+## done 2016-12-09
 
+- waschmaschine drehen, ausrichten und nivellieren
+- moniwonig eingangstuerrahmen bauen und in metallrahmen montieren
 - regalbretter:
     - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 &rarr; 400 * 15 breit + 400 * 5 breit
     - 15 breit: 2 * 80 + 2 * 20 = 200 &rarr; 200 * 15 breit
     - 10 breit: 5 * 85 = 425 &rarr; 425 x 15 breit
     - 2.5 breit: 8 * 50 = 400 &rarr; 100 x 15 breit
     - also 15 cm breite bretter insgesamt: 4 * 160, 5 * 85, 2 * 80, 4 * 50
+    - jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm
+
+## <a name="todo-next"></a>todo next
+
+- bad oben aufraeumen
+- rauchmelder montieren
+- uhr batterie ersetzen
+- monibadregal montieren
+- handtuchhalter am waschbecken montieren
+- kuehlschrankstromstecker unten anschliessen
+- regale montieren in essbereichtuernische, kueche, bad
+- kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - kuechenschubladengriffe
-- waschmaschine drehen und nivellieren
-- jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm
-- kurzschluss auf dem firstbalken beheben
+- dachbalkonreling wieder hinbauen
+- kaputten gaubenfirstziegel ersetzen
+- badezimmerregal im abgebauten ofen einbauen
 - deckenleuchten in allen zimmern
 - regal im bad bauen
 - schraubenregal bauen
@@ -804,7 +818,9 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueffetfotos machen und robert schicken
 - falk
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
-    - moniwonig eingangstuer rahmen bauen und einsetzen
+    - moniwonig eingangstuer einsetzen
+    - korkfussboden im eingangsbereich verlegen
+    - dachbalkondielen fertig montieren
     - stauraumregale und boxen bauen
     - bueronischenregal bauen
 
