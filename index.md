@@ -35,7 +35,6 @@
     - handtuchtrockenhalter montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
-    - geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
 - stauraum
     - regale bauen aus swap wabenplatten
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
@@ -782,8 +781,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## done 2016-12-09
 
-- waschmaschine drehen, ausrichten und nivellieren
-- moniwonig eingangstuerrahmen bauen und in metallrahmen montieren
 - regalbretter:
     - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 &rarr; 400 * 15 breit + 400 * 5 breit
     - 15 breit: 2 * 80 + 2 * 20 = 200 &rarr; 200 * 15 breit
@@ -791,15 +788,18 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - 2.5 breit: 8 * 50 = 400 &rarr; 100 x 15 breit
     - also 15 cm breite bretter insgesamt: 4 * 160, 5 * 85, 2 * 80, 4 * 50
     - jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm
+- moniwonig eingangstuerrahmen bauen und in metallrahmen montieren
+- waschmaschine drehen, ausrichten, nivellieren, mit weissen stromstecker versehen
+- badregal montieren &ndash; geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
+- handtuchhalter am waschbecken montieren
+
 
 ## <a name="todo-next"></a>todo next
 
 - bad oben aufraeumen
 - rauchmelder montieren
 - uhr batterie ersetzen
-- monibadregal montieren
-- handtuchhalter am waschbecken montieren
-- kuehlschrankstromstecker unten anschliessen
+- kuehlschrankstromstecker hinter den kuechenschubladen anschliessen
 - regale montieren in essbereichtuernische, kueche, bad
 - kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - kuechenschubladengriffe
