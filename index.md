@@ -779,7 +779,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - badanteil vom grundofen abbauen &ndash; dann kann man einen senkrechten firstbalkenstuetzbalken einbauen aus holz
     - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.
 
-## done 2016-12-09
+## done 2016-12-10
 
 - regalbretter:
     - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 &rarr; 400 * 15 breit + 400 * 5 breit
@@ -792,7 +792,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - waschmaschine drehen, ausrichten, nivellieren, mit weissen stromstecker versehen
 - badregal montieren &ndash; geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
 - handtuchhalter am waschbecken montieren
-
+- badezimmer tuerecke die klemmt abschleifen 
+- regalebretter montieren essbereichstuernische, abstaende 18, 22, 26, 30 &ndash; monis originalwunsch 43, 15, 15, 25, 27
 
 ## <a name="todo-next"></a>todo next
 
@@ -800,7 +801,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - rauchmelder montieren
 - uhr batterie ersetzen
 - kuehlschrankstromstecker hinter den kuechenschubladen anschliessen
-- regale montieren in kueche und essbereichstuernische
+- regale montieren in kueche
 - kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - kuechenschubladengriffe
 - ch steckdose in kueche komplett anschliessen
