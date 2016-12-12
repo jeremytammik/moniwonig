@@ -37,7 +37,7 @@
     - apothekerschrank
 - zimmer
     - fensterbleche aussen abdichten und befestigen
-    - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65 + kl. zi. 4 * 37 + wohnzi. 4 * 37 + hr. zi 8 * 28 = 65 + 8 * 37 + 8 * 28 = 585 cm
+    - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
     - im arbeitszimmernische regale einbauen aus swap wabenplatten
 - elektro
     - FI-schutzschalter
