@@ -30,7 +30,6 @@
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
     - wc-dusche besorgen und montieren
-    - handtuchtrockenhalter montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
 - stauraum
@@ -795,6 +794,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - rauchmelder montieren in moniwonig
 - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen; kaminfeger fragen &ndash; not needed, air needs to be pre-heated anyway for best combustion efficiency
 - in kueche schraenke nur unten, oben regale
+- badhandtuchtrockenhalter montieren
 
 ## <a name="todo-next"></a>todo next
 
