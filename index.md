@@ -18,7 +18,6 @@
     - muellschublade und regale dahinter in der ecke unter der spuele bauen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - alles zusammen in praktischer griffnaehe wie im tessin
-    - schraenke nur unten, oben regale?
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
     - ablageflaechen platz rechts und links von jeden geraet
     - abtropfgestell ueber der spuele?
@@ -795,6 +794,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - regalbretter montieren in essbereichstuernische, abstaende 18, 22, 26, 30 &ndash; monis originalwunsch 43, 15, 15, 25, 27
 - rauchmelder montieren in moniwonig
 - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen; kaminfeger fragen &ndash; not needed, air needs to be pre-heated anyway for best combustion efficiency
+- in kueche schraenke nur unten, oben regale
 
 ## <a name="todo-next"></a>todo next
 
