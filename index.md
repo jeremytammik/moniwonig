@@ -793,18 +793,20 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - badregal montieren &ndash; geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
 - handtuchhalter am waschbecken montieren
 - badezimmer tuerecke die klemmt abschleifen 
-- regalebretter montieren essbereichstuernische, abstaende 18, 22, 26, 30 &ndash; monis originalwunsch 43, 15, 15, 25, 27
+- regalbretter montieren in essbereichstuernische, abstaende 18, 22, 26, 30 &ndash; monis originalwunsch 43, 15, 15, 25, 27
+- rauchmelder montieren in moniwonig
 
 ## <a name="todo-next"></a>todo next
 
 - bad oben aufraeumen
-- rauchmelder montieren
-- uhr batterie ersetzen
 - kuehlschrankstromstecker hinter den kuechenschubladen anschliessen
-- regale montieren in kueche
-- kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - kuechenschubladengriffe
 - ch steckdose in kueche komplett anschliessen
+- regale montieren in kueche
+- datum zuegeln, auto matthias axel
+- termin machen mit tilo scheurer
+- uhr batterie ersetzen
+- kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - dachbalkonreling wieder hinbauen
 - kaputten gaubenfirstziegel ersetzen
 - badezimmerregal im abgebauten ofen einbauen
@@ -816,6 +818,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kaminfeger fragen wegen aussenluftzufuhr
 - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
 - bueffetfotos machen und robert schicken
+- rauchmelder bei karen montieren
 - falk
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
     - moniwonig eingangstuer einsetzen
