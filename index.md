@@ -10,7 +10,6 @@
 - gaube
     - moniwonig neue eingangstuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - [ofen](#ofen) installieren
-    - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
     - kuehlschrankstromstecker unten anschliessen
@@ -795,6 +794,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - badezimmer tuerecke die klemmt abschleifen 
 - regalbretter montieren in essbereichstuernische, abstaende 18, 22, 26, 30 &ndash; monis originalwunsch 43, 15, 15, 25, 27
 - rauchmelder montieren in moniwonig
+- ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen; kaminfeger fragen &ndash; not needed, air needs to be pre-heated anyway for best combustion efficiency
 
 ## <a name="todo-next"></a>todo next
 
@@ -815,7 +815,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - schraubenregal bauen
 - buecher sortieren
 - holmer rechnung stellung nehmen
-- kaminfeger fragen wegen aussenluftzufuhr
 - 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
