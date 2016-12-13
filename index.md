@@ -790,21 +790,23 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - handtuchhalter am waschbecken montieren
 - badezimmer tuerecke die klemmt abschleifen 
 - regalbretter montieren in essbereichstuernische, abstaende 18, 22, 26, 30 &ndash; monis originalwunsch 43, 15, 15, 25, 27
+
+## done 2016-12-12
+
 - rauchmelder montieren in moniwonig
 - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen; kaminfeger fragen &ndash; not needed, air needs to be pre-heated anyway for best combustion efficiency
 - in kueche schraenke nur unten, oben regale
 - badhandtuchtrockenhalter montieren
+- ch steckdose in kueche komplett anschliessen
 - kuehlschrankstromstecker hinter den kuechenschubladen anschliessen
+- regale montieren in kueche
 
 ## <a name="todo-next"></a>todo next
 
 - bad oben aufraeumen
 - kuechenschubladengriffe
-- ch steckdose in kueche komplett anschliessen
-- regale montieren in kueche
-- datum zuegeln, auto matthias axel
+- datum zuegeln, auto matthias oder axel
 - termin machen mit tilo scheurer
-- uhr batterie ersetzen
 - kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - dachbalkonreling wieder hinbauen
 - kaputten gaubenfirstziegel ersetzen
