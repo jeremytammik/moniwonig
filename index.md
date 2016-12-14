@@ -63,7 +63,7 @@
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
-    - gartengestaltung [tilo scheurer](http://www.steinart-scheurer.de) kontaktieren, buero +49-7621/140778, home +49-7621/51322
+    - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de) kontaktieren, tel +49-7627/970903 mobil +49-170/9346266
     - holz vom nussbaum saegen und spalten
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
     - gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen
@@ -806,7 +806,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bad oben aufraeumen
 - kuechenschubladengriffe
 - datum zuegeln, auto matthias oder axel
-- termin machen mit tilo scheurer
+- termin machen mit tilo tscheulin
 - kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - dachbalkonreling wieder hinbauen
 - kaputten gaubenfirstziegel ersetzen
