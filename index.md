@@ -801,10 +801,19 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kuehlschrankstromstecker hinter den kuechenschubladen anschliessen
 - regale montieren in kueche
 
-## <a name="todo-next"></a>todo next
+## done 2016-12-14
 
 - bad oben aufraeumen
-- kuechenschubladengriffe
+
+## <a name="todo-next"></a>todo next
+
+- abgebauten ofen verputzen
+- schlafzimmerrollo
+- waeschetrockneraufhaengung
+- regale im bueronische einbauen
+- alle kuechenschubladengriffe, holz + metall
+- schlafzimmer ausraeumen und putzen
+- schlafzimmerwand lasieren
 - datum zuegeln, auto matthias oder axel
 - termin machen mit tilo tscheulin
 - kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
