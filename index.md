@@ -808,7 +808,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
-- schlafzimmerrollo
+- schlafzimmerrollo &ndash; an unterseite von einem regalbrett?
 - waeschetrockneraufhaengung
 - regale im bueronische einbauen
 - alle kuechenschubladengriffe, holz + metall
