@@ -803,17 +803,18 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## done 2016-12-14
 
+- moniwonig eingangstuer einsetzen
 - bad oben aufraeumen
 
 ## <a name="todo-next"></a>todo next
 
-- abgebauten ofen verputzen
 - schlafzimmerrollo
 - waeschetrockneraufhaengung
 - regale im bueronische einbauen
 - alle kuechenschubladengriffe, holz + metall
 - schlafzimmer ausraeumen und putzen
 - schlafzimmerwand lasieren
+- abgebauten ofen verputzen
 - datum zuegeln, auto matthias oder axel
 - termin machen mit tilo tscheulin
 - kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
@@ -830,10 +831,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - rauchmelder bei karen montieren
 - falk
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
-    - moniwonig eingangstuer einsetzen
     - korkfussboden im eingangsbereich verlegen
     - dachbalkondielen fertig montieren
     - stauraumregale und boxen bauen
-    - bueronischenregal bauen
 
 <a href="#top">top</a>
