@@ -8,7 +8,6 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - moniwonig neue eingangstuer montieren, mit magnetschoss, magnetschossstreifen wie kuehlschrank?
     - [ofen](#ofen) installieren
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
@@ -46,7 +45,7 @@
     - kurzschluss in der leitung auf dem firstbalken beheben
 - eingangsbereich
     - buecher sortieren und wegraeumen
-    - fussboden mit terracotta verlegen
+    - fussboden mit kork verlegen
     - garderobe, schuhregale, weiterer stauram, schraenke
     - werkbank, arbeitsbereich, werkzeug
     - 500 Watt strahler durch energiesparlampen ersetzen
@@ -809,6 +808,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - schlafzimmer ausraeumen und putzen
 - schlafzimmerwand lasieren
 - bueronischeregalleisten
+- moniwonig neue eingangstuer montieren, mit magnetschoss &ndash; magnetschossstreifen wie kuehlschrank? nee, doch nicht
 
 ## done 2016-12-19
 
