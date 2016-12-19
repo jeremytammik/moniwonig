@@ -810,9 +810,14 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - schlafzimmerwand lasieren
 - bueronischeregalleisten
 
-## <a name="todo-next"></a>todo next
+## done 2016-12-19
 
 - schlafzimmerrollo &ndash; an unterseite von einem regalbrett
+- wohnungseingangstuer abdichten mit acryl
+
+## <a name="todo-next"></a>todo next
+
+- velolicht
 - waeschetrockneraufhaengung
 - regale im bueronische einbauen
 - holzkuechenschubladengriffe montieren
