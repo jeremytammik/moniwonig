@@ -823,6 +823,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
+- nylonstreifen 3 loecher 4 mm versenkt 10 cm vom beginn und ende plus mitte
 - holzkuechenschubladengriffe montieren
 - muellschublade und regale dahinter in der ecke unter der spuele bauen
 - eingangstuerrahmen oelen
