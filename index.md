@@ -8,12 +8,14 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
+    - mosaikparkettfussboden an der eingangstuer ausbessern
+    - fussbodenleisten 
     - [ofen](#ofen) installieren
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
+    - muellschublade und regale dahinter in der ecke unter der spuele bauen
     - bretter ueber den balken oberhalb der spuele fertig befestigen
     - kuechenzeile fertigstellen: schubladengriffe
-    - muellschublade und regale dahinter in der ecke unter der spuele bauen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - alles zusammen in praktischer griffnaehe wie im tessin
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
@@ -37,7 +39,6 @@
 - zimmer
     - fensterbleche aussen abdichten und befestigen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
-    - im arbeitszimmernische regale einbauen aus swap wabenplatten
 - elektro
     - FI-schutzschalter
     - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
@@ -58,12 +59,11 @@
     - balkonbretter schrubben
     - balkondielenpalettenbretter dichter setzen, um die schlitze kleiner zu machen
 - garten
-    - briefkasten mir nummer 32 besorgen und aufhaengen
+    - briefkasten mit nummer 32 besorgen und aufhaengen
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
     - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de) kontaktieren, tel +49-7627/970903 mobil +49-170/9346266
-    - holz vom nussbaum saegen und spalten
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
     - gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen
     - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
@@ -816,11 +816,15 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - wohnungseingangstuer abdichten mit acryl
 - waeschetrockneraufhaengung
 
+## done 2016-12-22
+
+- im arbeitszimmernische regale einbauen aus swap pappe wabenplatten
+- gewuerzregal 8 cm tief
+
 ## <a name="todo-next"></a>todo next
 
-- velolicht
-- regale im bueronische einbauen
 - holzkuechenschubladengriffe montieren
+- muellschublade und regale dahinter in der ecke unter der spuele bauen
 - eingangstuerrahmen oelen
 - abgebauten ofen verputzen
 - datum zuegeln, auto matthias oder axel
