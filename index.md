@@ -29,6 +29,7 @@
     - maeusefreiheit
     - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
+    - aussenwandbretter wieder anbringen
     - wc-dusche besorgen und montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
@@ -820,11 +821,13 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - im arbeitszimmernische regale einbauen aus swap pappe wabenplatten
 - gewuerzregal 8 cm tief
+- nylonstreifen 3 loecher 4 mm versenkt 10 cm vom beginn und ende plus mitte
 
 ## <a name="todo-next"></a>todo next
 
-- nylonstreifen 3 loecher 4 mm versenkt 10 cm vom beginn und ende plus mitte
+- aussenwandbretter wieder anbringen
 - holzkuechenschubladengriffe montieren
+- oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel?
 - muellschublade und regale dahinter in der ecke unter der spuele bauen
 - eingangstuerrahmen oelen
 - abgebauten ofen verputzen
