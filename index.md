@@ -849,6 +849,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
     - korkfussboden im eingangsbereich verlegen
     - dachbalkondielen fertig montieren
-    - stauraumregale und boxen bauen
+    - stauraumregale breiter machen
 
 <a href="#top">top</a>
