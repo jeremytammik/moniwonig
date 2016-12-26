@@ -823,10 +823,13 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - gewuerzregal 8 cm tief
 - nylonstreifen 3 loecher 4 mm versenkt 10 cm vom beginn und ende plus mitte
 
+## done 2016-12-26
+
+- holzkuechenschubladengriffe montieren
+
 ## <a name="todo-next"></a>todo next
 
 - aussenwandbretter wieder anbringen
-- holzkuechenschubladengriffe montieren
 - oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel?
 - muellschublade und regale dahinter in der ecke unter der spuele bauen
 - eingangstuerrahmen oelen
