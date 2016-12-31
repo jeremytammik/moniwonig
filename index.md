@@ -829,10 +829,13 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
+- axel fragen mammutbaumtischplatte
+- arbeitstisch montieren
+- abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - vorhandstahldraht gaube
 - vorhandstahldraht arbeitszimmer
 - schubladen: griffe, schleifen, oelen, auskleiden
-- aussenwandbretter wieder anbringen
+- aussenwandbretter vor dem bad wieder anbringen
 - oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel?
 - muellschublade und regale dahinter in der ecke unter der spuele bauen
 - eingangstuerrahmen oelen
