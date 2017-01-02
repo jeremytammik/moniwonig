@@ -841,37 +841,37 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - holzkuechenschubladengriffe montieren
 
+## done 2017-01-02
+
+- fussboden im eingangsbereich: daemmschuettung, lattung und spanplatten komplett angebracht
+
 ## <a name="todo-next"></a>todo next
 
 - axel fragen mammutbaumtischplatte
 - arbeitstisch montieren
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- vorhandstahldraht gaube
-- vorhandstahldraht arbeitszimmer
-- schubladen: griffe, schleifen, oelen, auskleiden
+- vorhangstahldraht gaube
+- vorhangstahldraht arbeitszimmer
+- stauraumschubladen: griffe, schleifen, oelen, auskleiden
 - aussenwandbretter vor dem bad wieder anbringen
 - oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel?
 - muellschublade und regale dahinter in der ecke unter der spuele bauen
 - eingangstuerrahmen oelen
 - abgebauten ofen verputzen
-- datum zuegeln, auto matthias oder axel
 - termin machen mit tilo tscheulin
 - kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
 - dachbalkonreling wieder hinbauen
 - kaputten gaubenfirstziegel ersetzen
 - badezimmerregal im abgebauten ofen einbauen
-- deckenleuchten in allen zimmern
 - regal im bad bauen
-- schraubenregal bauen
+- schrauben sortieren, regal bauen
 - buecher sortieren
-- holmer rechnung stellung nehmen
-- 80 mm ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen, siehe [ofen aduro air](#ofen)
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
 - falk
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
     - korkfussboden im eingangsbereich verlegen
     - dachbalkondielen fertig montieren
-    - stauraumregale breiter machen
+    - stauraumrschubladen funktinsfaehig machen
 
 <a href="#top">top</a>
