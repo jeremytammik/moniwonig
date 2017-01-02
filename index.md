@@ -860,4 +860,13 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - dachbalkondielen fertig montieren
     - stauraumregale breiter machen
 
+## korkfussboden eingangsbereich
+
+- room dimensions ca. 419 * 275
+- thickness ca. 3 at the inside wall, 6 at the outside edge, 4.5 cm average
+- 2.75 * 4.19 = 11.5225 qm square meters surface
+- 11.5225 * 0.045 = 0.52 cm schuettung cubic metres volume to fill
+- actually, we used ca. 0.56 cubic metres
+- 5 latten ca. 4 meter lang; distanz von aussenseite: 13, 66, 127, 195, 261; von innen: 10, 77, 145, 206, 259
+
 <a href="#top">top</a>
