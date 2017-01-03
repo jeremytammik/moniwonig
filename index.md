@@ -841,31 +841,36 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - holzkuechenschubladengriffe montieren
 
-## done 2017-01-02
+## done 2017-01-03
 
+- arbeitstisch montieren
 - fussboden im eingangsbereich: daemmschuettung, lattung und spanplatten komplett angebracht
+- stauraumrschubladen funktinsfaehig machen
+- stauraumschubladen: griffe, schleifen
 
 ## <a name="todo-next"></a>todo next
 
+- baumarkt: zurueckbringen + einkaufsliste
 - alte eingangstuer abdichten mit tesamoll
 - axel fragen mammutbaumtischplatte
-- arbeitstisch montieren
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - vorhangstahldraht gaube
 - vorhangstahldraht arbeitszimmer
-- stauraumschubladen: griffe, schleifen, oelen, auskleiden
+- stauraumschubladen: oelen, auskleiden
 - aussenwandbretter vor dem bad wieder anbringen
 - oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel?
 - muellschublade und regale dahinter in der ecke unter der spuele bauen
 - eingangstuerrahmen oelen
 - abgebauten ofen verputzen
 - termin machen mit tilo tscheulin
-- kurzschluss auf dem firstbalken beheben &ndash; licht draussen reparieren
+- jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
 - dachbalkonreling wieder hinbauen
 - kaputten gaubenfirstziegel ersetzen
 - badezimmerregal im abgebauten ofen einbauen
 - regal im bad bauen
 - schrauben sortieren, regal bauen
+- schuhregal erweitern
+- werkbank zuegeln und einbauen
 - buecher sortieren
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
@@ -873,6 +878,15 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
     - korkfussboden im eingangsbereich verlegen
     - dachbalkondielen fertig montieren
-    - stauraumrschubladen funktinsfaehig machen
+    - apothekerauszug planen
+    - laufschienen
+        - 51,87 [HBS Laufschiene bis 80 kg Türgewicht, lose, 2 m lang, 1 Stück, verzinkt, Classic 9 Typ 10/2](https://www.amazon.de/HBS-Laufschiene-T%C3%BCrgewicht-Classic-Typ/dp/B0029ZO3UC%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0029ZO3UC)
+        - 12,08 [Bauer 101425, Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
+        - 25,18 [MINISPORT MA 40-190 Schiebetürbeschlag, Schiebetür Türbreite: 91-120cm, Laufrohr: 190cm, Tragkraft: 40kg](https://www.amazon.de/MINISPORT-40-190-Schiebet%C3%BCrbeschlag-Schiebet%C3%BCr-T%C3%BCrbreite/dp/B004U5Q9DI/ref=sr_1_1?ie=UTF8&qid=1483459029&sr=8-1&keywords=MINISPORT+MA+40-190)
+        - 45,30 [lose Laufschiene Länge: 190 cm, Traglast: 80 kg](https://www.bauhaus.info/sonstige-tuerbeschlaege/zusatzbeschlag-lose-laufschiene-/p/20108780)
+        - 79,40 [Laufschiene Länge: 300 cm, Traglast: 400 kg Röhrenlaufwerk für Schiebetore](https://www.bauhaus.info/sonstige-tuerbeschlaege/laufschiene-/p/14076810)
+        - 12,08 [Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig Bauer 101425](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
+        - 40,78 [Schiebetür-System HERKULES60 für 1 Tür - Schiene 1,8 m Hängende Schiebetüren 60 kg](https://www.amazon.de/Schiebet%C3%BCr-System-HERKULES60-f%C3%BCr-T%C3%BCr-Schiebet%C3%BCren/dp/B00BTHI03M%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BTHI03M)
+
 
 <a href="#top">top</a>
