@@ -875,6 +875,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
 - falk
+    - fussbodenabschluss mosaikparkett eingangstuer
+    - fussbodenabschluss mosaikparkett stauraumwandschrank
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
     - korkfussboden im eingangsbereich verlegen
     - dachbalkondielen fertig montieren
