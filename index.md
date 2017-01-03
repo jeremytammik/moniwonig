@@ -847,6 +847,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
+- alte eingangstuer abdichten mit tesamoll
 - axel fragen mammutbaumtischplatte
 - arbeitstisch montieren
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
