@@ -887,6 +887,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
         - 79,40 [Laufschiene Länge: 300 cm, Traglast: 400 kg Röhrenlaufwerk für Schiebetore](https://www.bauhaus.info/sonstige-tuerbeschlaege/laufschiene-/p/14076810)
         - 12,08 [Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig Bauer 101425](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
         - 40,78 [Schiebetür-System HERKULES60 für 1 Tür - Schiene 1,8 m Hängende Schiebetüren 60 kg](https://www.amazon.de/Schiebet%C3%BCr-System-HERKULES60-f%C3%BCr-T%C3%BCr-Schiebet%C3%BCren/dp/B00BTHI03M%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BTHI03M)
-
+    - regalsystem 3 schienen 240 cm hoch mit 35 cm auskragung
 
 <a href="#top">top</a>
