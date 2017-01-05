@@ -46,8 +46,9 @@
     - vierte klingel an haustuer montieren und tuerklingel anschliessen
     - kurzschluss in der leitung auf dem firstbalken beheben
 - eingangsbereich
+    - fussbodenleisten
+    - korkfussboden versiegeln
     - buecher sortieren und wegraeumen
-    - fussboden mit kork verlegen
     - garderobe, schuhregale, weiterer stauram, schraenke
     - werkbank, arbeitsbereich, werkzeug
     - 500 Watt strahler durch energiesparlampen ersetzen
@@ -848,17 +849,22 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - stauraumrschubladen funktinsfaehig machen
 - stauraumschubladen: griffe, schleifen
 
+## done 2017-01-05
+
+- vorhangstahldraht gaube
+- vorhangstahldraht arbeitszimmer
+- korkfussboden im eingangsbereich verlegen
+- oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel
+
 ## <a name="todo-next"></a>todo next
 
+- korkfussboden versiegeln
 - baumarkt: zurueckbringen + einkaufsliste
 - alte eingangstuer abdichten mit tesamoll
 - axel fragen mammutbaumtischplatte
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- vorhangstahldraht gaube
-- vorhangstahldraht arbeitszimmer
 - stauraumschubladen: oelen, auskleiden
 - aussenwandbretter vor dem bad wieder anbringen
-- oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel?
 - muellschublade und regale dahinter in der ecke unter der spuele bauen
 - eingangstuerrahmen oelen
 - abgebauten ofen verputzen
@@ -878,7 +884,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - fussbodenabschluss mosaikparkett eingangstuer
     - fussbodenabschluss mosaikparkett stauraumwandschrank
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
-    - korkfussboden im eingangsbereich verlegen
     - dachbalkondielen fertig montieren
     - apothekerauszug planen
     - laufschienen
