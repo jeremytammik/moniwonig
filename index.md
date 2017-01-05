@@ -265,6 +265,7 @@
 
 ## korkfussboden eingangsbereich
 
+- [skizze](img/eingang.png)
 - room dimensions ca. 419 * 275
 - daemmungsdicke thickness ca. 3 at the inside wall, 6 at the outside edge, 4.5 cm average
 - surface 2.75 * 4.19 = 11.5225 qm square meters surface
@@ -276,6 +277,8 @@
     - trittschsalldaemmung kork 2 mm
     - kork klickparkett 10.5 mm
     - 34.5 mm insgesamt
+- fussbodenleisten 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
+
 
 # done
 
