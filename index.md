@@ -861,7 +861,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel
 - abtropfgestell ueber der spuele? nein.
 - stauraumschubladen: oelen, auskleiden
-- korkfussboden versiegeln
+- korkfussboden versiegeln &ndash; nicht noetig, ist schon ab werk
 
 ## <a name="todo-next"></a>todo next
 
