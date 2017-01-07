@@ -854,7 +854,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - stauraumrschubladen funktinsfaehig machen
 - stauraumschubladen: griffe, schleifen
 
-## done 2017-01-05
+## done 2017-01-07
 
 - vorhangstahldraht gaube
 - vorhangstahldraht arbeitszimmer
@@ -863,11 +863,12 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - abtropfgestell ueber der spuele? nein.
 - stauraumschubladen: oelen, auskleiden
 - korkfussboden versiegeln &ndash; nicht noetig, ist schon ab werk
+- alte eingangstuer abdichten mit tesamoll
 
 ## <a name="todo-next"></a>todo next
 
-- magnetschloss an die eingangstuer
-- alte eingangstuer abdichten mit tesamoll
+
+- staerkeres magnetschloss an die eingangstuer
 - duschhahn einbauen im bad oben
 - finsteres unterspuelenregal rechts vom muell
 - buecherbrett im gaestezimmer
