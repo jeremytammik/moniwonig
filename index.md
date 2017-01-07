@@ -8,19 +8,19 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
+    - ecktischkiste zwischen den sofas bauen
     - mosaikparkettfussboden an der eingangstuer ausbessern
     - fussbodenleisten 
     - [ofen](#ofen) installieren
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
-    - muellschublade und regale dahinter in der ecke unter der spuele bauen
+    - regale in der ecke unter der spuele hinter der muellschublade bauen
+    - muellschublade bauen
     - bretter ueber den balken oberhalb der spuele fertig befestigen
-    - kuechenzeile fertigstellen: schubladengriffe
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - alles zusammen in praktischer griffnaehe wie im tessin
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
     - ablageflaechen platz rechts und links von jeden geraet
-    - abtropfgestell ueber der spuele?
     - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
@@ -38,6 +38,7 @@
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 - zimmer
+    - buecherbrett im gaestezimmer
     - fensterbleche aussen abdichten und befestigen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
 - elektro
@@ -858,17 +859,20 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - vorhangstahldraht arbeitszimmer
 - korkfussboden im eingangsbereich verlegen
 - oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel
+- abtropfgestell ueber der spuele? nein.
+- stauraumschubladen: oelen, auskleiden
+- korkfussboden versiegeln
 
 ## <a name="todo-next"></a>todo next
 
-- korkfussboden versiegeln
-- baumarkt: zurueckbringen + einkaufsliste
+- m bad oben duschhahn einbauen
+- finsteres unterspuelenregal rechts vom muell
 - alte eingangstuer abdichten mit tesamoll
+- klapptreppe pratteln
 - axel fragen mammutbaumtischplatte
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- stauraumschubladen: oelen, auskleiden
 - aussenwandbretter vor dem bad wieder anbringen
-- muellschublade und regale dahinter in der ecke unter der spuele bauen
+- muellschublade unter der spuele bauen
 - eingangstuerrahmen oelen
 - abgebauten ofen verputzen
 - termin machen mit tilo tscheulin
@@ -876,7 +880,9 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - dachbalkonreling wieder hinbauen
 - kaputten gaubenfirstziegel ersetzen
 - badezimmerregal im abgebauten ofen einbauen
-- regal im bad bauen
+- regal im monibad bauen
+- buecherbrett im gaestezimmer
+- ecktischkiste zwischen den sofas bauen
 - schrauben sortieren, regal bauen
 - schuhregal erweitern
 - werkbank zuegeln und einbauen
