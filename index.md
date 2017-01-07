@@ -865,9 +865,11 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
-- m bad oben duschhahn einbauen
-- finsteres unterspuelenregal rechts vom muell
+- magnetschloss an die eingangstuer
 - alte eingangstuer abdichten mit tesamoll
+- duschhahn einbauen im bad oben
+- finsteres unterspuelenregal rechts vom muell
+- buecherbrett im gaestezimmer
 - klapptreppe pratteln
 - axel fragen mammutbaumtischplatte
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
@@ -881,7 +883,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kaputten gaubenfirstziegel ersetzen
 - badezimmerregal im abgebauten ofen einbauen
 - regal im monibad bauen
-- buecherbrett im gaestezimmer
 - ecktischkiste zwischen den sofas bauen
 - schrauben sortieren, regal bauen
 - schuhregal erweitern
@@ -889,7 +890,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - buecher sortieren
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
-- falk
+- <a name="falk"></a>falk
+    - schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch
     - fussbodenabschluss mosaikparkett eingangstuer
     - fussbodenabschluss mosaikparkett stauraumwandschrank
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
