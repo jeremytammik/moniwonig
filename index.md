@@ -865,11 +865,15 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - korkfussboden versiegeln &ndash; nicht noetig, ist schon ab werk
 - alte eingangstuer abdichten mit tesamoll
 
-## <a name="todo-next"></a>todo next
-
+## done 2017-01-11
 
 - staerkeres magnetschloss an die eingangstuer
-- duschhahn einbauen im bad oben
+- neue duscharmatur einbauen im bad oben
+
+
+## <a name="todo-next"></a>todo next
+
+- fussbodenleisten wohnzimmer 20 + 290 + 190 + 90 + 20 = 610 cm
 - finsteres unterspuelenregal rechts vom muell
 - buecherbrett im gaestezimmer
 - klapptreppe pratteln
@@ -907,6 +911,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
         - 79,40 [Laufschiene Länge: 300 cm, Traglast: 400 kg Röhrenlaufwerk für Schiebetore](https://www.bauhaus.info/sonstige-tuerbeschlaege/laufschiene-/p/14076810)
         - 12,08 [Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig Bauer 101425](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
         - 40,78 [Schiebetür-System HERKULES60 für 1 Tür Schiene 1,8 m Hängende Schiebetüren 60 kg](https://www.amazon.de/Schiebet%C3%BCr-System-HERKULES60-f%C3%BCr-T%C3%BCr-Schiebet%C3%BCren/dp/B00BTHI03M%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BTHI03M)
+        - 78,00 [Beschlagset für Schiebetür (90 kg) inkl. Laufschiene 2m, Stahl, von Wilai](https://www.amazon.de/dp/B009YHGK9K/ref=asc_df_B009YHGK9K39195859?smid=AYD8RVHSN2KMT&tag=syn_tb_avi1_bdmphomeimprovement-21&ascsubtag=tb_avira_abs_prod&linkCode=df0&creative=22506&creativeASIN=B009YHGK9K&childASIN=B009YHGK9K) &ndash; Bestellnummer: 302-0070575-4413131
     - regalsystem 3 schienen 240 cm hoch mit 35 cm auskragung
         - 1,00 [Hornbach Träger 1-reihig, L 350 mm, weiß](https://www.hornbach.de/shop/Traeger-1-reihig-L-350-mm-weiss/7023166/artikel.html)
         - 3,20 [Hornbach Wandschiene 1-reihig H 1995 mm weiß](https://www.hornbach.de/shop/Wandschiene-1-reihig-H-1995-mm-weiss/7023151/artikel.html)
