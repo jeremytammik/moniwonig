@@ -865,19 +865,22 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - korkfussboden versiegeln &ndash; nicht noetig, ist schon ab werk
 - alte eingangstuer abdichten mit tesamoll
 
-## done 2017-01-11
+## done 2017-01-14
 
 - staerkeres magnetschloss an die eingangstuer
 - neue duscharmatur einbauen im bad oben
+- fussbodenabschluss mosaikparkett eingangstuer
+- fussbodenabschluss mosaikparkett stauraumwandschrank
+- buecherregal im buero/gaestezimmer
 
 
 ## <a name="todo-next"></a>todo next
 
-- fussbodenleisten wohnzimmer 20 + 290 + 190 + 90 + 20 = 610 cm
+- schuhregal erweitern
+- fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
+- fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
 - finsteres unterspuelenregal rechts vom muell
-- buecherbrett im gaestezimmer
 - klapptreppe pratteln
-- axel fragen mammutbaumtischplatte
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - aussenwandbretter vor dem bad wieder anbringen
 - muellschublade unter der spuele bauen
@@ -891,15 +894,12 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - regal im monibad bauen
 - ecktischkiste zwischen den sofas bauen
 - schrauben sortieren, regal bauen
-- schuhregal erweitern
 - werkbank zuegeln und einbauen
 - buecher sortieren
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
 - <a name="falk"></a>falk
     - schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch
-    - fussbodenabschluss mosaikparkett eingangstuer
-    - fussbodenabschluss mosaikparkett stauraumwandschrank
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
     - dachbalkondielen fertig montieren
     - apothekerauszug planen
