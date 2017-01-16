@@ -865,18 +865,25 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - korkfussboden versiegeln &ndash; nicht noetig, ist schon ab werk
 - alte eingangstuer abdichten mit tesamoll
 
-## done 2017-01-14
+## done 2017-01-15
 
 - staerkeres magnetschloss an die eingangstuer
 - neue duscharmatur einbauen im bad oben
 - fussbodenabschluss mosaikparkett eingangstuer
 - fussbodenabschluss mosaikparkett stauraumwandschrank
 - buecherregal im buero/gaestezimmer
+- schuhregal erweitern
+- apothekerauszug planen
 
+## done 2017-01-17
+
+- tuergriff eingangstuer
+- abschluss fussboden stuetzpfeiler eingangsbereich
+- garderobenschrank abschraegen und montieren
 
 ## <a name="todo-next"></a>todo next
 
-- schuhregal erweitern
+- kaminofen abgasrauchrohre anschliessen
 - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
 - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
 - finsteres unterspuelenregal rechts vom muell
@@ -899,10 +906,11 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
 - <a name="falk"></a>falk
+    - eingangstuer riegel oben
     - schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
     - dachbalkondielen fertig montieren
-    - apothekerauszug planen
+    - apothekerauszug bauen
     - laufschienen
         - 51,87 [HBS Laufschiene bis 80 kg Türgewicht, lose, 2 m lang, 1 Stück, verzinkt, Classic 9 Typ 10/2](https://www.amazon.de/HBS-Laufschiene-T%C3%BCrgewicht-Classic-Typ/dp/B0029ZO3UC%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0029ZO3UC)
         - 12,08 [Bauer 101425, Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
