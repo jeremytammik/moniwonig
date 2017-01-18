@@ -874,24 +874,35 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - buecherregal im buero/gaestezimmer
 - schuhregal erweitern
 - apothekerauszug planen
+    - regalsystem 3 schienen 240 cm hoch mit 35 cm auskragung
+        - 1,00 [Hornbach Träger 1-reihig, L 350 mm, weiß](https://www.hornbach.de/shop/Traeger-1-reihig-L-350-mm-weiss/7023166/artikel.html)
+        - 3,20 [Hornbach Wandschiene 1-reihig H 1995 mm weiß](https://www.hornbach.de/shop/Wandschiene-1-reihig-H-1995-mm-weiss/7023151/artikel.html)
+    - laufschienenkandidaten
+        - 51,87 [HBS Laufschiene bis 80 kg Türgewicht, lose, 2 m lang, 1 Stück, verzinkt, Classic 9 Typ 10/2](https://www.amazon.de/HBS-Laufschiene-T%C3%BCrgewicht-Classic-Typ/dp/B0029ZO3UC%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0029ZO3UC)
+        - 12,08 [Bauer 101425, Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
+        - 25,18 [MINISPORT MA 40-190 Schiebetürbeschlag, Schiebetür Türbreite: 91-120cm, Laufrohr: 190cm, Tragkraft: 40kg](https://www.amazon.de/MINISPORT-40-190-Schiebet%C3%BCrbeschlag-Schiebet%C3%BCr-T%C3%BCrbreite/dp/B004U5Q9DI/ref=sr_1_1?ie=UTF8&qid=1483459029&sr=8-1&keywords=MINISPORT+MA+40-190)
+        - 45,30 [lose Laufschiene Länge: 190 cm, Traglast: 80 kg](https://www.bauhaus.info/sonstige-tuerbeschlaege/zusatzbeschlag-lose-laufschiene-/p/20108780)
+        - 79,40 [Laufschiene Länge: 300 cm, Traglast: 400 kg Röhrenlaufwerk für Schiebetore](https://www.bauhaus.info/sonstige-tuerbeschlaege/laufschiene-/p/14076810)
+        - 12,08 [Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig Bauer 101425](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
+        - 40,78 [Schiebetür-System HERKULES60 für 1 Tür Schiene 1,8 m Hängende Schiebetüren 60 kg](https://www.amazon.de/Schiebet%C3%BCr-System-HERKULES60-f%C3%BCr-T%C3%BCr-Schiebet%C3%BCren/dp/B00BTHI03M%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BTHI03M)
+        - bestellt: 78,00 [Beschlagset für Schiebetür (90 kg) inkl. Laufschiene 2m, Stahl, von Wilai](https://www.amazon.de/dp/B009YHGK9K/ref=asc_df_B009YHGK9K39195859?smid=AYD8RVHSN2KMT&tag=syn_tb_avi1_bdmphomeimprovement-21&ascsubtag=tb_avira_abs_prod&linkCode=df0&creative=22506&creativeASIN=B009YHGK9K&childASIN=B009YHGK9K) &ndash; Bestellnummer: 302-0070575-4413131
+- eingangstuerrahmen oelen
 
-## done 2017-01-17
+## done 2017-01-18
 
 - tuergriff eingangstuer
 - abschluss fussboden stuetzpfeiler eingangsbereich
 - garderobenschrank abschraegen und montieren
+- schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch
+- eingangstuer riegel oben
 
 ## <a name="todo-next"></a>todo next
 
-- kaminofen abgasrauchrohre anschliessen
-- fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
-- fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
+- kaminofen abgasrauchrohre bestellen und anschliessen
+- schreinerplatte montieren rechts von muellschubladenfront
 - finsteres unterspuelenregal rechts vom muell
 - klapptreppe pratteln
-- abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- aussenwandbretter vor dem bad wieder anbringen
 - muellschublade unter der spuele bauen
-- eingangstuerrahmen oelen
 - abgebauten ofen verputzen
 - termin machen mit tilo tscheulin
 - jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
@@ -906,22 +917,12 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
 - <a name="falk"></a>falk
-    - eingangstuer riegel oben
-    - schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch
+    - apothekerauszug bauen und montieren
     - regenwasserablaufloecher in die schiebetueraustrittsplatte
+    - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
+    - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
+    - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
+    - aussenwandbretter vor dem bad wieder anbringen
     - dachbalkondielen fertig montieren
-    - apothekerauszug bauen
-    - laufschienen
-        - 51,87 [HBS Laufschiene bis 80 kg Türgewicht, lose, 2 m lang, 1 Stück, verzinkt, Classic 9 Typ 10/2](https://www.amazon.de/HBS-Laufschiene-T%C3%BCrgewicht-Classic-Typ/dp/B0029ZO3UC%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0029ZO3UC)
-        - 12,08 [Bauer 101425, Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
-        - 25,18 [MINISPORT MA 40-190 Schiebetürbeschlag, Schiebetür Türbreite: 91-120cm, Laufrohr: 190cm, Tragkraft: 40kg](https://www.amazon.de/MINISPORT-40-190-Schiebet%C3%BCrbeschlag-Schiebet%C3%BCr-T%C3%BCrbreite/dp/B004U5Q9DI/ref=sr_1_1?ie=UTF8&qid=1483459029&sr=8-1&keywords=MINISPORT+MA+40-190)
-        - 45,30 [lose Laufschiene Länge: 190 cm, Traglast: 80 kg](https://www.bauhaus.info/sonstige-tuerbeschlaege/zusatzbeschlag-lose-laufschiene-/p/20108780)
-        - 79,40 [Laufschiene Länge: 300 cm, Traglast: 400 kg Röhrenlaufwerk für Schiebetore](https://www.bauhaus.info/sonstige-tuerbeschlaege/laufschiene-/p/14076810)
-        - 12,08 [Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig Bauer 101425](https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q)
-        - 40,78 [Schiebetür-System HERKULES60 für 1 Tür Schiene 1,8 m Hängende Schiebetüren 60 kg](https://www.amazon.de/Schiebet%C3%BCr-System-HERKULES60-f%C3%BCr-T%C3%BCr-Schiebet%C3%BCren/dp/B00BTHI03M%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BTHI03M)
-        - 78,00 [Beschlagset für Schiebetür (90 kg) inkl. Laufschiene 2m, Stahl, von Wilai](https://www.amazon.de/dp/B009YHGK9K/ref=asc_df_B009YHGK9K39195859?smid=AYD8RVHSN2KMT&tag=syn_tb_avi1_bdmphomeimprovement-21&ascsubtag=tb_avira_abs_prod&linkCode=df0&creative=22506&creativeASIN=B009YHGK9K&childASIN=B009YHGK9K) &ndash; Bestellnummer: 302-0070575-4413131
-    - regalsystem 3 schienen 240 cm hoch mit 35 cm auskragung
-        - 1,00 [Hornbach Träger 1-reihig, L 350 mm, weiß](https://www.hornbach.de/shop/Traeger-1-reihig-L-350-mm-weiss/7023166/artikel.html)
-        - 3,20 [Hornbach Wandschiene 1-reihig H 1995 mm weiß](https://www.hornbach.de/shop/Wandschiene-1-reihig-H-1995-mm-weiss/7023151/artikel.html)
         
 <a href="#top">top</a>
