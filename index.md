@@ -898,6 +898,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 ## <a name="todo-next"></a>todo next
 
+- fussboden moni buero 186 x 237 plus 6 in alle vier richtungen = 198 x 249 = 2 x 2.5 m
 - kaminofen abgasrauchrohre bestellen und anschliessen
 - schreinerplatte montieren rechts von muellschubladenfront
 - finsteres unterspuelenregal rechts vom muell
