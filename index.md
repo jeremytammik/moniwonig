@@ -896,13 +896,18 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch
 - eingangstuer riegel oben
 
+## done 2017-01-26
+
+- klapptreppe pratteln montieren
+- laid out new PVC flooring in moni's office room fussboden buero 186 x 237 plus 6 in alle vier richtungen = 198 x 249 = 2 x 2.5 m
+- ordered led tubes [Osram LED Röhre T8 Substitube Advanced Gen5 27 W 1513 mm G13 3000 K OS4052899937598](https://www.amazon.de/Osram-Röhre-Substitube-Advanced-OS4052899937598/dp/B01502UPQQ/ref=sr_1_fkmr0_4)
+
+
 ## <a name="todo-next"></a>todo next
 
-- fussboden moni buero 186 x 237 plus 6 in alle vier richtungen = 198 x 249 = 2 x 2.5 m
 - kaminofen abgasrauchrohre bestellen und anschliessen
 - schreinerplatte montieren rechts von muellschubladenfront
 - finsteres unterspuelenregal rechts vom muell
-- klapptreppe pratteln
 - muellschublade unter der spuele bauen
 - abgebauten ofen verputzen
 - termin machen mit tilo tscheulin
