@@ -901,11 +901,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - klapptreppe pratteln montieren
 - laid out new PVC flooring in moni's office room fussboden buero 186 x 237 plus 6 in alle vier richtungen = 198 x 249 = 2 x 2.5 m
 - ordered led tubes [Osram LED Röhre T8 Substitube Advanced Gen5 27 W 1513 mm G13 3000 K OS4052899937598](https://www.amazon.de/Osram-Röhre-Substitube-Advanced-OS4052899937598/dp/B01502UPQQ/ref=sr_1_fkmr0_4)
-
-
-## <a name="todo-next"></a>todo next
-
-- kaminofen abgasrauchrohre bestellen und anschliessen
+- kaminofen abgasrauchrohre bestellen
     - 59.90 1 Stück Rauchrohrset glatt gezogen 2mm stark: 700m vertikal 450mm Horizontal Durchmesser 150mm inkl. Drosselklappe, Reinigungsöffnung, Doppelwandfutter und Wandrosette mit 5cm Überdeckung [Ofenrohr Rauchrohr Set 700 x 450mm glatt gezogen 150mm grau schwarz hellgrau](http://www.ebay.de/itm/Ofenrohr-Rauchrohr-Set-700-x-450mm-glatt-gezogen-150mm-grau-schwarz-hellgrau-/160990476121?var=&hash=item6b23a32446)
     - 59.99 Bogen 45 grad [Ofenrohr Rauchrohr Bogen Senotherm 45° gezogen 130 150mm grau schwarz](http://www.ebay.de/itm/Ofenrohr-Rauchrohr-Bogen-Senotherm-45-gezogen-130-150mm-grau-schwarz-/150984795223?var=&hash=item68cf29c96e)
     - 49.00 Bogen 45 grad [150 mm Ofenrohr Rauchrohr Kaminrohr 45° Winkel Bogen Knie Gezogen Schwarz](http://www.ebay.de/itm/150-mm-Ofenrohr-Rauchrohr-Kaminrohr-45-Winkel-Bogen-Knie-Gezogen-Schwarz/221701644666?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3De3676aeaaec24037a5766975f7017681%26pid%3D100005%26rk%3D6%26rkt%3D6%26sd%3D150984795223)
@@ -914,6 +910,20 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - 27.99 [Rauch-Rohr Winkelrohr-Set 90° Ø150mm in Schwarz inklusive Wandfutter und Wandrosette Ofenrohr-Set mit Senotherm Lackierung hitzebständiger Rohr-Set mit CE Zulassung](https://www.amazon.de/dp/B01LX14BM9?psc=1)
     - 25.27 [Kamino Flam Ofenrohr Senotherm 331820 hitzebeständig einbrennlackiertes Rauchrohr Ø 15 x 100 cm](https://www.amazon.de/331820-hitzebest%C3%A4ndig-einbrennlackiertes-Stecksystem-Abgasrohres/dp/B004OB75LI/ref=pd_sim_201_5?_encoding=UTF8&psc=1&refRID=4C5D0XYW3MSWCEDH0WN1)
     - 29.43 [Raik SH062-150-sw Rauchrohrbogen / Ofenrohr 150mm - Multibogen schwarz](https://www.amazon.de/raik-SH062-150-sw-Rauchrohrbogen-Ofenrohr-150mm/dp/B00TUF8UL2/ref=sr_1_6?s=diy&ie=UTF8&qid=1485451195&sr=1-6&keywords=ofenrohr+150)
+    - 273.30 [edelstahl](http://www.ofenrohre24.de/shops/heiztechnik/index.php?lang=DEU&list=KAT24)
+        - 3 Ofenrohr aus Edelstahl DN 150 mm Länge 1,00 m
+        - 1 Ofenrohr aus Edelstahl DN 150 mm Bogen 0 bis 90° verstellbar mit Tür
+        - 1 Ofenrohr aus Edelstahl DN 150 mm Bogen 90° ohne Tür
+        - 1 Doppelwandfutter aus Edelstahl für Ofenrohre mit DN 150 mm
+        - 1 Ofenrohr aus Edelstahl DN 150 mm Länge 0,50 m
+    - 25.50 [Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867)
+    - 42.00 [Kaminrohrset Durchmesser 150 mm Gussgrau Winkelrohrset mit Drosselklappe](https://www.bauhaus.info/ofenrohre/kaminrohrset-/p/13501898)
+    - 27.95 * 3 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843)
+
+
+## <a name="todo-next"></a>todo next
+
+- kaminofen abgasrauchrohre abholen und anschliessen
 - schreinerplatte montieren rechts von muellschubladenfront
 - finsteres unterspuelenregal rechts vom muell
 - muellschublade unter der spuele bauen
