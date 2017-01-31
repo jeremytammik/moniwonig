@@ -921,7 +921,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - 27.95 * 3 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843)
 - apothekerschrank bauen
 - kaminofen abgasrauchrohre abgeholt 
-- kaminofen schornsteinanschluss gesetzt
+- kaminofen schornsteinanschluss gesetzt &ndash; [ofenrohranschluss moertel](http://www.gutefrage.net/frage/neuen-ofenrohranschluss-legen)
 - kaminofen abgasrauchrohre zur probe angeschlossen
 - apothekerschrank provisorisch montiert
 - regenwasserablaufloecher in die schiebetueraustrittsplatte
