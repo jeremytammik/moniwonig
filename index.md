@@ -896,7 +896,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch
 - eingangstuer riegel oben
 
-## done 2017-01-26
+## done 2017-01-31
 
 - klapptreppe pratteln montieren
 - laid out new PVC flooring in moni's office room fussboden buero 186 x 237 plus 6 in alle vier richtungen = 198 x 249 = 2 x 2.5 m
@@ -919,12 +919,23 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - 25.50 [Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867)
     - 42.00 [Kaminrohrset Durchmesser 150 mm Gussgrau Winkelrohrset mit Drosselklappe](https://www.bauhaus.info/ofenrohre/kaminrohrset-/p/13501898)
     - 27.95 * 3 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843)
+- apothekerschrank bauen
+- kaminofen abgasrauchrohre abgeholt 
+- kaminofen schornsteinanschluss gesetzt
+- kaminofen abgasrauchrohre zur probe angeschlossen
+- apothekerschrank provisorisch montiert
+- regenwasserablaufloecher in die schiebetueraustrittsplatte
+- schreinerplatte montieren rechts von muellschubladenfront
 
 
 ## <a name="todo-next"></a>todo next
 
-- kaminofen abgasrauchrohre abholen und anschliessen
-- schreinerplatte montieren rechts von muellschubladenfront
+- gartenterasse abbauen
+- strassenmauer erhoehen: schalung bauen oder mieten
+- boden nivellieren
+- parkplatz absenken
+- kaminofen abgasrauchrohre lackieren
+- kaminofen schornsteinanschluss verputzen und streichen
 - finsteres unterspuelenregal rechts vom muell
 - muellschublade unter der spuele bauen
 - abgebauten ofen verputzen
@@ -941,8 +952,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
 - <a name="falk"></a>falk
-    - apothekerauszug bauen und montieren
-    - regenwasserablaufloecher in die schiebetueraustrittsplatte
+    - apothekerauszug fertig montieren
     - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
     - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
     - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
