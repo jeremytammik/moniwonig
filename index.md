@@ -815,6 +815,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - rauchmelder montieren in moniwonig
 - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen; kaminfeger fragen &ndash; not needed, air needs to be pre-heated anyway for best combustion efficiency
+- return the aduro air kaminofen for a non-air variabnt to save the 200 extra euro? &ndash; no, too heavy
 - in kueche schraenke nur unten, oben regale
 - badhandtuchtrockenhalter montieren
 - ch steckdose in kueche komplett anschliessen
@@ -927,6 +928,12 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - regenwasserablaufloecher in die schiebetueraustrittsplatte
 - schreinerplatte montieren rechts von muellschubladenfront
 
+## done 2017-02-01
+
+- apothekerauszug fertig montieren
+- aussenwandbretter vor dem bad wieder anbringen
+- finsteres unterspuelenregal rechts vom muell
+
 
 ## <a name="todo-next"></a>todo next
 
@@ -936,7 +943,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - parkplatz absenken
 - kaminofen abgasrauchrohre lackieren
 - kaminofen schornsteinanschluss verputzen und streichen
-- finsteres unterspuelenregal rechts vom muell
 - muellschublade unter der spuele bauen
 - abgebauten ofen verputzen
 - termin machen mit tilo tscheulin
@@ -952,11 +958,9 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueffetfotos machen und robert schicken
 - rauchmelder bei karen montieren
 - <a name="falk"></a>falk
-    - apothekerauszug fertig montieren
     - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
     - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
     - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-    - aussenwandbretter vor dem bad wieder anbringen
     - dachbalkondielen fertig montieren
-        
+
 <a href="#top">top</a>
