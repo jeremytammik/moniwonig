@@ -19,7 +19,6 @@
     - alles zusammen in praktischer griffnaehe wie im tessin
     - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
     - ablageflaechen platz rechts und links von jeden geraet
-    - ecke ausnutzen
     - vorratschschrank, maeusesicher, blechverkleidete schublade
     - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
     - glasschubladenregal fuer tee, gewuerze, zucker, usw.
@@ -930,7 +929,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - apothekerauszug fertig montieren
 - aussenwandbretter vor dem bad wieder anbringen
-- regale in der ecke unter der spuele hinter der muellschublade bauen, finsteres unterspuelenregal rechts vom muell
+- ecke ausnutzen, regale in der ecke unter der spuele hinter der muellschublade bauen, finsteres unterspuelenregal rechts vom muell
 
 
 ## <a name="todo-next"></a>todo next
