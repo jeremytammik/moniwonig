@@ -24,7 +24,6 @@
     - glasschubladenregal fuer tee, gewuerze, zucker, usw.
     - deckelfreie brotversorgung
     - maeusefreiheit
-    - axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 - bad
     - aussenwandbretter wieder anbringen
     - wc-dusche besorgen und montieren
@@ -930,6 +929,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - apothekerauszug fertig montieren
 - aussenwandbretter vor dem bad wieder anbringen
 - ecke ausnutzen, regale in der ecke unter der spuele hinter der muellschublade bauen, finsteres unterspuelenregal rechts vom muell
+- axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen
 
 
 ## <a name="todo-next"></a>todo next
