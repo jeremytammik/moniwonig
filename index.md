@@ -9,13 +9,10 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - ecktischkiste zwischen den sofas bauen
-    - mosaikparkettfussboden an der eingangstuer ausbessern
-    - fussbodenleisten 
     - [ofen](#ofen) installieren
+    - ecktischkiste zwischen den sofas bauen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
-    - regale in der ecke unter der spuele hinter der muellschublade bauen
     - muellschublade bauen
     - bretter ueber den balken oberhalb der spuele fertig befestigen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
@@ -872,6 +869,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - neue duscharmatur einbauen im bad oben
 - fussbodenabschluss mosaikparkett eingangstuer
 - fussbodenabschluss mosaikparkett stauraumwandschrank
+- fussbodenleisten 
 - buecherregal im buero/gaestezimmer
 - schuhregal erweitern
 - apothekerauszug planen
@@ -932,7 +930,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - apothekerauszug fertig montieren
 - aussenwandbretter vor dem bad wieder anbringen
-- finsteres unterspuelenregal rechts vom muell
+- regale in der ecke unter der spuele hinter der muellschublade bauen, finsteres unterspuelenregal rechts vom muell
 
 
 ## <a name="todo-next"></a>todo next
