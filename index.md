@@ -930,7 +930,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - regale bauen aus swap wabenplatten
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
-- buecherbrett im gaestezimmer
 
 
 ## <a name="todo-next"></a>todo next
@@ -939,6 +938,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - strassenmauer erhoehen: schalung bauen oder mieten
 - boden nivellieren
 - parkplatz absenken
+- kuechenlichterkette mit balkenspots verbinden
 - kaminofen abgasrauchrohre lackieren
 - kaminofen schornsteinanschluss verputzen und streichen
 - muellschublade unter der spuele bauen
@@ -959,6 +959,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
     - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
     - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
+    - balkontuer im bad oben abdichten, die tueroberkante ist offen
+    - apothekerschranklaufschiene aussteifen
     - stauraum fertig verkleiden mit blende
     - westfenster fensterbleche oberkante abdichten
     - westfenster mit sprossenschutzdeckel versehen
