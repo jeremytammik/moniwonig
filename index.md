@@ -69,7 +69,7 @@
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
     - terassen mit steine oder andere absaetze in den garten
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
-    - supporting wall could be made of terasses of large natural stone blocks
+    - supporting wall could be made of large natural stone block terraces
     - gartenweg steinplatten granit &ndash; im tessin bestellen?
     - ask neighbour above about his plans
     - sauna
