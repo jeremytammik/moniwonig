@@ -935,6 +935,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - ofenrohrwandanschluss weiss streichen
 - ofenrohre weiss lackieren
+- balkontuer im bad oben abdichten, die tueroberkante ist offen
+- alte eingnagstuer noch mehr abdichten
 
 ## <a name="todo-next"></a>todo next
 
@@ -963,7 +965,6 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
     - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
     - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-    - balkontuer im bad oben abdichten, die tueroberkante ist offen
     - apothekerschranklaufschiene aussteifen
     - stauraum fertig verkleiden mit blende
     - westfenster fensterbleche oberkante abdichten
