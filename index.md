@@ -16,14 +16,7 @@
     - muellschublade bauen
     - bretter ueber den balken oberhalb der spuele fertig befestigen
     - zwei kuechenbuffets zerlegen und teilweise nutzen?
-    - alles zusammen in praktischer griffnaehe wie im tessin
-    - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
-    - ablageflaechen platz rechts und links von jeden geraet
-    - vorratschschrank, maeusesicher, blechverkleidete schublade
-    - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
     - glasschubladenregal fuer tee, gewuerze, zucker, usw.
-    - deckelfreie brotversorgung
-    - maeusefreiheit
 - bad
     - wc-dusche besorgen und montieren
     - schraenke und regale bauen und montieren
@@ -34,10 +27,10 @@
     - fensterbleche aussen abdichten und befestigen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
 - elektro
+    - kurzschluss in der leitung auf dem firstbalken beheben
     - FI-schutzschalter
     - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
     - vierte klingel an haustuer montieren und tuerklingel anschliessen
-    - kurzschluss in der leitung auf dem firstbalken beheben
 - eingangsbereich
     - fussbodenleisten
     - korkfussboden versiegeln
@@ -54,13 +47,13 @@
     - balkonbretter schrubben
     - balkondielenpalettenbretter dichter setzen, um die schlitze kleiner zu machen
 - garten
+    - licht im aussebereich wieder aktivieren
     - briefkasten mit nummer 32 besorgen und aufhaengen
+    - boden nivellieren
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
     - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de) kontaktieren, tel +49-7627/970903 mobil +49-170/9346266
-    - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
-    - gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen
     - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
     - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
     - bauschrott oberhalb vom garten weg
@@ -72,16 +65,6 @@
     - supporting wall could be made of large natural stone block terraces
     - gartenweg steinplatten granit &ndash; im tessin bestellen?
     - ask neighbour above about his plans
-    - sauna
-        - mit michael besprechen
-        - in finland bestellen?
-        - holzterasse um die sauna rum
-        - share with neighbour above?
-    - zaun
-        - [zaunpfosten](#zaunpfosten)
-        - holzzaun reste entfernen und versorgen
-        - gartenzaun gartenhag
-        - bepflanzen: glyzinie, geissblatt, jasmin
     - verrottete schopfpfosten ersetzen oder kompletter neubau
 - admin
     - feuerversicherung bei SV sparkassenversicherung kuendigen
@@ -89,7 +72,14 @@
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
+    - bueffetfotos machen und robert schicken
+- sauna
+    - mit michael besprechen
+    - in finland bestellen?
+    - holzterasse um die sauna rum
+    - share with neighbour above?
 - projects
+    - rauchmelder bei karen montieren
     - regenwasser sammeln und hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - warmwasser- und heizungssolaranlage
     - [kompotoi](http://www.kompotoi.ch) komposttoilette mit trennung von kot und urin
@@ -935,14 +925,29 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - ofenrohrwandanschluss weiss streichen
 - ofenrohre weiss lackieren
+- apothekerschranklaufschiene aussteifen
 - balkontuer im bad oben abdichten, die tueroberkante ist offen
 - alte eingnagstuer noch mehr abdichten
+- obsolete kitchen stuff
+    - alles zusammen in praktischer griffnaehe wie im tessin
+    - wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer
+    - ablageflaechen platz rechts und links von jeden geraet
+    - vorratschschrank, maeusesicher, blechverkleidete schublade
+    - maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen
+    - deckelfreie brotversorgung
+    - maeusefreiheit
+- zaunideen &ndash; nicht mehr aktuell wegen strassenmauererhoehung
+    - [zaunpfosten](#zaunpfosten)
+    - gartenzaun gartenhag
+    - bepflanzen: glyzinie, geissblatt, jasmin
+    - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
+    - gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen
 
 ## <a name="todo-next"></a>todo next
 
 - gartenterasse abbauen
+- alter holzzaun reste entfernen und versorgen
 - strassenmauer erhoehen: schalung bauen oder mieten
-- boden nivellieren
 - parkplatz absenken
 - kuechenlichterkette mit balkenspots verbinden
 - kaminofen abgasrauchrohre lackieren
@@ -958,14 +963,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - ecktischkiste zwischen den sofas bauen
 - schrauben sortieren, regal bauen
 - werkbank zuegeln und einbauen
-- buecher sortieren
-- bueffetfotos machen und robert schicken
-- rauchmelder bei karen montieren
 - <a name="falk"></a>falk
     - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
     - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
     - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-    - apothekerschranklaufschiene aussteifen
     - stauraum fertig verkleiden mit blende
     - westfenster fensterbleche oberkante abdichten
     - westfenster mit sprossenschutzdeckel versehen
