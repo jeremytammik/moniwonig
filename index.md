@@ -921,7 +921,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 
-## done 2017-02-03
+## done 2017-02-04
 
 - ofenrohrwandanschluss weiss streichen
 - ofenrohre weiss lackieren
@@ -942,25 +942,28 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - bepflanzen: glyzinie, geissblatt, jasmin
     - L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?
     - gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen
+- blumenlichterkette mit spots ueber spuele koppeln
+- kuechenlichterkette mit balkenspots verbinden
+- dreieckstisch hinter sofa bauen &ndash; ersetzt ecktischkiste zwischen den sofas
 
 ## <a name="todo-next"></a>todo next
 
+- rauchmelder bei karen montieren
 - gartenterasse abbauen
 - alter holzzaun reste entfernen und versorgen
 - strassenmauer erhoehen: schalung bauen oder mieten
 - parkplatz absenken
-- kuechenlichterkette mit balkenspots verbinden
 - kaminofen abgasrauchrohre lackieren
-- kaminofen schornsteinanschluss verputzen und streichen
+- kaminofen schornsteinanschluss verputzen und streichen &ndash; putz hinter ofenrohr: kalkputz ca 10-15 mm auftragen, auf den feuchten Putz Kalkfarbe (Kalk mit Wasser) mehrmals dünn auftragen, vor dem Einheizen besser mind. 2 Wochen warten und dann nicht zu plötzlich.
+Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf den noch feuchten Putz mehrmals aufmalen; der Weißton kommt erst nach Trocknung. Alternativ Rein-Silikatfarbe nehmen, die aber erst nach kompletter Trocknung des Putzes verwenden. Beide Farben sind genügend hitzebeständig.
 - muellschublade unter der spuele bauen
+- regal im monibad bauen
 - abgebauten ofen verputzen
 - termin machen mit tilo tscheulin
 - jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
 - dachbalkonreling wieder hinbauen
 - kaputten gaubenfirstziegel ersetzen
 - badezimmerregal im abgebauten ofen einbauen
-- regal im monibad bauen
-- ecktischkiste zwischen den sofas bauen
 - schrauben sortieren, regal bauen
 - werkbank zuegeln und einbauen
 - <a name="falk"></a>falk
