@@ -921,7 +921,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 
-## done 2017-02-04
+## done 2017-02-05
 
 - ofenrohrwandanschluss weiss streichen
 - ofenrohre weiss lackieren
