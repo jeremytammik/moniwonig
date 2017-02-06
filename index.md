@@ -921,7 +921,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 
-## done 2017-02-05
+## done 2017-02-06
 
 - ofenrohrwandanschluss weiss streichen
 - ofenrohre weiss lackieren
@@ -945,10 +945,13 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - blumenlichterkette mit spots ueber spuele koppeln
 - kuechenlichterkette mit balkenspots verbinden
 - dreieckstisch hinter sofa bauen &ndash; ersetzt ecktischkiste zwischen den sofas
+- deckenleuchte mit drei spots im schlafzimmer montieren
 
 ## <a name="todo-next"></a>todo next
 
 - rauchmelder bei karen montieren
+- deckenleuchte mit drei spots im buero montieren
+- haken fuer haengematte und schaukelsessel montieren
 - gartenterasse abbauen
 - alter holzzaun reste entfernen und versorgen
 - strassenmauer erhoehen: schalung bauen oder mieten
