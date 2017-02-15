@@ -9,8 +9,6 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - [ofen](#ofen) installieren
-    - ecktischkiste zwischen den sofas bauen
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
     - muellschublade bauen
@@ -39,7 +37,6 @@
     - werkbank, arbeitsbereich, werkzeug
     - 500 Watt strahler durch energiesparlampen ersetzen
 - dach
-    - dachbalkon wieder aufbauen
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
 - balkon
@@ -49,7 +46,9 @@
 - garten
     - licht im aussebereich wieder aktivieren
     - briefkasten mit nummer 32 besorgen und aufhaengen
+    - strassenmauer erhoehen: schalung bauen
     - boden nivellieren
+    - parkplatz absenken
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
@@ -947,25 +946,30 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - dreieckstisch hinter sofa bauen &ndash; ersetzt ecktischkiste zwischen den sofas
 - deckenleuchte mit drei spots im schlafzimmer montieren
 
+## done 2017-02-14
+
+- [ofen](#ofen) installieren
+- kaminofen abgasrauchrohre lackieren
+- dachbalkon wieder aufbauen, dachbalkondielen fertig montieren
+- kaputten gaubenfirstziegel ersetzen
+- kaminofen schornsteinanschluss verputzen und streichen &ndash; putz hinter ofenrohr: kalkputz ca 10-15 mm auftragen, auf den feuchten Putz Kalkfarbe (Kalk mit Wasser) mehrmals dünn auftragen, vor dem Einheizen besser mind. 2 Wochen warten und dann nicht zu plötzlich.
+Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf den noch feuchten Putz mehrmals aufmalen; der Weißton kommt erst nach Trocknung. Alternativ Rein-Silikatfarbe nehmen, die aber erst nach kompletter Trocknung des Putzes verwenden. Beide Farben sind genügend hitzebeständig.
+- alter holzzaun reste entfernen
+
 ## <a name="todo-next"></a>todo next
 
 - rauchmelder bei karen montieren
 - deckenleuchte mit drei spots im buero montieren
 - haken fuer haengematte und schaukelsessel montieren
 - gartenterasse abbauen
-- alter holzzaun reste entfernen und versorgen
-- strassenmauer erhoehen: schalung bauen oder mieten
+- strassenmauer erhoehen: schalung bauen
 - parkplatz absenken
-- kaminofen abgasrauchrohre lackieren
-- kaminofen schornsteinanschluss verputzen und streichen &ndash; putz hinter ofenrohr: kalkputz ca 10-15 mm auftragen, auf den feuchten Putz Kalkfarbe (Kalk mit Wasser) mehrmals dünn auftragen, vor dem Einheizen besser mind. 2 Wochen warten und dann nicht zu plötzlich.
-Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf den noch feuchten Putz mehrmals aufmalen; der Weißton kommt erst nach Trocknung. Alternativ Rein-Silikatfarbe nehmen, die aber erst nach kompletter Trocknung des Putzes verwenden. Beide Farben sind genügend hitzebeständig.
 - muellschublade unter der spuele bauen
 - regal im monibad bauen
 - abgebauten ofen verputzen
 - termin machen mit tilo tscheulin
 - jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
-- dachbalkonreling wieder hinbauen
-- kaputten gaubenfirstziegel ersetzen
+- dachbalkonreling wieder hinbauen und vorher verzinken
 - badezimmerregal im abgebauten ofen einbauen
 - schrauben sortieren, regal bauen
 - werkbank zuegeln und einbauen
@@ -976,6 +980,5 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - stauraum fertig verkleiden mit blende
     - westfenster fensterbleche oberkante abdichten
     - westfenster mit sprossenschutzdeckel versehen
-    - dachbalkondielen fertig montieren
 
 <a href="#top">top</a>
