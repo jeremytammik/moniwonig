@@ -956,7 +956,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf den noch feuchten Putz mehrmals aufmalen; der Weißton kommt erst nach Trocknung. Alternativ Rein-Silikatfarbe nehmen, die aber erst nach kompletter Trocknung des Putzes verwenden. Beide Farben sind genügend hitzebeständig.
 - alter holzzaun reste entfernen
 - himmelsbach kanthoz 8x8 2.50 eur pro lfm --> 50 * 2.5 --> 125
-- armeirungseisen betonstahl BST500S 10mm, 6.00m 0.617kg/m, DIN 488 Art.Nr.:08/21/01/0003
+- armierungseisen betonstahl BST500S 10mm, 6.00m 0.617kg/m, DIN 488 Art.Nr.:08/21/01/0003
     - Josef Fien GmbH, Rheingrüttäcker 8, D-79713 Bad Säckingen, +49-7761/2343 [map](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png)
     - [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
 
