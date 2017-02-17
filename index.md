@@ -19,9 +19,6 @@
     - wc-dusche besorgen und montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
-- zimmer
-    - fensterbleche aussen abdichten und befestigen
-    - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
 - elektro
     - kurzschluss in der leitung auf dem firstbalken beheben
     - FI-schutzschalter
@@ -968,8 +965,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
 - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
 - stauraum fertig verkleiden mit blende
-- westfenster fensterbleche oberkante abdichten
-- westfenster mit sprossenschutzdeckel versehen
+- westfenster fensterbleche aussen oberkante abdichten und befestigen
+- westfenster mit sprossenschutzdeckel versehen; alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
 - <a name="falk"></a>falk finished
 
 ## <a name="todo-next"></a>todo next
