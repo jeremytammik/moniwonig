@@ -946,7 +946,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - dreieckstisch hinter sofa bauen &ndash; ersetzt ecktischkiste zwischen den sofas
 - deckenleuchte mit drei spots im schlafzimmer montieren
 
-## done 2017-02-14
+## done 2017-02-15
 
 - [ofen](#ofen) installieren
 - kaminofen abgasrauchrohre lackieren
@@ -960,18 +960,22 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - Josef Fien GmbH, Rheingrüttäcker 8, D-79713 Bad Säckingen, +49-7761/2343 [map](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png)
     - [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
 
-## <a name="todo-next"></a>todo next
+## done 2017-02-17
 
 - rauchmelder bei karen montieren
+- abgebauten ofen verputzen
+- dachbalkonreling zinkfarbe und stramm montieren
+
+## <a name="todo-next"></a>todo next
+
 - deckenleuchte mit drei spots im buero montieren
 - haken fuer haengematte und schaukelsessel montieren
 - gartenterasse abbauen
 - strassenmauer erhoehen: schalung bauen
-- beton: Holcim Kies und Beton GmbH, Lörracher Str. 75, D-79541 Lörrach Brombach, +49-7621/5001
+- beton: Holcim Kies und Beton GmbH, Lörracher Str. 75, D-79541 Lörrach Brombach, +49-7621/5001, hr. schlagetter 942525, Festigkeitsklasse B25 bzw. C20/25, neukundenformular
 - parkplatz absenken
 - muellschublade unter der spuele bauen
 - regal im monibad bauen
-- abgebauten ofen verputzen
 - termin machen mit tilo tscheulin
 - jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
 - dachbalkonreling wieder hinbauen und vorher verzinken
