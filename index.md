@@ -962,17 +962,26 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## done 2017-02-17
 
+- werkbank zuegeln
 - rauchmelder bei karen montieren
 - abgebauten ofen verputzen
+- beton: Holcim Kies und Beton GmbH, Lörracher Str. 75, D-79541 Lörrach Brombach, +49-7621/5001, disponent hr. schlagetter 942525, Festigkeitsklasse B25 bzw. C20/25, neukundenformular ausfuellen
 - dachbalkonreling zinkfarbe und stramm montieren
+- fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
+- fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
+- stauraum fertig verkleiden mit blende
+- westfenster fensterbleche oberkante abdichten
+- westfenster mit sprossenschutzdeckel versehen
+- <a name="falk"></a>falk finished
 
 ## <a name="todo-next"></a>todo next
 
+- werkbank einbauen
+- led-leuchtroehren im eingangsbereich anschliessen
 - deckenleuchte mit drei spots im buero montieren
 - haken fuer haengematte und schaukelsessel montieren
 - gartenterasse abbauen
 - strassenmauer erhoehen: schalung bauen
-- beton: Holcim Kies und Beton GmbH, Lörracher Str. 75, D-79541 Lörrach Brombach, +49-7621/5001, hr. schlagetter 942525, Festigkeitsklasse B25 bzw. C20/25, neukundenformular
 - parkplatz absenken
 - muellschublade unter der spuele bauen
 - regal im monibad bauen
@@ -981,13 +990,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - dachbalkonreling wieder hinbauen und vorher verzinken
 - badezimmerregal im abgebauten ofen einbauen
 - schrauben sortieren, regal bauen
-- werkbank zuegeln und einbauen
-- <a name="falk"></a>falk
-    - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
-    - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
-    - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-    - stauraum fertig verkleiden mit blende
-    - westfenster fensterbleche oberkante abdichten
-    - westfenster mit sprossenschutzdeckel versehen
+- abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 
 <a href="#top">top</a>
