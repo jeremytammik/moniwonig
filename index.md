@@ -19,8 +19,6 @@
     - wc-dusche besorgen und montieren
     - schraenke und regale bauen und montieren
     - schrankstreifen oder regalstreifen quer
-- stauraum
-    - fertig verkleiden mit blende
 - zimmer
     - fensterbleche aussen abdichten und befestigen
     - westfenster mit sprossenschutzdeckel alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
@@ -30,7 +28,6 @@
     - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
     - vierte klingel an haustuer montieren und tuerklingel anschliessen
 - eingangsbereich
-    - fussbodenleisten
     - korkfussboden versiegeln
     - buecher sortieren und wegraeumen
     - garderobe, schuhregale, weiterer stauram, schraenke
@@ -42,13 +39,15 @@
 - balkon
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
-    - balkondielenpalettenbretter dichter setzen, um die schlitze kleiner zu machen
 - garten
     - licht im aussebereich wieder aktivieren
     - briefkasten mit nummer 32 besorgen und aufhaengen
     - strassenmauer erhoehen: schalung bauen
     - boden nivellieren
     - parkplatz absenken
+    - zaun und dach an der strassenmauer bauen
+    - regenrinne und wassertank anbringen
+    - pumpe installieren fuer gartenwasser
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
@@ -71,14 +70,12 @@
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
-    - bueffetfotos machen und robert schicken
 - sauna
     - mit michael besprechen
     - in finland bestellen?
     - holzterasse um die sauna rum
     - share with neighbour above?
 - projects
-    - rauchmelder bei karen montieren
     - regenwasser sammeln und hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - warmwasser- und heizungssolaranlage
     - [kompotoi](http://www.kompotoi.ch) komposttoilette mit trennung von kot und urin
@@ -966,7 +963,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - rauchmelder bei karen montieren
 - abgebauten ofen verputzen
 - beton: Holcim Kies und Beton GmbH, Lörracher Str. 75, D-79541 Lörrach Brombach, +49-7621/5001, disponent hr. schlagetter 942525, Festigkeitsklasse B25 bzw. C20/25, neukundenformular ausfuellen
-- dachbalkonreling zinkfarbe und stramm montieren
+- balkondielenpalettenbretter dichter setzen, um die schlitze kleiner zu machen
+- dachbalkonreling verzinken und stramm montieren
 - fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
 - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
 - stauraum fertig verkleiden mit blende
@@ -987,7 +985,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - regal im monibad bauen
 - termin machen mit tilo tscheulin
 - jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
-- dachbalkonreling wieder hinbauen und vorher verzinken
 - badezimmerregal im abgebauten ofen einbauen
 - schrauben sortieren, regal bauen
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
