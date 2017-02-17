@@ -67,15 +67,11 @@
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
-- sauna
-    - mit michael besprechen
-    - in finland bestellen?
-    - holzterasse um die sauna rum
-    - share with neighbour above?
 - projects
     - regenwasser sammeln und hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - warmwasser- und heizungssolaranlage
     - [kompotoi](http://www.kompotoi.ch) komposttoilette mit trennung von kot und urin
+    - [sauna](#sauna)
 
 ## michael's architectural hints
 
@@ -255,6 +251,16 @@
     - 34.5 mm insgesamt
 - fussbodenleisten 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
 
+## <a name="sauna"></a>sauna &ndash; bastu
+
+- share with neighbour above? &ndash; mit michael besprechen
+- in finland bestellen?
+- holzterasse um die sauna rum
+- bastustuga
+    - [Bygga bastu? Så här bygger du en bastu i lösvirke](https://www.dinbyggare.se/bygga-bastu-sa-har-bygger-du-en-bastu-i-losvirke/)
+    - [Träbyggarna Bastushoppen](http://www.trabyggarna.com/butik/)
+    - [Trädgårdsportalen Bastustugor](http://tradgardsportalen.se/badtunnor-bastustugor/)
+    - [Blockhaus Westerhoff](http://www.blockhaus-westerhoff.de/saunahaeuser/saunahaus-falun)
 
 # done
 
