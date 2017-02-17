@@ -258,6 +258,7 @@
 - holzterasse um die sauna rum
 - bastustuga
     - [Bygga bastu? Så här bygger du en bastu i lösvirke](https://www.dinbyggare.se/bygga-bastu-sa-har-bygger-du-en-bastu-i-losvirke/)
+    - [Måtten som hjälper dig fixa en bekväm bastu](https://www.dinbyggare.se/matten-som-hjalper-dig-fixa-en-bekvam-bastu/)
     - [Träbyggarna Bastushoppen](http://www.trabyggarna.com/butik/)
     - [Trädgårdsportalen Bastustugor](http://tradgardsportalen.se/badtunnor-bastustugor/)
     - [Blockhaus Westerhoff](http://www.blockhaus-westerhoff.de/saunahaeuser/saunahaus-falun)
