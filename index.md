@@ -967,6 +967,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - haken fuer haengematte und schaukelsessel montieren
 - gartenterasse abbauen
 - strassenmauer erhoehen: schalung bauen
+- beton: Holcim Kies und Beton GmbH, Lörracher Str. 75, D-79541 Lörrach Brombach, +49-7621/5001
 - parkplatz absenken
 - muellschublade unter der spuele bauen
 - regal im monibad bauen
