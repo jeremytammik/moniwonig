@@ -978,6 +978,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- zaunreste zerlegen fuer schalungsbretter
 - werkbank einbauen
 - led-leuchtroehren im eingangsbereich anschliessen
 - deckenleuchte mit drei spots im buero montieren
