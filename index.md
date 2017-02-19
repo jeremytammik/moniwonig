@@ -976,15 +976,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - westfenster mit sprossenschutzdeckel versehen; alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
 - <a name="falk"></a>falk finished
 
-## <a name="todo-next"></a>todo next
+## done 2017-02-19
 
 - zaunreste zerlegen fuer schalungsbretter
+- schalung fuer strassenmauererhoehung bauen
+
+## <a name="todo-next"></a>todo next
+
+- strassenmauer erhoehen: beton bestellen und giessen
+- bagger mieten und planieren
+- rohr legen fuer kalt_warm wasser + strom
 - werkbank einbauen
 - led-leuchtroehren im eingangsbereich anschliessen
 - deckenleuchte mit drei spots im buero montieren
 - haken fuer haengematte und schaukelsessel montieren
 - gartenterasse abbauen
-- strassenmauer erhoehen: schalung bauen
 - parkplatz absenken
 - muellschublade unter der spuele bauen
 - regal im monibad bauen
