@@ -18,14 +18,17 @@
 - bad
     - wc-dusche besorgen und montieren
     - schraenke und regale bauen und montieren
-    - schrankstreifen oder regalstreifen quer
 - elektro
+    - lampe draussen aktivieren
+    - zweite led-leuchtroehre im eingang montieren
+    - licht verlegen ans saunahaeuschen und am bauzaun entlang
     - kurzschluss in der leitung auf dem firstbalken beheben
     - FI-schutzschalter
     - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
     - vierte klingel an haustuer montieren und tuerklingel anschliessen
 - eingangsbereich
-    - korkfussboden versiegeln
+    - schuhregale anschrauben
+    - werkbank an die wand montieren
     - buecher sortieren und wegraeumen
     - garderobe, schuhregale, weiterer stauram, schraenke
     - werkbank, arbeitsbereich, werkzeug
@@ -981,8 +984,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - zaunreste zerlegen fuer schalungsbretter
 - schalung fuer strassenmauererhoehung bauen
 
+## done 2017-02-26
+
+- obsolete:
+    - schrankstreifen oder regalstreifen quer im bad
+    - korkfussboden versiegeln
+
 ## <a name="todo-next"></a>todo next
 
+- wasserleitungen und strom im rohr verlegen beim baggern
 - strassenmauer erhoehen: beton bestellen und giessen
 - bagger mieten und planieren
 - rohr legen fuer kalt_warm wasser + strom
