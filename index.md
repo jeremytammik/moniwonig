@@ -9,6 +9,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
+    - speigel an die nordseitige dachkante montieren
     - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
     - muellschublade bauen
