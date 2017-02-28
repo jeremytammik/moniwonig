@@ -41,13 +41,21 @@
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
 - garten
-    - licht im aussebereich wieder aktivieren
-    - briefkasten mit nummer 32 besorgen und aufhaengen
-    - strassenmauer erhoehen: schalung bauen
+    - strassenzaun
+        - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m --> 10 stueck 3 m 10 x 12
+        - dachpfosten 16 m alle 4 meter --> 5 stueck 3 m x 10 x 12
+        - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm --> 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m --> 54 bretter a 5 m
+        - quertraeger zaun: 2 x 18 m = 36 meter 3 x 15
+        - quertraeger dach: 4 x 15 m = 60 meter 3 x 15
+        - 15 stueck 3 meter 12 x 10
+        - 54 bretter 5 meter 21.5 x 2.4
+        - 24 bohlen 4 meter x 15 x 3
     - boden nivellieren
     - parkplatz absenken
     - zaun und dach an der strassenmauer bauen
     - regenrinne und wassertank anbringen
+    - licht im aussebereich wieder aktivieren
+    - briefkasten mit nummer 32 besorgen und aufhaengen
     - pumpe installieren fuer gartenwasser
     - plattenweg zur tuer neu verlegen
     - platten vor der tuer verlegen?
@@ -984,6 +992,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - zaunreste zerlegen fuer schalungsbretter
 - schalung fuer strassenmauererhoehung bauen
+- strassenmauererhoehung mit beton ausgiessen
 
 ## done 2017-02-26
 
