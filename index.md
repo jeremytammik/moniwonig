@@ -50,6 +50,7 @@
         - 15 stueck 3 meter 12 x 10
         - 54 bretter 5 meter 21.5 x 2.4
         - 24 bohlen 4 meter x 15 x 3
+        - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
     - boden nivellieren
     - parkplatz absenken
     - zaun und dach an der strassenmauer bauen
