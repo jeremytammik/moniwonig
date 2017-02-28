@@ -51,6 +51,7 @@
         - 54 bretter 5 meter 21.5 x 2.4
         - 24 bohlen 4 meter x 15 x 3
         - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
+    - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m
     - boden nivellieren
     - parkplatz absenken
     - zaun und dach an der strassenmauer bauen
@@ -1004,6 +1005,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="todo-next"></a>todo next
 
 - wasserleitungen und strom im rohr verlegen beim baggern
+    - [Microflex Uno](http://www.microflex.be) Flexibles vorisoliertes und selbstkompensierendes unterirdisches Einzelrohr
 - strassenmauer erhoehen: beton bestellen und giessen
 - bagger mieten und planieren
 - rohr legen fuer kalt_warm wasser + strom
