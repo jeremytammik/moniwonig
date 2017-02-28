@@ -41,7 +41,7 @@
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
 - garten
-    - strassenzaun
+    - holzbestellunf fuer strassenzaun und dachkonstruktion
         - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m --> 10 stueck 3 m 10 x 12
         - dachpfosten 16 m alle 4 meter --> 5 stueck 3 m x 10 x 12
         - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm --> 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m --> 54 bretter a 5 m
@@ -51,7 +51,7 @@
         - 54 bretter 5 meter 21.5 x 2.4
         - 24 bohlen 4 meter x 15 x 3
         - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
-    - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m
+    - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
     - boden nivellieren
     - parkplatz absenken
     - zaun und dach an der strassenmauer bauen
