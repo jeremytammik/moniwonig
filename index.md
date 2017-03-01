@@ -47,10 +47,13 @@
         - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm --> 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m --> 54 bretter a 5 m
         - quertraeger zaun: 2 x 18 m = 36 meter 3 x 15
         - quertraeger dach: 4 x 15 m = 60 meter 3 x 15
+        - verstrebungen zwischen pfosten: 5 x (2277+2120+2765) = 5 * 7.162 in 15 stuecke = 36 meter 3 x 15, 8 x 5 meter
         - 15 stueck 3 meter 12 x 10
         - 54 bretter 5 meter 21.5 x 2.4
         - 24 bohlen 4 meter x 15 x 3
+        - 8 bohlen 5 meter x 15 x 3
         - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
+        - [Skizze](img/strassenzaundach.png)
     - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
     - boden nivellieren
     - parkplatz absenken
