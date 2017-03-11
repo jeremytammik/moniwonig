@@ -41,7 +41,8 @@
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
 - garten
-    - holzbestellunf fuer strassenzaun und dachkonstruktion
+    - holzbestellung fuer strassenzaun und dachkonstruktion
+        - strassenzaunphotos vorher (in 2004) ([1](img/04_strassenzaun.jpg), [2](img/05_strassenzaun.jpg))
         - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m --> 10 stueck 3 m 10 x 12
         - dachpfosten 16 m alle 4 meter --> 5 stueck 3 m x 10 x 12
         - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm --> 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m --> 54 bretter a 5 m
@@ -993,11 +994,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - westfenster mit sprossenschutzdeckel versehen; alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
 - <a name="falk"></a>falk finished
 
-## done 2017-02-19
+## done 2017-02-20
 
 - zaunreste zerlegen fuer schalungsbretter
 - schalung fuer strassenmauererhoehung bauen
 - strassenmauererhoehung mit beton ausgiessen
+- erste led-leuchtroehre im eingangsbereich anschliessen
+- strassenmauer erhoehen: beton bestellen und giessen
 
 ## done 2017-02-26
 
@@ -1007,14 +1010,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
-- wasserleitungen und strom im rohr verlegen beim baggern
-    - [Microflex Uno](http://www.microflex.be) Flexibles vorisoliertes und selbstkompensierendes unterirdisches Einzelrohr
-- strassenmauer erhoehen: beton bestellen und giessen
-- bagger mieten und planieren
-- rohr legen fuer kalt_warm wasser + strom
+- treppenstufen im garten bauen
 - werkbank einbauen
-- led-leuchtroehren im eingangsbereich anschliessen
+- tischbeine anschrauben
 - deckenleuchte mit drei spots im buero montieren
+- zweite led-leuchtroehre im eingangsbereich anschliessen
+- wasserleitungen und strom im rohr verlegen beim baggern
+    - [Microflex Uno](http://www.microflex.be) flexibles vorisoliertes und selbstkompensierendes unterirdisches einzelrohr
+- bagger mieten und planieren
+- rohr legen fuer kalt/warm wasser + strom
 - haken fuer haengematte und schaukelsessel montieren
 - gartenterasse abbauen
 - parkplatz absenken
