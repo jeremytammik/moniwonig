@@ -58,12 +58,13 @@
         - brennholz grob und fein
         - kicker und tischtennistisch
         - velos
-        - gartenwerkzeug, haecksler, schubkarre, rollwagen
+        - schi, snowboard, bergschuhe, schneeschuhe, sportsachen
+        - gartenwerkzeug, haecksler, schubkarre, rollwagen, leiter
         - werkzeug und material
         - schraenke, kuechenbueffets
         - muell: glas, papier, pappe, belber sack, biotonne, restmuell
-        - gartenmoebel
-        - geschuetzter sitzplats
+        - gartenmoebel, badewanne
+        - geschuetzter sitzplatz
     - boden nivellieren
     - parkplatz absenken
     - regenrinne und wassertank anbringen
