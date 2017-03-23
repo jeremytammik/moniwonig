@@ -58,7 +58,7 @@
         - brennholz grob und fein
         - kicker und tischtennistisch
         - velos
-        - gartenwerkzeug, haecksler
+        - gartenwerkzeug, haecksler, schubkarre, rollwagen
         - werkzeug und material
         - schraenke, kuechenbueffets
         - muell: glas, papier, pappe, belber sack, biotonne, restmuell
