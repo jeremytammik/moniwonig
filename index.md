@@ -10,11 +10,9 @@
 
 - gaube
     - speigel an die nordseitige dachkante montieren
-    - led-leiste verdeckt unter balkonvordach planen und bestellen? sebson?
 - kueche
     - muellschublade bauen
     - bretter ueber den balken oberhalb der spuele fertig befestigen
-    - zwei kuechenbuffets zerlegen und teilweise nutzen?
     - glasschubladenregal fuer tee, gewuerze, zucker, usw.
 - bad
     - wc-dusche besorgen und montieren
@@ -29,10 +27,9 @@
     - vierte klingel an haustuer montieren und tuerklingel anschliessen
 - eingangsbereich
     - schuhregale anschrauben
-    - werkbank an die wand montieren
     - buecher sortieren und wegraeumen
     - garderobe, schuhregale, weiterer stauram, schraenke
-    - werkbank, arbeitsbereich, werkzeug
+    - werkbank und arbeitsbereich einrichten, werkzeug und schrauben
     - 500 Watt strahler durch energiesparlampen ersetzen
 - dach
     - DG boden wachsen
@@ -56,11 +53,21 @@
         - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
         - [Skizze](img/strassenzaundach.png)
     - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
+    - dach an der strassenmauer bauen
+    - nutzung neuer schopf
+        - brennholz grob und fein
+        - kicker und tischtennistisch
+        - velos
+        - gartenwerkzeug, haecksler
+        - werkzeug und material
+        - schraenke, kuechenbueffets
+        - muell: glas, papier, pappe, belber sack, biotonne, restmuell
+        - gartenmoebel
+        - geschuetzter sitzplats
     - boden nivellieren
     - parkplatz absenken
-    - zaun und dach an der strassenmauer bauen
     - regenrinne und wassertank anbringen
-    - licht im aussebereich wieder aktivieren
+    - licht im aussenbereich wieder aktivieren
     - briefkasten mit nummer 32 besorgen und aufhaengen
     - pumpe installieren fuer gartenwasser
     - plattenweg zur tuer neu verlegen
@@ -71,13 +78,11 @@
     - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
     - bauschrott oberhalb vom garten weg
     - bauschrott in der nordecke weg
-    - alle dachziegelhaufen zusammenfuehren und richtig schichten
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
     - terassen mit steine oder andere absaetze in den garten
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of large natural stone block terraces
-    - gartenweg steinplatten granit &ndash; im tessin bestellen?
-    - ask neighbour above about his plans
+    - gartenweg steinplatten granit
     - verrottete schopfpfosten ersetzen oder kompletter neubau
 - admin
     - feuerversicherung bei SV sparkassenversicherung kuendigen
@@ -1008,11 +1013,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - schrankstreifen oder regalstreifen quer im bad
     - korkfussboden versiegeln
 
-## <a name="todo-next"></a>todo next
+## done 2017-03-11
 
 - treppenstufen im garten bauen
-- werkbank einbauen
+
+## done 2017-03-16
+
+- werkbank an die wand montieren
 - tischbeine anschrauben
+- zaun an der strassenmauer fertig
+- alle dachziegelhaufen zusammenfuehren und richtig schichten &ndash; nein, an der strassenmauer verbuddeln
+- led-leiste verdeckt unter balkonvordach &ndash; not needed
+
+## <a name="todo-next"></a>todo next
+
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
 - wasserleitungen und strom im rohr verlegen beim baggern
