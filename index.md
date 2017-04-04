@@ -9,7 +9,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - gaube
-    - speigel an die nordseitige dachkante montieren
+    - spiegel an die nordseitige dachkante montieren
 - kueche
     - muellschublade bauen
     - bretter ueber den balken oberhalb der spuele fertig befestigen
@@ -38,22 +38,6 @@
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
 - garten
-    - holzbestellung fuer strassenzaun und dachkonstruktion
-        - strassenzaunphotos vorher (in 2004) ([1](img/04_strassenzaun.jpg), [2](img/05_strassenzaun.jpg))
-        - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m --> 10 stueck 3 m 10 x 12
-        - dachpfosten 16 m alle 4 meter --> 5 stueck 3 m x 10 x 12
-        - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm --> 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m --> 54 bretter a 5 m
-        - quertraeger zaun: 2 x 18 m = 36 meter 3 x 15
-        - quertraeger dach: 4 x 15 m = 60 meter 3 x 15
-        - verstrebungen zwischen pfosten: 5 x (2277+2120+2765) = 5 * 7.162 in 15 stuecke = 36 meter 3 x 15, 8 x 5 meter
-        - 15 stueck 3 meter 12 x 10
-        - 54 bretter 5 meter 21.5 x 2.4
-        - 24 bohlen 4 meter x 15 x 3
-        - 8 bohlen 5 meter x 15 x 3
-        - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
-        - [Skizze](img/strassenzaundach.png)
-    - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
-    - dach an der strassenmauer bauen
     - nutzung neuer schopf
         - brennholz grob und fein
         - kicker und tischtennistisch
@@ -78,7 +62,6 @@
     - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
     - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
     - bauschrott oberhalb vom garten weg
-    - bauschrott in der nordecke weg
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
     - terassen mit steine oder andere absaetze in den garten
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
@@ -274,6 +257,25 @@
     - kork klickparkett 10.5 mm
     - 34.5 mm insgesamt
 - fussbodenleisten 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
+
+## strassenzaun und neuer schopf
+
+- holzbestellung fuer strassenzaun und dachkonstruktion
+    - strassenzaunphotos vorher (in 2004) ([1](img/04_strassenzaun.jpg), [2](img/05_strassenzaun.jpg))
+    - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m --> 10 stueck 3 m 10 x 12
+    - dachpfosten 16 m alle 4 meter --> 5 stueck 3 m x 10 x 12
+    - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm --> 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m --> 54 bretter a 5 m
+    - quertraeger zaun: 2 x 18 m = 36 meter 3 x 15
+    - quertraeger dach: 4 x 15 m = 60 meter 3 x 15
+    - verstrebungen zwischen pfosten: 5 x (2277+2120+2765) = 5 * 7.162 in 15 stuecke = 36 meter 3 x 15, 8 x 5 meter
+    - 15 stueck 3 meter 12 x 10
+    - 54 bretter 5 meter 21.5 x 2.4
+    - 24 bohlen 4 meter x 15 x 3
+    - 8 bohlen 5 meter x 15 x 3
+    - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
+    - [Skizze](img/strassenzaundach.png)
+- wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
+- dach an der strassenmauer bauen
 
 ## <a name="sauna"></a>sauna &ndash; bastu
 
@@ -1020,14 +1022,23 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## done 2017-03-16
 
+- bauschrott in der nordecke weg
 - werkbank an die wand montieren
 - tischbeine anschrauben
 - zaun an der strassenmauer fertig
 - alle dachziegelhaufen zusammenfuehren und richtig schichten &ndash; nein, an der strassenmauer verbuddeln
 - led-leiste verdeckt unter balkonvordach &ndash; not needed
 
+## done 2017-04-04
+
+- strassenzaun und dachkonstruktion
+- wellplatten montieren
+- dach an der strassenmauer bauen
+
+
 ## <a name="todo-next"></a>todo next
 
+- muellschublade unter der spuele bauen
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
 - wasserleitungen und strom im rohr verlegen beim baggern
@@ -1035,14 +1046,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - bagger mieten und planieren
 - rohr legen fuer kalt/warm wasser + strom
 - haken fuer haengematte und schaukelsessel montieren
-- gartenterasse abbauen
+- schrauben sortieren, regal bauen
 - parkplatz absenken
-- muellschublade unter der spuele bauen
+- gartenterasse abbauen
 - regal im monibad bauen
 - termin machen mit tilo tscheulin
 - jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
+- jeremy wohnung aufraeumen
+- jeremy schlafzimmer aufraeumen
 - badezimmerregal im abgebauten ofen einbauen
-- schrauben sortieren, regal bauen
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 
 <a href="#top">top</a>
