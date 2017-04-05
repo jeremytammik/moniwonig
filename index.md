@@ -1038,9 +1038,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- farn einpflanzen
+- steuen tax bl 2016 einreichen
+- nk-abrechnung 2016 fertigstellen
 - muellschublade unter der spuele bauen
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
+- lampe mit led-leuchtroehre ueber den esstisch
+- esstischbeine schoener befestigen
 - wasserleitungen und strom im rohr verlegen beim baggern
     - [Microflex Uno](http://www.microflex.be) flexibles vorisoliertes und selbstkompensierendes unterirdisches einzelrohr
 - bagger mieten und planieren
