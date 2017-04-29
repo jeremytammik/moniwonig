@@ -1038,24 +1038,23 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - wellplatten montieren
 - dach an der strassenmauer bauen
 
+## done 2017-04-29
+
+- farn einpflanzen
+- bagger mieten und planieren
+- rohr legen fuer kalt/warm wasser + strom
+- rohr verlegen beim baggern fuer wasserleitungen und strom
+- parkplatz absenken
 
 ## <a name="todo-next"></a>todo next
 
-- farn einpflanzen
-- steuen tax bl 2016 einreichen
-- nk-abrechnung 2016 fertigstellen
 - muellschublade unter der spuele bauen
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
 - lampe mit led-leuchtroehre ueber den esstisch
 - esstischbeine schoener befestigen
-- wasserleitungen und strom im rohr verlegen beim baggern
-    - [Microflex Uno](http://www.microflex.be) flexibles vorisoliertes und selbstkompensierendes unterirdisches einzelrohr
-- bagger mieten und planieren
-- rohr legen fuer kalt/warm wasser + strom
 - haken fuer haengematte und schaukelsessel montieren
 - schrauben sortieren, regal bauen
-- parkplatz absenken
 - gartenterasse abbauen
 - regal im monibad bauen
 - termin machen mit tilo tscheulin
