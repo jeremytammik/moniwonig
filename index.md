@@ -38,19 +38,6 @@
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
 - garten
-    - nutzung neuer schopf links nach rechts
-        - geschuetzter sitzplatz
-        - gartenmoebel, badewanne
-        - muell: glas, papier, pappe, belber sack, biotonne, restmuell
-        - schraenke, kuechenbueffets
-        - werkzeug und material
-        - gartenwerkzeug, haecksler, schubkarre, rollwagen, leiter
-        - schi, snowboard, bergschuhe, schneeschuhe, sportsachen
-        - velos
-        - kicker und tischtennistisch
-        - brennholz grob und fein
-    - boden nivellieren
-    - parkplatz absenken
     - regenrinne und wassertank anbringen
     - licht im aussenbereich wieder aktivieren
     - briefkasten mit nummer 32 besorgen und aufhaengen
@@ -61,7 +48,6 @@
     - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de) kontaktieren, tel +49-7627/970903 mobil +49-170/9346266
     - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
     - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
-    - bauschrott oberhalb vom garten weg
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
     - terassen mit steine oder andere absaetze in den garten
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
@@ -1051,9 +1037,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2017-04-29
 
 - farn einpflanzen
+- bauschrott oberhalb vom garten weg
 - bagger mieten und planieren
 - rohr legen fuer kalt/warm wasser + strom
 - rohr verlegen beim baggern fuer wasserleitungen und strom
+- boden nivellieren
 - parkplatz absenken
 
 ## <a name="todo-next"></a>todo next
