@@ -263,6 +263,17 @@
 
 ## strassenzaun und neuer schopf
 
+- nutzung von links nach rechts
+    - geschuetzter sitzplatz
+    - gartenmoebel, badewanne
+    - gartenwerkzeug, haecksler, schubkarre, rollwagen, leiter
+    - schraenke, kuechenbueffets
+    - kicker und tischtennistisch
+    - werkzeug und material
+    - schi, snowboard, bergschuhe, schneeschuhe, sportsachen
+    - velos
+    - brennholz grob und fein
+    - muell: glas, papier, pappe, belber sack, biotonne, restmuell
 - holzbestellung fuer strassenzaun und dachkonstruktion
     - strassenzaunphotos vorher (in 2004) ([1](img/04_strassenzaun.jpg), [2](img/05_strassenzaun.jpg))
     - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m --> 10 stueck 3 m 10 x 12
@@ -278,7 +289,6 @@
     - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
     - [Skizze](img/strassenzaundach.png)
 - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
-- dach an der strassenmauer bauen
 
 ## <a name="sauna"></a>sauna &ndash; bastu
 
