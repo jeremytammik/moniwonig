@@ -38,17 +38,17 @@
     - balkon unter den paletten saeubern nach dem umbau
     - balkonbretter schrubben
 - garten
-    - nutzung neuer schopf
-        - brennholz grob und fein
-        - kicker und tischtennistisch
-        - velos
-        - schi, snowboard, bergschuhe, schneeschuhe, sportsachen
-        - gartenwerkzeug, haecksler, schubkarre, rollwagen, leiter
-        - werkzeug und material
-        - schraenke, kuechenbueffets
-        - muell: glas, papier, pappe, belber sack, biotonne, restmuell
-        - gartenmoebel, badewanne
+    - nutzung neuer schopf links nach rechts
         - geschuetzter sitzplatz
+        - gartenmoebel, badewanne
+        - muell: glas, papier, pappe, belber sack, biotonne, restmuell
+        - schraenke, kuechenbueffets
+        - werkzeug und material
+        - gartenwerkzeug, haecksler, schubkarre, rollwagen, leiter
+        - schi, snowboard, bergschuhe, schneeschuhe, sportsachen
+        - velos
+        - kicker und tischtennistisch
+        - brennholz grob und fein
     - boden nivellieren
     - parkplatz absenken
     - regenrinne und wassertank anbringen
@@ -102,6 +102,9 @@
 
 ## people
 
+- [mulde telefonbuch](https://www.dastelefonbuch.de/Branchen/Containerdienst/L%C3%B6rrach)
+    - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
+    - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
 - fussboden: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - bad, ofenrohr, sanitaer martin richardson +49-172/7173108
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
