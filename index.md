@@ -1049,13 +1049,24 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - boden nivellieren
 - parkplatz absenken
 
+## done 2017-05-16
+
+- esstischbeine schoener befestigen
+- gartengestaltung: bruchsteinmauer, terasse, gartenweg
+
 ## <a name="todo-next"></a>todo next
 
+- pflanzerde verteilen
+- rasen saeen
+- grundstuecksgrenzmauer am parkplatz abstuetzen
+- grundstuecksgrenze erdreich abstuetzen
+- sauna planen
+- saunaaussenhuelle holz und isolation bestellen
+- saunainnenausbau holz bestellen
 - muellschublade unter der spuele bauen
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
 - lampe mit led-leuchtroehre ueber den esstisch
-- esstischbeine schoener befestigen
 - haken fuer haengematte und schaukelsessel montieren
 - schrauben sortieren, regal bauen
 - gartenterasse abbauen
