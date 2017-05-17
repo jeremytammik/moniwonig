@@ -86,7 +86,7 @@
     - check with the new autodesk design studio
 - [thoma holz100 hundert](http://www.thoma.at)
 
-## people
+## <a name="contact"></a>contact
 
 - [mulde telefonbuch](https://www.dastelefonbuch.de/Branchen/Containerdienst/L%C3%B6rrach)
     - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
@@ -99,6 +99,10 @@
 - diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
 - klaus von nicole
 - [loew gartenbau](http://www.loewgartenbau.ch) hat eine nette steinmauer gebaut in pratteln auf dem weg hoch zum hagebaechli
+- Goetz und Moritz, +49-7621/4007-100
+- Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
+- Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
+
 
 ## <a name="ofen"></a>ofen
 
@@ -123,6 +127,7 @@
     - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - [externe verbrennungsluftzufuhr fuer kamine und kaminoefen](http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/)
+
 
 ## <a name="zaun"></a>zaun
 
