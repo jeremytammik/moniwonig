@@ -1054,6 +1054,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - esstischbeine schoener befestigen
 - gartengestaltung: bruchsteinmauer, terasse, gartenweg
 
+2017-05-22
+
+- balkenfuesse zurueck
+- ringschrauben fuer haengematte montieren, eye bolt, [Augbolzen Ringschraube Ösenschraube Augenschraube mit Holzgewinde 8*60 at Amazon](https://www.amazon.de/Edelstahl-Ringschraube-%C3%96senschraube-Augenschraube-Holzgewinde/dp/B011YO5GCC)
+
+
 ## <a name="todo-next"></a>todo next
 
 - pflanzerde verteilen
@@ -1067,26 +1073,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
 - lampe mit led-leuchtroehre ueber den esstisch
-- haken fuer haengematte und schaukelsessel montieren
 - schrauben sortieren, regal bauen
 - gartenterasse abbauen
 - regal im monibad bauen
-- termin machen mit tilo tscheulin
 - jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
 - jeremy wohnung aufraeumen
 - jeremy schlafzimmer aufraeumen
 - badezimmerregal im abgebauten ofen einbauen
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - schopfdachverlaengerung:
-    - balkenfuesse zurueck
-    - haken 300 kg fuer haengematte http://www.maranon.net/shop/zubehouml-r-und-knoten/universal-aufhauml-ngung-fuuml-r-eine-hauml-ngematte?zenid=78789066afb96f43bc8c23c1108e9f22#.WSK2chOGMo8
-        - [ringhakenplatte](https://www.bauhaus.info/ladungssicherung/conacord-ring-hakenplatte-/p/20562456)
     - wellacryl 11 stueck 104.5 x 100 cm... 6 stueck 2 m x 104.5... 4 stueck 250 cm platte ergibt 83 cm x 104.5 [plexiglas wellplatte](https://www.bauhaus.info/wellplatten/plexiglas-wellplatte-resist-/p/20736011)
     - dachlatten 3 x 5
 - karen balkondach abdichten
-- balkonpflanzen versetzen
 - regal in heizungsschrank
 - schopfvordach bauen
-
+- install good reading and working light in upstairs flat
 
 <a href="#top">top</a>
