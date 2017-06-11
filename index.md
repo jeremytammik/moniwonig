@@ -1125,8 +1125,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - parkplatzmauer
 - steinumrandung fuer saunafussboden 2.2 x 3 m
-- saunafussboden mit lehm auffuellen
-- restlicher lehm gleichmaessig verteilen
+- saunafussboden mit lehm auffuellen 2 x 3 m = 6 qm ca. 30 cm hoch = 2 kubikmeter
+- restlicher lehm gleichmaessig verteilen ca. 6 x 13 m = ca. 80 qm ca. 25 mm hoch = 2 kubikmeter
 - muttererde holen und verteilen
 - mauerrand erhoehen und stabil abschliessen
 - ablaufrinne um die zisterne graben und mit kies oder kleine steine fuellen
