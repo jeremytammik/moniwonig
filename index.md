@@ -3,7 +3,7 @@
 [url](http://jeremytammik.github.io/moniwonig)
 &ndash; [source repo](https://github.com/jeremytammik/moniwonig)
 &ndash; <a href="#todo-next">todo next</a>
-<!-- &ndash; <a href="#falk">falk</a> -->
+&ndash; <a href="#ct">c.t.</a>
 
 
 ## <a name="hauptaufgaben"></a>hauptaufgaben
@@ -1118,5 +1118,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install good reading and working light in upstairs flat
 - paint jeremy bedroom windows
 - fix table tennis table
+
+## <a name="ct"></a>todo c.t.
+
+- parkplatzmauer
+- steinumrandung fuer saunafussboden 2.2 x 3 m
+- saunafussboden mit lehm auffuellen
+- restlicher lehm gleichmaessig verteilen
+- muttererde holen und verteilen
+- mauerrand erhoehen und stabil abschliessen
+- ablaufrinne um die zisterne graben und mit kies oder kleine steine fuellen
 
 <a href="#top">top</a>
