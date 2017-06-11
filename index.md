@@ -1093,13 +1093,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - schopfvordach bauen
 - ordered 7 tons of gravel from Strohmeier, Griesheim, 07634/511020
 
+## done 2017-06-11
+
+- grundstuecksgrenze erdreich abstuetzen
 
 ## <a name="todo-next"></a>todo next
 
 - pflanzerde verteilen
 - rasen saeen
 - grundstuecksgrenzmauer am parkplatz abstuetzen
-- grundstuecksgrenze erdreich abstuetzen
 - sauna planen
 - saunabaustelle vorbereiten
 - saunaaussenhuelle holz und isolation bestellen
