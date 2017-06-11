@@ -1128,5 +1128,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - muttererde holen und verteilen
 - mauerrand erhoehen und stabil abschliessen
 - ablaufrinne um die zisterne graben und mit kies oder kleine steine fuellen
+- mergel holen und verteilen
 
 <a href="#top">top</a>
