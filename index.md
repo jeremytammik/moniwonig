@@ -292,6 +292,31 @@
     - [Träbyggarna Bastushoppen](http://www.trabyggarna.com/butik/)
     - [Trädgårdsportalen Bastustugor](http://tradgardsportalen.se/badtunnor-bastustugor/)
     - [Blockhaus Westerhoff](http://www.blockhaus-westerhoff.de/saunahaeuser/saunahaus-falun)
+- planning hints from [bygga bastu](http://alltipool.se/butiken/index.php/att-bygga-bastu
+    - Man beräknar 0.8 m2 per person 6 * 0.8 = 4.8 qm
+    - 210 cm hoch
+    - 110 cm zwischen obere bank und decke fuer sauna bis 4 m2, groessere sauna eher 120 cm
+    - 60 cm pro sitzplatz, 2 m pro liegeplatz
+    - 45 cm zwischen obere und untere bank
+    - 40 cm vom boden zur unteren bank
+    - 48-60 cm sitztiefe oder liegebreite oben
+    - 38-60 cm sitztiefe oder liegebreite unten
+    - Vi föreslår vidare att bastulaven monteras lite omlott, dvs den nedre laven går in 20-50 mm under den övre, det då man gärna sitter med fötter lite snett in under.
+    - Ett 6 kW aggregat bör ha stenmagasin om ca 20 - 35 kg
+    - 6 leute sitzen: 360 cm
+    - ca. 2 x 2 m; 218 x 218 = 4.75 m2; 174 x 271 = 4.72 m2
+    - [harvia.fi saunaofen](http://www2.harvia.fi)
+    - [Dimensionering vedeldade bastuugnar](http://www.bastupunkten.se/infosidor)
+    - Räkna med en yta i den vedeldade bastun om 1 m2 per badande plus 1 m2 för bastuaggregatet, en lagom yta för fyra personer blir då 5 m2.
+    - För fönster och oisolerade väggar som vetter mot fria luften, räkna tilläggsfaktor 1 m3 per m2 yta.
+    - ca. 5 qm; 5 * 2.1 = 10.5 m3
+    - [hur man bygger bastu](http://www.bastupunkten.se/infosidor/hur_man_bygger_bastu.htm)
+    - wood to use (se-en-de): al = alder = erle or asp = aspen = espe
+    - [bastufolie mit alu](http://www.bastupunkten.se/bastupanel-och-lavvirke/374-bastufolie-aluminium.html)
+  - current plan
+    - 2.00 x 2.70 = 5.4 m2 x 2.10 h = 11.34 m3
+    - [sketch outside](img/sauna_aussen_01.jpg)
+    - [sketch inside](img/sauna_innen_01.jpg)
 
 # done
 
@@ -1076,6 +1101,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - grundstuecksgrenzmauer am parkplatz abstuetzen
 - grundstuecksgrenze erdreich abstuetzen
 - sauna planen
+- saunabaustelle vorbereiten
 - saunaaussenhuelle holz und isolation bestellen
 - saunainnenausbau holz bestellen
 - muellschublade unter der spuele bauen
