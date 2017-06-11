@@ -42,18 +42,11 @@
     - licht im aussenbereich wieder aktivieren
     - briefkasten mit nummer 32 besorgen und aufhaengen
     - pumpe installieren fuer gartenwasser
-    - plattenweg zur tuer neu verlegen
-    - platten vor der tuer verlegen?
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
     - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de) kontaktieren, tel +49-7627/970903 mobil +49-170/9346266
     - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
     - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
-    - terassen mit steine oder andere absaetze in den garten
-    - our neighbour above is thinking of flattening his land and is interested in a supporting wall
-    - supporting wall could be made of large natural stone block terraces
-    - gartenweg steinplatten granit
-    - verrottete schopfpfosten ersetzen oder kompletter neubau
 - admin
     - feuerversicherung bei SV sparkassenversicherung kuendigen
     - neue feuerversicherung abschliessen
@@ -1078,10 +1071,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - esstischbeine schoener befestigen
 - gartengestaltung: bruchsteinmauer, terasse, gartenweg
+    - plattenweg zur tuer neu verlegen
+    - platten vor der tuer verlegen
+    - terassen mit steine oder andere absaetze in den garten
+    - gartenweg steinplatten granit
+    - verrottete schopfpfosten ersetzen oder kompletter neubau
 
 ## done 2017-05-22
 
-- balkenfuesse zurueck
+- balkenfuesse zurueckbringen
 - ringschrauben fuer haengematte montieren, eye bolt, [Augbolzen Ringschraube Ösenschraube Augenschraube mit Holzgewinde 8*60 at Amazon](https://www.amazon.de/Edelstahl-Ringschraube-%C3%96senschraube-Augenschraube-Holzgewinde/dp/B011YO5GCC)
 
 ## done 2017-06-07
@@ -1096,6 +1094,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2017-06-11
 
 - grundstuecksgrenze erdreich abstuetzen
+    - our neighbour above is thinking of flattening his land and is interested in a supporting wall
+    - supporting wall could be made of large natural stone block terraces
 
 ## <a name="todo-next"></a>todo next
 
