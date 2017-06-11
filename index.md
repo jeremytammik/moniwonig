@@ -1054,10 +1054,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - esstischbeine schoener befestigen
 - gartengestaltung: bruchsteinmauer, terasse, gartenweg
 
-2017-05-22
+## done 2017-05-22
 
 - balkenfuesse zurueck
 - ringschrauben fuer haengematte montieren, eye bolt, [Augbolzen Ringschraube Ösenschraube Augenschraube mit Holzgewinde 8*60 at Amazon](https://www.amazon.de/Edelstahl-Ringschraube-%C3%96senschraube-Augenschraube-Holzgewinde/dp/B011YO5GCC)
+
+## done 2017-06-07
+
+- karen balkondach abdichten
+- schopfdachverlaengerung:
+    - wellacryl 11 stueck 104.5 x 100 cm... 6 stueck 2 m x 104.5... 4 stueck 250 cm platte ergibt 83 cm x 104.5 [plexiglas wellplatte](https://www.bauhaus.info/wellplatten/plexiglas-wellplatte-resist-/p/20736011)
+    - dachlatten 3 x 5
+- schopfvordach bauen
+- ordered 7 tons of gravel from Strohmeier, Griesheim, 07634/511020
 
 
 ## <a name="todo-next"></a>todo next
@@ -1075,18 +1084,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - lampe mit led-leuchtroehre ueber den esstisch
 - schrauben sortieren, regal bauen
 - gartenterasse abbauen
-- regal im monibad bauen
 - jeremy elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
-- jeremy wohnung aufraeumen
 - jeremy schlafzimmer aufraeumen
 - badezimmerregal im abgebauten ofen einbauen
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- schopfdachverlaengerung:
-    - wellacryl 11 stueck 104.5 x 100 cm... 6 stueck 2 m x 104.5... 4 stueck 250 cm platte ergibt 83 cm x 104.5 [plexiglas wellplatte](https://www.bauhaus.info/wellplatten/plexiglas-wellplatte-resist-/p/20736011)
-    - dachlatten 3 x 5
-- karen balkondach abdichten
 - regal in heizungsschrank
-- schopfvordach bauen
 - install good reading and working light in upstairs flat
+- paint jeremy bedroom windows
+- fix table tennis table
 
 <a href="#top">top</a>
