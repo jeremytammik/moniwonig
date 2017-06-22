@@ -1097,11 +1097,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of large natural stone block terraces
 
+## done 2017-06-22
+
+- parkplatzmauer
+- saunafussboden mit lehm auffuellen 2 x 3 m = 6 qm ca. 30 cm hoch = 2 kubikmeter
+- restlicher lehm gleichmaessig verteilen ca. 6 x 13 m = ca. 80 qm ca. 25 mm hoch = 2 kubikmeter (cancelled)
+- mulde mit lehm bestellt, gefuellt, weggefahren
+- ablaufrinne um die zisterne graben und mit kies oder kleine steine fuellen
+- grundstuecksgrenzmauer am parkplatz abstuetzen
+
 ## <a name="todo-next"></a>todo next
 
 - pflanzerde verteilen
 - rasen saeen
-- grundstuecksgrenzmauer am parkplatz abstuetzen
 - sauna planen
 - saunabaustelle vorbereiten
 - saunaaussenhuelle holz und isolation bestellen
@@ -1123,13 +1131,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="ct"></a>todo c.t.
 
-- parkplatzmauer
 - steinumrandung fuer saunafussboden 2.2 x 3 m
-- saunafussboden mit lehm auffuellen 2 x 3 m = 6 qm ca. 30 cm hoch = 2 kubikmeter
-- restlicher lehm gleichmaessig verteilen ca. 6 x 13 m = ca. 80 qm ca. 25 mm hoch = 2 kubikmeter
 - muttererde holen und verteilen
 - mauerrand erhoehen und stabil abschliessen
-- ablaufrinne um die zisterne graben und mit kies oder kleine steine fuellen
 - mergel holen und verteilen
 
 <a href="#top">top</a>
