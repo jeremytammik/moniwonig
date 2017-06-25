@@ -26,6 +26,7 @@
     - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
     - vierte klingel an haustuer montieren und tuerklingel anschliessen
 - eingangsbereich
+    - spiegel anbringen
     - schuhregale anschrauben
     - buecher sortieren und wegraeumen
     - garderobe, schuhregale, weiterer stauram, schraenke
@@ -41,10 +42,8 @@
     - wasserspeicher kaufen ([Frechen bei Koeln](http://www.ebay.de/itm/Batterietank-Tank-Wassertank-Heizoltank-Dieseltank-Altoltank-Oltank-1000-/401349777059?hash=item5d724f96a3:g:iigAAOSw2gxYoK92), [Dueren](http://www.ebay.de/itm/IBC-1000Liter-Container-Fass-Regentonne-Wasserfass-Regenwassertank-Tank-/262916158493?hash=item3d3706341d:g:6SsAAOSwmgJY3O9y), [Nettetal](http://www.ebay.de/itm/BC-Container-1000-Liter-Tank-Regentonne-Tankblase-Gebraucht/132074329886?_trksid=p2047675.c100009.m1982&_trkparms=aid%3D888007%26algo%3DDISC.MBE%26ao%3D1%26asc%3D43785%26meid%3D0d354dd3e24f4afb93b6a0a978aa2c17%26pid%3D100009%26rk%3D1%26rkt%3D1%26sd%3D262916158493)
     - regenrinne und wassertank anbringen
     - licht im aussenbereich wieder aktivieren
-    - briefkasten mit nummer 32 besorgen und aufhaengen
     - pumpe installieren fuer gartenwasser
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
-    - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de) kontaktieren, tel +49-7627/970903 mobil +49-170/9346266
     - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
     - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
@@ -102,6 +101,7 @@
 - Goetz und Moritz, +49-7621/4007-100
 - Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
 - Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
+- gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
 
 
 ## <a name="ofen"></a>ofen
@@ -283,6 +283,7 @@
 
 ## <a name="sauna"></a>sauna &ndash; bastu
 
+- [german video](https://youtu.be/A7j1n2pfY6Y)
 - share with neighbour above? &ndash; mit michael besprechen
 - in finland bestellen?
 - holzterasse um die sauna rum
@@ -1112,10 +1113,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - mulde mit lehm bestellt, gefuellt, weggefahren
 - ablaufrinne um die zisterne graben und mit kies oder kleine steine fuellen
 - grundstuecksgrenzmauer am parkplatz abstuetzen
+- briefkasten mit nummer 32 besorgen und aufhaengen &ndash; not needed
+
 
 ## <a name="todo-next"></a>todo next
 
+- waescheaufhaengung am balkongelaender montieren, z.b. [drahtseil-umlenkrolle eur 15](http://www.ebay.de/itm/281243609571?var=580288584504)
+- hakenleiste im bad anschrauben
+- sensen bei bach
 - betonring als miniteich einrichten
+- saunafundament bauen
 - pflanzerde verteilen
 - rasen saeen
 - sauna planen
@@ -1127,7 +1134,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - zweite led-leuchtroehre im eingangsbereich anschliessen
 - lampe mit led-leuchtroehre ueber den esstisch
 - schrauben sortieren, regal bauen
-- gartenterasse abbauen
 - badezimmerregal im abgebauten ofen einbauen
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - regal in heizungsschrank
