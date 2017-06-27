@@ -1115,6 +1115,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - grundstuecksgrenzmauer am parkplatz abstuetzen
 - briefkasten mit nummer 32 besorgen und aufhaengen &ndash; not needed
 
+## done 2017-06-27
+
+- change bulb in reading lamp
 
 ## <a name="todo-next"></a>todo next
 
