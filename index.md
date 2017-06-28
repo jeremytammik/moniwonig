@@ -1118,10 +1118,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2017-06-27
 
 - change bulb in reading lamp
+- drahtseil-umlenkrolle fuer waescheaufhaengung am balkongelaender montieren
 
 ## <a name="todo-next"></a>todo next
 
-- waescheaufhaengung am balkongelaender montieren, z.b. [drahtseil-umlenkrolle eur 15](http://www.ebay.de/itm/281243609571?var=580288584504)
+- tighten toilet seat and waschbasin, new silocone
 - hakenleiste im bad anschrauben
 - sensen bei bach
 - betonring als miniteich einrichten
