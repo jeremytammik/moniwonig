@@ -1118,11 +1118,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2017-06-27
 
 - change bulb in reading lamp
+- steinumrandung fuer saunafussboden 2.2 x 3 m
 - drahtseil-umlenkrolle fuer waescheaufhaengung am balkongelaender montieren
 
 ## <a name="todo-next"></a>todo next
 
-- tighten toilet seat and waschbasin, new silocone
+- tighten toilet seat and waschbasin, new silicone
+- chop and store new wood
 - hakenleiste im bad anschrauben
 - sensen bei bach
 - betonring als miniteich einrichten
@@ -1145,7 +1147,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="ct"></a>todo c.t.
 
-- steinumrandung fuer saunafussboden 2.2 x 3 m
+- lehm begradigen
 - muttererde holen und verteilen
 - mauerrand erhoehen und stabil abschliessen
 - mergel holen und verteilen
