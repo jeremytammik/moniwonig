@@ -302,6 +302,7 @@
     - [bastulav](http://www.pricerunner.se/sp/bastulav.html)
     - [bastupanel- och lavvirke](http://www.bastupunkten.se/26-bastupanel-och-lavvirke) &ndash; Bastulav i Asp 28 x 90 x 2100 59 kr/m, Al 65 kr/m, Bastufolie Aluminium 369 kr (med barriär av aluminium och polyeten, bredd 1,25 m, längd 24 m, täcker 30 m2), Aluminium tejp för bastufolie 169 kr
     - [välja träslag och underhåll](https://www.bastubutiken.se/page/vilket-traslag-valjer-jag/39)
+    - [Saunabaumaterial](https://megasauna.de/Sauna-Baumaterial) [Espenholz Saunabanklatten](https://megasauna.de/Espenholz-Saunabanklatten-22x80mm-200-Meter) 22x80mm 4 eur/m, [Saunabank](https://megasauna.de/Saunabank-Saunaliege-Oslo-200-Meter-60cm-Espe) 2 m 270 eur
 - planning hints from [bygga bastu](http://alltipool.se/butiken/index.php/att-bygga-bastu)
     - Man beräknar 0.8 m2 per person 6 * 0.8 = 4.8 qm
     - 210 cm hoch
