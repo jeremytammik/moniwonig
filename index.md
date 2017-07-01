@@ -299,6 +299,9 @@
     - [Trädgårdsportalen Bastustugor](http://tradgardsportalen.se/badtunnor-bastustugor/)
     - [Blockhaus Westerhoff](http://www.blockhaus-westerhoff.de/saunahaeuser/saunahaus-falun)
     - [bygga bastu i lösvirke](https://www.dinbyggare.se/bygga-bastu-sa-har-bygger-du-en-bastu-i-losvirke) &ndash; Lämpligt virke till lavarna är kvistfri abacci eller asp med fasade kanter i 21×69 mm dimension
+    - [bastulav](http://www.pricerunner.se/sp/bastulav.html)
+    - [bastupanel- och lavvirke](http://www.bastupunkten.se/26-bastupanel-och-lavvirke) &ndash; Bastulav i Asp 28 x 90 x 2100 59 kr/m, Al 65 kr/m, Bastufolie Aluminium 369 kr (med barriär av aluminium och polyeten, bredd 1,25 m, längd 24 m, täcker 30 m2), Aluminium tejp för bastufolie 169 kr
+    - [välja träslag och underhåll](https://www.bastubutiken.se/page/vilket-traslag-valjer-jag/39)
 - planning hints from [bygga bastu](http://alltipool.se/butiken/index.php/att-bygga-bastu)
     - Man beräknar 0.8 m2 per person 6 * 0.8 = 4.8 qm
     - 210 cm hoch
