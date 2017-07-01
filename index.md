@@ -298,7 +298,7 @@
     - [Träbyggarna Bastushoppen](http://www.trabyggarna.com/butik/)
     - [Trädgårdsportalen Bastustugor](http://tradgardsportalen.se/badtunnor-bastustugor/)
     - [Blockhaus Westerhoff](http://www.blockhaus-westerhoff.de/saunahaeuser/saunahaus-falun)
-- planning hints from [bygga bastu](http://alltipool.se/butiken/index.php/att-bygga-bastu
+- planning hints from [bygga bastu](http://alltipool.se/butiken/index.php/att-bygga-bastu)
     - Man beräknar 0.8 m2 per person 6 * 0.8 = 4.8 qm
     - 210 cm hoch
     - 110 cm zwischen obere bank und decke fuer sauna bis 4 m2, groessere sauna eher 120 cm
