@@ -287,6 +287,11 @@
 - share with neighbour above? &ndash; mit michael besprechen
 - in finland bestellen?
 - holzterasse um die sauna rum
+- saunahaus -- use a ready-made? -- https://www.bauhaus.info/suche/produkte?q=Gartenhaus
+- [doebele](https://www.saunabau-doebele.de) besuchen oder anrufen, Am Bahndamm 3, Gewerbegebiet West, D-79730 Murg
+- [immisionsschutz](http://www.ebook3000.com/Die-neue-Heizung--umweltfreundlich-und-wirtschaftlich-heizen--mit-Gas--Holz--Strom-und-Sonnenenergie--2--Auflage_231368.html) -- /a/doc/manual/saunaofen_din_en_15821/saunaofen_din_en_15821.pdf, 1_blmschv_bundesimmisionsschutzverordung
+- explore sauna building kit
+- normales isolierglas in eine sauna einbauen: [fenster](http://www.sauna-heimwerker.de/sauna-blog/2013/07/gartensauna-fenster-einbauen), [saunafans](http://www.saunafans.de/forum/viewthread.php?boardid=22&thid=1172)
 - bastustuga
     - [Bygga bastu? Så här bygger du en bastu i lösvirke](https://www.dinbyggare.se/bygga-bastu-sa-har-bygger-du-en-bastu-i-losvirke/)
     - [Måtten som hjälper dig fixa en bekväm bastu](https://www.dinbyggare.se/matten-som-hjalper-dig-fixa-en-bekvam-bastu/)
