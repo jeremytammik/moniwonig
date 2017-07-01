@@ -157,10 +157,10 @@
 
 ## Badflaechenberechnung fuer Natursteinplatten
 
-- fussboden 11.64 qm --> 12 qm
+- fussboden 11.64 qm &rarr; 12 qm
 - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
   = 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100
-  = 11.71 qm --> 12 qm
+  = 11.71 qm &rarr; 12 qm
 - tuerlaibung 300h x 25b
 - klonischenwaende mindestens 30 mm dick x 330h x 25b
 - fussbodenleisten 80 + 200 + 200 + 100 cm = 3.8 m
@@ -183,8 +183,8 @@
 - verfugen mit karrafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
 - impraegnierung: http://www.lithofin.de/de/lithofinder &ndash; NN loesemittelhaltig W wasserloeslich
 - abdichtung:
-    - https://www.sg-weber.de &ndash; zwei-komponenten dichtungsschlaemme weber.tec Superflex D 2 -- goetz und moritz 1 woche lieferzeit -- ebay (GP.4,71€/Kg) 24 Kg weber.tec Superflex D 2 Flex Dichtschlämme 2 K Abdichtung -- min. 3,5 kg/m² --> 24 * 3.5 = 84 kg --> 3 * 24 kg kombigebinde a eur 115 --> eur 345
-    - http://www.ardex.co.uk -- abdichtung zementaer 24 qm sack 15 kg eur 95 reicht fuer 2.4 kg / qm flexible dichtschlaemme ardex s7 plus available from ebay for eur 85 per sack, 4 sacks needed --> 340
+    - https://www.sg-weber.de &ndash; zwei-komponenten dichtungsschlaemme weber.tec Superflex D 2 &ndash; goetz und moritz 1 woche lieferzeit &ndash; ebay (GP.4,71€/Kg) 24 Kg weber.tec Superflex D 2 Flex Dichtschlämme 2 K Abdichtung &ndash; min. 3,5 kg/m² &rarr; 24 * 3.5 = 84 kg &rarr; 3 * 24 kg kombigebinde a eur 115 &rarr; eur 345
+    - http://www.ardex.co.uk &ndash; abdichtung zementaer 24 qm sack 15 kg eur 95 reicht fuer 2.4 kg / qm flexible dichtschlaemme ardex s7 plus available from ebay for eur 85 per sack, 4 sacks needed &rarr; 340
     - polyurethan? bitumen? zwei kompenenten; flachdach, balkon; badloesung, muss ueberklebbar sein
     - http://dime-fluessigkunststoffe.de
     - goetz und moritz naturstein herr lais 4007-153
@@ -193,7 +193,7 @@
 
 - Vestol 12/16.1/2
 - Uebergang 12/16.1/2 auf halbzoll
-- Frima Vestol --> Vescal SA --> Walter Meier (Klima Schweiz) AG [www.waltermeier.com](http://www.waltermeier.com)
+- Frima Vestol &rarr; Vescal SA &rarr; Walter Meier (Klima Schweiz) AG [www.waltermeier.com](http://www.waltermeier.com)
 - Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com
 
 ## <a name="kuechenarbeitsplatte"></a>Kuechenarbeitsplatte
@@ -267,9 +267,9 @@
     - muell: glas, papier, pappe, belber sack, biotonne, restmuell
 - holzbestellung fuer strassenzaun und dachkonstruktion
     - strassenzaunphotos vorher (in 2004) ([1](img/04_strassenzaun.jpg), [2](img/05_strassenzaun.jpg))
-    - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m --> 10 stueck 3 m 10 x 12
-    - dachpfosten 16 m alle 4 meter --> 5 stueck 3 m x 10 x 12
-    - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm --> 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m --> 54 bretter a 5 m
+    - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m &rarr; 10 stueck 3 m 10 x 12
+    - dachpfosten 16 m alle 4 meter &rarr; 5 stueck 3 m x 10 x 12
+    - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm &rarr; 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m &rarr; 54 bretter a 5 m
     - quertraeger zaun: 2 x 18 m = 36 meter 3 x 15
     - quertraeger dach: 4 x 15 m = 60 meter 3 x 15
     - verstrebungen zwischen pfosten: 5 x (2277+2120+2765) = 5 * 7.162 in 15 stuecke = 36 meter 3 x 15, 8 x 5 meter
@@ -287,9 +287,9 @@
 - share with neighbour above? &ndash; mit michael besprechen
 - in finland bestellen?
 - holzterasse um die sauna rum
-- saunahaus -- use a ready-made? -- https://www.bauhaus.info/suche/produkte?q=Gartenhaus
+- saunahaus &ndash; use a ready-made? &ndash; https://www.bauhaus.info/suche/produkte?q=Gartenhaus
 - [doebele](https://www.saunabau-doebele.de) besuchen oder anrufen, Am Bahndamm 3, Gewerbegebiet West, D-79730 Murg
-- [immisionsschutz](http://www.ebook3000.com/Die-neue-Heizung--umweltfreundlich-und-wirtschaftlich-heizen--mit-Gas--Holz--Strom-und-Sonnenenergie--2--Auflage_231368.html) -- /a/doc/manual/saunaofen_din_en_15821/saunaofen_din_en_15821.pdf, 1_blmschv_bundesimmisionsschutzverordung
+- [immisionsschutz](http://www.ebook3000.com/Die-neue-Heizung--umweltfreundlich-und-wirtschaftlich-heizen--mit-Gas--Holz--Strom-und-Sonnenenergie--2--Auflage_231368.html) &ndash; /a/doc/manual/saunaofen_din_en_15821/saunaofen_din_en_15821.pdf, 1_blmschv_bundesimmisionsschutzverordung
 - explore sauna building kit
 - normales isolierglas in eine sauna einbauen: [fenster](http://www.sauna-heimwerker.de/sauna-blog/2013/07/gartensauna-fenster-einbauen), [saunafans](http://www.saunafans.de/forum/viewthread.php?boardid=22&thid=1172)
 - bastustuga
@@ -298,6 +298,7 @@
     - [Träbyggarna Bastushoppen](http://www.trabyggarna.com/butik/)
     - [Trädgårdsportalen Bastustugor](http://tradgardsportalen.se/badtunnor-bastustugor/)
     - [Blockhaus Westerhoff](http://www.blockhaus-westerhoff.de/saunahaeuser/saunahaus-falun)
+    - [bygga bastu i lösvirke](https://www.dinbyggare.se/bygga-bastu-sa-har-bygger-du-en-bastu-i-losvirke) &ndash; Lämpligt virke till lavarna är kvistfri abacci eller asp med fasade kanter i 21×69 mm dimension
 - planning hints from [bygga bastu](http://alltipool.se/butiken/index.php/att-bygga-bastu)
     - Man beräknar 0.8 m2 per person 6 * 0.8 = 4.8 qm
     - 210 cm hoch
@@ -307,14 +308,14 @@
     - 40 cm vom boden zur unteren bank
     - 48-60 cm sitztiefe oder liegebreite oben
     - 38-60 cm sitztiefe oder liegebreite unten
-    - Vi föreslår vidare att bastulaven monteras lite omlott, dvs den nedre laven går in 20-50 mm under den övre, det då man gärna sitter med fötter lite snett in under.
-    - Ett 6 kW aggregat bör ha stenmagasin om ca 20 - 35 kg
+    - vi föreslår vidare att bastulaven monteras lite omlott, dvs den nedre laven går in 20-50 mm under den övre, det då man gärna sitter med fötter lite snett in under.
+    - ett 6 kw aggregat bör ha stenmagasin om ca 20 - 35 kg
     - 6 leute sitzen: 360 cm
     - ca. 2 x 2 m; 218 x 218 = 4.75 m2; 174 x 271 = 4.72 m2
     - [harvia.fi saunaofen](http://www2.harvia.fi)
-    - [Dimensionering vedeldade bastuugnar](http://www.bastupunkten.se/infosidor)
-    - Räkna med en yta i den vedeldade bastun om 1 m2 per badande plus 1 m2 för bastuaggregatet, en lagom yta för fyra personer blir då 5 m2.
-    - För fönster och oisolerade väggar som vetter mot fria luften, räkna tilläggsfaktor 1 m3 per m2 yta.
+    - [dimensionering vedeldade bastuugnar](http://www.bastupunkten.se/infosidor)
+    - räkna med en yta i den vedeldade bastun om 1 m2 per badande plus 1 m2 för bastuaggregatet, en lagom yta för fyra personer blir då 5 m2.
+    - för fönster och oisolerade väggar som vetter mot fria luften, räkna tilläggsfaktor 1 m3 per m2 yta.
     - ca. 5 qm; 5 * 2.1 = 10.5 m3
     - [hur man bygger bastu](http://www.bastupunkten.se/infosidor/hur_man_bygger_bastu.htm)
     - wood to use (se-en-de): al = alder = erle or asp = aspen = espe
@@ -514,13 +515,13 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - duschabwasserrinne mit rohren und heizleitungen einbauen; rueckwand muss vorher exakt definiert sein plus minus 3-4 mm
     - wasserleitungen fuer waschbecken hochziehen verlaengern
     - wandheizkoerper vorbereiten leitungen legen
-    - place a second radiator beside toilet? -- nope, open copper tubes instead
+    - place a second radiator beside toilet? &ndash; nope, open copper tubes instead
     - shower glass partition idea: mount a strip of metal at the top of the glass, attach that to the ceiling, and let the whole thing hang free, no fixed connection to anything, neither floor or ceiling
-    - grosszuegige offene dusche, glaswand ohne bewegliche teile -- nein, doch keine glaswand
+    - grosszuegige offene dusche, glaswand ohne bewegliche teile &ndash; nein, doch keine glaswand
     - heizung akustisch isolieren, auch von der wand
     - heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr
     - heizungspumpe optimieren
-    - heizungsschrank mauer fuer die dusche bauen -- nope, keine mauer noetig    
+    - heizungsschrank mauer fuer die dusche bauen &ndash; nope, keine mauer noetig    
     - schrank aus schreinerplatten oder grobspanplatten
     - kacheln oder platten fuer wand und boden aussuchen
     - holzfussboden? teak?
@@ -558,12 +559,12 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - gruene gipsplatte fuer die heizungsschrankwand
     - putz von der rolle fuer X qm, koernung 0.5-1.0 mm: mit lammfellrolle auftragen, trocknen lassen bis er lederartig ist und sich tupfen machen lassen mit dem finger, dann mit einem groben schwamm leicht verwischen
     - fussbodenabdichtung fuer unter den stein, zwei-komponenten, sack + fluessig
-    - Heizungsrohr Anschluss: Vestol 12/16.1/2, Uebergang auf halbzoll, Firma Vestol --> Vescal SA --> [Walter Meier (Klima Schweiz) AG](http://www.waltermeier.com), , Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, [email](mailto:ch.klima@waltermeier.com)
+    - Heizungsrohr Anschluss: Vestol 12/16.1/2, Uebergang auf halbzoll, Firma Vestol &rarr; Vescal SA &rarr; [Walter Meier (Klima Schweiz) AG](http://www.waltermeier.com), , Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, [email](mailto:ch.klima@waltermeier.com)
 
 ## done 2016-09-08
 
 - kitchen
-    - dachschraege weisseln? -- nope, don't think so
+    - dachschraege weisseln? &ndash; nope, don't think so
     - keep the parquet floor, no cork, so ignore this research: Korkfussboden 6 mm [Korkplatten 925 x 625 x 6 mm](http://korkrollen.de/category/korkplatten), [Klebekork](http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html)
     - fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies! nope, keep parkett
     - 91 cm arbeitshoehe OK arbeitsplatte
@@ -572,7 +573,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - stauraum
     - eliminated the idea of apothekerschrank auszug 
     - vorne gewindestangen von der decke haengen
-    - schubladengleitband [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790), [PP oder PE oder PA als Plattenmaterial für die Gleitschienen](https://online-plast.com) -- nein, siehe naechster punkt:
+    - schubladengleitband [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790), [PP oder PE oder PA als Plattenmaterial für die Gleitschienen](https://online-plast.com) &ndash; nein, siehe naechster punkt:
     - gleitschienen von [online-plast.com](https://online-plast.com)
 - bad
     - waschbecken und ablagen im bad planen
@@ -1017,7 +1018,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kaminofen schornsteinanschluss verputzen und streichen &ndash; putz hinter ofenrohr: kalkputz ca 10-15 mm auftragen, auf den feuchten Putz Kalkfarbe (Kalk mit Wasser) mehrmals dünn auftragen, vor dem Einheizen besser mind. 2 Wochen warten und dann nicht zu plötzlich.
 Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf den noch feuchten Putz mehrmals aufmalen; der Weißton kommt erst nach Trocknung. Alternativ Rein-Silikatfarbe nehmen, die aber erst nach kompletter Trocknung des Putzes verwenden. Beide Farben sind genügend hitzebeständig.
 - alter holzzaun reste entfernen
-- himmelsbach kanthoz 8x8 2.50 eur pro lfm --> 50 * 2.5 --> 125
+- himmelsbach kanthoz 8x8 2.50 eur pro lfm &rarr; 50 * 2.5 &rarr; 125
 - armierungseisen betonstahl BST500S 10mm, 6.00m 0.617kg/m, DIN 488 Art.Nr.:08/21/01/0003
     - Josef Fien GmbH, Rheingrüttäcker 8, D-79713 Bad Säckingen, +49-7761/2343 [map](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png)
     - [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
