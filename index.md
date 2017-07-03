@@ -103,6 +103,10 @@
 - Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
 - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
 
+## Moni Fenstermasse
+
+- 2 stueck 188 x 133 nur glas
+- 2 stueck 92.5 x 164 mit rahmen aussenmass b x h
 
 ## <a name="ofen"></a>ofen
 
