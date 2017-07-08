@@ -1143,6 +1143,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - rollrasen verlegt
 - saunahaus exterior shell complete
 - kies: karl strohmaier, ordered 12 tons of gravel for coming monday
+- [rasen sprengen](https://lizabethbartell.wordpress.com/2016/02/06/der-guide-zum-themenkreis-rasen-sprengen-auf-diese-dinge-muss-man-acht-geben-2), [richtig bewaessern](https://www.mein-schoener-garten.de/gartenpraxis/ziergaerten/rasen-richtig-bewaessern-6651): Bei lockeren Sandböden reichen rund 10 bis 15 Liter pro Quadratmeter zur Bewässerung des Rasens aus, lehmige bis tonige Böden müssen mit 15 bis 20 Litern beregnet werden. Da sie das Wasser länger speichern, reicht in der Regel eine Beregnung pro Woche, während Rasenflächen auf Sandböden in Trockenzeiten alle drei bis vier Tage bewässert werden. 10 mm regen pro qm macht 0.01 kubikmeter gleich 10 liter.
+
 
 ## <a name="todo-next"></a>todo next
 
