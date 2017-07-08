@@ -104,6 +104,7 @@
 - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
 - [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
 - erde und sand liefern [Oberrhein-Handels-Union GmbH & Co. KG](http://www.ohu-iffezheim.de), Waldstr. 35, 79206 Breisach: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
+- kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
 
 ## Moni Fenstermasse
 
@@ -1113,7 +1114,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - wellacryl 11 stueck 104.5 x 100 cm... 6 stueck 2 m x 104.5... 4 stueck 250 cm platte ergibt 83 cm x 104.5 [plexiglas wellplatte](https://www.bauhaus.info/wellplatten/plexiglas-wellplatte-resist-/p/20736011)
     - dachlatten 3 x 5
 - schopfvordach bauen
-- ordered 7 tons of gravel from Strohmeier, Griesheim, 07634/511020
+- kies: ordered 7 tons of gravel from Strohmeier, Griesheim, +49-7634/511020
 
 ## done 2017-06-11
 
@@ -1136,6 +1137,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - change bulb in reading lamp
 - steinumrandung fuer saunafussboden 2.2 x 3 m
 - drahtseil-umlenkrolle fuer waescheaufhaengung am balkongelaender montieren
+
+## done 2017-07-08
+
+- rollrasen verlegt
+- saunahaus exterior shell complete
+- kies: karl strohmaier, ordered 12 tons of gravel for coming monday
 
 ## <a name="todo-next"></a>todo next
 
@@ -1160,12 +1167,5 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - regal in heizungsschrank
 - fix table tennis table
-
-## <a name="ct"></a>todo c.t.
-
-- lehm begradigen
-- muttererde holen und verteilen
-- mauerrand erhoehen und stabil abschliessen
-- mergel holen und verteilen
 
 <a href="#top">top</a>
