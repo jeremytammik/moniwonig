@@ -64,8 +64,7 @@
     - warmwasser- und heizungssolaranlage
     - [kompotoi](http://www.kompotoi.ch) komposttoilette mit trennung von kot und urin
     - [sauna](#sauna)
-    - stahlkessel durchmesser 1.4 hoehe ? <!--- pi = 3.1415926535898; d = 1.4; r = 0.5 * d; pi*d = ca. 4.4 m; pi*r*r = ca. 1.5 qm; 0.2*pi*r*r = 0.3 kubik --->
-    
+    - stahlkessel wanne durchmesser 1.4 hoehe ? <!--- pi = 3.1415926535898; d = 1.4; r = 0.5 * d; pi*d = ca. 4.4 m; pi*r*r = ca. 1.5 qm; 0.2*pi*r*r = 0.3 kubik --->
 
 ## michael's architectural hints
 
