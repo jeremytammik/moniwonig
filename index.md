@@ -1168,5 +1168,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - regal in heizungsschrank
 - fix table tennis table
+- gartenschlauch, z.b. bei [ebay 1.50 1/2, 2.30 3/4, 4 eur 1 zoll](http://www.ebay.de/itm/Profi-Gewebe-Gartenschlauch-Meterware-6-lagig-Knick-und-Verdrehsicher-Wasser-/322240014074)
 
 <a href="#top">top</a>
