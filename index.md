@@ -338,6 +338,8 @@
     - 2.00 x 2.70 = 5.4 m2 x 2.10 h = 11.34 m3
     - [sketch outside](img/sauna_aussen_01.jpg)
     - [sketch inside](img/sauna_innen_01.jpg)
+    - Wandaufbau: stabiles Rahmenwerk; äußere Verkleidung; Dämmung in Form von Mineralwolle oder Kork; bei Mineralwolldämmung eine Dampfsperre aus Aluminiumfolie (Bei Korkisolierung ist dies nicht erforderlich); Dämmung völlig vom Innenraum isoliert; Innenschalung.
+    - daemmung [glaswolle 1250 x 625 x 60 mm](https://www.bauhaus.info/glaswolle/trennwandplatten-twp1-1250x625x60mm-probau/p/13892428)
 
 # done
 
@@ -1148,15 +1150,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - kies: karl strohmaier, ordered 12 tons of gravel for coming monday
 - [rasen sprengen](https://lizabethbartell.wordpress.com/2016/02/06/der-guide-zum-themenkreis-rasen-sprengen-auf-diese-dinge-muss-man-acht-geben-2), [richtig bewaessern](https://www.mein-schoener-garten.de/gartenpraxis/ziergaerten/rasen-richtig-bewaessern-6651): Bei lockeren Sandböden reichen rund 10 bis 15 Liter pro Quadratmeter zur Bewässerung des Rasens aus, lehmige bis tonige Böden müssen mit 15 bis 20 Litern beregnet werden. Da sie das Wasser länger speichern, reicht in der Regel eine Beregnung pro Woche, während Rasenflächen auf Sandböden in Trockenzeiten alle drei bis vier Tage bewässert werden. 10 mm regen pro qm macht 0.01 kubikmeter gleich 10 liter.
 
+## done 2017-08-15
+
+- saunafundament bauen
+- saunabaustelle vorbereiten
+- hakenleiste im bad anschrauben
+- tighten toilet seat and waschbasin, new silicone
+- order gartenschlauch, z.b. bei [ebay eur pro m fuer zoll 1.50 1/2, 2.30 3/4, 4 eur  1"](http://www.ebay.de/itm/Profi-Gewebe-Gartenschlauch-Meterware-6-lagig-Knick-und-Verdrehsicher-Wasser-/322240014074)
+
 ## <a name="todo-next"></a>todo next
 
-- tighten toilet seat and waschbasin, new silicone
 - chop and store new wood
-- hakenleiste im bad anschrauben
 - betonring als miniteich einrichten
-- saunafundament bauen
 - sauna planen
-- saunabaustelle vorbereiten
 - sauna isolieren
 - saunainnenausbau holz bestellen
 - muellschublade unter der spuele bauen
@@ -1168,6 +1174,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - regal in heizungsschrank
 - fix table tennis table
-- gartenschlauch, z.b. bei [ebay 1.50 1/2, 2.30 3/4, 4 eur 1 zoll](http://www.ebay.de/itm/Profi-Gewebe-Gartenschlauch-Meterware-6-lagig-Knick-und-Verdrehsicher-Wasser-/322240014074)
+- Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 
 <a href="#top">top</a>
