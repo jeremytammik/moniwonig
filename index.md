@@ -1160,10 +1160,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- clear old wood from path
+- sauna aussenfolie abdichten
+- get sauna insulation material
+- clean bathroom
+- plan sauna
+- sauna insulation
+- buy pump
+- finish led lamps
 - chop and store new wood
 - betonring als miniteich einrichten
-- sauna planen
-- sauna isolieren
 - saunainnenausbau holz bestellen
 - muellschublade unter der spuele bauen
 - deckenleuchte mit drei spots im buero montieren
