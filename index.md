@@ -108,6 +108,8 @@
 - [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
 - erde und sand liefern [Oberrhein-Handels-Union GmbH & Co. KG](http://www.ohu-iffezheim.de), Waldstr. 35, 79206 Breisach: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
 - kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
+- armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
+
 
 ## Moni Fenstermasse
 
@@ -1036,8 +1038,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - alter holzzaun reste entfernen
 - himmelsbach kanthoz 8x8 2.50 eur pro lfm &rarr; 50 * 2.5 &rarr; 125
 - armierungseisen betonstahl BST500S 10mm, 6.00m 0.617kg/m, DIN 488 Art.Nr.:08/21/01/0003
-    - Josef Fien GmbH, Rheingrüttäcker 8, D-79713 Bad Säckingen, +49-7761/2343 [map](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png)
-    - [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
 
 ## done 2017-02-17
 
@@ -1158,12 +1158,23 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - tighten toilet seat and waschbasin, new silicone
 - order gartenschlauch, z.b. bei [ebay eur pro m fuer zoll 1.50 1/2, 2.30 3/4, 4 eur  1"](http://www.ebay.de/itm/Profi-Gewebe-Gartenschlauch-Meterware-6-lagig-Knick-und-Verdrehsicher-Wasser-/322240014074)
 
-## <a name="todo-next"></a>todo next
+## done 2017-08-21
 
-- clear old wood from path
+- poured water basin floor
+- ordered armierungseisen Josef Fien GmbH: 24 * 17 m + 240 * 1.5 m + 20 * 10 m = 968 m, ca. 383 kg, ca. eur 300 + mwst = eur 357
+
+## done 2017-09-02
+
 - sauna aussenfolie abdichten
 - get sauna insulation material
 - clean bathroom
+- [Profilholz](https://www.bauhaus.info/profilholz/fita-profilholz-a-2500-x-125-x-96-mm/p/20830694) 220 x 290 + 250 x 290 + 250 x 270 + 250 x 70 + 250 x 200, z.b. 250 x (290 + 290 + 270 + 70 + 200) = 250 x 1120 = 28 qm
+- [Stauchkopf-Nagel](https://www.bauhaus.info/naegel/drahtstift-stko-20x40-vz-din-1152-400ststabilit/p/20035620)
+- pour concrete basin
+
+## <a name="todo-next"></a>todo next
+
+- clear old wood from path
 - plan sauna
 - sauna insulation
 - buy pump
@@ -1181,5 +1192,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - regal in heizungsschrank
 - fix table tennis table
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
+- wachs upstairs floor
 
 <a href="#top">top</a>
