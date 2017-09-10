@@ -1172,6 +1172,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - [Stauchkopf-Nagel](https://www.bauhaus.info/naegel/drahtstift-stko-20x40-vz-din-1152-400ststabilit/p/20035620)
 - pour concrete basin
 
+## done 2017-09-10
+
+- pour concrete basin cover platform
+- [ytong is fireproof](http://www.brandschutz.at/BS/BK_08/Adobe/BK_08_47.pdf)
+
 ## <a name="todo-next"></a>todo next
 
 - clear old wood from path
