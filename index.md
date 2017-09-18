@@ -1179,8 +1179,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - pour concrete basin cover platform
 - [ytong is fireproof](http://www.brandschutz.at/BS/BK_08/Adobe/BK_08_47.pdf)
 
+## done 2017-09-18
+
+- finished staircase between basin and house
+
 ## <a name="todo-next"></a>todo next
 
+- flex open falk's wood stove
+- close hole in wall for chimney pipe
+- fix roof leak onto fence
 - clear old wood from path
 - plan sauna
 - sauna insulation
