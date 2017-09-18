@@ -90,8 +90,10 @@
 
 ## <a name="contact"></a>contact
 
-- [mulde telefonbuch](https://www.dastelefonbuch.de/Branchen/Containerdienst/L%C3%B6rrach)
+- caontainer, mulde
     - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
+    - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209 
+    - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
     - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
 - fussboden: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
 - bad, ofenrohr, sanitaer martin richardson +49-172/7173108
