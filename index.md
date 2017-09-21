@@ -1189,6 +1189,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - close hole in wall for chimney pipe
 - fix roof leak onto fence
 - clear old wood from path
+- build railing round basin platform
 - plan sauna
 - sauna insulation
 - buy pump
