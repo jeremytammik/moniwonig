@@ -1179,18 +1179,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
 - finished staircase between basin and house
 
+## done 2017-09-21
+
+- fix roof leak onto fence
+
 ## <a name="todo-next"></a>todo next
 
 - flex open falk's wood stove
 - close hole in wall for chimney pipe
-- fix roof leak onto fence
 - clear old wood from path
 - build railing round basin platform
 - plan sauna
 - sauna insulation
 - buy pump
 - finish led lamps
-- chop and store new wood
 - betonring als miniteich einrichten
 - saunainnenausbau holz bestellen
 - muellschublade unter der spuele bauen
