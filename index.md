@@ -35,24 +35,17 @@
 - dach
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
-- balkon
-    - balkon unter den paletten saeubern nach dem umbau
-    - balkonbretter schrubben
 - garten
-    - wasserspeicher kaufen ([Frechen bei Koeln](http://www.ebay.de/itm/Batterietank-Tank-Wassertank-Heizoltank-Dieseltank-Altoltank-Oltank-1000-/401349777059?hash=item5d724f96a3:g:iigAAOSw2gxYoK92), [Dueren](http://www.ebay.de/itm/IBC-1000Liter-Container-Fass-Regentonne-Wasserfass-Regenwassertank-Tank-/262916158493?hash=item3d3706341d:g:6SsAAOSwmgJY3O9y), [Nettetal](http://www.ebay.de/itm/BC-Container-1000-Liter-Tank-Regentonne-Tankblase-Gebraucht/132074329886?_trksid=p2047675.c100009.m1982&_trkparms=aid%3D888007%26algo%3DDISC.MBE%26ao%3D1%26asc%3D43785%26meid%3D0d354dd3e24f4afb93b6a0a978aa2c17%26pid%3D100009%26rk%3D1%26rkt%3D1%26sd%3D262916158493)
-    - regenrinne und wassertank anbringen
+    - regenrinne in den wassertank leiten
     - licht im aussenbereich wieder aktivieren
     - pumpe installieren fuer gartenwasser
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
-    - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
-    - treppe an der strassenseite von karen vorplatz auf jeremy terasse 
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
-- upstairs apt.
+- upstairs
     - install good reading and working light
     - elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
     - schrauben und werkzeug im schlafzimmer aufraeumen
-    - paint bedroom windows
-    - fasten waschbasin and toilet seat better, remove silicone
+    - paint north bedroom windows
 - admin
     - feuerversicherung bei SV sparkassenversicherung kuendigen
     - neue feuerversicherung abschliessen
@@ -1181,6 +1174,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## done 2017-09-18
 
+- fasten waschbasin and toilet seat better, remove silicone
+- kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
+- treppe an der strassenseite von karen vorplatz auf jeremy terasse 
 - finished staircase between basin and house
 
 ## <a name="todo-next"></a>todo next
