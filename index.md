@@ -974,9 +974,11 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
         - 1 Ofenrohr aus Edelstahl DN 150 mm Bogen 90° ohne Tür
         - 1 Doppelwandfutter aus Edelstahl für Ofenrohre mit DN 150 mm
         - 1 Ofenrohr aus Edelstahl DN 150 mm Länge 0,50 m
-    - 25.50 [Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867)
-    - 42.00 [Kaminrohrset Durchmesser 150 mm Gussgrau Winkelrohrset mit Drosselklappe](https://www.bauhaus.info/ofenrohre/kaminrohrset-/p/13501898)
-    - 27.95 * 3 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843)
+    - 25.50 [Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867) 32 x 32 cm
+    - 42.00 [Kaminrohrset Durchmesser 150 mm Gussgrau Winkelrohrset mit Drosselklappe](https://www.bauhaus.info/ofenrohre/kaminrohrset-/p/13501898) 65 x 50 cm
+    - 27.95 * 3 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843) 100 cm
+    - 29.95 [Regenhut](https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720) 30 cm
+    - 9.95 [Ofenrohrbogen 0.6 mm](https://www.bauhaus.info/ofenrohre/abgasbogen-150mm90gmverl06mm-schwarz/p/13490514) 41 x 22 cm
 - apothekerschrank bauen
 - kaminofen abgasrauchrohre abgeholt 
 - kaminofen schornsteinanschluss gesetzt &ndash; [ofenrohranschluss moertel](http://www.gutefrage.net/frage/neuen-ofenrohranschluss-legen)
@@ -1183,6 +1185,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - fix roof leak onto fence
 
+## done 2017-09-27
+
+- order chimney pipes for sauna kaminofen abgasrauchrohre bestellen
+    - 25.50 [Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867) 32 x 32 cm
+    - 27.95 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843) 100 cm
+    - 29.95 [Regenhut](https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720) 30 cm
+    - 9.95 [Ofenrohrbogen 0.6 mm](https://www.bauhaus.info/ofenrohre/abgasbogen-150mm90gmverl06mm-schwarz/p/13490514) 41 x 22 cm
+
 ## <a name="todo-next"></a>todo next
 
 - build stone wall around little garden below basin
@@ -1207,5 +1217,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix table tennis table
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - wachs upstairs floor
+- [ofenrohrbogen](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13491984) 32 cm lang und breit
 
 <a href="#top">top</a>
