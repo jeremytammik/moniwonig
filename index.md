@@ -1185,10 +1185,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- build stone wall around little garden below basin
+- plan, buy material and build railing round basin platform
 - flex open falk's wood stove
 - close hole in wall for chimney pipe
 - clear old wood from path
-- build railing round basin platform
 - plan sauna
 - sauna insulation
 - buy pump
