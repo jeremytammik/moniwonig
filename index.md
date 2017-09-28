@@ -104,7 +104,7 @@
 - erde und sand liefern [Oberrhein-Handels-Union GmbH & Co. KG](http://www.ohu-iffezheim.de), Waldstr. 35, 79206 Breisach: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
 - kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
 - armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
-
+- gas: [Eberhard Geiger](http://www.geiger-gase.de), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
 
 ## Moni Fenstermasse
 
