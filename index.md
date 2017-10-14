@@ -104,7 +104,7 @@
 - erde und sand liefern [Oberrhein-Handels-Union GmbH & Co. KG](http://www.ohu-iffezheim.de), Waldstr. 35, 79206 Breisach: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
 - kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
 - armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
-- gas: [Eberhard Geiger](http://www.geiger-gase.de), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
+- gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
 
 ## Moni Fenstermasse
 
@@ -1193,10 +1193,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 29.95 [Regenhut](https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720) 30 cm
     - 9.95 [Ofenrohrbogen 0.6 mm](https://www.bauhaus.info/ofenrohre/abgasbogen-150mm90gmverl06mm-schwarz/p/13490514) 41 x 22 cm
 
-## <a name="todo-next"></a>todo next
+## done 2017-10-14
 
 - build stone wall around little garden below basin
+- teppich klopfen
+
+## <a name="todo-next"></a>todo next
+
+- plan sauna door with window
+- plan bathroom shelf with marble around column
 - plan, buy material and build railing round basin platform
+- build stone wall below walnut tree
 - flex open falk's wood stove
 - close hole in wall for chimney pipe
 - clear old wood from path
