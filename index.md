@@ -1188,6 +1188,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2017-09-27
 
 - order chimney pipes for sauna kaminofen abgasrauchrohre bestellen
+    - [ofenrohrbogen](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13491984) 32 cm lang und breit
     - 25.50 [Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867) 32 x 32 cm
     - 27.95 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843) 100 cm
     - 29.95 [Regenhut](https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720) 30 cm
@@ -1201,6 +1202,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2017-10-20
 
 - move granite stones below walnut tree
+- sauna insulation
+- buy material for railing around basin platform
 - douglasienholz fuer plattformgelaender &ndash; dicken verfuegbar bei himmelsbach, nur in 5 m laenge:
     - 24 mm x 215 mm
     - 32 mm x 215 mm
@@ -1210,14 +1213,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - plan sauna door with window
 - plan bathroom shelf with marble around column
-- plan, buy material and build railing round basin platform
+- plan and build railing around basin platform
 - build stone wall below walnut tree
-- flex open falk's wood stove
-- close hole in wall for chimney pipe
 - clear old wood from path
-- plan sauna
-- sauna insulation
-- buy pump
+- buy pump schmutzwasserpumpe
 - finish led lamps
 - betonring als miniteich einrichten
 - saunainnenausbau holz bestellen
@@ -1232,7 +1231,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix table tennis table
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - wachs upstairs floor
-- [ofenrohrbogen](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13491984) 32 cm lang und breit
 
 ## <a name="ct"></a>C.T.
 
@@ -1240,6 +1238,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - buloni 
 - irrigatione sulla plataforma 
 - aqua nel bidone
-- flex open falk's wood stove
+- flex open sauna stove
+- close hole in wall for chimney pipe
 
 <a href="#top">top</a>
