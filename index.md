@@ -1198,9 +1198,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build stone wall around little garden below basin
 - teppich klopfen
 
-## done 2017-10-19
+## done 2017-10-20
 
 - move granite stones below walnut tree
+- douglasienholz fuer plattformgelaender &ndash; dicken verfuegbar bei himmelsbach, nur in 5 m laenge:
+    - 24 mm x 215 mm
+    - 32 mm x 215 mm
+    - 45 mm x 240 mm
 
 ## <a name="todo-next"></a>todo next
 
