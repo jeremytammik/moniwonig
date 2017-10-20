@@ -1198,6 +1198,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build stone wall around little garden below basin
 - teppich klopfen
 
+## done 2017-10-19
+
+- move granite stones below walnut tree
+
 ## <a name="todo-next"></a>todo next
 
 - plan sauna door with window
@@ -1225,5 +1229,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - wachs upstairs floor
 - [ofenrohrbogen](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13491984) 32 cm lang und breit
+
+## <a name="ct"></a>C.T.
+
+- grondaia 
+- buloni 
+- irrigatione sulla plataforma 
+- aqua nel bidone
+- flex open falk's wood stove
 
 <a href="#top">top</a>
