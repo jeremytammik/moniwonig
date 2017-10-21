@@ -4,6 +4,7 @@
 &ndash; [source repo](https://github.com/jeremytammik/moniwonig)
 &ndash; <a href="#todo-next">todo next</a>
 &ndash; <a href="#ct">c.t.</a>
+&ndash; <a href="#shop">shop</a>
 
 
 ## <a name="hauptaufgaben"></a>hauptaufgaben
@@ -1199,7 +1200,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build stone wall around little garden below basin
 - teppich klopfen
 
-## done 2017-10-20
+## done 2017-10-21
 
 - move granite stones below walnut tree
 - sauna insulation
@@ -1208,10 +1209,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 24 mm x 215 mm
     - 32 mm x 215 mm
     - 45 mm x 240 mm
+- flex open sauna stove
 
 ## <a name="todo-next"></a>todo next
 
-- plan sauna door with window
 - plan bathroom shelf with marble around column
 - plan and build railing around basin platform
 - build stone wall below walnut tree
@@ -1238,7 +1239,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - buloni 
 - irrigatione sulla plataforma 
 - aqua nel bidone
-- flex open sauna stove
 - close hole in wall for chimney pipe
+- sauna insulation and wood panelling
+- plan and build sauna door with window
+
+## <a name="shop"></a>shop 
+
+- schutzbrille
 
 <a href="#top">top</a>
