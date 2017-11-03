@@ -1211,10 +1211,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 45 mm x 240 mm
 - flex open sauna stove
 
+## done 2017-11-03
+
+- close hole in sauna wall for chimney pipe
+- sauna insulation and wood panelling
+- plan and build sauna door with window
+- shop schutzbrille
+- fix lights outside
+- plan and build railing around basin platform ([sketch](img/platformrailing.pdf))
+- build bench around platform
+
 ## <a name="todo-next"></a>todo next
 
 - plan bathroom shelf with marble around column
-- plan and build railing around basin platform
 - build stone wall below walnut tree
 - clear old wood from path
 - buy pump schmutzwasserpumpe
@@ -1236,15 +1245,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="ct"></a>C.T.
 
 - grondaia 
-- buloni 
+- buloni mancante per il recinto
 - irrigatione sulla plataforma 
 - aqua nel bidone
-- close hole in wall for chimney pipe
-- sauna insulation and wood panelling
-- plan and build sauna door with window
+- chiudere la sauna (sotto)
 
 ## <a name="shop"></a>shop 
-
-- schutzbrille
 
 <a href="#top">top</a>
