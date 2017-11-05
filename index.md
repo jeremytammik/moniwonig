@@ -1211,7 +1211,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 45 mm x 240 mm
 - flex open sauna stove
 
-## done 2017-11-03
+## done 2017-11-04
 
 - close hole in sauna wall for chimney pipe
 - sauna insulation and wood panelling
@@ -1220,23 +1220,33 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix lights outside
 - plan and build railing around basin platform ([sketch](img/platformrailing.pdf))
 - build bench around platform
+- buloni mancante per il recinto
+- build water tank exit tube
 
 ## <a name="todo-next"></a>todo next
 
-- plan bathroom shelf with marble around column
-- build stone wall below walnut tree
-- clear old wood from path
+- saunainnenausbau holz bestellen
+- saunabaenke stuetzen bauen
 - buy pump schmutzwasserpumpe
+- clear old wood from path
+- clear out stuff from schopf
+- clear away stones, build terrace wall on karen's slope
+- build stone wall and herbal garden around rosehip bush
+- build stone wall below walnut tree &ndash; himbeerbeet
+- gestell fuer neues grosses brennholz
+- toten eichenstamm faellen, zerlegen, spalten
+- trockene nussbaumaeste zerlegen und spalten
+- parkplatz belag
+- abdichtung uebergang wand- auf dach-isolation im eingangsbereich
+- plan bathroom shelf with marble around column
 - finish led lamps
 - betonring als miniteich einrichten
-- saunainnenausbau holz bestellen
 - muellschublade unter der spuele bauen
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
 - lampe mit led-leuchtroehre ueber den esstisch
 - schrauben sortieren, regal bauen
 - badezimmerregal im abgebauten ofen einbauen
-- abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - regal in heizungsschrank
 - fix table tennis table
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
@@ -1244,11 +1254,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="ct"></a>C.T.
 
-- grondaia 
-- buloni mancante per il recinto
+- grondaia ed water tank entry tubing
 - irrigatione sulla plataforma 
-- aqua nel bidone
 - chiudere la sauna (sotto)
+- sistemare schopf
+- sistemare legno nuovo (noce + roble), spazio per sistemarlo sopra il parcheggio, tetto in lamiere?
+- Kanalreinigungs: regelmässig die von der Strasse erreichbaren Wurzeln in dem Abflussrohr wegschneiden um Verstopfung zu vermeiden
 
 ## <a name="shop"></a>shop 
 
