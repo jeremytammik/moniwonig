@@ -1223,6 +1223,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - buloni mancante per il recinto
 - build water tank exit tube
 
+## done 2017-11-06
+
+- herausgefallene led-deckenlampe anschrauben in moni's wohnzimmergaube
+- entrata di aqua della grondaia nella cisterna
+- clear away stones around rosehip bush
+- build stone wall around rosehip bush
+- lay stone pathway from top of stairs to main entrance path
+- tagliare canale di irrigatione sulla piataforma 
+
 ## <a name="todo-next"></a>todo next
 
 - saunainnenausbau holz bestellen
@@ -1230,9 +1239,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - buy pump schmutzwasserpumpe
 - clear old wood from path
 - clear out stuff from schopf
-- clear away stones, build terrace wall on karen's slope
-- build stone wall and herbal garden around rosehip bush
-- build stone wall below walnut tree &ndash; himbeerbeet
+- build terrace wall on karen's slope
+- build terrace stone wall below walnut tree &ndash; himbeerbeet
 - gestell fuer neues grosses brennholz
 - toten eichenstamm faellen, zerlegen, spalten
 - trockene nussbaumaeste zerlegen und spalten
@@ -1251,15 +1259,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix table tennis table
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - wachs upstairs floor
+- plant herbal garden around rosehip bush
 
 ## <a name="ct"></a>C.T.
 
-- grondaia ed water tank entry tubing
-- irrigatione sulla plataforma 
+- kanalreinigung: regelmässig die von der strasse erreichbaren wurzeln in dem abflussrohr wegschneiden um verstopfung zu vermeiden
 - chiudere la sauna (sotto)
 - sistemare schopf
-- sistemare legno nuovo (noce + roble), spazio per sistemarlo sopra il parcheggio, tetto in lamiere?
-- Kanalreinigungs: regelmässig die von der Strasse erreichbaren Wurzeln in dem Abflussrohr wegschneiden um Verstopfung zu vermeiden
+- sistemare legno nuovo (noce + roble), spazio per sistemarlo (sopra il parcheggio? sotto la noce?), tetto in lamiere?
 
 ## <a name="shop"></a>shop 
 
