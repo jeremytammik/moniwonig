@@ -84,7 +84,8 @@
 
 ## <a name="contact"></a>contact
 
-- [recyclinghof](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
+- [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
+- [buehler kompost wittlingen](http://www.buehler-kompost.de)
 - container, mulde
     - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
     - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209 
