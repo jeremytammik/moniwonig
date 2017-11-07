@@ -84,7 +84,8 @@
 
 ## <a name="contact"></a>contact
 
-- caontainer, mulde
+- [recyclinghof](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
+- container, mulde
     - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
     - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209 
     - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
@@ -1252,7 +1253,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - muellschublade unter der spuele bauen
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
-- lampe mit led-leuchtroehre ueber den esstisch
+- deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
+    - seilzug und schnurrolle:
+[pulley, block and tackle](https://en.wikipedia.org/wiki/Pulley#Block_and_tackle),
+[kinderspeilzeug](http://www.ebay.de/itm/Kinder-Flaschenzug-Seilzug-fur-Baumhaus-Spielturm-Goki-Holz-Buchenholz-massiv/361353629019?hash=item54225acd5b:g:8T8AAOSw1MBZyqLa), 
+[messing](https://www.ebay.de/itm/Umlenkrollen-Holz-Messing-Metall-Seilzug-Schiffsblock-3-Stck-Karabinerhaken/272895343588?hash=item3f89d47be4:g:14IAAOSwAY1Z3xIi),
+[universal](https://www.conrad.de/de/berger-schroeter-60004-universalflaschenzug-tragkraft-300-kg-1549031.html),
+[messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
+[kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 - schrauben sortieren, regal bauen
 - badezimmerregal im abgebauten ofen einbauen
 - regal in heizungsschrank
@@ -1270,4 +1278,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop 
 
+
+
 <a href="#top">top</a>
+
