@@ -1225,7 +1225,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - buloni mancante per il recinto
 - build water tank exit tube
 
-## done 2017-11-06
+## done 2017-11-08
 
 - herausgefallene led-deckenlampe anschrauben in moni's wohnzimmergaube
 - entrata di aqua della grondaia nella cisterna
@@ -1233,20 +1233,26 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build stone wall around rosehip bush
 - lay stone pathway from top of stairs to main entrance path
 - tagliare canale di irrigatione sulla piataforma 
+- motorsaegenkette Oregon G62: 62 kettenglieder mit dimensionen abstand .303 und .325 zoll
+- build terrace stone wall for himbeerbeet below walnut tree
+- parkplatz belag
+- clear old wood from path
+- toten eichenstamm faellen, zerlegen, spalten
+- trockene nussbaumaeste zerlegen und spalten
+- kanalreinigung: regelmaessig die von der strasse erreichbaren wurzeln in dem abflussrohr wegschneiden, um verstopfung zu vermeiden
+
+## done 2017-11-13
+
+- re-repaired shed roof where it is too short to cover the wooden fence towards the road
 
 ## <a name="todo-next"></a>todo next
 
 - saunainnenausbau holz bestellen
 - saunabaenke stuetzen bauen
 - buy pump schmutzwasserpumpe
-- clear old wood from path
 - clear out stuff from schopf
 - build terrace wall on karen's slope
-- build terrace stone wall below walnut tree &ndash; himbeerbeet
 - gestell fuer neues grosses brennholz
-- toten eichenstamm faellen, zerlegen, spalten
-- trockene nussbaumaeste zerlegen und spalten
-- parkplatz belag
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - plan bathroom shelf with marble around column
 - finish led lamps
@@ -1269,17 +1275,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - wachs upstairs floor
 - plant herbal garden around rosehip bush
+- wooden shelf for metal and other stuff in garbage section of shed
 
 ## <a name="ct"></a>C.T.
 
-- kanalreinigung: regelmässig die von der strasse erreichbaren wurzeln in dem abflussrohr wegschneiden um verstopfung zu vermeiden
 - chiudere la sauna (sotto)
 - sistemare schopf
 - sistemare legno nuovo (noce + roble), spazio per sistemarlo (sopra il parcheggio? sotto la noce?), tetto in lamiere?
 
 ## <a name="shop"></a>shop 
 
-
+- return drainage pipes, panelklammern and concrete bolts
 
 <a href="#top">top</a>
 
