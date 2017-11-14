@@ -2,7 +2,8 @@
 
 [url](http://jeremytammik.github.io/moniwonig)
 &ndash; [source repo](https://github.com/jeremytammik/moniwonig)
-&ndash; <a href="#todo-next">todo next</a>
+&ndash; <a href="#todo-next">next</a>
+&ndash; <a href="#todo-today">today</a>
 &ndash; <a href="#ct">c.t.</a>
 &ndash; <a href="#shop">shop</a>
 
@@ -1241,9 +1242,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - trockene nussbaumaeste zerlegen und spalten
 - kanalreinigung: regelmaessig die von der strasse erreichbaren wurzeln in dem abflussrohr wegschneiden, um verstopfung zu vermeiden
 
-## done 2017-11-13
+## done 2017-11-14
 
 - re-repaired shed roof where it is too short to cover the wooden fence towards the road
+- installed moni's new shelves in shed
+
+## <a name="todo-today"></a>todo today
+
+- fix steps going up karen's slope
+- build terrace wall across karen's slope
+- muellschublade unter der spuele bauen
 
 ## <a name="todo-next"></a>todo next
 
@@ -1251,13 +1259,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - saunabaenke stuetzen bauen
 - buy pump schmutzwasserpumpe
 - clear out stuff from schopf
-- build terrace wall on karen's slope
 - gestell fuer neues grosses brennholz
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - plan bathroom shelf with marble around column
 - finish led lamps
 - betonring als miniteich einrichten
-- muellschublade unter der spuele bauen
 - deckenleuchte mit drei spots im buero montieren
 - zweite led-leuchtroehre im eingangsbereich anschliessen
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
