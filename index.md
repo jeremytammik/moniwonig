@@ -1244,34 +1244,42 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - parkplatz belag
 - clear old wood from path
 - toten eichenstamm faellen, zerlegen, spalten
-- trockene nussbaumaeste zerlegen und spalten
+- trockene nussbaumaeste zerlegen und spalten &ndash; sistemare legno nuovo (noce + roble)
 - kanalreinigung: regelmaessig die von der strasse erreichbaren wurzeln in dem abflussrohr wegschneiden, um verstopfung zu vermeiden
 
-## done 2017-11-15
+## done 2017-11-16
 
 - re-repaired shed roof where it is too short to cover the wooden fence towards the road
 - installed moni's new shelves in shed
 - completed drainpipe, adjusted slope, soldered hole closed
 - build terrace wall across karen's slope
+- fix steps going up karen's slope
+- schrauben sortieren, regal bauen
 
 ## <a name="todo-today"></a>todo today
 
-- fix steps going up karen's slope
 - muellschublade unter der spuele bauen
+- add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
+- install the led lamp for upstairs hallway light
+- igelbrett in zisterne
+- toeggelikaste leerraeume
+- clear out stuff from schopf
+- wachs upstairs floor
+- wooden shelf for metal and other stuff in garbage section of shed
+- strom in den schopf legen
 
 ## <a name="todo-next"></a>todo next
 
-- saunainnenausbau holz bestellen
-- saunabaenke stuetzen bauen
 - buy pump schmutzwasserpumpe
-- clear out stuff from schopf
 - gestell fuer neues grosses brennholz
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- plan bathroom shelf with marble around column
-- finish led lamps
+- badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - betonring als miniteich einrichten
 - deckenleuchte mit drei spots im buero montieren
-- zweite led-leuchtroehre im eingangsbereich anschliessen
+- sauna
+    - innenausbau holz bestellen
+    - saunabaenke stuetzen bauen
+    - sauna unten rum abdichten
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
     - seilzug und schnurrolle:
 [pulley, block and tackle](https://en.wikipedia.org/wiki/Pulley#Block_and_tackle),
@@ -1280,20 +1288,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 [universal](https://www.conrad.de/de/berger-schroeter-60004-universalflaschenzug-tragkraft-300-kg-1549031.html),
 [messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
-- schrauben sortieren, regal bauen
-- badezimmerregal im abgebauten ofen einbauen
 - regal in heizungsschrank
 - fix table tennis table
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
-- wachs upstairs floor
 - plant herbal garden around rosehip bush
-- wooden shelf for metal and other stuff in garbage section of shed
+- aussendusche bauen und anschliessen
 
 ## <a name="ct"></a>C.T.
 
 - chiudere la sauna (sotto)
 - sistemare schopf
-- sistemare legno nuovo (noce + roble), spazio per sistemarlo (sopra il parcheggio? sotto la noce?), tetto in lamiere?
+- spazio per sistemare legno nuovo (sopra il parcheggio? sotto la noce?), tetto in lamiere?
 
 ## <a name="shop"></a>shop 
 
