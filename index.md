@@ -1256,23 +1256,27 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix steps going up karen's slope
 - schrauben sortieren, regal bauen
 
-## <a name="todo-today"></a>todo today
+## done 2017-11-18
 
 - muellschublade unter der spuele bauen
-- add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
-- install the led lamp for upstairs hallway light
+
+## <a name="todo-today"></a>todo today
+
 - igelbrett in zisterne
 - toeggelikaste leerraeume
+- clear out upstairs flat
 - clear out stuff from schopf
-- wachs upstairs floor
 - wooden shelf for metal and other stuff in garbage section of shed
+- add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
+- install the led lamp for upstairs hallway light
+- wachs upstairs floor
 - strom in den schopf legen
 
 ## <a name="todo-next"></a>todo next
 
 - buy pump schmutzwasserpumpe
-- gestell fuer neues grosses brennholz
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
+- gestell fuer neues grosses brennholz
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - betonring als miniteich einrichten
 - deckenleuchte mit drei spots im buero montieren
