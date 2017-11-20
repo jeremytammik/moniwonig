@@ -1256,17 +1256,25 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix steps going up karen's slope
 - schrauben sortieren, regal bauen
 
-## done 2017-11-18
+## done 2017-11-19
 
 - muellschublade unter der spuele bauen
+- pappplatten wegraeumen aus moni schlafzimmer
+- change car tires to winter tires
+- build shelf to store car tires
 
 ## <a name="todo-today"></a>todo today
 
+- bauhaus
+    - return drainage pipes, panelklammern and concrete bolts
+    - 500 W bulb for deckenstrahler
+    - stair banister and non-slip tape for pratteln
+- build wooden shelf for metal and other stuff in garbage section of shed
+- pick up beer and table-bench garniture from lasser
 - igelbrett in zisterne
 - toeggelikaste leerraeume
 - clear out upstairs flat
 - clear out stuff from schopf
-- wooden shelf for metal and other stuff in garbage section of shed
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
 - wachs upstairs floor
@@ -1274,6 +1282,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- install stair banister for pratteln
 - buy pump schmutzwasserpumpe
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - gestell fuer neues grosses brennholz
@@ -1305,8 +1314,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - spazio per sistemare legno nuovo (sopra il parcheggio? sotto la noce?), tetto in lamiere?
 
 ## <a name="shop"></a>shop 
-
-- return drainage pipes, panelklammern and concrete bolts
 
 <a href="#top">top</a>
 
