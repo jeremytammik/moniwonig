@@ -328,7 +328,7 @@
     - 48-60 cm sitztiefe oder liegebreite oben
     - 38-60 cm sitztiefe oder liegebreite unten
     - vi föreslår vidare att bastulaven monteras lite omlott, dvs den nedre laven går in 20-50 mm under den övre, det då man gärna sitter med fötter lite snett in under.
-    - 4 lav i 30 x 80 mm lavvirke; 60 x 210 + 50 x 210 + 60 x 110 + 50 x 70: 0.60 * (2.10 + 1.10) + 0.50 * (2.10 + 0.70) = 3.32 qm; 7 * (2.1 + 1.1) + 6 * (2.1 + 0.7) = 39.2 m laufmeter espenlatten
+    - 4 lav i 30 x 80 mm lavvirke; 60 x 210 + 50 x 210 + 60 x 110 + 50 x 70: 0.60 * (2.10 + 1.10) + 0.50 * (2.10 + 0.70) = 3.32 qm; 7 * (2.1 + 1.1) + 6 * (2.1 + 0.7) = 39.2 m laufmeter espenlatten: ruben bietet eur 600 astrein mit rundung; georg bietet eur 400 fuer holz ohne arbeit; megasauna.de eur 250 bestellnummer 809247;
     - ett 6 kw aggregat bör ha stenmagasin om ca 20 - 35 kg
     - 6 leute sitzen: 360 cm
     - ca. 2 x 2 m; 218 x 218 = 4.75 m2; 174 x 271 = 4.72 m2
@@ -1270,7 +1270,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 500 W bulb for deckenstrahler
     - stair banister and non-slip tape for pratteln
 - build wooden shelf for metal and other stuff in garbage section of shed
-- pick up beer and table-bench garniture from lasser
 - igelbrett in zisterne
 - toeggelikaste leerraeume
 - clear out upstairs flat
