@@ -1256,7 +1256,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix steps going up karen's slope
 - schrauben sortieren, regal bauen
 
-## done 2017-11-21
+## done 2017-11-25
 
 - muellschublade unter der spuele bauen
 - pappplatten wegraeumen aus moni schlafzimmer
@@ -1267,21 +1267,24 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - treppenkante antirutsch klebeband: [mako](http://www.mako.de/produkte/klebebander.html), [bauhaus](https://www.bauhaus.info/spezialkleber/anti-rutschband25mm-x-5m-weiss/p/15380622?q=antirutschband)
     - treppengelaender: 150,- [diy-proucts](https://www.diy-products.de/warenkorb), 100,- [bauhaus](https://www.bauhaus.info/gelaender-handlaeufe/handlaufset-1500mm-h19-fichte-roh-d42/p/20543549?q=handlaufset)
 - build wooden shelf for metal and other stuff in garbage section of shed
+- install stair banister for pratteln
+- saunainnenausbau holz bestellen
+- clear out upstairs flat
+- toeggelikaste leerraeume
+- clear out stuff from schopf
 
 ## <a name="todo-today"></a>todo today
 
-- install stair banister for pratteln
-- clear out upstairs flat
+- durchgangsventil and moni's heizung montieren
+- saunabaenke bauen
+
+## <a name="todo-next"></a>todo next
+
 - igelbrett in zisterne
-- toeggelikaste leerraeume
-- clear out stuff from schopf
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
 - wachs upstairs floor
 - strom in den schopf legen
-
-## <a name="todo-next"></a>todo next
-
 - buy pump schmutzwasserpumpe
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - gestell fuer neues grosses brennholz
@@ -1289,8 +1292,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - betonring als miniteich einrichten
 - deckenleuchte mit drei spots im buero montieren
 - sauna
-    - innenausbau holz bestellen
-    - saunabaenke stuetzen bauen
+    - saunabaenke und stuetzen bauen
     - sauna unten rum abdichten
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
     - seilzug und schnurrolle:
@@ -1305,12 +1307,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - plant herbal garden around rosehip bush
 - aussendusche bauen und anschliessen
-
-## <a name="ct"></a>C.T.
-
 - chiudere la sauna (sotto)
 - sistemare schopf
 - spazio per sistemare legno nuovo (sopra il parcheggio? sotto la noce?), tetto in lamiere?
+
+## <a name="ct"></a>C.T.
 
 ## <a name="shop"></a>shop 
 
