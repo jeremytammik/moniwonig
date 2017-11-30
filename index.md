@@ -1273,9 +1273,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - toeggelikaste leerraeume
 - clear out stuff from schopf
 
+## done 2017-11-30
+
+- durchgangsventil an moni's heizung montieren
+
 ## <a name="todo-today"></a>todo today
 
-- durchgangsventil and moni's heizung montieren
 - saunabaenke bauen
 
 ## <a name="todo-next"></a>todo next
