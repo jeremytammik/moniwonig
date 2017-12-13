@@ -1277,12 +1277,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - durchgangsventil an moni's heizung montieren
 
+## done 2017-12-13
+
+- fixed moni's entry door handles
+
 ## <a name="todo-today"></a>todo today
 
 - saunabaenke bauen
 
 ## <a name="todo-next"></a>todo next
 
+- sauna
+    - saunabaenke und stuetzen bauen
+    - sauna unten rum abdichten
 - igelbrett in zisterne
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
@@ -1294,9 +1301,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - betonring als miniteich einrichten
 - deckenleuchte mit drei spots im buero montieren
-- sauna
-    - saunabaenke und stuetzen bauen
-    - sauna unten rum abdichten
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
     - seilzug und schnurrolle:
 [pulley, block and tackle](https://en.wikipedia.org/wiki/Pulley#Block_and_tackle),
@@ -1310,13 +1314,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - plant herbal garden around rosehip bush
 - aussendusche bauen und anschliessen
-- chiudere la sauna (sotto)
-- sistemare schopf
-- spazio per sistemare legno nuovo (sopra il parcheggio? sotto la noce?), tetto in lamiere?
 
-## <a name="ct"></a>C.T.
+<!-- ## <a name="ct"></a>C.T. -->
 
-## <a name="shop"></a>shop 
+## <a name="shop"></a>shop
 
 - bauhaus
     - return gewindestangen, drainage pipes, panelklammern and concrete bolts
