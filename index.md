@@ -70,6 +70,13 @@
 - minenergie ist scheisse, nur sache der daemmstofflobby
 - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 
+## wood
+
+- 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
+- 2018-01-11 &ndash; used up row 3
+- 2018-01-13 &ndash; filled row 9-10 with oak and walnut
+- 2018-01-13 &ndash; started using row 2
+
 ## neues haus
 
 - 8x8 m plus 45 grad schraege offen nach sueden
@@ -1281,23 +1288,31 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - fixed moni's entry door handles
 
+## done 2018-01-13
+
+- bauhaus: return gewindestangen, panelklammern and concrete bolts
+- sauna unten rum abdichten
+- partially sealed sauna door
+- mounted inside sauna door handle
+- strom in den schopf legen
+- trimmed walnut tree
+- cut and chopped walnut tree wood, stacked in new rows 9-10
+
 ## <a name="todo-today"></a>todo today
 
 - saunabaenke bauen
 
 ## <a name="todo-next"></a>todo next
 
-- sauna
-    - saunabaenke und stuetzen bauen
-    - sauna unten rum abdichten
+- cut and chop oak logs
+- connect electricity for schopf
+- saunabaenke und stuetzen bauen
 - igelbrett in zisterne
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
 - wachs upstairs floor
-- strom in den schopf legen
 - buy pump schmutzwasserpumpe
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- gestell fuer neues grosses brennholz
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - betonring als miniteich einrichten
 - deckenleuchte mit drei spots im buero montieren
@@ -1314,12 +1329,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - plant herbal garden around rosehip bush
 - aussendusche bauen und anschliessen
+- aussenklo und pissoir
 
 <!-- ## <a name="ct"></a>C.T. -->
 
 ## <a name="shop"></a>shop
 
-- bauhaus
-    - return gewindestangen, drainage pipes, panelklammern and concrete bolts
+- bauhaus: return drainage pipes
 
 <a href="#top">top</a>
