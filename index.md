@@ -1301,12 +1301,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="todo-today"></a>todo today
 
 - saunabaenke bauen
+- saunabaenke und stuetzen bauen
 
 ## <a name="todo-next"></a>todo next
 
 - cut and chop oak logs
-- connect electricity for schopf
-- saunabaenke und stuetzen bauen
+- finish connecting electricity for schopf
 - igelbrett in zisterne
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
