@@ -1298,10 +1298,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - trimmed walnut tree
 - cut and chopped walnut tree wood, stacked in new rows 9-10
 
+## done 22018-01-27
+
+- saunabaenke und stuetzen bauen
+
 ## <a name="todo-today"></a>todo today
 
-- saunabaenke bauen
-- saunabaenke und stuetzen bauen
+- saunabaenke und stuetzen fertig bauen
 
 ## <a name="todo-next"></a>todo next
 
@@ -1312,6 +1315,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install the led lamp for upstairs hallway light
 - wachs upstairs floor
 - buy pump schmutzwasserpumpe
+- buy solar pump for cistern water
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - betonring als miniteich einrichten
