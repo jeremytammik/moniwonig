@@ -13,14 +13,11 @@
 - gaube
     - spiegel an die nordseitige dachkante montieren
 - kueche
-    - muellschublade bauen
     - bretter ueber den balken oberhalb der spuele fertig befestigen
     - glasschubladenregal fuer tee, gewuerze, zucker, usw.
 - bad
     - wc-dusche besorgen und montieren
-    - schraenke und regale bauen und montieren
 - elektro
-    - lampe draussen aktivieren
     - zweite led-leuchtroehre im eingang montieren
     - licht verlegen ans saunahaeuschen und am bauzaun entlang
     - kurzschluss in der leitung auf dem firstbalken beheben
@@ -38,15 +35,12 @@
     - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom oekobaumarkt in langenau, axel holt sie mal fuer ruben
 - garten
-    - regenrinne in den wassertank leiten
-    - licht im aussenbereich wieder aktivieren
     - pumpe installieren fuer gartenwasser
     - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
 - upstairs
     - install good reading and working light
     - elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
-    - schrauben und werkzeug im schlafzimmer aufraeumen
     - paint north bedroom windows
 - admin
     - feuerversicherung bei SV sparkassenversicherung kuendigen
@@ -55,7 +49,7 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 - projects
-    - regenwasser sammeln und hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
+    - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - warmwasser- und heizungssolaranlage
     - [kompotoi](http://www.kompotoi.ch) komposttoilette mit trennung von kot und urin
     - [sauna](#sauna)
