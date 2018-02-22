@@ -1328,6 +1328,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - plant herbal garden around rosehip bush
 - aussendusche bauen und anschliessen
 - aussenklo und pissoir
+- kaltasphalt: 0.5 * 3 m = 1.5 m2 * 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
 
 <!-- ## <a name="ct"></a>C.T. -->
 
