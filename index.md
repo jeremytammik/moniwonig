@@ -64,12 +64,13 @@
 - minenergie ist scheisse, nur sache der daemmstofflobby
 - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 
-## wood
+## wood &ndash; brennholz
 
 - 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
 - 2018-01-11 &ndash; used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
 - 2018-01-13 &ndash; filled row 9-10 with oak and walnut
 - 2018-01-13 &ndash; started using row 2
+- 2018-03-02 &ndash; finished using row 2 and started using row 1
 
 ## neues haus
 
@@ -1302,6 +1303,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- fix stepping stones up to apple tree
 - cut and chop oak logs
 - finish connecting electricity for schopf
 - igelbrett in zisterne
