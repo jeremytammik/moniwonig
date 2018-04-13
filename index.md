@@ -71,6 +71,8 @@
 - 2018-01-13 &ndash; filled row 9-10 with oak and walnut
 - 2018-01-13 &ndash; started using row 2
 - 2018-03-02 &ndash; finished using row 2 and started using row 1
+- 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3 
+- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume = 2.1*0.25*0.25 = ca. 0.13 m3 
 
 ## neues haus
 
