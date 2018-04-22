@@ -1295,28 +1295,32 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - trimmed walnut tree
 - cut and chopped walnut tree wood, stacked in new rows 9-10
 
-## done 22018-01-27
+## done 2018-01-27
 
 - saunabaenke und stuetzen bauen
 
-## <a name="todo-today"></a>todo today
+## done 2018-04-22
 
-- saunabaenke und stuetzen fertig bauen
+- betonring als miniteich einrichten &ndash; obsolete, not done
+- bauhaus: return unused drainage pipes &ndash; obsolete, not done
+- plant herbal garden around rosehip bush
+- fix stepping stones up to apple tree
+- cut and chop oak logs
+- close drainage hole with bitumen &ndash; kaltasphalt: 0.5 * 3 m = 1.5 m2 * 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
+- order pump schmutzwasserpumpe
+- order solar pump for cistern water
+
+## <a name="todo-today"></a>todo today
 
 ## <a name="todo-next"></a>todo next
 
-- fix stepping stones up to apple tree
-- cut and chop oak logs
 - finish connecting electricity for schopf
 - igelbrett in zisterne
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
 - wachs upstairs floor
-- buy pump schmutzwasserpumpe
-- buy solar pump for cistern water
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
-- betonring als miniteich einrichten
 - deckenleuchte mit drei spots im buero montieren
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
     - seilzug und schnurrolle:
@@ -1329,15 +1333,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - regal in heizungsschrank
 - fix table tennis table
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
-- plant herbal garden around rosehip bush
 - aussendusche bauen und anschliessen
 - aussenklo und pissoir
-- kaltasphalt: 0.5 * 3 m = 1.5 m2 * 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
 
 <!-- ## <a name="ct"></a>C.T. -->
 
 ## <a name="shop"></a>shop
-
-- bauhaus: return drainage pipes
 
 <a href="#top">top</a>
