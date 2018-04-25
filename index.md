@@ -1306,14 +1306,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - plant herbal garden around rosehip bush
 - fix stepping stones up to apple tree
 - cut and chop oak logs
+- get a cubic metre or earth from neighbouring wood for hochbeet
 - close drainage hole with bitumen &ndash; kaltasphalt: 0.5 * 3 m = 1.5 m2 * 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
 - order pump schmutzwasserpumpe
 - order solar pump for cistern water
+
+## done 2018-04-24
+
+- fence wire through platform banister posts between pool and road
 
 ## <a name="todo-today"></a>todo today
 
 ## <a name="todo-next"></a>todo next
 
+- install solarpumpe in pool
+- install watering system with a large water container at top of garden for gravity pressure
 - finish connecting electricity for schopf
 - igelbrett in zisterne
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
