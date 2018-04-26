@@ -1320,6 +1320,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="todo-next"></a>todo next
 
 - install solarpumpe in pool
+- attach flower boxes between pool banister posts above road
 - install watering system with a large water container at top of garden for gravity pressure
 - finish connecting electricity for schopf
 - igelbrett in zisterne
