@@ -72,7 +72,8 @@
 - 2018-01-13 &ndash; started using row 2
 - 2018-03-02 &ndash; finished using row 2 and started using row 1
 - 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3 
-- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume = 2.1*0.25*0.25 = ca. 0.13 m3 
+- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3 
+- 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3 
 
 ## neues haus
 
@@ -1315,13 +1316,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - fence wire through platform banister posts between pool and road
 
+## done 2018-05-14
+
+- attach flower boxes between pool banister posts above road
+- install watering system with a large water container at top of garden for gravity pressure
+&ndash; installed the stainless stell container higher up just under the sauna roof instead
+
+## done 2018-05-24
+
+- sawed, chopped and stacked wood row #12 with oak and beech
+
 ## <a name="todo-today"></a>todo today
 
 ## <a name="todo-next"></a>todo next
 
 - install solarpumpe in pool
-- attach flower boxes between pool banister posts above road
-- install watering system with a large water container at top of garden for gravity pressure
 - finish connecting electricity for schopf
 - igelbrett in zisterne
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
@@ -1340,6 +1349,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 - regal in heizungsschrank
 - fix table tennis table
+- build a glass roof over a part of the moniwonig terrace balcony
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - aussendusche bauen und anschliessen
 - aussenklo und pissoir
