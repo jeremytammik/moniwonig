@@ -1353,6 +1353,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - aussendusche bauen und anschliessen
 - aussenklo und pissoir
+- reduzierung pumpe
+  - [Messing Reduzierung Reduzierstück Übergangsstück Übergang 2 auf 1 Zoll IG/AG](https://www.ebay.de/itm/Messing-Reduzierung-Reduzierstuck-Ubergangsstuck-Ubergang-2-auf-1-Zoll-IG-AG/282561104717?hash=item41c9f44b4d:g:6qQAAOSwYNZay4NB)
+  - [Bauhaus](https://www.bauhaus.info/suche/produkte?text=reduzierst)
+  - [Gardena Premium Hahnverbinder 33,3 mm Gewinde 1 Zoll 18242 Hahnstück Metall](https://www.ebay.de/itm/GARDENA-Premium-Hahnverbinder-33-3-mm-Gewinde-1-Zoll-18242-Hahnstuck-Metall/332564330054)
+  - [IBC Adapter DN 50 Reduzierung mit 1" Außengewinde](https://www.ebay.de/itm/IBC-Adapter-DN-50-Reduzierung-mit-1-Ausengewinde-fur-IBC-Container/112318036557)
 
 <!-- ## <a name="ct"></a>C.T. -->
 
