@@ -1326,13 +1326,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - sawed, chopped and stacked wood row #12 with oak and beech
 
+## done 2018-06-10
+
+- igelbrett in zisterne
+
 ## <a name="todo-today"></a>todo today
 
 ## <a name="todo-next"></a>todo next
 
+- water protection for upper garden woodpile
 - install solarpumpe in pool
 - finish connecting electricity for schopf
-- igelbrett in zisterne
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
 - wachs upstairs floor
