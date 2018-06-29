@@ -1330,11 +1330,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - igelbrett in zisterne
 
+## done 2018-06-27
+
+- water protection for upper garden woodpile
+
 ## <a name="todo-today"></a>todo today
 
 ## <a name="todo-next"></a>todo next
 
-- water protection for upper garden woodpile
+- install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
+- install solar hot water panel, e.g., ciprian's romanian suggestion
 - install solarpumpe in pool
 - finish connecting electricity for schopf
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
