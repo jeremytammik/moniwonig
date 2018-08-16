@@ -1338,6 +1338,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- kitchen tap is leaking
+- washing machine is leaking
 - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
 - install solar hot water panel, e.g., ciprian's romanian suggestion
 - install solarpumpe in pool
