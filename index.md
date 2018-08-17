@@ -1334,16 +1334,28 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - water protection for upper garden woodpile
 
+## done july 2018
+
+- finish connecting electricity for schopf
+- Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
+- reduzierung pumpe
+    - [Messing Reduzierung Reduzierstück Übergangsstück Übergang 2 auf 1 Zoll IG/AG](https://www.ebay.de/itm/Messing-Reduzierung-Reduzierstuck-Ubergangsstuck-Ubergang-2-auf-1-Zoll-IG-AG/282561104717?hash=item41c9f44b4d:g:6qQAAOSwYNZay4NB)
+    - [Bauhaus](https://www.bauhaus.info/suche/produkte?text=reduzierst)
+    - [Gardena Premium Hahnverbinder 33,3 mm Gewinde 1 Zoll 18242 Hahnstück Metall](https://www.ebay.de/itm/GARDENA-Premium-Hahnverbinder-33-3-mm-Gewinde-1-Zoll-18242-Hahnstuck-Metall/332564330054)
+    - [IBC Adapter DN 50 Reduzierung mit 1" Außengewinde](https://www.ebay.de/itm/IBC-Adapter-DN-50-Reduzierung-mit-1-Ausengewinde-fur-IBC-Container/112318036557)
+
+## done 2018-08-17
+
+- kitchen tap is leaking
+
 ## <a name="todo-today"></a>todo today
 
 ## <a name="todo-next"></a>todo next
 
-- kitchen tap is leaking
 - washing machine is leaking
 - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
 - install solar hot water panel, e.g., ciprian's romanian suggestion
 - install solarpumpe in pool
-- finish connecting electricity for schopf
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
 - wachs upstairs floor
@@ -1361,14 +1373,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - regal in heizungsschrank
 - fix table tennis table
 - build a glass roof over a part of the moniwonig terrace balcony
-- Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
 - aussendusche bauen und anschliessen
 - aussenklo und pissoir
-- reduzierung pumpe
-    - [Messing Reduzierung Reduzierstück Übergangsstück Übergang 2 auf 1 Zoll IG/AG](https://www.ebay.de/itm/Messing-Reduzierung-Reduzierstuck-Ubergangsstuck-Ubergang-2-auf-1-Zoll-IG-AG/282561104717?hash=item41c9f44b4d:g:6qQAAOSwYNZay4NB)
-    - [Bauhaus](https://www.bauhaus.info/suche/produkte?text=reduzierst)
-    - [Gardena Premium Hahnverbinder 33,3 mm Gewinde 1 Zoll 18242 Hahnstück Metall](https://www.ebay.de/itm/GARDENA-Premium-Hahnverbinder-33-3-mm-Gewinde-1-Zoll-18242-Hahnstuck-Metall/332564330054)
-    - [IBC Adapter DN 50 Reduzierung mit 1" Außengewinde](https://www.ebay.de/itm/IBC-Adapter-DN-50-Reduzierung-mit-1-Ausengewinde-fur-IBC-Container/112318036557)
 - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)
 
 <!-- ## <a name="ct"></a>C.T. -->
