@@ -74,6 +74,8 @@
 - 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3 
 - 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3 
 - 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3 
+- 2018-08-26 &ndash; completed row 13; rowvolume = ca. 0.25*2.2*2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
+- 2018-08-27 &ndash; started row 14 &ndash; it is already dry, for sauna
 
 ## neues haus
 
@@ -1348,11 +1350,24 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - kitchen tap is leaking
 
+## done 2018-08-27
+
+- washing machine is leaking
+- stack souna wood in row 13 and 14
+
+## done 2018-09-20
+
+- plan and build a glass roof over a part of the moniwonig terrace balcony &ndash; obsolete, replaced by sunshade markise
+- montage markise moni balcony entrance
+
 ## <a name="todo-today"></a>todo today
+
+- hang up and screw on LED lamp that fell out of its glueing in moni living room 
+- fix and properly fasten moni balcony entrance ramp
 
 ## <a name="todo-next"></a>todo next
 
-- washing machine is leaking
+- plan praxis renovation for cornelius flat; finalise c's requirements and rent
 - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
 - install solar hot water panel, e.g., ciprian's romanian suggestion
 - install solarpumpe in pool
@@ -1372,7 +1387,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 - regal in heizungsschrank
 - fix table tennis table
-- build a glass roof over a part of the moniwonig terrace balcony
 - aussendusche bauen und anschliessen
 - aussenklo und pissoir
 - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)
