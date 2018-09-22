@@ -51,7 +51,7 @@
 - projects
     - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - warmwasser- und heizungssolaranlage
-    - [kompotoi](http://www.kompotoi.ch) komposttoilette mit trennung von kot und urin
+    - [kompotoi](http://www.kompotoi.ch) compst toilet &ndash; komposttoilette mit trennung von kot und urin
     - [sauna](#sauna)
     - stahlkessel wanne durchmesser 1.4 hoehe ? <!--- pi = 3.1415926535898; d = 1.4; r = 0.5 * d; pi*d = ca. 4.4 m; pi*r*r = ca. 1.5 qm; 0.2*pi*r*r = 0.3 kubik --->
     - [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
@@ -1360,13 +1360,18 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - plan and build a glass roof over a part of the moniwonig terrace balcony &ndash; obsolete, replaced by sunshade markise
 - montage markise moni balcony entrance
 
-## <a name="todo-today"></a>todo today
+## done 2018-09-22
 
 - hang up and screw on LED lamp that fell out of its glueing in moni living room 
 - fix and properly fasten moni balcony entrance ramp
 
+## <a name="todo-today"></a>todo today
+
 ## <a name="todo-next"></a>todo next
 
+- sort the books
+- build a bookshelf
+- badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - plan praxis renovation for cornelius flat; finalise c's requirements and rent
 - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
 - install solar hot water panel, e.g., ciprian's romanian suggestion
@@ -1375,7 +1380,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install the led lamp for upstairs hallway light
 - wachs upstairs floor
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - deckenleuchte mit drei spots im buero montieren
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
     - seilzug und schnurrolle:
@@ -1388,7 +1392,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - regal in heizungsschrank
 - fix table tennis table
 - aussendusche bauen und anschliessen
-- aussenklo und pissoir
+- compost toilet &ndash; aussenklo und pissoir
 - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)
 
 <!-- ## <a name="ct"></a>C.T. -->
