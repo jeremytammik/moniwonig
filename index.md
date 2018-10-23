@@ -366,6 +366,8 @@
 - [Patent](http://www.freepatentsonline.com/EP2963199.html)
 - [Advanced Acoustics-Lärmschutz-Matte, 10 kg, 2 m x 1,2 m x 5 mm](https://www.amazon.de/Advanced-Acoustics-Acoustics-L%C3%A4rmschutz-Matte-10/dp/B00W9ML5DI/ref=sr_1_9?s=diy&ie=UTF8&qid=1540297880&sr=1-9&keywords=schallschutzplatte)
 - [Knauf Gipskartonplatte GKB](https://www.bauhaus.info/gipskartonplatten/knauf-gipskartonplatte-gkb/p/13876482?adb_search=gipsplatte)
+- glue on an acoustic damping mat on the whole surface and then add a hard surface on top of that? OSB versus MFD versus GKB?
+- in all three cases, a final surface treatment will also be required, e.g., for GKB, fugen gipsen und streichen.
 
 
 # done
