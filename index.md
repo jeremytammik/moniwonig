@@ -56,7 +56,8 @@
     - stahlkessel wanne durchmesser 1.4 hoehe ? <!--- pi = 3.1415926535898; d = 1.4; r = 0.5 * d; pi*d = ca. 4.4 m; pi*r*r = ca. 1.5 qm; 0.2*pi*r*r = 0.3 kubik --->
     - [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
     - [schmutzwasserpumpe](http://www.schmutzwasserpumpetest.com), [test](http://www.testberichte.de/gartengeraete/764/wasserpumpen.html), [test](http://tauchpumpe-tests.de/#)
-    - [soundproofing](#soundproofing)
+    - [soundproofing johanna/magnus](#soundproofing)
+    - [cornelius apartment](#cornelius)
 
 ## michael's architectural hints
 
@@ -371,6 +372,12 @@
 - [schaumstofflager.de &ndash; Nachbar ist zu laut](https://www.schaumstofflager.de/cms/nachbar-is-zu-laut.html) &ndash; 2. Möglichkeit &ndash; Sie montieren Schaumstoff und ziehen eine neue Wand ein &ndash; Sie benötigen Rigipsplatten (oder ähnliche feste Platten). Auf diese Platten verkleben Sie wiederum unsere Verbundschaumstoffe. Je dicker, um so besser die Dämmwirkung. Dieses Konstrukt müssen Sie dann schwimmend gelagert vor der ursprünglichen Wand montieren.  Die neue Wand sollte von den anderen Wänden und vom Boden entkoppelt sein, damit Vibrationen nicht weitergeleitet werden können &ndash; das erreichen Sie mit unseren Trennwandbändern.  
 Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gelassen werden, um die Dämmwirkung zu verstärken. Der Schaumstoff befindet sich also zwischen den beiden Wänden mit etwas Abstand zur ursprünglichen Wand. Sie haben so eine voll funktionsfähige Zimmerwand und eine optimale Dämmung zwischen den Wänden bzw. zur Nachbarwohnung oder Nebenraum. Verstärken können Sie dieses Konstrukt, wenn Sie statt nur einer Schaumstoffschicht noch eine Bitumenschicht und eine weitere Schicht Schaumstoff verkleben. Ein Komplettset bieten wir Ihnen mit unserem Wanddämmungsset an.
 - [Akustikriegel zur Entkopplung und Aufdoppelung der Wände](https://www.schaumstofflager.de/schalldaemmung/waende-zum-nachbarn-daemmen/100cm-akustikriegel-zur-entkopplung-und-aufdoppelung-der-waende.html)
+
+## <a name="cornelius"></a>cornelius
+
+- install new measuring counters for heating, hot and cold water
+- soundproof wall between cornelius big room and karen kitchen
+
 
 # done
 
