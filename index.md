@@ -373,10 +373,12 @@
 Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gelassen werden, um die Dämmwirkung zu verstärken. Der Schaumstoff befindet sich also zwischen den beiden Wänden mit etwas Abstand zur ursprünglichen Wand. Sie haben so eine voll funktionsfähige Zimmerwand und eine optimale Dämmung zwischen den Wänden bzw. zur Nachbarwohnung oder Nebenraum. Verstärken können Sie dieses Konstrukt, wenn Sie statt nur einer Schaumstoffschicht noch eine Bitumenschicht und eine weitere Schicht Schaumstoff verkleben. Ein Komplettset bieten wir Ihnen mit unserem Wanddämmungsset an.
 - [Akustikriegel zur Entkopplung und Aufdoppelung der Wände](https://www.schaumstofflager.de/schalldaemmung/waende-zum-nachbarn-daemmen/100cm-akustikriegel-zur-entkopplung-und-aufdoppelung-der-waende.html)
 
-## <a name="cornelius"></a>cornelius
+## <a name="cornelius"></a>cornelius apartment
 
 - install new measuring counters for heating, hot and cold water
 - soundproof wall between cornelius big room and karen kitchen
+- plan and build kitchen
+- dunstabzugshaube
 
 
 # done
