@@ -381,6 +381,9 @@ Mit dieser Konstruktionsweise erreicht man mit relativ geringen Kosten und Aufwa
 - [schaumstofflager.de &ndash; Nachbar ist zu laut](https://www.schaumstofflager.de/cms/nachbar-is-zu-laut.html) &ndash; 2. Möglichkeit &ndash; Sie montieren Schaumstoff und ziehen eine neue Wand ein &ndash; Sie benötigen Rigipsplatten (oder ähnliche feste Platten). Auf diese Platten verkleben Sie wiederum unsere Verbundschaumstoffe. Je dicker, um so besser die Dämmwirkung. Dieses Konstrukt müssen Sie dann schwimmend gelagert vor der ursprünglichen Wand montieren.  Die neue Wand sollte von den anderen Wänden und vom Boden entkoppelt sein, damit Vibrationen nicht weitergeleitet werden können &ndash; das erreichen Sie mit unseren Trennwandbändern.  
 Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gelassen werden, um die Dämmwirkung zu verstärken. Der Schaumstoff befindet sich also zwischen den beiden Wänden mit etwas Abstand zur ursprünglichen Wand. Sie haben so eine voll funktionsfähige Zimmerwand und eine optimale Dämmung zwischen den Wänden bzw. zur Nachbarwohnung oder Nebenraum. Verstärken können Sie dieses Konstrukt, wenn Sie statt nur einer Schaumstoffschicht noch eine Bitumenschicht und eine weitere Schicht Schaumstoff verkleben. Ein Komplettset bieten wir Ihnen mit unserem Wanddämmungsset an.
 - [Akustikriegel zur Entkopplung und Aufdoppelung der Wände](https://www.schaumstofflager.de/schalldaemmung/waende-zum-nachbarn-daemmen/100cm-akustikriegel-zur-entkopplung-und-aufdoppelung-der-waende.html)
+- box around heating pipes
+- brick in stovepipe hole in chimney
+- build a soundproof box around the gas tap
 
 ## <a name="cornelius"></a>cornelius apartment
 
