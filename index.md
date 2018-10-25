@@ -391,6 +391,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - soundproof wall between cornelius big room and karen kitchen
 - plan and build kitchen
 - dunstabzugshaube
+- additional window insulation? with roof protection?
 
 
 # done
