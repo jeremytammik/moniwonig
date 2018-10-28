@@ -384,6 +384,12 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - box around heating pipes
 - brick in stovepipe hole in chimney
 - build a soundproof box around the gas tap
+- cornelius notes from falk
+    - gutex platten aufkleben (PU kleber) oder schrauben
+    - kork oder teppich auf boden und treppe gegen trittschall
+    - acryl fuer spalten
+    - ytong fuer die schornsteinmauer
+    - bauschaum um die heizungsrohre
 
 ## <a name="cornelius"></a>cornelius apartment
 
@@ -392,7 +398,20 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - plan and build kitchen
 - dunstabzugshaube
 - additional window insulation? with roof protection?
-
+- kitchen ideas
+    - simple, easy to clean, white surfaces, 
+    - no external handles for drawers
+    - big sink (not too hard), 
+    - forgiving surface for fragile dishes
+    - big accessible working surface "u" shape
+    - oil and coloring resistance
+    - dish washer
+    - sink not in corner
+    - space on both sides of oven
+    - sink close to oven
+    - garbage not under sink?
+    - chain for pans?
+    - water filter with tap
 
 # done
 
