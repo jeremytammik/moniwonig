@@ -390,6 +390,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - acryl fuer spalten
     - ytong fuer die schornsteinmauer
     - bauschaum um die heizungsrohre
+    - [gutex schalldaemmungswerte](https://gutex.de/fileadmin/uploads/Downloads/Schalldamm_Mass_Innenwande.pdf)
 
 ## <a name="cornelius"></a>cornelius apartment
 
