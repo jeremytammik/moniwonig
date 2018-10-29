@@ -390,7 +390,15 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - acryl fuer spalten
     - ytong fuer die schornsteinmauer
     - bauschaum um die heizungsrohre
+- <a name="gutex"></a>gutex
     - [gutex schalldaemmungswerte](https://gutex.de/fileadmin/uploads/Downloads/Schalldamm_Mass_Innenwande.pdf)
+    - bestellen bei herr henkel, dach und holz, goetz und moritz loerrach, tel 4007-3139
+    - sie haben am lager gutex thermosafe 60 x 125 cm stumpf in den dicken 20 30 40 60 80 mm und mehr
+    - herr henkel meint, unser vorhaben sei eine heisse sache und kaffeesatzleserei
+    - er enpfeihlt, dass wir uns genauer erkundigen, bei gutex direkt, z.b. bei:
+    - herr ebi, anwendungstechniker gutex, tel. 07741/6099125, technische daten
+    - herr schaefer von gutex hat klar geantwortet: nehmen sie gutex multitherm, 176 x 60, 40 - 200 mm
+    - [gutex multitherm daten](https://gutex.de/fileadmin/uploads/Downloads/Technische_Merkblaetter/GUTEX_DE_TM_Multitherm_2017-08.pdf()
 
 ## <a name="cornelius"></a>cornelius apartment
 
