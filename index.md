@@ -398,7 +398,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - er enpfeihlt, dass wir uns genauer erkundigen, bei gutex direkt, z.b. bei:
     - herr ebi, anwendungstechniker gutex, tel. 07741/6099125, technische daten
     - herr schaefer von gutex hat klar geantwortet: nehmen sie gutex multitherm, 176 x 60, 40 - 200 mm
-    - [gutex multitherm daten](https://gutex.de/fileadmin/uploads/Downloads/Technische_Merkblaetter/GUTEX_DE_TM_Multitherm_2017-08.pdf()
+    - [gutex multitherm daten](https://gutex.de/fileadmin/uploads/Downloads/Technische_Merkblaetter/GUTEX_DE_TM_Multitherm_2017-08.pdf)
 
 ## <a name="cornelius"></a>cornelius apartment
 
