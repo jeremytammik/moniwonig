@@ -1497,14 +1497,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
+- kalkputz for wall cover cal
+- [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
+
+2018-11-01 first visit to aki for euro 720
+
 - enchufe multiple
 - multimeter
 - interruptor
-- kalkputz for wall cover cal
 - klaednypor pinzas
 - roof waterproofing paint for 50 m2 pintura para el techo
 - hard skurborste cepillo
 - tirador y rebosadero del cisterna del WC water
 - estufa de lena
+- taladro black + decker 750 w kr7532k-qs
 
 <a href="#top">top</a>
