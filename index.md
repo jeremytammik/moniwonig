@@ -1497,12 +1497,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- multiprisa enchufe
+- enchufe multiple
 - multimeter
+- interruptor
 - kalkputz for wall cover cal
 - klaednypor pinzas
 - roof waterproofing paint for 50 m2 pintura para el techo
 - hard skurborste cepillo
 - tirador y rebosadero del cisterna del WC water
+- estufa de lena
 
 <a href="#top">top</a>
