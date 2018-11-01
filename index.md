@@ -10,6 +10,10 @@
 
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
+- current projects
+    - [garnatilla](#garnatilla)
+    - [soundproofing johanna/magnus](#soundproofing)
+    - [cornelius apartment](#cornelius)
 - gaube
     - spiegel an die nordseitige dachkante montieren
 - kueche
@@ -56,8 +60,6 @@
     - stahlkessel wanne durchmesser 1.4 hoehe ? <!--- pi = 3.1415926535898; d = 1.4; r = 0.5 * d; pi*d = ca. 4.4 m; pi*r*r = ca. 1.5 qm; 0.2*pi*r*r = 0.3 kubik --->
     - [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
     - [schmutzwasserpumpe](http://www.schmutzwasserpumpetest.com), [test](http://www.testberichte.de/gartengeraete/764/wasserpumpen.html), [test](http://tauchpumpe-tests.de/#)
-    - [soundproofing johanna/magnus](#soundproofing)
-    - [cornelius apartment](#cornelius)
 
 ## michael's architectural hints
 
@@ -422,6 +424,33 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - garbage not under sink?
     - chain for pans?
     - water filter with tap
+
+## <a name="garnatilla"></a>garnatilla
+
+- fix heater vaillant Geyser MAG ES 9/2 Z
+- fix water boiler
+- fix toilet flush
+- install a cheminee
+- paint roof
+- paint outside walls
+- paint indoor walls
+- paint bathroom ceiling and upper walls white
+- wind-proof front door, close all the little holes
+- towel drying racks in bathroom
+- kaffeemuehle und milchschaeumer
+- pfeffermuehle
+- install washing machine
+- enlargen bedroom window
+- glass in veranda?
+- steinfussboden auf veranda
+- install solar water heater
+- shelves in holes in the tiled wall
+- glass in bedroom window: build a removable frame 575 x 850 mm
+- add mosquito netting to all bathroom windows
+- mosquito-proof front door
+- buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
+- the escritura says: dos habitaciones y cocina de sesnta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
+- main roof surface 10.4 x 4 metres = 42 square metres
 
 # done
 
@@ -1467,5 +1496,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 <!-- ## <a name="ct"></a>C.T. -->
 
 ## <a name="shop"></a>shop
+
+- multiprisa enchufe
+- multimeter
+- kalkputz for wall cover cal
+- klaednypor pinzas
+- roof waterproofing paint for 50 m2 pintura para el techo
+- hard skurborste cepillo
+- tirador y rebosadero del cisterna del WC water
 
 <a href="#top">top</a>
