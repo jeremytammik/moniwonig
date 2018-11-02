@@ -1519,6 +1519,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
+- chimney cross section
+  pi = 3.14
+  d = 0.15
+  r = 0.5 * d = 0.075
+  a = pi*r*r = 0.0176625
+- lang borr
+- grasuggor 3 meter 
+- cement
+- halogengloedlampa
 - kalkputz for wall cover cal
 - [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
 
