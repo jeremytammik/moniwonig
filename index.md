@@ -1526,7 +1526,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   a = pi*r*r = 0.0176625
 - lang borr
 - grasuggor 3 meter 
-- cement
+- cement murbruk
 - halogengloedlampa
 - kalkputz for wall cover cal
 - [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
