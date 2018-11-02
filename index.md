@@ -429,8 +429,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 - fix heater vaillant Geyser MAG ES 9/2 Z
 - fix water boiler
-- fix toilet flush
 - install a cheminee
+- buy and install solar water heater
 - paint roof
 - paint outside walls
 - paint indoor walls
@@ -443,12 +443,10 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - enlargen bedroom window
 - glass in veranda?
 - steinfussboden auf veranda
-- install solar water heater
 - shelves in holes in the tiled wall
 - glass in bedroom window: build a removable frame 575 x 850 mm
 - add mosquito netting to all bathroom windows
 - mosquito-proof front door
-- buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
 - the escritura says: dos habitaciones y cocina de sesnta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
 - main roof surface 10.4 x 4 metres = 42 square metres
 
@@ -1463,6 +1461,30 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - hang up and screw on LED lamp that fell out of its glueing in moni living room 
 - fix and properly fasten moni balcony entrance ramp
 
+## done 2018-11-01 garnatilla shop first visit to aki for euro 720
+
+- enchufe multiple
+- multimeter
+- interruptor
+- klaednypor pinzas
+- roof waterproofing paint for 50 m2 pintura para el techo
+- hard skurborste cepillo
+- tirador y rebosadero del cisterna del WC water
+- estufa de lena
+- taladro black + decker 750 w kr7532k-qs
+
+
+## done 2018-11-02 garnatilla
+
+- buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
+- antonia? bought rosanne and gaetan's house; her friend's name is lula (lourdes)
+- frqncisco? separated from daniela, his son's name is sergio
+- water contract application
+- water turned on again
+- fix toilet flush
+- sabadell cuenta expansion
+- sign water contract
+
 ## <a name="todo-today"></a>todo today
 
 ## <a name="todo-next"></a>todo next
@@ -1499,17 +1521,5 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - kalkputz for wall cover cal
 - [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
-
-2018-11-01 first visit to aki for euro 720
-
-- enchufe multiple
-- multimeter
-- interruptor
-- klaednypor pinzas
-- roof waterproofing paint for 50 m2 pintura para el techo
-- hard skurborste cepillo
-- tirador y rebosadero del cisterna del WC water
-- estufa de lena
-- taladro black + decker 750 w kr7532k-qs
 
 <a href="#top">top</a>
