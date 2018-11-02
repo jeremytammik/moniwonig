@@ -1477,7 +1477,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2018-11-02 garnatilla
 
 - buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
-- antonia? bought rosanne and gaetan's house; her friend's name is lula (lourdes)
+- antonia bought rosanne and gaetan's house; her friend's name is lula (lourdes)
 - frqncisco? separated from daniela, his son's name is sergio
 - water contract application
 - water turned on again
