@@ -441,7 +441,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - pfeffermuehle
 - install washing machine
 - enlargen bedroom window
-- glass in veranda?
+- glass in veranda
 - steinfussboden auf veranda
 - shelves in holes in the tiled wall
 - glass in bedroom window: build a removable frame 575 x 850 mm
@@ -1473,7 +1473,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - estufa de lena
 - taladro black + decker 750 w kr7532k-qs
 
-
 ## done 2018-11-02 garnatilla
 
 - buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
@@ -1484,6 +1483,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix toilet flush
 - sabadell cuenta expansion
 - sign water contract
+- fix entry in catastro registro
+
+## done 2018-11-02 garnatilla shop second visit to aki for euro 35
+
+- lang borr
+- halogengloedlampa
 
 ## <a name="todo-today"></a>todo today
 
@@ -1519,15 +1524,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- chimney cross section
-  pi = 3.14
-  d = 0.15
-  r = 0.5 * d = 0.075
-  a = pi*r*r = 0.0176625
-- lang borr
-- grasuggor 3 meter 
+- roller rulle
+- vattenpass
+- chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
+- grasuggor 3 meter
 - cement murbruk
-- halogengloedlampa
 - kalkputz for wall cover cal
 - [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
 
