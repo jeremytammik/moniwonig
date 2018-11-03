@@ -1470,17 +1470,18 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 # <a name="done2018garnatilla"></a>done 2018 in <a href="#garnatilla">garnatilla</a>
 
-## done 2018-11-01 shop first visit to aki for euro 720
+## done 2018-11-01
 
-- enchufe multiple
-- multimeter
-- interruptor
-- klaednypor pinzas
-- roof waterproofing paint for 50 m2 pintura para el techo
-- hard skurborste cepillo
-- tirador y rebosadero del cisterna del WC water
-- estufa de lena
-- taladro black + decker 750 w kr7532k-qs
+- shop first visit to aki for euro 720
+    - enchufe multiple
+    - multimeter
+    - interruptor
+    - klaednypor pinzas
+    - roof waterproofing paint for 50 m2 pintura para el techo
+    - hard skurborste cepillo
+    - tirador y rebosadero del cisterna del WC water
+    - estufa de lena
+    - taladro black + decker 750 w kr7532k-qs
 
 ## done 2018-11-02 
 
@@ -1493,11 +1494,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - sabadell cuenta expansion
 - sign water contract
 - fix entry in catastro registro
+- shop second visit to aki for euro 35
+    - lang borr
+    - halogengloedlampa
 
-## done 2018-11-02 shop second visit to aki for euro 35
+## done 2018-11-03
 
-- lang borr
-- halogengloedlampa
+- damiano rented carmen's house casa listero
+- carmen's daughter sally is owning the missing foreigner's house
+- drill hole through roof for chimney pipe
+- shop materiales contruction llanes 90
+    - skurmop + skurhink
+    - roller rulle
+    - cement murbruk
+    - chimney bricks grasuggor 3 meter
+
 
 ## <a name="todo-today"></a>todo today
 
@@ -1539,17 +1550,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - leche
 - copos de avena havregryn
-- skurmop + skurhink
 - spritpenna permanent marker
 - skiftnyckel
 - kryssmejsel
 - sag fogsvans
 - bagfil metallsag
-- roller rulle
 - vattenpass
 - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
-- grasuggor 3 meter
-- cement murbruk
 - kalkputz for wall cover cal
 - [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
 
