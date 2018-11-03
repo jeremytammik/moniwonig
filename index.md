@@ -436,6 +436,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - paint indoor walls
 - paint bathroom ceiling and upper walls white
 - wind-proof front door, close all the little holes
+- glass in bedroom window: build a removable frame 575 x 850 mm
 - towel drying racks in bathroom
 - kaffeemuehle und milchschaeumer
 - pfeffermuehle
@@ -444,17 +445,23 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - glass in veranda
 - steinfussboden auf veranda
 - shelves in holes in the tiled wall
-- glass in bedroom window: build a removable frame 575 x 850 mm
 - add mosquito netting to all bathroom windows
 - mosquito-proof front door
-- the escritura says: dos habitaciones y cocina de sesnta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
-- main roof surface 10.4 x 4 metres = 42 square metres
+- the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
+- main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
 
 # done
 
-## done before novemberparty
+- [2015](#done2015)
+- [2016](#done2016)
+- [2017](#done2017)
+- [2018](#done2018)
+
+# <a name="done2015"></a>done before novemberparty 2015
 
 - hintere treppe wieder oeffnen
+
+# <a name="done2016"></a>done 2016
 
 ## done 2016-04-25
 
@@ -503,15 +510,12 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - fenster ausbauen
     - oeffnung fuer balkonglastuer
 
-## done in may
+## done in may 2016
 
 - baustelle vorbereiten fuer zimmerei ritter 24-25.5
 - fussboden schuetzen
 - balkontuer in badezimmereinbauen mit leerrohre fuer heizung drunter
 - hintere treppe abreissen
-
-## done
-
 - jeremy besorgt material fuer gaubendecke innen: 122 cm im norden, 123 im sueden, 6 m lang, 7.5 qm; dampfsperre innen, osb 15 mm und rigips, rigipsschrauben, rigipsspachtel masse mit bewaehrung, platten mit vertiefung mit bewaehrungsband oder platten ohne vertiefung ohne band, spachtelbreite haengt davon ab, 60 mm oder kleine traufel
     - dampfsperre
     - osb
@@ -526,7 +530,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - wasserrohr im bad groesser verlegen
 - wandvorsprung in badecke terminieren
 
-## done in june
+## done in june 2016
 
 - bathroom
 - stauraum
@@ -534,8 +538,6 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - zimmer
 
 ## done 2016-06-19
-
-done:
 
 - decke zweimal vergipst
 - sturz vergossen
@@ -569,7 +571,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - Bad: Mit der Abwasserleitung für die Dusche (und das neue Waschbecken) sind wir doch noch tiefer gekommen = Chancen auf keine bis wenig Erhöhung. Der Blechner mailt noch ein paar Ideen für die Dusche (fertige Wanne vs. selber fliesen). WC und Waschmaschine sind angeschlossen.
 - Offen ist u.a. die Frage der Heizkörperpositionierung im Wohnzimmer. Vorschlag: Gleich nach Eingangstür links.
 
-## done in june
+## done in june 2016
 
 - spenglerei gaubendach: wer, wann, auftrag vergeben?
 - fenster in auftrag geben? erst nachdem die gaube steht? 6 wochen wartezeit.
@@ -1016,6 +1018,8 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 
 - holzkuechenschubladengriffe montieren
 
+# <a name="done2017"></a>done 2017
+
 ## done 2017-01-03
 
 - arbeitstisch montieren
@@ -1384,6 +1388,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - fixed moni's entry door handles
 
+# <a name="done2018"></a>done 2018
+
 ## done 2018-01-13
 
 - bauhaus: return gewindestangen, panelklammern and concrete bolts
@@ -1461,7 +1467,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - hang up and screw on LED lamp that fell out of its glueing in moni living room 
 - fix and properly fasten moni balcony entrance ramp
 
-## done 2018-11-01 garnatilla shop first visit to aki for euro 720
+## done 2018-11-01 <a name="garnatilla"></a>garnatilla shop first visit to aki for euro 720
 
 - enchufe multiple
 - multimeter
@@ -1473,11 +1479,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - estufa de lena
 - taladro black + decker 750 w kr7532k-qs
 
-## done 2018-11-02 garnatilla
+## done 2018-11-02 <a name="garnatilla"></a>garnatilla
 
 - buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
 - antonia bought rosanne and gaetan's house; her friend's name is lula (lourdes)
-- frqncisco? separated from daniela, his son's name is sergio
+- francisco? separated from daniela, his son's name is sergio
 - water contract application
 - water turned on again
 - fix toilet flush
@@ -1485,12 +1491,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - sign water contract
 - fix entry in catastro registro
 
-## done 2018-11-02 garnatilla shop second visit to aki for euro 35
+## done 2018-11-02 <a name="garnatilla"></a>garnatilla shop second visit to aki for euro 35
 
 - lang borr
 - halogengloedlampa
 
 ## <a name="todo-today"></a>todo today
+
+- drill test hole for chimney
+- ask for gas heater expert to come round
+- order chimney pipes
 
 ## <a name="todo-next"></a>todo next
 
@@ -1524,6 +1534,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
+- leche
+- copos de avena havregryn
+- skurmop + skurhink
+- spritpenna permanent marker
+- skiftnyckel
+- kryssmejsel
+- sag fogsvans
+- bagfil metallsag
 - roller rulle
 - vattenpass
 - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
