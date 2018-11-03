@@ -1467,7 +1467,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - hang up and screw on LED lamp that fell out of its glueing in moni living room 
 - fix and properly fasten moni balcony entrance ramp
 
-## done 2018-11-01 <a name="garnatilla"></a>garnatilla shop first visit to aki for euro 720
+## done 2018-11-01 <a href="#garnatilla">garnatilla</a> shop first visit to aki for euro 720
 
 - enchufe multiple
 - multimeter
@@ -1479,7 +1479,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - estufa de lena
 - taladro black + decker 750 w kr7532k-qs
 
-## done 2018-11-02 <a name="garnatilla"></a>garnatilla
+## done 2018-11-02 <a href="#garnatilla">garnatilla</a>
 
 - buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
 - antonia bought rosanne and gaetan's house; her friend's name is lula (lourdes)
@@ -1491,7 +1491,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - sign water contract
 - fix entry in catastro registro
 
-## done 2018-11-02 <a name="garnatilla"></a>garnatilla shop second visit to aki for euro 35
+## done 2018-11-02 <a href="#garnatilla">garnatilla</a> shop second visit to aki for euro 35
 
 - lang borr
 - halogengloedlampa
