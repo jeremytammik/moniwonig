@@ -1555,9 +1555,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - kryssmejsel
 - sag fogsvans
 - bagfil metallsag
+- cutter
+- plugg
+- 6 mm gaengstang + muttrar
+- chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend
 - vattenpass
 - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
 - kalkputz for wall cover cal
 - [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
+- solar hot water
 
 <a href="#top">top</a>
