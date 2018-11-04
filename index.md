@@ -1550,14 +1550,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - leche
 - copos de avena havregryn
+- pimiento pepper mill?
 - spritpenna permanent marker
 - skiftnyckel
 - kryssmejsel
 - sag fogsvans
 - bagfil metallsag
 - cutter
-- plugg
 - 6 mm gaengstang + muttrar
+- plugg for 6 mm gaengstang
 - chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend
 - vattenpass
 - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
