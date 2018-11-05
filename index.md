@@ -1513,6 +1513,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2018-11-05
 
 - registro catastral r.cifuentes@motril.es (rafael)
+- sign aguas y servicion contract, requires referencia catastral: 0866302VF6606F0001MR, aparece en el recibo del IBI del ayuntamiento, IBI Urbana, Taxes Ayto. Motril, 2018-06-29 euro 31.33 ref. P1814200J001 159378
+- leche
+- copos de avena havregryn
 - shop third visit to aki for euro 260
     - skiftnyckel
     - sag fogsvans
@@ -1526,9 +1529,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend
     - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
     - not needed: [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
-- leche
-- copos de avena havregryn
-
+- cemented chimney foundation
 
 ## <a name="todo-today"></a>todo today
 
@@ -1569,5 +1570,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - spritpenna permanent marker
 - kalkputz for wall cover cal
 - solar hot water
+- photos of house outside for catastro
+- house plan for cataster
+- start duerauftrag euro 700 to saba
+
 
 <a href="#top">top</a>
