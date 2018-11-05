@@ -1518,6 +1518,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - bagfil metallsag
     - vattenpass
     - kryssmejsel
+    - 6 mm gaengstang + muttrar + plugg
 - leche
 - copos de avena havregryn
 
@@ -1563,8 +1564,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - pimiento pepper mill?
 - spritpenna permanent marker
 - cutter
-- 6 mm gaengstang + muttrar
-- plugg for 6 mm gaengstang
 - spik
 - presenning
 - chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend
