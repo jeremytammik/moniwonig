@@ -1503,6 +1503,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - damiano rented carmen's house casa listero
 - carmen's daughter sally is owning the missing foreigner's house
 - drill hole through roof for chimney pipe
+- ask for gas heater expert to come round
 - shop materiales contruction llanes 90
     - skurmop + skurhink
     - roller rulle
@@ -1512,7 +1513,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2018-11-05
 
 - registro catastral r.cifuentes@motril.es (rafael)
-- shop third visit to aki for euro 
+- shop third visit to aki for euro 260
     - skiftnyckel
     - sag fogsvans
     - bagfil metallsag
@@ -1531,9 +1532,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
-- drill test hole for chimney
-- ask for gas heater expert to come round
-- order chimney pipes
 
 ## <a name="todo-next"></a>todo next
 
