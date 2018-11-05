@@ -1522,6 +1522,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cutter
     - spik
     - presenning
+    - chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend
+    - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
+    - not needed: [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
 - leche
 - copos de avena havregryn
 
@@ -1566,10 +1569,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - pimiento pepper mill?
 - spritpenna permanent marker
-- chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend
-- chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
 - kalkputz for wall cover cal
-- [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
 - solar hot water
 
 <a href="#top">top</a>
