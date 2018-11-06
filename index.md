@@ -1575,6 +1575,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - photos of house outside for catastro
 - house plan for cataster
 - start dauerauftrag euro 700 to saba
-
+- front door insulation
+    - holes left side first, top to bottom:
+    - 394 300, 394 345, 394 465, 394 419
+    - 405 310, 405 423, 405 472, 405 419
+    - covers
+    - 394 + 30 = 424 x 716 + 30 = 746
+    - 394 + 30 = 424 x 965 + 30 = 995
+    - 405 + 30 = 435 x 1805 + 30 = 1835
 
 <a href="#top">top</a>
+
