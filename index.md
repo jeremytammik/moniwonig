@@ -4,7 +4,6 @@
 &ndash; [source repo](https://github.com/jeremytammik/moniwonig)
 &ndash; <a href="#todo-next">next</a>
 &ndash; <a href="#todo-today">today</a>
-&ndash; <a href="#ct">c.t.</a>
 &ndash; <a href="#shop">shop</a>
 
 
@@ -1566,8 +1565,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - aussendusche bauen und anschliessen
 - compost toilet &ndash; aussenklo und pissoir
 - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)
-
-<!-- ## <a name="ct"></a>C.T. -->
 
 ## <a name="shop"></a>shop
 
