@@ -1534,6 +1534,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - fix heater boiler vaillant Geyser MAG ES 9/2 Z -- too old, buy and install a new one
 - cemented chimney pipe
+- rented drill for gas escape ventilation hole
 
 ## <a name="todo-today"></a>todo today
 
