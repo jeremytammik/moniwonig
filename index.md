@@ -427,15 +427,12 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="garnatilla"></a>garnatilla
 
-- fix heater vaillant Geyser MAG ES 9/2 Z
-- fix water boiler
-- install a cheminee
-- buy and install solar water heater
 - paint roof
 - paint outside walls
 - paint indoor walls
 - paint bathroom ceiling and upper walls white
 - wind-proof front door, close all the little holes
+- buy and install solar water heater
 - glass in bedroom window: build a removable frame 575 x 850 mm
 - towel drying racks in bathroom
 - kaffeemuehle und milchschaeumer
@@ -443,6 +440,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - install washing machine
 - enlargen bedroom window
 - glass in veranda
+- replace veranda roof by a flat floor and sitting place
+- build a staircase from the kitchen door straight up to the new veranda roof
 - steinfussboden auf veranda
 - shelves in holes in the tiled wall
 - add mosquito netting to all bathroom windows
@@ -1529,7 +1528,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend
     - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
     - not needed: [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
+- installed the wood burning stove estufa
 - cemented chimney foundation
+
+## done 2018-11-06
+
+- fix heater boiler vaillant Geyser MAG ES 9/2 Z -- too old, buy and install a new one
+- cemented chimney pipe
 
 ## <a name="todo-today"></a>todo today
 
