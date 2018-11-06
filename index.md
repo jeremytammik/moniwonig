@@ -1572,7 +1572,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - solar hot water
 - photos of house outside for catastro
 - house plan for cataster
-- start duerauftrag euro 700 to saba
+- start dauerauftrag euro 700 to saba
 
 
 <a href="#top">top</a>
