@@ -1552,6 +1552,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build chimney roof
 - returned rented power drill
 - returned unused sack of cement
+- shop fourth visit to aki for euro 34
+    - fibre glass or stainless steel netting for gas escape ventilation hole cover
+    - front door insulation panels
+        - holes left side first, top to bottom:
+        - 394 300, 394 345, 394 465, 394 419
+        - 405 310, 405 423, 405 472, 405 419
+        - 0.394 * 0.300 + 0.394 * 0.345 + 0.394 * 0.465 + 0.394 * 0.419 = 0.6 m2
+        - 0.405 * 0.310 + 0.405 * 0.423 + 0.405 * 0.472 + 0.405 * 0.419 = 0.66 m2
+        - 1.25 * 0.6 = 0.75 m2
+        - covers
+        - 394 + 30 = 424 x 716 + 30 = 746
+        - 394 + 30 = 424 x 965 + 30 = 995
+        - 405 + 30 = 435 x 1805 + 30 = 1835
+    - krokar hooks
 
 ## <a name="todo-today"></a>todo today
 
@@ -1565,6 +1579,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 394 + 30 = 424 x 965 + 30 = 995
     - 405 + 30 = 435 x 1805 + 30 = 1835
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
+
 
 ## <a name="todo-next"></a>todo next
 
@@ -1599,19 +1614,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - pimiento pepper mill?
 - spritpenna permanent marker
 - kalkputz for wall cover cal
-- front door insulation panels
-    - holes left side first, top to bottom:
-    - 394 300, 394 345, 394 465, 394 419
-    - 405 310, 405 423, 405 472, 405 419
-    - 0.394 * 0.300 + 0.394 * 0.345 + 0.394 * 0.465 + 0.394 * 0.419 = 0.6 m2
-    - 0.405 * 0.310 + 0.405 * 0.423 + 0.405 * 0.472 + 0.405 * 0.419 = 0.66 m2
-    - 1.25 * 0.6 = 0.75 m2
-    - covers
-    - 394 + 30 = 424 x 716 + 30 = 746
-    - 394 + 30 = 424 x 965 + 30 = 995
-    - 405 + 30 = 435 x 1805 + 30 = 1835
-- fibre glass or stainless steel netting for gas escape ventilation hole cover
-- krokar hooks 
 
 <a href="#top">top</a>
 
