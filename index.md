@@ -1481,8 +1481,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - roof waterproofing paint for 50 m2 pintura para el techo
     - hard skurborste cepillo
     - tirador y rebosadero del cisterna del WC water
-    - estufa de lena
-    - taladro black + decker 750 w kr7532k-qs
+    - estufa de lena &ndash; guarantee
+    - taladro black + decker 750 w kr7532k-qs &ndash; guarantee
 
 ## done 2018-11-02 
 
@@ -1544,15 +1544,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - drill gas escape ventilation hole
 - plaster inside of chimney hole in entrance hall ceiling
+- hang up plate shelf over kitchen sink
 - remove broken bathroom staircase step tile 
-
+- installed new water boiler euro 440 &ndash; guarantee
+- cement in replacement for broken bathroom staircase step tile
+- build chimney roof
 
 ## <a name="todo-today"></a>todo today
 
-- cement in replacement for broken bathroom staircase step tile
 - cover chimney foundation with white cement 
 - house plan for catastro
-- build chimney roof
 - return rented power drill
 - buy front door insulation panels
     - holes left side first, top to bottom:
