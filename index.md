@@ -436,6 +436,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - towel drying racks in bathroom
 - kaffeemuehle und milchschaeumer
 - pfeffermuehle
+- locate washing machine connections to input water and output sewage
 - install washing machine
 - enlargen bedroom window
 - glass in veranda
@@ -1543,11 +1544,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - drill gas escape ventilation hole
 - plaster inside of chimney hole in entrance hall ceiling
+- remove broken bathroom tile step
 
 
 ## <a name="todo-today"></a>todo today
 
-- open tiles to connect washing machine input water and outpit sewage
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
 - cover chimney foundation with white cement 
 - house plan for catastro
