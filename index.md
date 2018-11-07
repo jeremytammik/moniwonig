@@ -1544,12 +1544,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - drill gas escape ventilation hole
 - plaster inside of chimney hole in entrance hall ceiling
-- remove broken bathroom tile step
+- remove broken bathroom staircase step tile 
 
 
 ## <a name="todo-today"></a>todo today
 
-- cover gas escape ventilation hole with fibre glass or stainless steel netting
+- cement in replacement for broken bathroom staircase step tile
 - cover chimney foundation with white cement 
 - house plan for catastro
 - build chimney roof
@@ -1562,6 +1562,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 394 + 30 = 424 x 716 + 30 = 746
     - 394 + 30 = 424 x 965 + 30 = 995
     - 405 + 30 = 435 x 1805 + 30 = 1835
+- cover gas escape ventilation hole with fibre glass or stainless steel netting
 
 ## <a name="todo-next"></a>todo next
 
