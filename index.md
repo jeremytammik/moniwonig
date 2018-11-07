@@ -447,6 +447,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - mosquito-proof front door
 - the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
 - main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
+- start dauerauftrag euro 700 to saba
+
 
 # done
 
@@ -1535,9 +1537,30 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix heater boiler vaillant Geyser MAG ES 9/2 Z -- too old, buy and install a new one
 - cemented chimney pipe
 - rented drill for gas escape ventilation hole
+- photos of house outside for catastro
+
+## done 2018-11-07
+
+- drill gas escape ventilation hole
+- plaster inside of chimney hole in entrance hall ceiling
+
 
 ## <a name="todo-today"></a>todo today
 
+- open tiles to connect washing machine input water and outpit sewage
+- cover gas escape ventilation hole with fibre glass or stainless steel netting
+- cover chimney foundation with white cement 
+- house plan for catastro
+- build chimney roof
+- return rented power drill
+- buy front door insulation panels
+    - holes left side first, top to bottom:
+    - 394 300, 394 345, 394 465, 394 419
+    - 405 310, 405 423, 405 472, 405 419
+    - covers
+    - 394 + 30 = 424 x 716 + 30 = 746
+    - 394 + 30 = 424 x 965 + 30 = 995
+    - 405 + 30 = 435 x 1805 + 30 = 1835
 
 ## <a name="todo-next"></a>todo next
 
@@ -1572,18 +1595,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - pimiento pepper mill?
 - spritpenna permanent marker
 - kalkputz for wall cover cal
-- solar hot water
-- photos of house outside for catastro
-- house plan for cataster
-- start dauerauftrag euro 700 to saba
-- front door insulation
-    - holes left side first, top to bottom:
-    - 394 300, 394 345, 394 465, 394 419
-    - 405 310, 405 423, 405 472, 405 419
-    - covers
-    - 394 + 30 = 424 x 716 + 30 = 746
-    - 394 + 30 = 424 x 965 + 30 = 995
-    - 405 + 30 = 435 x 1805 + 30 = 1835
 
 <a href="#top">top</a>
 
