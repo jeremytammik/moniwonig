@@ -426,6 +426,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="garnatilla"></a>garnatilla
 
+- cover chimney foundation with white cement 
 - paint roof
 - paint outside walls
 - paint indoor walls
@@ -1552,7 +1553,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
-- cover chimney foundation with white cement 
 - house plan for catastro
 - return rented power drill
 - buy front door insulation panels
@@ -1598,6 +1598,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - pimiento pepper mill?
 - spritpenna permanent marker
 - kalkputz for wall cover cal
+- front door insulation panels
+    - holes left side first, top to bottom:
+    - 394 300, 394 345, 394 465, 394 419
+    - 405 310, 405 423, 405 472, 405 419
+    - covers
+    - 394 + 30 = 424 x 716 + 30 = 746
+    - 394 + 30 = 424 x 965 + 30 = 995
+    - 405 + 30 = 435 x 1805 + 30 = 1835
+- fibre glass or stainless steel netting for gas escape ventilation hole cover
+- krokar
 
 <a href="#top">top</a>
 
