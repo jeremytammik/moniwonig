@@ -1550,11 +1550,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - installed new water boiler euro 440 &ndash; guarantee
 - cement in replacement for broken bathroom staircase step tile
 - build chimney roof
+- returned rented power drill
+- returned unused sack of cement
 
 ## <a name="todo-today"></a>todo today
 
 - house plan for catastro
-- return rented power drill
 - buy front door insulation panels
     - holes left side first, top to bottom:
     - 394 300, 394 345, 394 465, 394 419
