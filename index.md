@@ -426,12 +426,14 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="garnatilla"></a>garnatilla
 
+- wind-proof front door, close all the little holes
 - cover chimney foundation with white cement 
 - paint roof
+- fix leak in inside corner of veranda roof
 - paint outside walls
 - paint indoor walls
 - paint bathroom ceiling and upper walls white
-- wind-proof front door, close all the little holes
+- replaster the outside walls where bits are falling off or plants are growing
 - buy and install solar water heater
 - glass in bedroom window: build a removable frame 575 x 850 mm
 - towel drying racks in bathroom
@@ -450,7 +452,6 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
 - main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
 - start dauerauftrag euro 700 to saba
-
 
 # done
 
