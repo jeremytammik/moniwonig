@@ -1607,7 +1607,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 394 + 30 = 424 x 965 + 30 = 995
     - 405 + 30 = 435 x 1805 + 30 = 1835
 - fibre glass or stainless steel netting for gas escape ventilation hole cover
-- krokar
+- krokar hooks 
 
 <a href="#top">top</a>
 
