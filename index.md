@@ -426,11 +426,12 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="garnatilla"></a>garnatilla
 
-- wind-proof front door, close all the little holes
+- cover gas escape ventilation hole with fibre glass or stainless steel netting
 - cover chimney foundation with white cement 
 - paint roof
+- wind-proof front door, close all the little holes
 - fix leak in inside corner of veranda roof
-- paint outside walls
+- paint outside walls &ndash; cal kalkputz for wall cover
 - paint indoor walls
 - paint bathroom ceiling and upper walls white
 - replaster the outside walls where bits are falling off or plants are growing
@@ -1570,20 +1571,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
-- house plan for catastro
-- buy front door insulation panels
-    - holes left side first, top to bottom:
-    - 394 300, 394 345, 394 465, 394 419
-    - 405 310, 405 423, 405 472, 405 419
-    - covers
-    - 394 + 30 = 424 x 716 + 30 = 746
-    - 394 + 30 = 424 x 965 + 30 = 995
-    - 405 + 30 = 435 x 1805 + 30 = 1835
-- cover gas escape ventilation hole with fibre glass or stainless steel netting
-
-
 ## <a name="todo-next"></a>todo next
 
+- garnatilla house plan for catastro
 - sort the books
 - build a bookshelf
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
@@ -1612,9 +1602,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- pimiento pepper mill?
-- spritpenna permanent marker
-- kalkputz for wall cover cal
 
 <a href="#top">top</a>
 
