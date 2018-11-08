@@ -1569,7 +1569,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
         - 405 + 30 = 435 x 1805 + 30 = 1835
     - krokar hooks
 
-## <a name="todo-today"></a>todo today
+## <a name="todo-today"></a>todo november
+
+- wachs floors: katja, jeremy, moni
+- get axel's floor polishing machine
+- gasheizungsabsperrklappe
+- sound insulation
+- integrate tools
+
 
 ## <a name="todo-next"></a>todo next
 
