@@ -1567,7 +1567,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
         - 394 + 30 = 424 x 716 + 30 = 746
         - 394 + 30 = 424 x 965 + 30 = 995
         - 405 + 30 = 435 x 1805 + 30 = 1835
-    - krokar hooks
+    - krokar kitchen hooks
 
 ## <a name="todo-today"></a>todo november
 
