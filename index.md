@@ -1582,6 +1582,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- absperrklappe einbauen in gasheizungsabluftrohr
+    - [Bauart B11](doc/gasgeraete_kategorien_bauarten.pdf)
+    - [Thermische Abgasklappe HOS](https://schornstein-fachhandel.de/abgasklappe/thermische-abgasklappe-hks) &ndash; [Einbauanleitung](doc/abgasklappe_hos_einbaueinleitung.pdf)
 - garnatilla house plan for catastro
 - sort the books
 - build a bookshelf
