@@ -403,6 +403,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - [gutex thermoroom 40 mm](https://www.bausep.de/gutex-thermoroom-40-mm.html#collateral-tabs): hoher Schallschutz
     - thermowall nut und feder muellheim 40 mm 130 x 60
     - Rainer Henkel <rainer.henkel@goetzmoriz.com> wall 10.69 / qm + mwst therm 10.37
+    - [sketch](img/2018-11-09_plan_fuer_schallisolierung.pdf)
 
 ## <a name="cornelius"></a>cornelius apartment
 
