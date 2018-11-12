@@ -402,7 +402,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - [gutex multitherm daten](https://gutex.de/fileadmin/uploads/Downloads/Technische_Merkblaetter/GUTEX_DE_TM_Multitherm_2017-08.pdf)
     - [gutex thermoroom 40 mm](https://www.bausep.de/gutex-thermoroom-40-mm.html#collateral-tabs): hoher Schallschutz
     - thermowall nut und feder muellheim 40 mm 130 x 60
-    - Rainer Henkel <rainer.henkel@goetzmoriz.com> wall 10.69 / qm + mwst therm 10.37
+    - tel rainer henkel wall 10.69 / qm + mwst therm 10.37
     - [sketch](img/2018-11-09_plan_fuer_schallisolierung.pdf)
 
 ## <a name="cornelius"></a>cornelius apartment
@@ -1519,7 +1519,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## done 2018-11-05
 
-- registro catastral r.cifuentes@motril.es (rafael)
+- registro catastral motril rafael cifuentes
 - sign aguas y servicion contract, requires referencia catastral: 0866302VF6606F0001MR, aparece en el recibo del IBI del ayuntamiento, IBI Urbana, Taxes Ayto. Motril, 2018-06-29 euro 31.33 ref. P1814200J001 159378
 - leche
 - copos de avena havregryn
@@ -1572,12 +1572,18 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
         - 405 + 30 = 435 x 1805 + 30 = 1835
     - krokar kitchen hooks
 
+## done 2018-11-11
+
+- build soundproof box for johanna's gas valve
+- soundproofed johanna's wall and gas tube opening
+
+
 ## <a name="todo-today"></a>todo november
 
 - wachs floors: katja, jeremy, moni
 - get axel's floor polishing machine
 - gasheizungsabsperrklappe
-- sound insulation
+- johanna wall sound insulation
 - integrate tools
 
 
