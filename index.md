@@ -102,7 +102,7 @@
     - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209 
     - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
     - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
-- fussboden: axel hugenschmidt, oder wolfgang busch fahrnau bei schopfheim
+- fussboden bonermaschine und pads: axel hugenschmidt, oder [wolfgang busch in fahrnau](http://www.oekobau-team.de) bei schopfheim
 - bad, ofenrohr, sanitaer martin richardson +49-172/7173108
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
 - johann neuhaus tango und metall
