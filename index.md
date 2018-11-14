@@ -1621,6 +1621,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
+- [gummimatte](https://www.bauhaus.info/waschmaschinenzubehoer/gummimatte/p/13334869)
 
 <a href="#top">top</a>
 
