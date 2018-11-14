@@ -1622,6 +1622,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="shop"></a>shop
 
 - [gummimatte](https://www.bauhaus.info/waschmaschinenzubehoer/gummimatte/p/13334869)
+- [bautenschutzmatte, gummigranulatmatte](https://www.ebay.de/itm/16-00-m-10mm-Bautenschutzmatte-Gummigranulatmatte-Antirutschmatte/251222828606)
 
 <a href="#top">top</a>
 
