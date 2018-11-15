@@ -12,7 +12,7 @@
 - current projects
     - [garnatilla](#garnatilla)
     - [soundproofing johanna/magnus](#soundproofing)
-    - [cornelius apartment](#cornelius)
+    - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
 - gaube
     - spiegel an die nordseitige dachkante montieren
 - kueche
@@ -407,35 +407,36 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="cornelius"></a>cornelius apartment
 
+- plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
 - soundproof wall between cornelius big room and karen kitchen
-- plan and build kitchen
-- dunstabzugshaube
-- additional window insulation? with roof protection?
+- additional window insulation? with roof protection above?
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
-- kitchen ideas
-    - simple, easy to clean, white surfaces
-    - back wall in glass, not tiled, not painted
-    - hanging cupboards above working surface
-    - dishwasher
-    - no external handles for drawers
-    - big sink (not too hard), 
-    - forgiving surface for fragile dishes &ndash; hardwood?
-    - big accessible working surface "u" shape
-    - oil and coloring resistance
-    - dish washer
-    - sink not in corner
-    - space on both sides of oven
-    - sink close to oven
-    - garbage not under sink?
-    - chain for pans?
-    - water filter with tap
-    - seul might want to use the [ikea kitchen planner](https://www.ikea.com/ms/en_AU/campaigns/kitchens/kitchen_planner.html)
-    - plan the cupboards and kitchen drawers, elemente und schubladen
-    - exact dimensions
-    - retain existing floor
-    - strong and clear LED lighting
-    - exhaust ventilator above cooking area, pipe leads out to fresh air, cannot use chimney due to grease, cornelius has one
+
+## <a name="cornelius_kitchen"></a>cornelius kitchen
+
+- simple, easy to clean, white surfaces
+- back wall in glass, not tiled, not painted
+- hanging cupboards above working surface
+- dishwasher
+- no external handles for drawers
+- big sink (not too hard), 
+- forgiving surface for fragile dishes &ndash; hardwood?
+- big accessible working surface "u" shape
+- oil and coloring resistance
+- dish washer
+- sink not in corner
+- space on both sides of oven
+- sink close to oven
+- garbage not under sink?
+- chain for pans?
+- water filter with tap
+- seul might want to use the [ikea kitchen planner](https://www.ikea.com/ms/en_AU/campaigns/kitchens/kitchen_planner.html)
+- plan the cupboards and kitchen drawers, elemente und schubladen
+- exact dimensions
+- retain existing floor
+- strong and clear LED lighting
+- dunstabzugshaube, exhaust ventilator above cooking area, pipe leads out to fresh air, cannot use chimney due to grease, cornelius has one
 
 ## <a name="garnatilla"></a>garnatilla
 
