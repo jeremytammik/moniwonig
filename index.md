@@ -1577,23 +1577,28 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build soundproof box for johanna's gas valve
 - soundproofed johanna's wall and gas tube opening
 
+## done 2018-11-14
+
+- sort the books
+- garnatilla house plan for catastro
+- gasheizungsabsperrklappe &ndash; moni bad gasheizung absperrklappe einbauen in gasheizungsabluftrohr
+    - [Bauart B11](doc/gasgeraete_kategorien_bauarten.pdf)
+    - [Thermische Abgasklappe HOS](https://schornstein-fachhandel.de/abgasklappe/thermische-abgasklappe-hks) &ndash; [Einbauanleitung](doc/abgasklappe_hos_einbaueinleitung.pdf)
+- get axel's floor polishing machine
+- soundproofing research:
+    - [gummimatte](https://www.bauhaus.info/waschmaschinenzubehoer/gummimatte/p/13334869)
+    - [bautenschutzmatte, gummigranulatmatte](https://www.ebay.de/itm/16-00-m-10mm-Bautenschutzmatte-Gummigranulatmatte-Antirutschmatte/251222828606)
+
 
 ## <a name="todo-today"></a>todo november
 
+- wachs upstairs floor
 - wachs floors: katja, jeremy, moni
-- get axel's floor polishing machine
-- gasheizungsabsperrklappe
 - johanna wall sound insulation
 - integrate tools
 
-
 ## <a name="todo-next"></a>todo next
 
-- absperrklappe einbauen in gasheizungsabluftrohr
-    - [Bauart B11](doc/gasgeraete_kategorien_bauarten.pdf)
-    - [Thermische Abgasklappe HOS](https://schornstein-fachhandel.de/abgasklappe/thermische-abgasklappe-hks) &ndash; [Einbauanleitung](doc/abgasklappe_hos_einbaueinleitung.pdf)
-- garnatilla house plan for catastro
-- sort the books
 - build a bookshelf
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - plan praxis renovation for cornelius flat; finalise c's requirements and rent
@@ -1602,7 +1607,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install solarpumpe in pool
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
-- wachs upstairs floor
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - deckenleuchte mit drei spots im buero montieren
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
@@ -1621,8 +1625,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- [gummimatte](https://www.bauhaus.info/waschmaschinenzubehoer/gummimatte/p/13334869)
-- [bautenschutzmatte, gummigranulatmatte](https://www.ebay.de/itm/16-00-m-10mm-Bautenschutzmatte-Gummigranulatmatte-Antirutschmatte/251222828606)
 
 <a href="#top">top</a>
 
