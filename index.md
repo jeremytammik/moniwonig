@@ -37,7 +37,7 @@
     - kurzschluss in der leitung auf dem firstbalken beheben
     - FI-schutzschalter
     - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
-    - vierte klingel an haustuer montieren und tuerklingel anschliessen
+    - install a loder bell upstairs &ndash; vierte klingel an haustuer montieren und tuerklingel anschliessen
 - eingangsbereich
     - spiegel anbringen
     - schuhregale anschrauben
@@ -62,14 +62,12 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 - projects
-    - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
-    - warmwasser- und heizungssolaranlage
-    - [kompotoi](http://www.kompotoi.ch) compst toilet &ndash; komposttoilette mit trennung von kot und urin
     - aussendusche bauen und anschliessen
-    - compost toilet &ndash; aussenklo und pissoir
+    - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
+    - compost toilet &ndash; aussenklo und pissoir, komposttoilette mit trennung von kot und urin &ndash; [kompotoi](http://www.kompotoi.ch)
     - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)   
     - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
-    - install solar hot water panel, e.g., ciprian's romanian suggestion
+    - warmwasser- und heizungssolaranlage &ndash; install solar hot water panel, e.g., ciprian's romanian suggestion
     - install solarpumpe in pool
     - fix table tennis table
 
@@ -1649,7 +1647,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
-- build a bookshelf
+- build a bookshelf for all the books
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
@@ -1658,7 +1656,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - regal im heizungsschrank in monis bad
 
 ## <a name="shop"></a>shop
-
 
 <a href="#top">top</a>
 
