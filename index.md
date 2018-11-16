@@ -1625,7 +1625,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
     - seilzug und schnurrolle:
 [pulley, block and tackle](https://en.wikipedia.org/wiki/Pulley#Block_and_tackle),
-[kinderspeilzeug](http://www.ebay.de/itm/Kinder-Flaschenzug-Seilzug-fur-Baumhaus-Spielturm-Goki-Holz-Buchenholz-massiv/361353629019?hash=item54225acd5b:g:8T8AAOSw1MBZyqLa), 
+[kinderspielzeug](http://www.ebay.de/itm/Kinder-Flaschenzug-Seilzug-fur-Baumhaus-Spielturm-Goki-Holz-Buchenholz-massiv/361353629019?hash=item54225acd5b:g:8T8AAOSw1MBZyqLa), 
 [messing](https://www.ebay.de/itm/Umlenkrollen-Holz-Messing-Metall-Seilzug-Schiffsblock-3-Stck-Karabinerhaken/272895343588?hash=item3f89d47be4:g:14IAAOSwAY1Z3xIi),
 [universal](https://www.conrad.de/de/berger-schroeter-60004-universalflaschenzug-tragkraft-300-kg-1549031.html),
 [messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
