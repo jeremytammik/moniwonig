@@ -412,6 +412,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - soundproof wall between cornelius big room and karen kitchen
 - additional window insulation? with roof protection above?
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
+- finalise requirements and rent
 
 ## <a name="cornelius_kitchen"></a>cornelius kitchen
 
@@ -1486,6 +1487,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - hang up and screw on LED lamp that fell out of its glueing in moni living room 
 - fix and properly fasten moni balcony entrance ramp
 
+## done 2018-10-29
+
+- call gutex and ask for soundproofing data 07741/60 99-0
+- call goetz und moritz
+
 # <a name="done2018garnatilla"></a>done 2018 in <a href="#garnatilla">garnatilla</a>
 
 ## done 2018-11-01
@@ -1600,6 +1606,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - [gummimatte](https://www.bauhaus.info/waschmaschinenzubehoer/gummimatte/p/13334869)
     - [bautenschutzmatte, gummigranulatmatte](https://www.ebay.de/itm/16-00-m-10mm-Bautenschutzmatte-Gummigranulatmatte-Antirutschmatte/251222828606)
 
+## done 2018-11-15
+
+- deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
+    - seilzug und schnurrolle:
+[pulley, block and tackle](https://en.wikipedia.org/wiki/Pulley#Block_and_tackle),
+[kinderspeilzeug](http://www.ebay.de/itm/Kinder-Flaschenzug-Seilzug-fur-Baumhaus-Spielturm-Goki-Holz-Buchenholz-massiv/361353629019?hash=item54225acd5b:g:8T8AAOSw1MBZyqLa), 
+[messing](https://www.ebay.de/itm/Umlenkrollen-Holz-Messing-Metall-Seilzug-Schiffsblock-3-Stck-Karabinerhaken/272895343588?hash=item3f89d47be4:g:14IAAOSwAY1Z3xIi),
+[universal](https://www.conrad.de/de/berger-schroeter-60004-universalflaschenzug-tragkraft-300-kg-1549031.html),
+[messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
+[kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 
 ## <a name="todo-today"></a>todo november
 
@@ -1612,7 +1628,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - build a bookshelf
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
-- plan praxis renovation for cornelius flat; finalise c's requirements and rent
 - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
 - install solar hot water panel, e.g., ciprian's romanian suggestion
 - install solarpumpe in pool
@@ -1620,14 +1635,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install the led lamp for upstairs hallway light
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - deckenleuchte mit drei spots im buero montieren
-- deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
-    - seilzug und schnurrolle:
-[pulley, block and tackle](https://en.wikipedia.org/wiki/Pulley#Block_and_tackle),
-[kinderspeilzeug](http://www.ebay.de/itm/Kinder-Flaschenzug-Seilzug-fur-Baumhaus-Spielturm-Goki-Holz-Buchenholz-massiv/361353629019?hash=item54225acd5b:g:8T8AAOSw1MBZyqLa), 
-[messing](https://www.ebay.de/itm/Umlenkrollen-Holz-Messing-Metall-Seilzug-Schiffsblock-3-Stck-Karabinerhaken/272895343588?hash=item3f89d47be4:g:14IAAOSwAY1Z3xIi),
-[universal](https://www.conrad.de/de/berger-schroeter-60004-universalflaschenzug-tragkraft-300-kg-1549031.html),
-[messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
-[kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 - regal in heizungsschrank
 - fix table tennis table
 - aussendusche bauen und anschliessen
