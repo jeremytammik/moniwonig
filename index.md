@@ -21,6 +21,7 @@
     - [kuechenarbeitsplatte](#kuechenarbeitsplatte)
     - [korkfussboden eingangsbereich](#korkfussboden)
     - [strassenzaun und neuer schopf](#schopf)
+    - [regenwassernutzung](#regenwassernutzung)
     - [sauna](#sauna)
     - [done](#done)
 - gaube
@@ -45,7 +46,6 @@
     - werkbank und arbeitsbereich einrichten, werkzeug und schrauben
     - 500 Watt strahler durch energiesparlampen ersetzen
 - dach
-    - DG boden wachsen
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom [oekobaumarkt in langenau](http://www.oekobau-team.de), axel holt sie mal fuer ruben
 - garten
     - pumpe installieren fuer gartenwasser
@@ -65,8 +65,6 @@
     - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - warmwasser- und heizungssolaranlage
     - [kompotoi](http://www.kompotoi.ch) compst toilet &ndash; komposttoilette mit trennung von kot und urin
-    - stahlkessel wanne durchmesser 1.4 hoehe ? <!--- pi = 3.1415926535898; d = 1.4; r = 0.5 * d; pi*d = ca. 4.4 m; pi*r*r = ca. 1.5 qm; 0.2*pi*r*r = 0.3 kubik --->
-    - [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
     - aussendusche bauen und anschliessen
     - compost toilet &ndash; aussenklo und pissoir
     - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)   
@@ -319,6 +317,14 @@
     - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
     - [Skizze](img/strassenzaundach.png)
 - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
+
+## <a name="regenwassernutzung"></a>regenwassernutzung
+
+- [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
+- stahlkessel wanne durchmesser d = 1.4; hoehe h = ?; pi = 3.1415926535898; r = 0.5 * d;
+    - umfang pi*d = ca. 4.4 m
+    - bodenflaeche pi*r*r = ca. 1.5 qm
+    - volumen pro 20 cm wassertiefe 0.2*pi*r*r = ca. 0.3 kubikmeter
 
 ## <a name="sauna"></a>sauna &ndash; bastu
 
@@ -1631,9 +1637,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 [messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 
-## <a name="todo-today"></a>todo november
+## done 2018-11-16
 
 - wachs upstairs floor
+
+## <a name="todo-today"></a>todo november
+
 - wachs floors: katja, jeremy, moni
 - johanna wall sound insulation
 - integrate tools
