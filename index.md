@@ -22,6 +22,7 @@
     - [korkfussboden eingangsbereich](#korkfussboden)
     - [strassenzaun und neuer schopf](#schopf)
     - [sauna](#sauna)
+    - [done](#done)
 - gaube
     - spiegel an die nordseitige dachkante montieren
 - kueche
@@ -193,7 +194,7 @@
 - Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010
 - 48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel
 
-## Badflaechenberechnung fuer Natursteinplatten
+## <a name="badflaeche"></a>Badflaechenberechnung fuer Natursteinplatten
 
 - fussboden 11.64 qm &rarr; 12 qm
 - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
@@ -206,7 +207,7 @@
 - 7-9 mm dick 25 cm breit 3 m
 - 30-33 mm dick 25 cm breit 3.3 m
 
-## Badezimmer Solnhofer Naturstein Verlegen a la Madlee
+## <a name="solnhofer"></a>Badezimmer Solnhofer Naturstein Verlegen a la Madlee
 
 - 33 cm breite platten, variierende laenge, handbekantet, nicht geschnitten.
 - eur/qm: iloma 32, also 36.
@@ -274,7 +275,7 @@
     - [multiplex birke schubladenfront](img/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
     - eine steckdose anschliessen in der schublade fuer elektrosachen
 
-## korkfussboden eingangsbereich
+## <a name="korkfussboden"></a>korkfussboden eingangsbereich
 
 - [skizze](img/eingang.png)
 - room dimensions ca. 419 * 275
@@ -290,7 +291,7 @@
     - 34.5 mm insgesamt
 - fussbodenleisten 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
 
-## strassenzaun und neuer schopf
+## <a name="schopf"></a>strassenzaun und neuer schopf
 
 - nutzung von links nach rechts
     - geschuetzter sitzplatz
@@ -482,7 +483,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
 - start dauerauftrag euro 700 to saba
 
-# done
+# <a name="done"></a>done
 
 - [2015](#done2015)
 - [2016](#done2016)
