@@ -13,6 +13,15 @@
     - [garnatilla](#garnatilla)
     - [soundproofing johanna/magnus](#soundproofing)
     - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
+    - [wood](#wood)
+- completed projects
+    - [ofen](#ofen)
+    - [zaun](#zaun) und [zaunpfosten](#zaunpfosten)
+    - [badflaeche fuer natursteinplatten](#badflaeche), [solnhofer](#solnhofer)
+    - [kuechenarbeitsplatte](#kuechenarbeitsplatte)
+    - [korkfussboden eingangsbereich](#korkfussboden)
+    - [strassenzaun und neuer schopf](#schopf)
+    - [sauna](#sauna)
 - gaube
     - spiegel an die nordseitige dachkante montieren
 - kueche
@@ -55,10 +64,15 @@
     - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - warmwasser- und heizungssolaranlage
     - [kompotoi](http://www.kompotoi.ch) compst toilet &ndash; komposttoilette mit trennung von kot und urin
-    - [sauna](#sauna)
     - stahlkessel wanne durchmesser 1.4 hoehe ? <!--- pi = 3.1415926535898; d = 1.4; r = 0.5 * d; pi*d = ca. 4.4 m; pi*r*r = ca. 1.5 qm; 0.2*pi*r*r = 0.3 kubik --->
     - [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
-    - [schmutzwasserpumpe](http://www.schmutzwasserpumpetest.com), [test](http://www.testberichte.de/gartengeraete/764/wasserpumpen.html), [test](http://tauchpumpe-tests.de/#)
+    - aussendusche bauen und anschliessen
+    - compost toilet &ndash; aussenklo und pissoir
+    - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)   
+    - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
+    - install solar hot water panel, e.g., ciprian's romanian suggestion
+    - install solarpumpe in pool
+    - fix table tennis table
 
 ## michael's architectural hints
 
@@ -67,7 +81,7 @@
 - minenergie ist scheisse, nur sache der daemmstofflobby
 - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 
-## wood &ndash; brennholz
+## <a name="wood"></a>wood &ndash; brennholz
 
 - 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
 - 2018-01-11 &ndash; used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
@@ -152,7 +166,6 @@
     - [Kaminofen Fireplace Oslo Speckstein 6 kW](https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html) eur 850
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - [externe verbrennungsluftzufuhr fuer kamine und kaminoefen](http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/)
-
 
 ## <a name="zaun"></a>zaun
 
@@ -1434,7 +1447,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - get a cubic metre or earth from neighbouring wood for hochbeet
 - close drainage hole with bitumen &ndash; kaltasphalt: 0.5 * 3 m = 1.5 m2 * 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
 - order pump schmutzwasserpumpe
-- order solar pump for cistern water
+- order solar pump for cistern water &ndash; [schmutzwasserpumpe](http://www.schmutzwasserpumpetest.com), [test](http://www.testberichte.de/gartengeraete/764/wasserpumpen.html), [test](http://tauchpumpe-tests.de/#)
 
 ## done 2018-04-24
 
@@ -1628,18 +1641,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - build a bookshelf
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
-- install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
-- install solar hot water panel, e.g., ciprian's romanian suggestion
-- install solarpumpe in pool
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - deckenleuchte mit drei spots im buero montieren
-- regal in heizungsschrank
-- fix table tennis table
-- aussendusche bauen und anschliessen
-- compost toilet &ndash; aussenklo und pissoir
-- [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)
+- regal im heizungsschrank in monis bad
 
 ## <a name="shop"></a>shop
 
