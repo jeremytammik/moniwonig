@@ -1641,9 +1641,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo november
 
-- wachs floors: katja, jeremy, moni
+- sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
 - integrate tools
+- clear drain in upstairs bathroom
+- clear drain in upstairs kitchen sink
+- fix drain in left-hand kitchen sink
+- wachs katja apartment floors
+- wachs moni apartment floors
 
 ## <a name="todo-next"></a>todo next
 
