@@ -1635,12 +1635,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 [messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 
-## done 2018-11-16
-
-- wachs upstairs floor
-
 ## done 2018-11-19
 
+- wachs upstairs floor
 - return poliermaschine to axel
 - pay pad at ganter parkett
 - fetch beer, glasses, benches and tables from lasser
@@ -1655,12 +1652,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - holz oben holen, inkl. trockenen baum
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
-- integrate tools
 - clear drain in upstairs bathroom
 - clear drain in upstairs kitchen sink
 - fix drain in left-hand kitchen sink
-- wachs katja apartment floors
-- wachs moni apartment floors
 
 ## <a name="todo-next"></a>todo next
 
@@ -1671,6 +1665,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - deckenleuchte mit drei spots im buero montieren
 - regal im heizungsschrank in monis bad
+- integrate cornelius tools
+- wachs katja apartment floors
+- wachs moni apartment floors
 
 ## <a name="shop"></a>shop
 
