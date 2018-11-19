@@ -1639,8 +1639,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - wachs upstairs floor
 
-## done 2018-11-18
+## done 2018-11-19
 
+- return poliermaschine to axel
+- pay pad at ganter parkett
+- fetch beer, glasses, benches and tables from lasser
 - sound insulation of door between katja upstairs bedrooms
 
 ## <a name="todo-today"></a>todo november
