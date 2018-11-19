@@ -24,36 +24,32 @@
     - [regenwassernutzung](#regenwassernutzung)
     - [sauna](#sauna)
     - [done](#done)
-- gaube
-    - spiegel an die nordseitige dachkante montieren
-- kueche
-    - bretter ueber den balken oberhalb der spuele fertig befestigen
-    - glasschubladenregal fuer tee, gewuerze, zucker, usw.
 - bad
     - wc-dusche besorgen und montieren
 - elektro
+    - better lighting in the schopf
     - zweite led-leuchtroehre im eingang montieren
-    - licht verlegen ans saunahaeuschen und am bauzaun entlang
-    - kurzschluss in der leitung auf dem firstbalken beheben
+    - upstairs leitung auf dem firstbalken wieder anschliessen
     - FI-schutzschalter
     - separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen
-    - install a loder bell upstairs &ndash; vierte klingel an haustuer montieren und tuerklingel anschliessen
+    - install a louder bell upstairs &ndash; vierte klingel an haustuer montieren und tuerklingel anschliessen
 - eingangsbereich
+    - stauram fuer gemuese im winter
     - spiegel anbringen
     - schuhregale anschrauben
     - buecher sortieren und wegraeumen
-    - garderobe, schuhregale, weiterer stauram, schraenke
-    - werkbank und arbeitsbereich einrichten, werkzeug und schrauben
+    - werkzeug, bank und arbeitsbereich einrichten
     - 500 Watt strahler durch energiesparlampen ersetzen
 - dach
     - isoflock oben vom first aus nachstopfen &ndash; axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom [oekobaumarkt in langenau](http://www.oekobau-team.de), axel holt sie mal fuer ruben
 - garten
-    - pumpe installieren fuer gartenwasser
-    - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
+    - wasseranschluss am haus mit waschbecken installieren und mit normalem hahn versehen
     - muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.
+    - gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so
+    - pumpe installieren fuer gartenwasser
 - upstairs
     - install good reading and working light
-    - elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben, licht draussen reparieren
+    - elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben
     - paint north bedroom windows
 - admin
     - feuerversicherung bei SV sparkassenversicherung kuendigen
@@ -69,7 +65,6 @@
     - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
     - warmwasser- und heizungssolaranlage &ndash; install solar hot water panel, e.g., ciprian's romanian suggestion
     - install solarpumpe in pool
-    - fix table tennis table
 
 ## michael's architectural hints
 
@@ -1642,6 +1637,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - pay pad at ganter parkett
 - fetch beer, glasses, benches and tables from lasser
 - sound insulation of door between katja upstairs bedrooms
+- obsolete:
+    - gaube &ndash; spiegel an die nordseitige dachkante montieren
+    - kueche &ndash; bretter ueber den balken oberhalb der spuele fertig befestigen
+    - kueche &ndash; glasschubladenregal fuer tee, gewuerze, zucker, usw.
+    - licht verlegen ans saunahaeuschen und am bauzaun entlang
+    - kurzschluss in der leitung auf dem firstbalken beheben
+    - eingangsbereich &ndash; garderobe, schuhregale, weiterer stauram, schraenke
+    - eingangsbereich &ndash; werkzeug und schrauben
+    - fix table tennis table
 
 ## <a name="todo-today"></a>todo november
 
