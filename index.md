@@ -1630,13 +1630,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 [messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 
-## done 2018-11-19
+## done 2018-11-21
 
 - wachs upstairs floor
 - return poliermaschine to axel
 - pay pad at ganter parkett
 - fetch beer, glasses, benches and tables from lasser
 - sound insulation of door between katja upstairs bedrooms
+- clean drain in upstairs bathroom
+- clean drain in upstairs kitchen sink
+- fix drain in left-hand kitchen sink
 - obsolete:
     - gaube &ndash; spiegel an die nordseitige dachkante montieren
     - kueche &ndash; bretter ueber den balken oberhalb der spuele fertig befestigen
@@ -1656,9 +1659,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - holz oben holen, inkl. trockenen baum
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
-- clear drain in upstairs bathroom
-- clear drain in upstairs kitchen sink
-- fix drain in left-hand kitchen sink
 
 ## <a name="todo-next"></a>todo next
 
