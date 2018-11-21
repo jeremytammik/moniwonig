@@ -1640,6 +1640,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - clean drain in upstairs bathroom
 - clean drain in upstairs kitchen sink
 - fix drain in left-hand kitchen sink
+- prepare sweat lodge wood
+- prepare november party slideshow on moni pc
 - obsolete:
     - gaube &ndash; spiegel an die nordseitige dachkante montieren
     - kueche &ndash; bretter ueber den balken oberhalb der spuele fertig befestigen
@@ -1652,9 +1654,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo november
 
+- fix the sauna bench
 - hook up katja camping gas stove
 - dig up the fireplace
-- fix the sauna bench
 - feuerschale vorbereiten
 - holz oben holen, inkl. trockenen baum
 - sound insulation of door between katja upstairs bedrooms
@@ -1674,6 +1676,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - wachs moni apartment floors
 
 ## <a name="shop"></a>shop
+
+- messingschraube fuer kuechenabfluss M4 x 40 senkkopf
 
 <a href="#top">top</a>
 
