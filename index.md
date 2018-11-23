@@ -1630,7 +1630,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 [messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 
-## done 2018-11-21
+## done 2018-11-23
 
 - wachs upstairs floor
 - return poliermaschine to axel
@@ -1642,6 +1642,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix drain in left-hand kitchen sink
 - prepare sweat lodge wood
 - prepare november party slideshow on moni pc
+- fix the sauna bench
+- hook up katja camping gas stove &ndash; needs camping gas cartouche
+- feuerschale vorbereiten
 - obsolete:
     - gaube &ndash; spiegel an die nordseitige dachkante montieren
     - kueche &ndash; bretter ueber den balken oberhalb der spuele fertig befestigen
@@ -1654,10 +1657,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo november
 
-- fix the sauna bench
-- hook up katja camping gas stove
+- prepare upstairs for friday dinner and sleeping guests
+- prepare upstairs for saturday party
 - dig up the fireplace
-- feuerschale vorbereiten
 - holz oben holen, inkl. trockenen baum
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
