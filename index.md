@@ -1664,6 +1664,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
+- fix curtain hanger wire in moni's office
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
 
