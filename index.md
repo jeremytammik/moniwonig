@@ -429,6 +429,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="cornelius_kitchen"></a>cornelius kitchen
 
+- [final ikea plan](doc/2018-11-30_kitchen_final_change.pdf)
 - simple, easy to clean, white surfaces
 - back wall in glass, not tiled, not painted
 - hanging cupboards above working surface
