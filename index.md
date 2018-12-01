@@ -1662,9 +1662,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - eingangsbereich &ndash; werkzeug und schrauben
     - fix table tennis table
 
+## done 2018-11-30
+
+- messingschraube fuer kuechenabfluss M4 x 40 senkkopf
+- fix curtain hanger wire in moni's office
+
 ## <a name="todo-today"></a>todo today
 
-- fix curtain hanger wire in moni's office
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
 
@@ -1683,7 +1687,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- messingschraube fuer kuechenabfluss M4 x 40 senkkopf
 
 <a href="#top">top</a>
 
