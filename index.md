@@ -452,6 +452,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - retain existing floor
 - strong and clear LED lighting
 - dunstabzugshaube, exhaust ventilator above cooking area, pipe leads out to fresh air, cannot use chimney due to grease, cornelius has one
+- gas meter
+- gas connection
 
 ## <a name="garnatilla"></a>garnatilla
 
