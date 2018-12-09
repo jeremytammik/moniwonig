@@ -1670,14 +1670,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - messingschraube fuer kuechenabfluss M4 x 40 senkkopf
 - fix curtain hanger wire in moni's office
 
-## <a name="todo-today"></a>todo today
+## done 2018-12-04
 
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
 
+## <a name="todo-today"></a>todo today
+
+- einladung fuer haustreffen
+- wellplastik ueber karens hinterausgang flicken
+- holz unter balkon abdecken
+- build a bookshelf for all the books left and above of moni entrance door
+
 ## <a name="todo-next"></a>todo next
 
-- build a bookshelf for all the books
+- build shelves in basement
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
