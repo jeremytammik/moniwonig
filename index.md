@@ -1679,7 +1679,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - einladung fuer haustreffen
 - wellplastik ueber karens hinterausgang flicken
-- holz unter balkon abdecken
+- lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left and above of moni entrance door
 
 ## <a name="todo-next"></a>todo next
