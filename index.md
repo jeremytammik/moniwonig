@@ -1684,6 +1684,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- moni schlafzimmerfensterrollo
 - build shelves in basement kellerregal
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
