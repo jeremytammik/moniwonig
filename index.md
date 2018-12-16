@@ -1675,16 +1675,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
 
-## <a name="todo-today"></a>todo today
+## done 2018-12-14
 
 - einladung fuer haustreffen
+
+## <a name="todo-today"></a>todo today
+
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left and above of moni entrance door
 
 ## <a name="todo-next"></a>todo next
 
-- moni schlafzimmerfensterrollo
+- moni schlafzimmerfensterrollo oder vorfenster
+    - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
     - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
 - build shelves in basement kellerregal
