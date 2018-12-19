@@ -1675,18 +1675,22 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
 
-## done 2018-12-14
+## done 2018-12-19
 
 - einladung fuer haustreffen
+- build a bookshelf above moni's entrance door
 
 ## <a name="todo-today"></a>todo today
 
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
-- build a bookshelf for all the books left and above of moni entrance door
+- build a bookshelf for all the books left 
 
 ## <a name="todo-next"></a>todo next
 
+- plan cornelius kitchen
+- soundproof wall between cornelius and karen's kitchen
+- soundproof wall between cornelius and karen's bathroom
 - moni schlafzimmerfensterrollo oder vorfenster
     - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
@@ -1704,6 +1708,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
+- return messingschauben
 - dachlatten fuer kellerregale
 
 <a href="#top">top</a>
