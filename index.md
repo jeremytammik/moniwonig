@@ -438,6 +438,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 - [final ikea plan](doc/2018-11-30_kitchen_final_change.pdf)
 - simple, easy to clean, white surfaces
+- use bakelisierte multiplex like in the bafidu?
 - back wall in glass, not tiled, not painted
 - hanging cupboards above working surface
 - dishwasher
@@ -1682,13 +1683,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
 
-## done 2018-12-19
+## done 2018-12-21
 
+- help magnus and andrea move in
+- help magnus build new kitchen
 - einladung fuer haustreffen
 - build a bookshelf above moni's entrance door
+- return messingschrauben
+
+## done 2018-12-24
+
+- soundproofed cornelius large room
 
 ## <a name="todo-today"></a>todo today
 
+- wallpaper and paint cornelius large room
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
@@ -1714,7 +1723,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- return messingschauben
 - dachlatten fuer kellerregale
 
 <a href="#top">top</a>
