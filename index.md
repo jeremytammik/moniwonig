@@ -436,7 +436,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="cornelius_kitchen"></a>cornelius kitchen
 
-- [final ikea plan](doc/2018-11-30_kitchen_final_change.pdf)
+- ikea plan: [2018-11-30](doc/2018-11-30_co_kitchen.pdf), [2018-12-29](doc/2018-12-29_co_kitchen.pdf)
 - simple, easy to clean, white surfaces
 - use bakelisierte multiplex like in the bafidu?
 - back wall in glass, not tiled, not painted
