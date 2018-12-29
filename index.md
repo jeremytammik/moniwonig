@@ -10,8 +10,6 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - current projects
-    - [garnatilla](#garnatilla)
-    - [soundproofing johanna/magnus](#soundproofing)
     - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
     - [wood](#wood)
 - completed projects
@@ -23,6 +21,8 @@
     - [strassenzaun und neuer schopf](#schopf)
     - [regenwassernutzung](#regenwassernutzung)
     - [sauna](#sauna)
+    - [garnatilla_2018](#garnatilla_2018)
+    - [soundproofing johanna/magnus](#soundproofing)
     - [done](#done)
 - bad
     - wc-dusche besorgen und montieren
@@ -463,7 +463,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - gas meter
 - gas connection
 
-## <a name="garnatilla"></a>garnatilla
+## <a name="garnatilla_2018"></a>garnatilla 2018
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
 - cover chimney foundation with white cement 
