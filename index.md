@@ -21,7 +21,6 @@
     - [strassenzaun und neuer schopf](#schopf)
     - [regenwassernutzung](#regenwassernutzung)
     - [sauna](#sauna)
-    - [garnatilla_2018](#garnatilla_2018)
     - [soundproofing johanna/magnus](#soundproofing)
     - [done](#done)
 - bad
@@ -58,6 +57,7 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 - projects
+    - [garnatilla](#garnatilla)
     - aussendusche bauen und anschliessen
     - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
     - compost toilet &ndash; aussenklo und pissoir, komposttoilette mit trennung von kot und urin &ndash; [kompotoi](http://www.kompotoi.ch)
@@ -463,7 +463,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - gas meter
 - gas connection
 
-## <a name="garnatilla_2018"></a>garnatilla 2018
+## <a name="garnatilla"></a>garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
 - cover chimney foundation with white cement 
@@ -491,7 +491,6 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - mosquito-proof front door
 - the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
 - main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
-- start dauerauftrag euro 700 to saba
 
 # <a name="done"></a>done
 
@@ -1612,6 +1611,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
         - 394 + 30 = 424 x 965 + 30 = 995
         - 405 + 30 = 435 x 1805 + 30 = 1835
     - krokar kitchen hooks
+- start dauerauftrag euro 700 to saba
 
 ## done 2018-11-11
 
@@ -1691,9 +1691,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build a bookshelf above moni's entrance door
 - return messingschrauben
 
-## done 2018-12-24
+## done 2018-12-30
 
 - soundproofed cornelius large room
+- wallpaper and paint cornelius large room
 
 ## <a name="todo-today"></a>todo today
 
