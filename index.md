@@ -1721,10 +1721,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - integrate cornelius tools
 - wachs katja apartment floors
 - wachs moni apartment floors
+- build roof ridge platform 
 
 ## <a name="shop"></a>shop
 
 - dachlatten fuer kellerregale
+- ikea kitchen material
+- gaszaehler
 
 <a href="#top">top</a>
 
