@@ -1708,6 +1708,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="todo-next"></a>todo next
 
 - plan cornelius kitchen
+- move cornelius bathroom door from kitchen to large room
 - soundproof cornelius walls
 - moni schlafzimmerfensterrollo oder vorfenster
     - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
