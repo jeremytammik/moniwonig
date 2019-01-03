@@ -1699,9 +1699,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="todo-today"></a>todo today
 
 - wallpaper and paint cornelius large room
+- attach lambaret in cornelius large room
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
+- fix bicycle brake
 
 ## <a name="todo-next"></a>todo next
 
@@ -1728,6 +1730,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - dachlatten fuer kellerregale
 - ikea kitchen material
 - gaszaehler
+- fahrradbremskloetze
 
 <a href="#top">top</a>
 
