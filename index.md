@@ -431,6 +431,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - soundproof wall between cornelius bathroom and karen's living room
     - 4.05 * 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/cornelius_bathroom_soundproof_karen_schallisolation.jpg)
     - 12.1 + 10.4 = 22.5 qm
+    - lehmputz, e.g., [benz24](https://benz24.de/lehmputze), [jutegewebe](https://www.ebay.de/itm/Jutegewebe-Lehmbau-50-m-Armierung-Winterschutz-Garten-Maschenweite-8-mm/272588788648)
+    - [kalkputz weiss](https://www.lehm-laden.de/hessler-hp90-naturkalk-feinputz-weiss)
 - additional window insulation? with roof protection above?
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
 - finalise requirements and rent
