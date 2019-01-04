@@ -448,10 +448,11 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 - ikea plan: [2018-11-30](doc/2018-11-30_co_kitchen.pdf), [2018-12-29](doc/2018-12-29_co_kitchen.pdf)
 - simple, easy to clean, white surfaces
-- use bakelisierte multiplex like in the bafidu?
+- stone or steel in water area
+- wood working surface
+- use bakelisierte multiplex siebdruckplatten like in the bafudi, e.g., [glovital](https://glovital.ch/siebdruckplatten), [technische info](https://www.glovital.ch/daten/TechInfo.pdf), [18 mm weiss](https://www.glovital.ch/shop/Holzmaterial/Siebdruckplatten/Siebdruckplatten/Siebdruckplatte-glatt-glatt-WEISS-18-x-2500-x-1250-mm::1208.html)?
 - back wall in glass, not tiled, not painted
 - hanging cupboards above working surface
-- dishwasher
 - no external handles for drawers
 - big sink (not too hard), 
 - forgiving surface for fragile dishes &ndash; hardwood?
