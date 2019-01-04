@@ -10,7 +10,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - current projects
-    - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
+    - [cornelius apartment](#cornelius), [door transplant](#cornelius_door_transplant) and [kitchen](#cornelius_kitchen)
     - [wood](#wood)
 - completed projects
     - [ofen](#ofen)
@@ -419,8 +419,9 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - [sketch](img/2018-11-09_plan_fuer_schallisolierung.pdf)
     - cornelius and eckhard ended up doing part of it with steicoflex 38 instead of gutex, from [quabeck](https://www.quabeck-holz.de)
 
-## <a name="cornelius"></a>cornelius apartment
+## <a name="cornelius"></a> cornelius apartment
 
+- [transplant bathroom door](#cornelius_door_transplant)
 - plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
 - soundproof wall between cornelius big room and karen kitchen
@@ -434,7 +435,16 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
 - finalise requirements and rent
 
-## <a name="cornelius_kitchen"></a>cornelius kitchen
+## <a name="cornelius_door_transplant"></a> transplant bathroom door
+
+- move radiator heating pipes
+- make hole for new door
+- build step in wall
+- insulate foundation
+- remove old door
+- install new door
+
+## <a name="cornelius_kitchen"></a> cornelius kitchen
 
 - ikea plan: [2018-11-30](doc/2018-11-30_co_kitchen.pdf), [2018-12-29](doc/2018-12-29_co_kitchen.pdf)
 - simple, easy to clean, white surfaces
@@ -1698,7 +1708,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
-- wallpaper and paint cornelius large room
+- repaint new wallpaper in cornelius large room
 - attach lambaret in cornelius large room
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
@@ -1709,7 +1719,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - plan cornelius kitchen
 - move cornelius bathroom door from kitchen to large room
-- soundproof cornelius walls
+- soundproof karen living room wall
 - moni schlafzimmerfensterrollo oder vorfenster
     - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
@@ -1732,6 +1742,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - ikea kitchen material
 - gaszaehler
 - fahrradbremskloetze
+- kupfrrohrbauteile fuer rohrverlegung
 
 <a href="#top">top</a>
 
