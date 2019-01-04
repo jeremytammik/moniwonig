@@ -453,7 +453,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - use bakelisierte multiplex siebdruckplatten like in the bafudi, e.g., [glovital](https://glovital.ch/siebdruckplatten), [technische info](https://www.glovital.ch/daten/TechInfo.pdf), [18 mm weiss](https://www.glovital.ch/shop/Holzmaterial/Siebdruckplatten/Siebdruckplatten/Siebdruckplatte-glatt-glatt-WEISS-18-x-2500-x-1250-mm::1208.html)?
 - back wall in glass, not tiled, not painted
 - hanging cupboards above working surface
-- no external handles for drawers
+- no external handles for drawers, 
 - big sink (not too hard), 
 - forgiving surface for fragile dishes &ndash; hardwood?
 - big accessible working surface "u" shape
@@ -1735,7 +1735,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - integrate cornelius tools
 - wachs katja apartment floors
 - wachs moni apartment floors
-- build roof ridge platform 
+- build roof ridge platform
+- improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 
 ## <a name="shop"></a>shop
 
