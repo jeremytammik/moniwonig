@@ -431,7 +431,16 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - soundproof wall between cornelius bathroom and karen's living room
     - 4.05 * 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/cornelius_bathroom_soundproof_karen_schallisolation.jpg)
     - 12.1 + 10.4 = 22.5 qm
-    - lehmputz, e.g., [benz24](https://benz24.de/lehmputze), [jutegewebe](https://www.ebay.de/itm/Jutegewebe-Lehmbau-50-m-Armierung-Winterschutz-Garten-Maschenweite-8-mm/272588788648)
+    - lehmputz &ndash; Ergiebigkeit 25 kg ergeben ca. 17 l Putzmörtel, bei 1 cm Putzauftrag reicht ein Sack für ca. 1.7 qm, also ca. 155 kg fuer 10.4 qm &ndash;
+      [benz24](https://benz24.de/lehmputze),
+      [jutegewebe](https://www.ebay.de/itm/Jutegewebe-Lehmbau-50-m-Armierung-Winterschutz-Garten-Maschenweite-8-mm/272588788648),
+      [agaton lehmstreichputz](https://www.ebay.de/itm/Agaton-Lehm-Streichputz-10-kg-Eimer/273626754973),
+      [agaton lehm edelputz](https://www.ebay.de/itm/1-96-kg-Agaton-Lehm-Edelputz-25-kg-Sack-Fertigmischung/311716106970) eur 50,
+      [lehmfeinputz](https://www.ebay.de/itm/Lehmfeinputz-25-kg-Lehmputz-Lehmedelputz-2-76-1kg/172564231173) 25 kg reicht für ca. 8 qm bei einer Putzschichtdicke von 2 mm
+      [Lehmfeinputz](https://www.ebay.de/itm/Lehmfeinputz-Lehmsteinputz-okologisch/252822145967) ca. 4,2 kg/m2 Trockenmörtel bei einer Putzstärke von 2,5 mm, also 25 kg fuer 8 m2; Bei stark saugenden oder staubigen Flächen ist ein Vornässen unerläßlich, Fugenstöße sind vollfugig zu verspachteln und mit einer Gewebeeinlage zu versehen, Wasserbedarf beginnen mit 5 Liter pro 25 kg Sack, Materialverbrauch Lehmfeinputz ca. 4,2 kg/m2 Trockenmörtel bei einer Putzstärke von 2,5 mm, 25 kg fuer 8 m2, eur 57.60,
+      [conluto](https://www.amazon.de/s/ref=nb_sb_noss_1) eur 52.69,
+      [lehmoberputz](https://www.bauhaus.info/lehmputze/claytec-lehm-oberputz-fein-06/p/24983758) eur 17.50,
+      [lehmstreichputz](https://www.bauhaus.info/lehmputze/claytec-lehm-streichputz-hw/p/24983730) braun eur 19.30
     - [kalkputz weiss](https://www.lehm-laden.de/hessler-hp90-naturkalk-feinputz-weiss)
 - additional window insulation? with roof protection above?
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
