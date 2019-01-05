@@ -1722,17 +1722,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2019-01-05
 
 - shop
-    - kupfrrohrbauteile fuer rohrverlegung
-    - armierungsgewebe
-    - holzleiste
-    - bilderaufhaengungsleiste
-    - montagekleber
-    - putz
+    - kupferrohrbauteile fuer rohrverlegung around transplated door
+    - karen wall soundproofing: abdeckfolie, holzleiste, galerieleiste, montagekleber, armierungsgewebe, putz
 
 ## <a name="todo-today"></a>todo today
 
 - repaint new wallpaper in cornelius large room
 - attach lambaret in cornelius large room
+- make a test hole for new door
+- reroute heating pipes
+- remove cornelius bathroom door and frame
+- remove karen's old bathroom door and frame
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
