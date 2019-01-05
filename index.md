@@ -1719,6 +1719,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - soundproofed cornelius large room
 - wallpaper and paint cornelius large room
 
+## done 2019-01-05
+
+- shop
+    - kupfrrohrbauteile fuer rohrverlegung
+    - armierungsgewebe
+    - holzleiste
+    - bilderaufhaengungsleiste
+    - montagekleber
+    - putz
+
 ## <a name="todo-today"></a>todo today
 
 - repaint new wallpaper in cornelius large room
@@ -1756,7 +1766,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - ikea kitchen material
 - gaszaehler
 - fahrradbremskloetze
-- kupfrrohrbauteile fuer rohrverlegung
 
 <a href="#top">top</a>
 
