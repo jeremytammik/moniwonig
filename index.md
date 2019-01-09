@@ -1719,20 +1719,28 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - soundproofed cornelius large room
 - wallpaper and paint cornelius large room
 
-## done 2019-01-05
+## done 2019-01-09
 
 - shop
     - kupferrohrbauteile fuer rohrverlegung around transplated door
     - karen wall soundproofing: abdeckfolie, holzleiste, galerieleiste, montagekleber, armierungsgewebe, putz
+- repaint new wallpaper in cornelius large room
+- attach lambaret in cornelius large room
+- soundproof karen living room wall
+    - remove old bathroom door and frame
+    - soundproof door frame with rubber mats
+    - flatten door frame with plasterboard
+    - install leerrohr
+    - fasten wood 40 x 60 mm at top for galerieleiste
+    - glue on gutex boards
+    - cement around chimney
+    - verputzen mit [knauf sm 700 pro](https://www.knauf.de/profi/sortiment/produkte/sm700-pro.html#showtab-tab_1474_3)
 
 ## <a name="todo-today"></a>todo today
 
-- repaint new wallpaper in cornelius large room
-- attach lambaret in cornelius large room
 - make a test hole for new door
 - reroute heating pipes
 - remove cornelius bathroom door and frame
-- remove karen's old bathroom door and frame
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
@@ -1740,9 +1748,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - plan cornelius kitchen
 - move cornelius bathroom door from kitchen to large room
-- soundproof karen living room wall
 - moni schlafzimmerfensterrollo oder vorfenster
     - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
@@ -1766,6 +1774,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - ikea kitchen material
 - gaszaehler
 - fahrradbremskloetze
+- warmwasser und kaltwasser verbrauchszaehler und absperrhaehne
 
 <a href="#top">top</a>
 
