@@ -10,7 +10,7 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - current projects
-    - [cornelius apartment](#cornelius), [door transplant](#cornelius_door_transplant) and [kitchen](#cornelius_kitchen)
+    - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
     - [wood](#wood)
 - completed projects
     - [ofen](#ofen)
@@ -421,7 +421,6 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="cornelius"></a> cornelius apartment
 
-- [transplant bathroom door](#cornelius_door_transplant)
 - plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
 - soundproof wall between cornelius big room and karen kitchen
@@ -446,15 +445,6 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - additional window insulation? with roof protection above?
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
 - finalise requirements and rent
-
-## <a name="cornelius_door_transplant"></a> transplant bathroom door
-
-- move radiator heating pipes
-- make hole for new door
-- build step in wall
-- insulate foundation
-- remove old door
-- install new door
 
 ## <a name="cornelius_kitchen"></a> cornelius kitchen
 
@@ -1719,6 +1709,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - soundproofed cornelius large room
 - wallpaper and paint cornelius large room
 
+## <a name="cornelius_door_transplant"></a> cancelled 2019-01-09 &ndash; transplant cornelius bathroom door
+
+- move cornelius bathroom door from kitchen to large room
+- make a test hole for new door
+- reroute heating pipes
+- remove cornelius bathroom door and frame
+- move radiator heating pipes
+- make hole for new door
+- build step in wall
+- insulate foundation
+- remove old door
+- install new door
+
 ## done 2019-01-09
 
 - shop
@@ -1726,6 +1729,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - karen wall soundproofing: abdeckfolie, holzleiste, galerieleiste, montagekleber, armierungsgewebe, putz
 - repaint new wallpaper in cornelius large room
 - attach lambaret in cornelius large room
+- fixed a wobbly stepping stone in staircase beside pool
 - soundproof karen living room wall
     - remove old bathroom door and frame
     - soundproof door frame with rubber mats
@@ -1738,9 +1742,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
-- make a test hole for new door
-- reroute heating pipes
-- remove cornelius bathroom door and frame
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
@@ -1748,13 +1749,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
-- moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - plan cornelius kitchen
-- move cornelius bathroom door from kitchen to large room
-- moni schlafzimmerfensterrollo oder vorfenster
-    - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
-    - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
-    - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
+- moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - build shelves in basement kellerregal
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
@@ -1766,6 +1762,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - wachs katja apartment floors
 - wachs moni apartment floors
 - build roof ridge platform
+- moni schlafzimmerfensterrollo oder vorfenster
+    - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
+    - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
+    - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
 - improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 
 ## <a name="shop"></a>shop
