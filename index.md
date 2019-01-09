@@ -418,15 +418,15 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - tel rainer henkel wall 10.69 / qm + mwst therm 10.37
     - [sketch](img/2018-11-09_plan_fuer_schallisolierung.pdf)
     - cornelius and eckhard ended up doing part of it with steicoflex 38 instead of gutex, from [quabeck](https://www.quabeck-holz.de)
+- soundproofed wall between cornelius big room and karen kitchen
+    - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/cornelius_main_room_soundproof_kursraum_schallisolation.jpg)
+    - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
+    - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm 
 
 ## <a name="cornelius"></a> cornelius apartment
 
 - plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
-- soundproof wall between cornelius big room and karen kitchen
-    - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/cornelius_main_room_soundproof_kursraum_schallisolation.jpg)
-    - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
-    - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm 
 - soundproof wall between cornelius bathroom and karen's living room
     - 4.05 * 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/cornelius_bathroom_soundproof_karen_schallisolation.jpg)
     - 12.1 + 10.4 = 22.5 qm
