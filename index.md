@@ -1766,6 +1766,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
     - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
+- make the heating quieter, dampen the noise in moni bathroom
 - improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 
 ## <a name="shop"></a>shop
