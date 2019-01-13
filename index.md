@@ -1771,11 +1771,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
+- return montgekleber to both g+m and bauhaus
+- taps and water meters &ndash; warm- und kaltwasser verbrauchszaehler und absperrhaehne
+- tap knob
 - dachlatten fuer kellerregale
 - ikea kitchen material
 - gaszaehler
 - fahrradbremskloetze
-- warmwasser und kaltwasser verbrauchszaehler und absperrhaehne
+- [flood light](https://www.conrad.de/de/osram-endura-flood-4058075064454-led-aussenstrahler-50-w-warm-weiss-1602610.html)
+  or [LED-Aussenstrahler mit Bewegungsmelder](https://www.conrad.de/de/goobay-59082-led-aussenstrahler-mit-bewegungsmelder-tageslicht-weiss-1597826.html)
 
 <a href="#top">top</a>
 
