@@ -1780,6 +1780,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fahrradbremskloetze
 - [flood light](https://www.conrad.de/de/osram-endura-flood-4058075064454-led-aussenstrahler-50-w-warm-weiss-1602610.html)
   or [LED-Aussenstrahler mit Bewegungsmelder](https://www.conrad.de/de/goobay-59082-led-aussenstrahler-mit-bewegungsmelder-tageslicht-weiss-1597826.html)
+- dehumidifier
 
 <a href="#top">top</a>
 
