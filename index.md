@@ -1740,16 +1740,29 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cement around chimney
     - verputzen mit [knauf sm 700 pro](https://www.knauf.de/profi/sortiment/produkte/sm700-pro.html#showtab-tab_1474_3)
 
+## done 2019-01-15
+
+- plan cornelius kitchen
+- shop
+    - return montgekleber to both g+m and bauhaus
+    - taps and water meters &ndash; warm- und kaltwasser verbrauchszaehler und absperrhaehne
+    - [flood light](https://www.conrad.de/de/osram-endura-flood-4058075064454-led-aussenstrahler-50-w-warm-weiss-1602610.html)
+      or [LED-Aussenstrahler mit Bewegungsmelder](https://www.conrad.de/de/goobay-59082-led-aussenstrahler-mit-bewegungsmelder-tageslicht-weiss-1597826.html)
+    - dehumidifier
+    - tap knob
+- hooked up cornelius kitchen sink drain
+
 ## <a name="todo-today"></a>todo today
 
+- fix upper bathroom sink tap knob
+
+## <a name="todo-next"></a>todo next
+
+- install led-aussenstrahler
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
 - fix bicycle brake
-
-## <a name="todo-next"></a>todo next
-
-- plan cornelius kitchen
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - build shelves in basement kellerregal
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
@@ -1771,16 +1784,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- return montgekleber to both g+m and bauhaus
-- taps and water meters &ndash; warm- und kaltwasser verbrauchszaehler und absperrhaehne
-- tap knob
+- fahrradbremskloetze
 - dachlatten fuer kellerregale
 - ikea kitchen material
 - gaszaehler
-- fahrradbremskloetze
-- [flood light](https://www.conrad.de/de/osram-endura-flood-4058075064454-led-aussenstrahler-50-w-warm-weiss-1602610.html)
-  or [LED-Aussenstrahler mit Bewegungsmelder](https://www.conrad.de/de/goobay-59082-led-aussenstrahler-mit-bewegungsmelder-tageslicht-weiss-1597826.html)
-- dehumidifier
 
 <a href="#top">top</a>
 
