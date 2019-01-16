@@ -1740,7 +1740,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cement around chimney
     - verputzen mit [knauf sm 700 pro](https://www.knauf.de/profi/sortiment/produkte/sm700-pro.html#showtab-tab_1474_3)
 
-## done 2019-01-15
+## done 2019-01-16
 
 - plan cornelius kitchen
 - shop
@@ -1751,13 +1751,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - dehumidifier
     - tap knob
 - hooked up cornelius kitchen sink drain
+- fix upper bathroom sink tap knob
+- remove cornelius bathtub to access pipework below it
 
 ## <a name="todo-today"></a>todo today
 
-- fix upper bathroom sink tap knob
+- measure plastic piping and obtain suitable fittings for closing and connecting
+- install water meters and taps for cornelius hot and cold water
+- buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html)
+- plan cornelius sink shelf
+
 
 ## <a name="todo-next"></a>todo next
 
+- restore cornelius bathtub
 - install led-aussenstrahler
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
@@ -1784,10 +1791,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
+- fittings for plastic piping
+- 15 mm copper pipes for cornelius hat and cold water
 - fahrradbremskloetze
 - dachlatten fuer kellerregale
 - ikea kitchen material
 - gaszaehler
+- return
+    - 12 mm copper tubing
+    - unused HT-abzweig
 
 <a href="#top">top</a>
 
