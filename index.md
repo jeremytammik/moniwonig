@@ -1750,8 +1750,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
       or [LED-Aussenstrahler mit Bewegungsmelder](https://www.conrad.de/de/goobay-59082-led-aussenstrahler-mit-bewegungsmelder-tageslicht-weiss-1597826.html)
     - dehumidifier
     - tap knob
-- hooked up cornelius kitchen sink drain
 - fix upper bathroom sink tap knob
+- hooked up cornelius kitchen sink drain
 - remove cornelius bathtub to access pipework below it
 
 ## <a name="todo-today"></a>todo today
