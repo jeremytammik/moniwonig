@@ -452,7 +452,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - simple, easy to clean, white surfaces
 - stone or steel in water area
 - wood working surface
-- use bakelisierte multiplex siebdruckplatten like in the bafudi, e.g., [glovital](https://glovital.ch/siebdruckplatten), [technische info](https://www.glovital.ch/daten/TechInfo.pdf), [18 mm weiss](https://www.glovital.ch/shop/Holzmaterial/Siebdruckplatten/Siebdruckplatten/Siebdruckplatte-glatt-glatt-WEISS-18-x-2500-x-1250-mm::1208.html)?
+- use bakelisierte multiplex siebdruckplatten like in the bafudi, e.g., [glovital](https://glovital.ch/siebdruckplatten), [technische info](https://www.glovital.ch/daten/TechInfo.pdf), [18 mm weiss](https://www.glovital.ch/shop/Holzmaterial/Siebdruckplatten/Siebdruckplatten/Siebdruckplatte-glatt-glatt-WEISS-18-x-2500-x-1250-mm::1208.html), [Holzwurm custom](https://www.ebay.de/itm/Filmsperrholz-Siebdruckplatte-Film-Film-Weis-Versch-Starken/173481167340)
 - back wall in glass, not tiled, not painted
 - hanging cupboards above working surface
 - no external handles for drawers, 
@@ -1762,10 +1762,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="todo-today"></a>todo today
 
 - install cornelius hot water meter and shutoff tap
-- hook up bathtub and sink taps to new supply
+- hook up toilet, washing machine, bathtub and sink taps to new supply
 - prepare takeoff for kitchen connections
 - buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html)
 - plan cornelius sink shelf
+- plan kitchen, order white siebdruckplatte
 
 ## <a name="todo-next"></a>todo next
 
