@@ -1768,11 +1768,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - cornelius bathroom:
     - disconnected sink and bathtub hot water taps
     - hook up toilet and washing machine to new supply
+    - hook up bathtub and sink cold water taps to new supply
 
 
 ## <a name="todo-today"></a>todo today
 
-- hook up bathtub and sink cold water taps to new supply
 - install cornelius hot water meter and shutoff tap
 - install kitchen shutoff taps
 - install kitchen sink tap
