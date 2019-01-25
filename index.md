@@ -1784,9 +1784,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- kitchen sink [Norrsjön](https://www.ikea.com/de/de/catalog/products/S19157915) 73 x 44 cm
+- two kitchen cupboards [Metod/Maximera High cabinet with 2 doors and 4 drawers, white/kungsbacka matt white](https://www.ikea.com/gb/en/products/kitchen-products/kitchen-cabinets/metod-maximera-hi-cab-w-2-doors-4-drawers-white-kungsbacka-matt-white-spr-69285642) 60 x 60 x 240 cm
+- working surface height 92 cm; natural light wood like birch or oak
+- buy strahler from conrad once you have a voicher
 - restore cornelius bathtub
 - install led-aussenstrahler
-- order naturstein
+- order naturstein for garden walls
 - unite and rebuild the two hochbeete
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
