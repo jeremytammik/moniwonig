@@ -1759,10 +1759,24 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - connected cold water meter and shutoff tap
     - disconnected sink and bathtub cold water taps
 
+## done 2019-01-25
+
+- return
+    - 12 mm copper tubing and fittings and plastic holders
+    - unused HT-abzweig
+    - 15 mm Cu T
+- cornelius bathroom:
+    - disconnected sink and bathtub hot water taps
+    - hook up toilet and washing machine to new supply
+
+
 ## <a name="todo-today"></a>todo today
 
+- hook up bathtub and sink cold water taps to new supply
 - install cornelius hot water meter and shutoff tap
-- hook up toilet, washing machine, bathtub and sink taps to new supply
+- install kitchen shutoff taps
+- install kitchen sink tap
+- hook up bathtub and sink hot water taps to new supply
 - prepare takeoff for kitchen connections
 - buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html)
 - plan cornelius sink shelf
@@ -1772,6 +1786,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - restore cornelius bathtub
 - install led-aussenstrahler
+- order naturstein
+- unite and rebuild the two hochbeete
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
@@ -1797,15 +1813,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- 15 mm copper pipes for cornelius hat and cold water
-- fahrradbremskloetze
 - dachlatten fuer kellerregale
 - ikea kitchen material
 - gaszaehler
-- return
-    - 12 mm copper tubing and fittings and plastic holders
-    - unused HT-abzweig
-    - 15 mm Cu T
 
 <a href="#top">top</a>
 
