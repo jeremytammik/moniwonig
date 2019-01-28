@@ -1759,7 +1759,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - connected cold water meter and shutoff tap
     - disconnected sink and bathtub cold water taps
 
-## done 2019-01-25
+## done 2019-01-28
 
 - obsolete: white siebdruckplatte
 - return
@@ -1771,14 +1771,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - hook up toilet and washing machine to new supply
     - hook up bathtub and sink cold water taps to new supply
     - install kitchen cold water shutoff taps
+    - hook up bathtub and sink hot water taps to new supply
+    - install cornelius hot water meter and shutoff tap
+    - install kitchen hot water shutoff taps
 
 ## <a name="todo-today"></a>todo today
 
-- hook up bathtub and sink hot water taps to new supply
-- install cornelius hot water meter and shutoff tap
-- install kitchen hot water shutoff taps
-- install kitchen sink tap
-- prepare takeoff for kitchen connections
+- install kitchen sink, dishwasher and water filter taps
 - buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html)
 - plan cornelius sink shelf
 - plan kitchen
