@@ -751,7 +751,9 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - keep the parquet floor, no cork, so ignore this research: Korkfussboden 6 mm [Korkplatten 925 x 625 x 6 mm](http://korkrollen.de/category/korkplatten), [Klebekork](http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html)
     - fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies! nope, keep parkett
     - 91 cm arbeitshoehe OK arbeitsplatte
-    - unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.: [ikea kitchen korpus plan and shopping list](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
+    - unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.:
+      [ikea kitchen korpus plan](doc/2016_09_09_moniwonig_ikea_kuechenkorpus18.pdf)
+      and [shopping list](doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf)
     - heizkoerper schlanker und breiter machen, maximale leistung
 - stauraum
     - eliminated the idea of apothekerschrank auszug 
@@ -795,7 +797,8 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - kueche
     - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
     - gasherd anschauen &ndash; done, we bought a gas cooking range and an electric stove
-    - [ikea kitchen korpus plan and shopping list](doc/2016-09-07_moniwonigkuechenkorpus_merkzettel.pdf)
+    - [ikea kitchen korpus plan](doc/2016_09_09_moniwonig_ikea_kuechenkorpus18.pdf)
+      and [shopping list](doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf)
     - warmer fleck im kuehlschrankinnenraum isolieren
     - fussboden in der kueche aufraeumen und wachsen
     - ziegelecke in kuechenwand grundieren und schleifen
