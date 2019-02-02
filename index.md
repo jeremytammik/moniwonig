@@ -1780,9 +1780,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - install cornelius hot water meter and shutoff tap
     - install kitchen hot water shutoff taps
 
+## done 2019-02-02
+
+- installed kitchen sink, dishwasher and water filter taps
+- cemented in water pipes and electical leerrohr in kitchen walls
+
+
 ## <a name="todo-today"></a>todo today
 
-- install kitchen sink, dishwasher and water filter taps
 - buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html)
 - plan cornelius sink shelf
 - plan kitchen
