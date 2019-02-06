@@ -450,7 +450,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="cornelius_kitchen"></a> cornelius kitchen
 
-- ikea plan: [2018-11-30](doc/2018-11-30_co_kitchen.pdf), [2018-12-29](doc/2018-12-29_co_kitchen.pdf)
+- [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen)
+- ikea plan pdfs: [2018-11-30](doc/2018-11-30_co_kitchen.pdf), [2018-12-29](doc/2018-12-29_co_kitchen.pdf)
 - simple, easy to clean, white surfaces
 - stone or steel in water area
 - wood working surface
@@ -1780,14 +1781,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - install cornelius hot water meter and shutoff tap
     - install kitchen hot water shutoff taps
 
-## done 2019-02-02
+## done 2019-02-04
 
 - installed kitchen sink, dishwasher and water filter taps
 - cemented in water pipes and electical leerrohr in kitchen walls
+- connected electricity for fridge and added new bathroom light switch and plug
+- restored cornelius bathtub
 
 
 ## <a name="todo-today"></a>todo today
 
+- buy stuff in ikea
+- fix the hole in the bathroom back wall
+- install spotlights above bathroom sink
+- connect electricity for plugs above kitchen sink
 - buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html)
 - plan cornelius sink shelf
 - plan kitchen
@@ -1798,7 +1805,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - two kitchen cupboards [Metod/Maximera High cabinet with 2 doors and 4 drawers, white/kungsbacka matt white](https://www.ikea.com/gb/en/products/kitchen-products/kitchen-cabinets/metod-maximera-hi-cab-w-2-doors-4-drawers-white-kungsbacka-matt-white-spr-69285642) 60 x 60 x 240 cm
 - working surface height 92 cm; natural light wood like birch or oak
 - buy strahler from conrad once you have a voicher
-- restore cornelius bathtub
 - install led-aussenstrahler
 - order naturstein for garden walls
 - unite and rebuild the two hochbeete
