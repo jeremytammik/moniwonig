@@ -450,7 +450,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ## <a name="cornelius_kitchen"></a> cornelius kitchen
 
-- [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen)
+- [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen), [shopping list](doc/2019-02-07_ikea_kitchen_shopping_list_cornelius.pdf)
 - ikea plan pdfs: [2018-11-30](doc/2018-11-30_co_kitchen.pdf), [2018-12-29](doc/2018-12-29_co_kitchen.pdf)
 - simple, easy to clean, white surfaces
 - stone or steel in water area
