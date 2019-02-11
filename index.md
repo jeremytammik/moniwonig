@@ -1798,7 +1798,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
-- plaster sink and cooking wall surfaces
+- plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm
 - install spotlights above bathroom sink
 - plan cornelius sink shelf
 - plan kitchen
