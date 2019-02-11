@@ -1781,28 +1781,30 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - install cornelius hot water meter and shutoff tap
     - install kitchen hot water shutoff taps
 
-## done 2019-02-04
+## done 2019-02-11
 
+- fix bicycle brake
 - installed kitchen sink, dishwasher and water filter taps
 - cemented in water pipes and electical leerrohr in kitchen walls
 - connected electricity for fridge and added new bathroom light switch and plug
 - restored cornelius bathtub
+- buy kitchen stuff in ikea
+- fix the hole in the bathroom back wall
+- connect electricity for plugs above kitchen sink
+- buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html) &ndash; ended up with gas cooking area and electric baking oven: [Gaskochfeld PKM GKM4.1](https://www.hornbach.de/shop/Gaskochfeld-PKM-GKM4-1-Breite-60-cm/6823873/artikel.html) + [Backofen PKM F7-2 65 liter](https://www.hornbach.de/shop/Backofen-PKM-F7-2-Nutzungsvolumen-65-l/6702325/artikel.html)
+- kitchen sink [Norrsjön](https://www.ikea.com/de/de/catalog/products/S19157915) 73 x 44 cm &ndash; obsolete
+- two kitchen cupboards [Metod/Maximera High cabinet with 2 doors and 4 drawers, white/kungsbacka matt white](https://www.ikea.com/gb/en/products/kitchen-products/kitchen-cabinets/metod-maximera-hi-cab-w-2-doors-4-drawers-white-kungsbacka-matt-white-spr-69285642) 60 x 60 x 240 cm
 
 
 ## <a name="todo-today"></a>todo today
 
-- buy stuff in ikea
-- fix the hole in the bathroom back wall
+- plaster sink and cooking wall surfaces
 - install spotlights above bathroom sink
-- connect electricity for plugs above kitchen sink
-- buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html)
 - plan cornelius sink shelf
 - plan kitchen
 
 ## <a name="todo-next"></a>todo next
 
-- kitchen sink [Norrsjön](https://www.ikea.com/de/de/catalog/products/S19157915) 73 x 44 cm
-- two kitchen cupboards [Metod/Maximera High cabinet with 2 doors and 4 drawers, white/kungsbacka matt white](https://www.ikea.com/gb/en/products/kitchen-products/kitchen-cabinets/metod-maximera-hi-cab-w-2-doors-4-drawers-white-kungsbacka-matt-white-spr-69285642) 60 x 60 x 240 cm
 - working surface height 92 cm; natural light wood like birch or oak
 - buy strahler from conrad once you have a voicher
 - install led-aussenstrahler
@@ -1811,7 +1813,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
-- fix bicycle brake
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - build shelves in basement kellerregal
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
@@ -1834,7 +1835,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## <a name="shop"></a>shop
 
 - dachlatten fuer kellerregale
-- ikea kitchen material
 - gaszaehler
 
 <a href="#top">top</a>
