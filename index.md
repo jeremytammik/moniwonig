@@ -1781,9 +1781,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - install cornelius hot water meter and shutoff tap
     - install kitchen hot water shutoff taps
 
-## done 2019-02-11
+## done 2019-02-15
 
 - fix bicycle brake
+- plan kitchen
 - installed kitchen sink, dishwasher and water filter taps
 - cemented in water pipes and electical leerrohr in kitchen walls
 - connected electricity for fridge and added new bathroom light switch and plug
@@ -1794,16 +1795,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html) &ndash; ended up with gas cooking area and electric baking oven: [Gaskochfeld PKM GKM4.1](https://www.hornbach.de/shop/Gaskochfeld-PKM-GKM4-1-Breite-60-cm/6823873/artikel.html) + [Backofen PKM F7-2 65 liter](https://www.hornbach.de/shop/Backofen-PKM-F7-2-Nutzungsvolumen-65-l/6702325/artikel.html)
 - kitchen sink [Norrsjön](https://www.ikea.com/de/de/catalog/products/S19157915) 73 x 44 cm &ndash; obsolete
 - two kitchen cupboards [Metod/Maximera High cabinet with 2 doors and 4 drawers, white/kungsbacka matt white](https://www.ikea.com/gb/en/products/kitchen-products/kitchen-cabinets/metod-maximera-hi-cab-w-2-doors-4-drawers-white-kungsbacka-matt-white-spr-69285642) 60 x 60 x 240 cm
+- plan cornelius sink shelf
+- started installing kitchen sink and cooking corpus
+- plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm
+- repainted kitchen walls and ceiling
 
 
 ## <a name="todo-today"></a>todo today
 
 - gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" &rarr; AD 21.3, 3/4" &rarr; AD 26.9
 - order gas meter, reduction piece and gas cooking place connector
-- plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm
+- gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
+- BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
 - install spotlights above bathroom sink
-- plan cornelius sink shelf
-- plan kitchen
 
 ## <a name="todo-next"></a>todo next
 
