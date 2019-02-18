@@ -1803,6 +1803,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
+- move left light switch and plug into cupboard
+- replace right electrical socket by extension cord under stove
 - gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" &rarr; AD 21.3, 3/4" &rarr; AD 26.9
 - order gas meter, reduction piece and gas cooking place connector
 - gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
