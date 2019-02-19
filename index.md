@@ -84,9 +84,10 @@
 - 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3 
 - 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3 
 - 2018-08-26 &ndash; completed row 13; rowvolume = ca. 0.25*2.2*2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
-- 2018-08-27 &ndash; started row 14 &ndash; it is already dry, for sauna
-- 2019-01-22 &ndash; used up row 4 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2018-08-27 &ndash; started building row 14 &ndash; it is already dry, for sauna
+- 2019-01-22 &ndash; used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
 - 2019-02-02 &ndash; used up half of row 5 
+- 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
 
 ## neues haus
 
