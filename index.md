@@ -1799,16 +1799,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - started installing kitchen sink and cooking corpus
 - plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm
 - repainted kitchen walls and ceiling
-- ordered gas valve and meter: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](doc/kromschroeder_gaszaehler_DS_BK_4_DE.pdf)
+- ordered gas valve and gas meter: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](doc/kromschroeder_gaszaehler_DS_BK_4_DE.pdf)
+- keine gassteckdose, no gas cooking place connector required
+- replace right electrical socket by extension cord under stove
+- prepared holes for gas pipe and electrical oven plug connection
+- 16 cm wooden block to support cooking and working surface cupboards
 
 ## <a name="todo-today"></a>todo today
 
-- 16 cm wooden block to support cooking and working surface cupboards
 - finish support for sink and working surface left of it
 - move left light switch and plug onto cupboard
-- replace right electrical socket by extension cord under stove
 - gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" &rarr; AD 21.3, 3/4" &rarr; AD 26.9
-- order gas meter and gas cooking place connector
 - gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
 - BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
 - install spotlights above bathroom sink
