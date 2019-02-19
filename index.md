@@ -1803,10 +1803,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
-- move left light switch and plug into cupboard
+- 16 cm wooden block to support cooking and working surface cupboards
+- finish support for sink and working surface left of it
+- move left light switch and plug onto cupboard
 - replace right electrical socket by extension cord under stove
 - gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" &rarr; AD 21.3, 3/4" &rarr; AD 26.9
-- order gas meter, reduction piece and gas cooking place connector
+- order gas meter and gas cooking place connector
 - gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
 - BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
 - install spotlights above bathroom sink
@@ -1842,7 +1844,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
+- doppelaufputzsteckdose herd
+- aufputz steckdose + schalter kuecheneingangstuer
+- 5 x 90 grad 1/2 zoll bogen
 - dachlatten fuer kellerregale
+- gashahn
 - gaszaehler
 
 <a href="#top">top</a>
