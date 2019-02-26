@@ -1796,32 +1796,41 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html) &ndash; ended up with gas cooking area and electric baking oven: [Gaskochfeld PKM GKM4.1](https://www.hornbach.de/shop/Gaskochfeld-PKM-GKM4-1-Breite-60-cm/6823873/artikel.html) + [Backofen PKM F7-2 65 liter](https://www.hornbach.de/shop/Backofen-PKM-F7-2-Nutzungsvolumen-65-l/6702325/artikel.html)
 - kitchen sink [Norrsjön](https://www.ikea.com/de/de/catalog/products/S19157915) 73 x 44 cm &ndash; obsolete
 - two kitchen cupboards [Metod/Maximera High cabinet with 2 doors and 4 drawers, white/kungsbacka matt white](https://www.ikea.com/gb/en/products/kitchen-products/kitchen-cabinets/metod-maximera-hi-cab-w-2-doors-4-drawers-white-kungsbacka-matt-white-spr-69285642) 60 x 60 x 240 cm
+- working surface height 92 cm; natural light wood like birch or oak
 - plan cornelius sink shelf
 - started installing kitchen sink and cooking corpus
 - plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm
 - repainted kitchen walls and ceiling
-- ordered gas valve and gas meter: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](doc/kromschroeder_gaszaehler_DS_BK_4_DE.pdf)
+- ordered gas valve and gas meter, gashahn und gaszaehler: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](doc/kromschroeder_gaszaehler_DS_BK_4_DE.pdf)
 - keine gassteckdose, no gas cooking place connector required
 - replace right electrical socket by extension cord under stove
 - prepared holes for gas pipe and electrical oven plug connection
 - 16 cm wooden block to support cooking and working surface cupboards
 
+## done 2019-02-26
+
+- order naturstein for garden walls around new hochbeet &ndash; nope, cancelled, use existing bricks instead
+- unite and rebuild the two hochbeete
+- cornelius kitchen:
+  - doppelaufputzsteckdose herd
+  - aufputz steckdose + schalter kuecheneingangstuer
+  - finish support for sink and working surface left of it
+  - move left light switch and plug onto cupboard
+  - 5 x 90 grad 1/2 zoll bogen fuer gasanschluss kochfeld
+  - gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" &rarr; AD 21.3, 3/4" &rarr; AD 26.9
+  - gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
+  - BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
+  - ordered gassteckdose and gasanschlussschlauch
+
 ## <a name="todo-today"></a>todo today
 
-- finish support for sink and working surface left of it
-- move left light switch and plug onto cupboard
-- gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" &rarr; AD 21.3, 3/4" &rarr; AD 26.9
-- gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
-- BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
-- install spotlights above bathroom sink
+- fix leak in kitchen main cold water valve absperrhahn
 
 ## <a name="todo-next"></a>todo next
 
-- working surface height 92 cm; natural light wood like birch or oak
+- install spotlights above cornelius bathroom sink
 - buy strahler from conrad once you have a voicher
 - install led-aussenstrahler
-- order naturstein for garden walls
-- unite and rebuild the two hochbeete
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
@@ -1845,13 +1854,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 
 ## <a name="shop"></a>shop
-
-- doppelaufputzsteckdose herd
-- aufputz steckdose + schalter kuecheneingangstuer
-- 5 x 90 grad 1/2 zoll bogen
-- dachlatten fuer kellerregale
-- gashahn
-- gaszaehler
 
 <a href="#top">top</a>
 
