@@ -1807,24 +1807,24 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - prepared holes for gas pipe and electrical oven plug connection
 - 16 cm wooden block to support cooking and working surface cupboards
 
-## done 2019-02-26
+## done 2019-02-27
 
 - order naturstein for garden walls around new hochbeet &ndash; nope, cancelled, use existing bricks instead
 - unite and rebuild the two hochbeete
 - cornelius kitchen:
-  - doppelaufputzsteckdose herd
-  - aufputz steckdose + schalter kuecheneingangstuer
-  - finish support for sink and working surface left of it
-  - move left light switch and plug onto cupboard
-  - 5 x 90 grad 1/2 zoll bogen fuer gasanschluss kochfeld
-  - gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" &rarr; AD 21.3, 3/4" &rarr; AD 26.9
-  - gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
-  - BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
-  - ordered gassteckdose and gasanschlussschlauch
+    - doppelaufputzsteckdose herd
+    - aufputz steckdose + schalter kuecheneingangstuer
+    - finish support for sink and working surface left of it
+    - move left light switch and plug onto cupboard
+    - 5 x 90 grad 1/2 zoll bogen fuer gasanschluss kochfeld
+    - gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
+    - gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
+    - BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
+    - ordered gassteckdose and gasanschlussschlauch
+    - fix leak in kitchen main cold water valve absperrhahn
 
 ## <a name="todo-today"></a>todo today
 
-- fix leak in kitchen main cold water valve absperrhahn
 
 ## <a name="todo-next"></a>todo next
 
