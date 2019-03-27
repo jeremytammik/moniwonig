@@ -1823,8 +1823,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - ordered gassteckdose and gasanschlussschlauch
     - fix leak in kitchen main cold water valve absperrhahn
 
+## done 2019-03-27
+
+- installed cooking stove, oven and sink
+- put back bathtub into cornelius bathroom
+- waterproof seal between bathtub edge and bathroom wall
+- sealed edges around stove and sink working surfaces
+
 ## <a name="todo-today"></a>todo today
 
+- replace tiles around bathtub
 
 ## <a name="todo-next"></a>todo next
 
