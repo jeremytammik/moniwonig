@@ -124,9 +124,9 @@
 - Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
 - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
 - [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
-- erde und sand liefern:
+- earth, mutterboden, erde und sand liefern:
     - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
-    - kieswerk uhl breisach 07667/536 &ndash; 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer
+    - kieswerk uhl breisach 07667/536 &ndash; 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
 - kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
 - armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
 - gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
@@ -1834,7 +1834,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## done 2019-03-29
 
-- received 11 tons of earth and sand for hochbeet from kieswerk uhl
+- received 11 tons of mutterboden earth and sand for hochbeet from kieswerk uhl
 - replace tiles around bathtub
 - kachelfugenmoertel
 - reinstall the bathtub taps
