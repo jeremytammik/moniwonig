@@ -1845,17 +1845,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - kachelfugenmoertel
 - reinstall the bathtub taps
 - seal bathtub edges with polymerdichtmasse
-- install kitchen lights
+- install kitchen lights &ndash; spotlights above cornelius bathroom sink
 
 ## <a name="todo-today"></a>todo today
 
 - fill the hochbeet with earth and sand
 - plan a cupboard with drying rack above sink
 - install the kitchen drawers and doors
+- install cornelius kitchen curtains
 
 ## <a name="todo-next"></a>todo next
 
-- install spotlights above cornelius bathroom sink
 - buy strahler from conrad once you have a voicher
 - install led-aussenstrahler
 - wellplastik ueber karens hinterausgang flicken
@@ -1881,7 +1881,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 
 ## <a name="shop"></a>shop
-
 
 <a href="#top">top</a>
 
