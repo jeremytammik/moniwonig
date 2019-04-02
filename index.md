@@ -1832,19 +1832,24 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - waterproof seal between bathtub edge and bathroom wall
 - sealed edges around stove and sink working surfaces
 
-## done 2019-03-29
+## done 2019-04-02
 
+- shop
+    - flex diamantscheibe
+    - polymerdichtmasse
+    - light switch and light
+    - light bulb jeremy bedroom ceiling
 - received 11 tons of mutterboden earth and sand for hochbeet from kieswerk uhl
+- finish hochbeet front wall
 - replace tiles around bathtub
 - kachelfugenmoertel
 - reinstall the bathtub taps
+- seal bathtub edges with polymerdichtmasse
+- install kitchen lights
 
 ## <a name="todo-today"></a>todo today
 
-- finish hochbeet front wall
 - fill the hochbeet with earth and sand
-- seal bathtub edges with polymerdichtmasse
-- install kitchen lights
 - plan a cupboard with drying rack above sink
 - install the kitchen drawers and doors
 
@@ -1877,10 +1882,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="shop"></a>shop
 
-- flex diamantscheibe
-- polymerdichtmasse
-- light switch and light
-- light bulb jeremy bedroom ceiling
 
 <a href="#top">top</a>
 
