@@ -1832,7 +1832,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - waterproof seal between bathtub edge and bathroom wall
 - sealed edges around stove and sink working surfaces
 
-## done 2019-04-02
+## done 2019-04-04
 
 - shop
     - flex diamantscheibe
@@ -1846,13 +1846,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - reinstall the bathtub taps
 - seal bathtub edges with polymerdichtmasse
 - install kitchen lights &ndash; spotlights above cornelius bathroom sink
+- installed cornelius kitchen curtain support wires
+- installed stuff under cornelius kitchen sink
+- fixed all leaks around kitchen and bathroom taps
 
 ## <a name="todo-today"></a>todo today
 
 - fill the hochbeet with earth and sand
 - plan a cupboard with drying rack above sink
 - install the kitchen drawers and doors
-- install cornelius kitchen curtains
 
 ## <a name="todo-next"></a>todo next
 
