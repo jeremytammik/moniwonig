@@ -21,8 +21,8 @@
     - [regenwassernutzung](#regenwassernutzung)
     - [sauna](#sauna)
     - [soundproofing johanna/magnus](#soundproofing)
-    - [done](#done)
     - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
+    - [done](#done)
 - bad
     - wc-dusche besorgen und montieren
 - elektro
@@ -518,6 +518,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - [2017](#done2017)
 - [2018](#done2018)
 - [2018 garnatilla](#done2018garnatilla)
+- [2019 jan-apr cornelius](#done2019cornelius_egls)
 
 # <a name="done2015"></a>done before novemberparty 2015
 
@@ -1712,6 +1713,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - einladung fuer haustreffen
 - build a bookshelf above moni's entrance door
 - return messingschrauben
+
+# <a name="done2019cornelius_egls"></a>done 2019 Jan-Apr in [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
 
 ## done 2018-12-30
 
