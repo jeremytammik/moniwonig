@@ -10,7 +10,6 @@
 ## <a name="hauptaufgaben"></a>hauptaufgaben
 
 - current projects
-    - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
     - [wood](#wood)
 - completed projects
     - [ofen](#ofen)
@@ -23,6 +22,7 @@
     - [sauna](#sauna)
     - [soundproofing johanna/magnus](#soundproofing)
     - [done](#done)
+    - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
 - bad
     - wc-dusche besorgen und montieren
 - elektro
@@ -1832,7 +1832,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - waterproof seal between bathtub edge and bathroom wall
 - sealed edges around stove and sink working surfaces
 
-## done 2019-04-04
+## done 2019-04-08
 
 - shop
     - flex diamantscheibe
@@ -1849,6 +1849,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - installed cornelius kitchen curtain support wires
 - installed stuff under cornelius kitchen sink
 - fixed all leaks around kitchen and bathroom taps
+- cornelius moved into flat
+- fixed leaks from bathtub drain
+- installed shower curtain and towel drying rack
 
 ## <a name="todo-today"></a>todo today
 
