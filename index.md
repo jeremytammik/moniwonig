@@ -1835,7 +1835,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - waterproof seal between bathtub edge and bathroom wall
 - sealed edges around stove and sink working surfaces
 
-## done 2019-04-08
+## done 2019-04-09
 
 - shop
     - flex diamantscheibe
@@ -1855,6 +1855,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - cornelius moved into flat
 - fixed leaks from bathtub drain
 - installed shower curtain and towel drying rack
+- installed new bathtub tab
+- built shelves in bathroom back corner niche
 
 ## <a name="todo-today"></a>todo today
 
