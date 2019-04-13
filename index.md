@@ -1835,7 +1835,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - waterproof seal between bathtub edge and bathroom wall
 - sealed edges around stove and sink working surfaces
 
-## done 2019-04-09
+## done 2019-04-13
 
 - shop
     - flex diamantscheibe
@@ -1857,10 +1857,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - installed shower curtain and towel drying rack
 - installed new bathtub tab
 - built shelves in bathroom back corner niche
+- fill the hochbeet with earth and sand
+- replaced kitchen sink drain
+- replaced bathtub drain
+- replaced cornelius kitchen stove area light switch
 
 ## <a name="todo-today"></a>todo today
 
-- fill the hochbeet with earth and sand
 - plan a cupboard with drying rack above sink
 - install the kitchen drawers and doors
 
@@ -1868,6 +1871,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - buy strahler from conrad once you have a voicher
 - install led-aussenstrahler
+- build a lumber storage shelf system around parking lot
 - wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
@@ -1879,8 +1883,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - deckenleuchte mit drei spots im buero montieren
 - regal im heizungsschrank in monis bad
-- integrate cornelius tools
-- wachs katja apartment floors
 - wachs moni apartment floors
 - build roof ridge platform
 - moni schlafzimmerfensterrollo oder vorfenster
