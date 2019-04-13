@@ -1864,6 +1864,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-today"></a>todo today
 
+- build cornelius bathroom ceiling lamp
 - plan a cupboard with drying rack above sink
 - install the kitchen drawers and doors
 
