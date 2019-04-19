@@ -1870,6 +1870,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
+- garden bench: [buildeazy](http://www.buildeazy.com/seat.html), [bauplan](https://www.bauplan-bauanleitung.de/haus/bauanleitung-gartenbank)
 - buy strahler from conrad once you have a voicher
 - install led-aussenstrahler
 - build a lumber storage shelf system around parking lot
