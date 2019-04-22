@@ -1862,19 +1862,22 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - replaced bathtub drain
 - replaced cornelius kitchen stove area light switch
 
+## done 2019-04-20
+
+- built new garden bench: [buildeazy](http://www.buildeazy.com/seat.html), [bauplan](https://www.bauplan-bauanleitung.de/haus/bauanleitung-gartenbank)
+- bougth led-solad-flutlichtlampe mit bewegungsmelder
+
 ## <a name="todo-today"></a>todo today
 
+- wellplastik ueber karens hinterausgang flicken
 - build cornelius bathroom ceiling lamp
 - plan a cupboard with drying rack above sink
 - install the kitchen drawers and doors
 
 ## <a name="todo-next"></a>todo next
 
-- garden bench: [buildeazy](http://www.buildeazy.com/seat.html), [bauplan](https://www.bauplan-bauanleitung.de/haus/bauanleitung-gartenbank)
-- buy strahler from conrad once you have a voicher
 - install led-aussenstrahler
 - build a lumber storage shelf system around parking lot
-- wellplastik ueber karens hinterausgang flicken
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left 
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
