@@ -59,9 +59,9 @@
 - projects
     - [garnatilla](#garnatilla)
     - aussendusche bauen und anschliessen
-    - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung  
+    - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung
     - compost toilet &ndash; aussenklo und pissoir, komposttoilette mit trennung von kot und urin &ndash; [kompotoi](http://www.kompotoi.ch)
-    - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)   
+    - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)
     - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
     - warmwasser- und heizungssolaranlage &ndash; install solar hot water panel, e.g., ciprian's romanian suggestion
     - install solarpumpe in pool
@@ -80,13 +80,13 @@
 - 2018-01-13 &ndash; filled row 9-10 with oak and walnut
 - 2018-01-13 &ndash; started using row 2
 - 2018-03-02 &ndash; finished using row 2 and started using row 1
-- 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3 
-- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3 
-- 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3 
+- 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3
+- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3
+- 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3
 - 2018-08-26 &ndash; completed row 13; rowvolume = ca. 0.25*2.2*2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
 - 2018-08-27 &ndash; started building row 14 &ndash; it is already dry, for sauna
 - 2019-01-22 &ndash; used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
-- 2019-02-02 &ndash; used up half of row 5 
+- 2019-02-02 &ndash; used up half of row 5
 - 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
 
 ## neues haus
@@ -108,7 +108,7 @@
 - [buehler kompost wittlingen](http://www.buehler-kompost.de)
 - container, mulde
     - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
-    - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209 
+    - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209
     - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
     - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
 - fussboden polier- und bonermaschine: axel hugenschmidt, oder [wolfgang busch in langenau](http://www.oekobau-team.de) bei schopfheim; pads bei [parkett studio ganter](http://www.parkett-ganter.de)
@@ -247,7 +247,7 @@
     - [waschtrog2](img/waschtrog2.png) in AutoCAD
     - [waschtrogeckhalterung](img/2016-11-16_waschtroghalterung.jpeg) von falk
 - andere anbieter
-    - [Naturstein Indri](http://www.naturstein-indri.de), Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12 
+    - [Naturstein Indri](http://www.naturstein-indri.de), Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12
     - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
     - [staechelin.de](http://staechelin.de)
     - [natursteinepost.de/materialien/granit-klassisch](http://natursteinepost.de/materialien/granit-klassisch)
@@ -257,7 +257,7 @@
 
 ## <a name="waschtischarmatur"></a>waschtischarmatur im bad
 
-- amazon 
+- amazon
     - [1](https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&pd_rd_i=B019E2HDZ4&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
     - [2](https://www.amazon.de/Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn-Sp%C3%BClbeckenarmatur-K%C3%BCchenarmatur/dp/B00BCNMK4I/ref=pd_lutyp_simh_1_2?ie=UTF8&pd_rd_i=B00BCNMK4I&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
     - [3](https://www.amazon.de/Zweigriffmischer-K%C3%BCchenarmatur-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B00BKNOPZC/ref=pd_lutyp_simh_1_3?ie=UTF8&pd_rd_i=B00BKNOPZC&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
@@ -384,12 +384,12 @@
 - [youtube search for: rue25 Versuch Dämmung einer Wand](https://www.youtube.com/results?search_query=rue25+Versuch+D%C3%A4mmung+einer+Wand)
 -->
 - [Kommentare zum Video 'Richtig Schall dämmen...](https://youtu.be/WrkkjtRXhRI)
-&ndash; gute akustische Leistung: eine richtige Vorsatzschale gehabt. 
-Entgegen der Holzweichfaserplatte setzt man da üblicherweise eine Mineralfaserwärmedämmung (Glas- oder Steinwolle) ein. 
-Die Vorsatzschale wird üblicherweise mit 50mm starken oder noch dickeren Profilen vor die bestehende Wand gestellt und in Boden, Decke sowie die Seitenwände verschraubt. Wird eine doppelte Beplankung ausgeführt ist Wandfläche meist auch stabiler, so dass auch Befestigungen in der Wand getätigt werden können. 
-Wird schwereres an der Wand befestigt muss natürlich eine so genannte Ausholzung / Ausklotzung gemacht werden. 
+&ndash; gute akustische Leistung: eine richtige Vorsatzschale gehabt.
+Entgegen der Holzweichfaserplatte setzt man da üblicherweise eine Mineralfaserwärmedämmung (Glas- oder Steinwolle) ein.
+Die Vorsatzschale wird üblicherweise mit 50mm starken oder noch dickeren Profilen vor die bestehende Wand gestellt und in Boden, Decke sowie die Seitenwände verschraubt. Wird eine doppelte Beplankung ausgeführt ist Wandfläche meist auch stabiler, so dass auch Befestigungen in der Wand getätigt werden können.
+Wird schwereres an der Wand befestigt muss natürlich eine so genannte Ausholzung / Ausklotzung gemacht werden.
 &ndash; Ein paar wichtige Hinweise zur Konstruktion der Schalldämmung:
-Die Blechprofile sollten keinesfalls mit der Wand verschraubt werden, sondern mit entkoppelnder Gummi- oder spezial Kunstoffmatte z.B. mit Silikon verklebt werden (dazu kann man die Profile zeitweilig mit Schrauben fixieren, nach dem Trocknen des Klebers aber wieder entfernen). Die Dämmstoffmatten (Zellulose-, Hanf- oder Steinwollematten) werden mit ca. 4-6 cm Abstand zur Wand in den U-Profilen gehalten; dazu werden je zwei U-Profile zu einem H-Profil kombiniert. Dann wird eine doppelte Lage Gipskarton verkreuzt (und beide Lagen verspachtelt) an den Metallprofilen verschraubt, jedoch ohne die Seiten-, Deckenwände oder Boden zu berühren (ca. 3-5 mm Abstand). Die Übergänge zu Seiten, Boden und Decke werden dann am Schluß mit Silikon oder Akryl abgedichtet! Jede starre Verbindung zu den Seiten, Boden oder der Decke schafft eine sogenannte Körperschall-Übertragung, und dadurch wird ein großer Teil des Dämmeffektes aufgehoben. 
+Die Blechprofile sollten keinesfalls mit der Wand verschraubt werden, sondern mit entkoppelnder Gummi- oder spezial Kunstoffmatte z.B. mit Silikon verklebt werden (dazu kann man die Profile zeitweilig mit Schrauben fixieren, nach dem Trocknen des Klebers aber wieder entfernen). Die Dämmstoffmatten (Zellulose-, Hanf- oder Steinwollematten) werden mit ca. 4-6 cm Abstand zur Wand in den U-Profilen gehalten; dazu werden je zwei U-Profile zu einem H-Profil kombiniert. Dann wird eine doppelte Lage Gipskarton verkreuzt (und beide Lagen verspachtelt) an den Metallprofilen verschraubt, jedoch ohne die Seiten-, Deckenwände oder Boden zu berühren (ca. 3-5 mm Abstand). Die Übergänge zu Seiten, Boden und Decke werden dann am Schluß mit Silikon oder Akryl abgedichtet! Jede starre Verbindung zu den Seiten, Boden oder der Decke schafft eine sogenannte Körperschall-Übertragung, und dadurch wird ein großer Teil des Dämmeffektes aufgehoben.
 Mit dieser Konstruktionsweise erreicht man mit relativ geringen Kosten und Aufwand den besten Effekt, selbst wenn man nur "normale" Gipskartonplatten verwendet.
 - [Glatt Schaumstoff Selbstklebend Dämmung Schallschutz mail (100cm x 50cm x h) Weiß o. Schwarz (100x50x5, Anth/Schwarz)](https://www.amazon.de/Schaumstoff-Selbstklebend-D%C3%A4mmung-Schallschutz-100x50x5/dp/B01MQTSX0X/ref=pd_sbs_60_6?_encoding=UTF8&pd_rd_i=B01MQTSX0X&pd_rd_r=11ade735-d6be-11e8-af66-7df85c9ad1a9&pd_rd_w=nTYzN&pd_rd_wg=vlJdi&pf_rd_i=desktop-dp-sims&pf_rd_m=A3JWKAKR8XB7XF&pf_rd_p=51bcaa00-4765-4e8f-a690-5db3c9ed1b31&pf_rd_r=VXYXMM187203MGGC27GS&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=VXYXMM187203MGGC27GS)
 - [Patent](http://www.freepatentsonline.com/EP2963199.html)
@@ -397,7 +397,7 @@ Mit dieser Konstruktionsweise erreicht man mit relativ geringen Kosten und Aufwa
 - [Knauf Gipskartonplatte GKB](https://www.bauhaus.info/gipskartonplatten/knauf-gipskartonplatte-gkb/p/13876482?adb_search=gipsplatte)
 - glue on an acoustic damping mat on the whole surface and then add a hard surface on top of that? OSB versus MFD versus GKB?
 - in all three cases, a final surface treatment will also be required, e.g., for GKB, fugen gipsen und streichen.
-- [schaumstofflager.de &ndash; Nachbar ist zu laut](https://www.schaumstofflager.de/cms/nachbar-is-zu-laut.html) &ndash; 2. Möglichkeit &ndash; Sie montieren Schaumstoff und ziehen eine neue Wand ein &ndash; Sie benötigen Rigipsplatten (oder ähnliche feste Platten). Auf diese Platten verkleben Sie wiederum unsere Verbundschaumstoffe. Je dicker, um so besser die Dämmwirkung. Dieses Konstrukt müssen Sie dann schwimmend gelagert vor der ursprünglichen Wand montieren.  Die neue Wand sollte von den anderen Wänden und vom Boden entkoppelt sein, damit Vibrationen nicht weitergeleitet werden können &ndash; das erreichen Sie mit unseren Trennwandbändern.  
+- [schaumstofflager.de &ndash; Nachbar ist zu laut](https://www.schaumstofflager.de/cms/nachbar-is-zu-laut.html) &ndash; 2. Möglichkeit &ndash; Sie montieren Schaumstoff und ziehen eine neue Wand ein &ndash; Sie benötigen Rigipsplatten (oder ähnliche feste Platten). Auf diese Platten verkleben Sie wiederum unsere Verbundschaumstoffe. Je dicker, um so besser die Dämmwirkung. Dieses Konstrukt müssen Sie dann schwimmend gelagert vor der ursprünglichen Wand montieren.  Die neue Wand sollte von den anderen Wänden und vom Boden entkoppelt sein, damit Vibrationen nicht weitergeleitet werden können &ndash; das erreichen Sie mit unseren Trennwandbändern.
 Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gelassen werden, um die Dämmwirkung zu verstärken. Der Schaumstoff befindet sich also zwischen den beiden Wänden mit etwas Abstand zur ursprünglichen Wand. Sie haben so eine voll funktionsfähige Zimmerwand und eine optimale Dämmung zwischen den Wänden bzw. zur Nachbarwohnung oder Nebenraum. Verstärken können Sie dieses Konstrukt, wenn Sie statt nur einer Schaumstoffschicht noch eine Bitumenschicht und eine weitere Schicht Schaumstoff verkleben. Ein Komplettset bieten wir Ihnen mit unserem Wanddämmungsset an.
 - [Akustikriegel zur Entkopplung und Aufdoppelung der Wände](https://www.schaumstofflager.de/schalldaemmung/waende-zum-nachbarn-daemmen/100cm-akustikriegel-zur-entkopplung-und-aufdoppelung-der-waende.html)
 - box around heating pipes
@@ -426,7 +426,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - soundproofed wall between cornelius big room and karen kitchen
     - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/cornelius_main_room_soundproof_kursraum_schallisolation.jpg)
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
-    - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm 
+    - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
 ## <a name="cornelius"></a> cornelius apartment
 
@@ -461,8 +461,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - use bakelisierte multiplex siebdruckplatten like in the bafudi, e.g., [glovital](https://glovital.ch/siebdruckplatten), [technische info](https://www.glovital.ch/daten/TechInfo.pdf), [18 mm weiss](https://www.glovital.ch/shop/Holzmaterial/Siebdruckplatten/Siebdruckplatten/Siebdruckplatte-glatt-glatt-WEISS-18-x-2500-x-1250-mm::1208.html), [Holzwurm custom](https://www.ebay.de/itm/Filmsperrholz-Siebdruckplatte-Film-Film-Weis-Versch-Starken/173481167340)
 - back wall in glass, not tiled, not painted
 - hanging cupboards above working surface
-- no external handles for drawers, 
-- big sink (not too hard), 
+- no external handles for drawers,
+- big sink (not too hard),
 - forgiving surface for fragile dishes &ndash; hardwood?
 - big accessible working surface "u" shape
 - oil and coloring resistance
@@ -485,7 +485,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 ## <a name="garnatilla"></a>garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
-- cover chimney foundation with white cement 
+- cover chimney foundation with white cement
 - paint roof
 - wind-proof front door, close all the little holes
 - fix leak in inside corner of veranda roof
@@ -673,7 +673,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 ## done 2016-08-15
 
 - stahlrahmen einfassen
-- duschabwasserrinne bestellen 
+- duschabwasserrinne bestellen
 - solnhofer naturstein bestellen fuer badfussboden und -waende
 - freizulassende ziegelmauerpartien saeubern und festigen
 - auflage 1 vom pruefstatiker: Der Aufschiebling auf dem bestehenden Untersparren (Achse 3) ist noch entsprechend der geprüften Positionszeichnung kraftschlüssig einzubauen: der Aufschiebling ist auf dem bestehenden Untersparrenverschraubt mit 12 x 300 kraftschlüssig verschraubt.
@@ -711,7 +711,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - heizung akustisch isolieren, auch von der wand
     - heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr
     - heizungspumpe optimieren
-    - heizungsschrank mauer fuer die dusche bauen &ndash; nope, keine mauer noetig    
+    - heizungsschrank mauer fuer die dusche bauen &ndash; nope, keine mauer noetig
     - schrank aus schreinerplatten oder grobspanplatten
     - kacheln oder platten fuer wand und boden aussuchen
     - holzfussboden? teak?
@@ -763,7 +763,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
       and [shopping list](doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf)
     - heizkoerper schlanker und breiter machen, maximale leistung
 - stauraum
-    - eliminated the idea of apothekerschrank auszug 
+    - eliminated the idea of apothekerschrank auszug
     - vorne gewindestangen von der decke haengen
     - schubladengleitband [3M Polyethylen-Gleitband 5423](https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790), [PP oder PE oder PA als Plattenmaterial für die Gleitschienen](https://online-plast.com) &ndash; nein, siehe naechster punkt:
     - gleitschienen von [online-plast.com](https://online-plast.com)
@@ -786,10 +786,10 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
           [keramag](http://www.keramag.com)
           [preciosa wash basin 800 x 550 mm, without tap hole, without overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-wash-basin-800-x-550-mm-without-tap-hole-without-overflow/5473) [sketch](img/keramag_21577124284.pdf),
           [Preciosa II Wash basin 900 x 500 mm, with tap hole, with overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-ii-wash-basin-900-x-500-mm-without-tap-hole-without-overflow/5435) [sketch](img/keramag_22641123291.docx),
-          [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html), 
-          [Fliesenonkel](http://www.fliesenonkel.de) [Waschbecken aus Flusskiesel](http://www.fliesenonkel.de/Natursteinwaschbecken/Waschbecken-Flusskiesel-Findling/?filter_fv_id%5B1%5D%5B%5D=3&value_conjunction%5B1%5D=1&value_conjunction%5B2%5D=1&gm_boosted_category=Waschbecken-Flusskiesel-Findling&Natursteinwaschbecken=Waschbecken-Flusskiesel-Findling&cat=c474&cPath=473_474), 
+          [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html),
+          [Fliesenonkel](http://www.fliesenonkel.de) [Waschbecken aus Flusskiesel](http://www.fliesenonkel.de/Natursteinwaschbecken/Waschbecken-Flusskiesel-Findling/?filter_fv_id%5B1%5D%5B%5D=3&value_conjunction%5B1%5D=1&value_conjunction%5B2%5D=1&gm_boosted_category=Waschbecken-Flusskiesel-Findling&Natursteinwaschbecken=Waschbecken-Flusskiesel-Findling&cat=c474&cPath=473_474),
           [baliandmore](http://www.baliandmore.ch) [Lavabo Stone LB-005](http://www.baliandmore.ch/?gclid=CLfLr8z58s4CFUo8GwodZ_8MrA#!product-page/pu9if/8b0953c3-5d01-2c24-c75f-f8fc06f4cbf8),
-          [megabad](https://www.megabad.com) [Duravit DuraStyle 80 cm](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw), tel. +49-2237/6556-0 
+          [megabad](https://www.megabad.com) [Duravit DuraStyle 80 cm](https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&ref=AdwArt_325954_325955&gclid=CM-t27yv1c4CFaEW0wodFRcLzw), tel. +49-2237/6556-0
 - gaube
     - deckelschalung verkleidung von fenster und schiebetuer
 - zimmer
@@ -822,7 +822,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - balkongelaender um 20 cm kuerzen, pfosten absaegen
 - shop
     - torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze/?cm_mmc=DE-PPC-_-google-_-1_DE_DE_G_Screwdrivers_Exact-_-Screwdriver_Bit_Sets&mkwid=s2EDhNXVc_dc|pcrid|98959341058|pkw|torx%20bit|pmt|e|prd|&gclid=CPaajb7Aic8CFcUGcwodgr8FIw#esid=4294958716&applied-dimensions=4294261688&sort-by=P_breakPrice1&sort-order=asc)
-    - Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch    
+    - Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch
 - georg holzbestellung
     - lerchenholz fuer dachbalkon ausmessen, kalkuelieren und bestellen 4 cm dielen
 
@@ -903,10 +903,10 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - foto vom alten holzschrank karl schicken
 - vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte
 - fenster putzen
-- spiegel im bad aussuchen, ausprobieren und montieren 
+- spiegel im bad aussuchen, ausprobieren und montieren
 - rote farbe kaufen und kuechenzeile streichen: acrylfarbe statt glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe?
 - kuechenwand ueber spuele und arbeitsplatte erste schicht rot lackieren
-- malen mit rollputz links von schiebetuer mit malerrolle erste schicht 
+- malen mit rollputz links von schiebetuer mit malerrolle erste schicht
 - schönes ablagebrett unter badspiegel ganze länge aussuchen und montieren
 - malen mit rollputz links von schiebetuer mit malerrolle zweite schicht
 - kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren dritte schicht
@@ -1044,7 +1044,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - waschmaschine drehen, ausrichten, nivellieren, mit weissen stromstecker versehen
 - badregal montieren &ndash; geschirrschrank von grossmami 100 x 120 x 30 mit glastueren
 - handtuchhalter am waschbecken montieren
-- badezimmer tuerecke die klemmt abschleifen 
+- badezimmer tuerecke die klemmt abschleifen
 - regalbretter montieren in essbereichstuernische, abstaende 18, 22, 26, 30 &ndash; monis originalwunsch 43, 15, 15, 25, 27
 
 ## done 2016-12-12
@@ -1110,7 +1110,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - neue duscharmatur einbauen im bad oben
 - fussbodenabschluss mosaikparkett eingangstuer
 - fussbodenabschluss mosaikparkett stauraumwandschrank
-- fussbodenleisten 
+- fussbodenleisten
 - buecherregal im buero/gaestezimmer
 - schuhregal erweitern
 - apothekerauszug planen
@@ -1162,7 +1162,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - 29.95 [Regenhut](https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720) 30 cm
     - 9.95 [Ofenrohrbogen 0.6 mm](https://www.bauhaus.info/ofenrohre/abgasbogen-150mm90gmverl06mm-schwarz/p/13490514) 41 x 22 cm
 - apothekerschrank bauen
-- kaminofen abgasrauchrohre abgeholt 
+- kaminofen abgasrauchrohre abgeholt
 - kaminofen schornsteinanschluss gesetzt &ndash; [ofenrohranschluss moertel](http://www.gutefrage.net/frage/neuen-ofenrohranschluss-legen)
 - kaminofen abgasrauchrohre zur probe angeschlossen
 - apothekerschrank provisorisch montiert
@@ -1360,7 +1360,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - fasten waschbasin and toilet seat better, remove silicone
 - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
-- treppe an der strassenseite von karen vorplatz auf jeremy terasse 
+- treppe an der strassenseite von karen vorplatz auf jeremy terasse
 - finished staircase between basin and house
 
 ## done 2017-09-21
@@ -1411,7 +1411,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - clear away stones around rosehip bush
 - build stone wall around rosehip bush
 - lay stone pathway from top of stairs to main entrance path
-- tagliare canale di irrigatione sulla piataforma 
+- tagliare canale di irrigatione sulla piataforma
 - motorsaegenkette Oregon G62: 62 kettenglieder mit dimensionen abstand .303 und .325 zoll
 - build terrace stone wall for himbeerbeet below walnut tree
 - parkplatz belag
@@ -1530,7 +1530,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## done 2018-09-22
 
-- hang up and screw on LED lamp that fell out of its glueing in moni living room 
+- hang up and screw on LED lamp that fell out of its glueing in moni living room
 - fix and properly fasten moni balcony entrance ramp
 
 ## done 2018-10-29
@@ -1553,7 +1553,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - estufa de lena &ndash; guarantee
     - taladro black + decker 750 w kr7532k-qs &ndash; guarantee
 
-## done 2018-11-02 
+## done 2018-11-02
 
 - buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
 - antonia bought rosanne and gaetan's house; her friend's name is lula (lourdes)
@@ -1614,7 +1614,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - drill gas escape ventilation hole
 - plaster inside of chimney hole in entrance hall ceiling
 - hang up plate shelf over kitchen sink
-- remove broken bathroom staircase step tile 
+- remove broken bathroom staircase step tile
 - installed new water boiler euro 440 &ndash; guarantee
 - cement in replacement for broken bathroom staircase step tile
 - build chimney roof
@@ -1658,10 +1658,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
     - seilzug und schnurrolle:
 [pulley, block and tackle](https://en.wikipedia.org/wiki/Pulley#Block_and_tackle),
-[kinderspielzeug](http://www.ebay.de/itm/Kinder-Flaschenzug-Seilzug-fur-Baumhaus-Spielturm-Goki-Holz-Buchenholz-massiv/361353629019?hash=item54225acd5b:g:8T8AAOSw1MBZyqLa), 
+[kinderspielzeug](http://www.ebay.de/itm/Kinder-Flaschenzug-Seilzug-fur-Baumhaus-Spielturm-Goki-Holz-Buchenholz-massiv/361353629019?hash=item54225acd5b:g:8T8AAOSw1MBZyqLa),
 [messing](https://www.ebay.de/itm/Umlenkrollen-Holz-Messing-Metall-Seilzug-Schiffsblock-3-Stck-Karabinerhaken/272895343588?hash=item3f89d47be4:g:14IAAOSwAY1Z3xIi),
 [universal](https://www.conrad.de/de/berger-schroeter-60004-universalflaschenzug-tragkraft-300-kg-1549031.html),
-[messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html), 
+[messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html),
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 
 ## done 2018-11-24
@@ -1865,21 +1865,28 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ## done 2019-04-20
 
 - built new garden bench: [buildeazy](http://www.buildeazy.com/seat.html), [bauplan](https://www.bauplan-bauanleitung.de/haus/bauanleitung-gartenbank)
-- bougth led-solad-flutlichtlampe mit bewegungsmelder
+- bought led-solar-flutlichtlampe mit bewegungsmelder
+
+## done 2019-06-20
+
+- wellplastik ueber karens hinterausgang flicken
+- oak tree weas felled by storm
+- cleaned up and chopped oak tree remains and wood
+- install led-aussenstrahler and led-solar-flutlichtlampe mit bewegungsmelder
 
 ## <a name="todo-today"></a>todo today
 
-- wellplastik ueber karens hinterausgang flicken
+- fix sense
+- stabilise step under hochbeet
 - build cornelius bathroom ceiling lamp
-- plan a cupboard with drying rack above sink
-- install the kitchen drawers and doors
+- plan a cupboard with drying rack above sink for cornelius
+- install cornelius kitchen drawers and doors
 
 ## <a name="todo-next"></a>todo next
 
-- install led-aussenstrahler
 - build a lumber storage shelf system around parking lot
 - lerchenholz unter oberen balkon besser abdecken
-- build a bookshelf for all the books left 
+- build a bookshelf for all the books left
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - build shelves in basement kellerregal
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
@@ -1896,6 +1903,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
 - make the heating quieter, dampen the noise in moni bathroom
 - improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
+- install solar hot water panels along dachfirst
+- install solar electrical panels along dachfirst
+- build platform in walnut tree
+- build platform in benner's oak trees
 
 ## <a name="shop"></a>shop
 
