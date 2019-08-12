@@ -1874,16 +1874,26 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - cleaned up and chopped oak tree remains and wood
 - install led-aussenstrahler and led-solar-flutlichtlampe mit bewegungsmelder
 
-## <a name="todo-today"></a>todo today
+## done 2019-07-31
 
 - fix sense
-- stabilise step under hochbeet
 - build cornelius bathroom ceiling lamp
 - plan a cupboard with drying rack above sink for cornelius
 - install cornelius kitchen drawers and doors
 
+## <a name="todo-today"></a>todo today
+
+- stabilise step under hochbeet
+- dig out flower bed under cornelius fron window
+- dichtschlaemme, noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
+
 ## <a name="todo-next"></a>todo next
 
+- chop down the dead tree in herbert bach's garden
+- install plumbing and pump for rainnwater toilet flushing
+- set up outdoor bathtub with fire compartment and chimney
+- install hot water solar heating panels
+- install electrical solar panels 
 - build a lumber storage shelf system around parking lot
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left
