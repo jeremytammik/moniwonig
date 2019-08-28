@@ -1885,10 +1885,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - stabilise step under hochbeet
 - dig out flower bed under cornelius fron window
+- cornelius flowerbed: dichtschlaemme
 
 ## <a name="todo-today"></a>todo today
 
-- finish cornelius flowerbed: dichtschlaemme, noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
+- finish cornelius flowerbed: noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
 
 ## <a name="todo-next"></a>todo next
 
