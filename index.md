@@ -1881,14 +1881,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - plan a cupboard with drying rack above sink for cornelius
 - install cornelius kitchen drawers and doors
 
-## <a name="todo-today"></a>todo today
+## done 2019-08-28
 
 - stabilise step under hochbeet
 - dig out flower bed under cornelius fron window
-- dichtschlaemme, noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
+
+## <a name="todo-today"></a>todo today
+
+- finish cornelius flowerbed: dichtschlaemme, noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
 
 ## <a name="todo-next"></a>todo next
 
+- submit huenerberg house taxes 
+- cornelius humanbed
+- cornelius return unused stuff to ikea and combine with something else nice around freiburg
 - chop down the dead tree in herbert bach's garden
 - install plumbing and pump for rainnwater toilet flushing
 - set up outdoor bathtub with fire compartment and chimney
