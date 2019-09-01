@@ -1887,16 +1887,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - dig out flower bed under cornelius fron window
 - cornelius flowerbed: dichtschlaemme
 
-## <a name="todo-today"></a>todo today
+## done 2019-09-01
 
 - finish cornelius flowerbed: noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
+- return leftover cornelius kitchen material to ikea
+- cornelius return unused stuff to ikea and combine with something else nice around freiburg
+- chop down the dead tree in herbert bach's garden
+- build additional shelf in moni's new kitchen workbench
+
+## <a name="todo-today"></a>todo today
+
 
 ## <a name="todo-next"></a>todo next
 
 - submit huenerberg house taxes 
 - cornelius humanbed
-- cornelius return unused stuff to ikea and combine with something else nice around freiburg
-- chop down the dead tree in herbert bach's garden
 - install plumbing and pump for rainnwater toilet flushing
 - set up outdoor bathtub with fire compartment and chimney
 - install hot water solar heating panels
