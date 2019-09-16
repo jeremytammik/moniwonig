@@ -1900,9 +1900,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="todo-next"></a>todo next
 
-- cornelius stove and chmney
+- cornelius stove and chimney
 - pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschubladen
 - clear my bedroom, store my clothes
+- fix leaking toilet upstairs
 - clean up upstairs
 - submit huenerberg house taxes 
 - cornelius humanbed
