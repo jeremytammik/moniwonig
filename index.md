@@ -1897,7 +1897,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## done 2019-09-16
 
-- built wine rack for monikitchen; photos from [front](img/920_wine_glass_hanger_front_800x480.jpg) and [back](img/919_wine_glass_hanger_back_800x480.jpg)
+- built wine glass rack for monikitchen; photos
+from [front](img/920_wine_glass_hanger_front_800x480.jpg)
+and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="todo-today"></a>todo today
 
