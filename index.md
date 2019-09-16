@@ -1895,9 +1895,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - chop down the dead tree in herbert bach's garden
 - build additional shelf in moni's new kitchen workbench
 
+## done 2019-09-16
+
+- built wine rack for monikitchen; photos from [front](img/920_wine_glass_hanger_front_800x480.jpg) and [back](img/919_wine_glass_hanger_back_800x480.jpg)
+
 ## <a name="todo-today"></a>todo today
 
-- wine rack for monikitchen
 
 ## <a name="todo-next"></a>todo next
 
