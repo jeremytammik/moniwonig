@@ -1901,6 +1901,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 from [front](img/920_wine_glass_hanger_front_800x480.jpg)
 and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
+## done 2019-09-24
+
+- cornelius humanbed
+- ordered cornelius stove Justus Reno R
+- built bed lengthening bench for moni's bed
+- submitted huenerberg house taxes 
+- cleaned up upstairs
+
+
 ## <a name="todo-today"></a>todo today
 
 
@@ -1910,9 +1919,6 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschubladen
 - clear my bedroom, store my clothes
 - fix leaking toilet upstairs
-- clean up upstairs
-- submit huenerberg house taxes 
-- cornelius humanbed
 - install plumbing and pump for rainnwater toilet flushing
 - set up outdoor bathtub with fire compartment and chimney
 - install hot water solar heating panels
@@ -1942,6 +1948,11 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - build platform in benner's oak trees
 
 ## <a name="shop"></a>shop
+
+- fensterfolie
+- milchschaeumer
+- popcorn
+- multiplexplatte fuer schubladen
 
 <a href="#top">top</a>
 
