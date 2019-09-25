@@ -1904,7 +1904,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 ## done 2019-09-24
 
 - cornelius humanbed
-- ordered cornelius stove Justus Reno R
+- ordered cornelius stove [Justus Reno R](https://www.bauhaus.info/kaminoefen/justus-kaminofen-reno-r/p/23210596) &ndash; Nennwärmeleistung 6 kW, Gewicht (inkl. Verpackung) Stahl 116 kg, Stein 216 kg
 - built bed lengthening bench for moni's bed
 - submitted huenerberg house taxes 
 - cleaned up upstairs
