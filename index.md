@@ -1909,12 +1909,16 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - submitted huenerberg house taxes 
 - cleaned up upstairs
 
+## done 2019-10-06
+
+- travel, meetings and lots of exciting hopes and fantasies around carl-keller-weg and villa poss
 
 ## <a name="todo-today"></a>todo today
 
 
 ## <a name="todo-next"></a>todo next
 
+- moni bettschubladen: h 22 max; w 60 x t 160 + w 80 + t 100
 - cornelius stove and chimney
 - pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschubladen
 - clear my bedroom, store my clothes
