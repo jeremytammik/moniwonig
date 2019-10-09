@@ -1913,16 +1913,22 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 - travel, meetings and lots of exciting hopes and fantasies around carl-keller-weg and villa poss
 
+## done 2019-10-09
+
+- abdeckfolie cornelius wadnputz
+- fensterfolie fuer 618 x 1242 + 635 x 1242
+- multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100
+- schubladenraeder
+
 ## <a name="todo-today"></a>todo today
 
+- moni bettschubladen: h 22 max; w 160 x t 60 + w 80 + t 100
 
 ## <a name="todo-next"></a>todo next
 
-- moni bettschubladen: h 22 max; w 60 x t 160 + w 80 + t 100
 - cornelius stove and chimney
 - pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschubladen
 - clear my bedroom, store my clothes
-- fix leaking toilet upstairs
 - install plumbing and pump for rainnwater toilet flushing
 - set up outdoor bathtub with fire compartment and chimney
 - install hot water solar heating panels
@@ -1953,10 +1959,6 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="shop"></a>shop
 
-- abdeckfolie cornelius wadnputz
-- fensterfolie fuer  618 x 1242 + 635 x 1242
-- multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100
-- schubladenraeder
 - milchschaeumer
 
 <a href="#top">top</a>
