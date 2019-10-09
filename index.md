@@ -1955,7 +1955,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 - abdeckfolie cornelius wadnputz
 - fensterfolie fuer  618 x 1242 + 635 x 1242
-- multiplexplatte fuer schubladen h 22 max; w 60 x t 160 + w 80 + t 100
+- multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100
 - schubladenraeder
 - milchschaeumer
 
