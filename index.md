@@ -1920,14 +1920,18 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100
 - schubladenraeder
 
+## done 2019-10-17
+
+- pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschublade
+- moni bettschublade: h 20 x w 160 x t 60 + w 80 + t 100
+
 ## <a name="todo-today"></a>todo today
 
-- moni bettschubladen: h 22 max; w 160 x t 60 + w 80 + t 100
+- cornelius stove and chimney
 
 ## <a name="todo-next"></a>todo next
 
-- cornelius stove and chimney
-- pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschubladen
+- moni bettschublade: h 20 x w 80 x t 100
 - clear my bedroom, store my clothes
 - install plumbing and pump for rainnwater toilet flushing
 - set up outdoor bathtub with fire compartment and chimney
@@ -1959,7 +1963,9 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="shop"></a>shop
 
-- milchschaeumer
+- haftputzgips
+- holzfaserplatte
+- 2 mm mesh for sieving sand
 
 <a href="#top">top</a>
 
