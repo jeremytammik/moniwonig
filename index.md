@@ -1925,8 +1925,22 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschublade
 - moni bettschublade: h 20 x w 160 x t 60 + w 80 + t 100
 
+## done 2019-10-22
+
+- cornelius living room wall
+    - fixed floor edge
+    - removed plasterboard
+    - removed old plaster
+    - cleaned brickwork
+    - made hole for stovepipe
+
 ## <a name="todo-today"></a>todo today
 
+- put the stovepipe into the chimney
+- stick on the stone cover for stovepipe
+- apply haftgrund
+- fix holes and loose parts with haftputzgips
+- sieve sand &ndash; 2 mm mesh for sieving sand
 - cornelius stove and chimney
 
 ## <a name="todo-next"></a>todo next
@@ -1962,10 +1976,6 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - build platform in benner's oak trees
 
 ## <a name="shop"></a>shop
-
-- haftputzgips
-- holzfaserplatte
-- 2 mm mesh for sieving sand
 
 <a href="#top">top</a>
 
