@@ -1941,6 +1941,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - apply haftgrund
 - fix holes and loose parts with haftputzgips
 - sieve sand for mixing with clay &ndash; 2 mm mesh for sieving sand
+- bought Moertelruehrer from Bauhaus Moertelmischmaschine Handruehrgeraet Herkules ZY-HM-120C mit 5 Jahre Garantie bis 2024-10-30
 
 ## <a name="todo-today"></a>todo today
 
@@ -1981,7 +1982,6 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="shop"></a>shop
 
-Moertelruehrer
 
 <a href="#top">top</a>
 
