@@ -1934,13 +1934,17 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
     - cleaned brickwork
     - made hole for stovepipe
 
-## <a name="todo-today"></a>todo today
+## done 2019-10-29
 
 - put the stovepipe into the chimney
 - stick on the stone cover for stovepipe
 - apply haftgrund
 - fix holes and loose parts with haftputzgips
-- sieve sand &ndash; 2 mm mesh for sieving sand
+- sieve sand for mixing with clay &ndash; 2 mm mesh for sieving sand
+
+## <a name="todo-today"></a>todo today
+
+- 
 - cornelius stove and chimney
 
 ## <a name="todo-next"></a>todo next
@@ -1976,6 +1980,8 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - build platform in benner's oak trees
 
 ## <a name="shop"></a>shop
+
+Moertelruehrer
 
 <a href="#top">top</a>
 
