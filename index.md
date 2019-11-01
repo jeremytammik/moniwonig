@@ -1934,19 +1934,21 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
     - cleaned brickwork
     - made hole for stovepipe
 
-## done 2019-10-29
+## done 2019-10-30
 
 - put the stovepipe into the chimney
 - stick on the stone cover for stovepipe
 - apply haftgrund
 - fix holes and loose parts with haftputzgips
 - sieve sand for mixing with clay &ndash; 2 mm mesh for sieving sand
-- bought Moertelruehrer from Bauhaus Moertelmischmaschine Handruehrgeraet Herkules ZY-HM-120C mit 5 Jahre Garantie bis 2024-10-30
+- bought Moertelruehrer from Bauhaus Moertelmischmaschine Handruehrgeraet [Herkules ZY-HM-120C](https://www.bauhaus.info/ruehrwerke/herkules-farb-moertelruehrer-zy-hm-120c/p/23611117) mit 5 Jahre Garantie bis 2024-10-30
+- not needed: [Flachsgewebe fuer Lehmputz](https://www.bauhaus.info/putzgewebe-armierungsgewebe/claytec-flachsgewebe/p/24983776)
+- connected cornelius stove to chimney
 
 ## <a name="todo-today"></a>todo today
 
-- 
-- cornelius stove and chimney
+- [putzgewebe/armierungsgewebe](https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708)
+- fix cornelius bathroom wall plaster
 
 ## <a name="todo-next"></a>todo next
 
@@ -1984,4 +1986,6 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 
 <a href="#top">top</a>
+
+
 
