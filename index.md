@@ -1944,6 +1944,13 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - bought Moertelruehrer from Bauhaus Moertelmischmaschine Handruehrgeraet [Herkules ZY-HM-120C](https://www.bauhaus.info/ruehrwerke/herkules-farb-moertelruehrer-zy-hm-120c/p/23611117) mit 5 Jahre Garantie bis 2024-10-30
 - not needed: [Flachsgewebe fuer Lehmputz](https://www.bauhaus.info/putzgewebe-armierungsgewebe/claytec-flachsgewebe/p/24983776)
 - connected cornelius stove to chimney
+- [clay plaster](http://www.theyearofmud.com/2009/06/17/clay-plaster-finish-recipe)
+    - 3 (5 gallon) buckets of 1/16 inch sifted sand
+    - 1 bucket of screened clay
+    - 1 bucket fresh screened cow manure (not dried)
+    - 8 cups wheat waste
+    - fluff of 3-4 cattails
+ 
 
 ## <a name="todo-today"></a>todo today
 
