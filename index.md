@@ -1950,11 +1950,11 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
     - 1 bucket fresh screened cow manure (not dried)
     - 8 cups wheat waste
     - fluff of 3-4 cattails
+- [putzgewebe/armierungsgewebe](https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708)
  
 
 ## <a name="todo-today"></a>todo today
 
-- [putzgewebe/armierungsgewebe](https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708)
 - fix cornelius bathroom wall plaster
 
 ## <a name="todo-next"></a>todo next
@@ -1964,7 +1964,9 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - install plumbing and pump for rainnwater toilet flushing
 - set up outdoor bathtub with fire compartment and chimney
 - install hot water solar heating panels
-- install electrical solar panels 
+- install electrical solar panels
+    - [Praxiserfahrungen mit einer Mini-Solaranlage im Jahr 2013](https://www.heise.de/ct/ausgabe/2013-19-Praxiserfahrungen-mit-einer-Mini-Solaranlage-2315372.html)
+    - [Solaranlage](https://www.ebay.de/itm/Mini-Solaranlage-zur-Einspeisung-in-die-Steckdose-285-Watt-fur-230V-Hausnetz/322395891062)
 - build a lumber storage shelf system around parking lot
 - lerchenholz unter oberen balkon besser abdecken
 - build a bookshelf for all the books left
@@ -1993,6 +1995,4 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 
 <a href="#top">top</a>
-
-
 
