@@ -1951,14 +1951,25 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
     - 8 cups wheat waste
     - fluff of 3-4 cattails
 - [putzgewebe/armierungsgewebe](https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708)
+
+## done 2019-11-26
+
+- fix cornelius bathroom wall plaster
+- fix luxman amplifier
+- rebuild garden steps left of walnut up to johanna's garden
  
 
 ## <a name="todo-today"></a>todo today
 
-- fix cornelius bathroom wall plaster
 
 ## <a name="todo-next"></a>todo next
 
+- cornelius suggests:
+    - bathroom sink tap
+    - air flap
+    - clay plaster
+    - greenhouse
+    - paint spots of wallpaper after taking down the plaster wall
 - moni bettschublade: h 20 x w 80 x t 100
 - clear my bedroom, store my clothes
 - install plumbing and pump for rainnwater toilet flushing
@@ -1993,8 +2004,5 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="shop"></a>shop
 
-
 <a href="#top">top</a>
 
-Bathroom sink tap, air flap, clay plaster, greenhouse
-paint where we destroyed the spots of wallpaper taking down the plaster wall
