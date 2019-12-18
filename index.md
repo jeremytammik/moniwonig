@@ -1960,7 +1960,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
  
 2019-12-18
 
-- instaled rain water supply pipe from cistern into basement for water purifier [photos](/p/2019/2019-12-17_rain_water_supply)
+- instaled rain water supply pipe from cistern into basement for water purifier &ndash; [photos](/p/2019/2019-12-17_rain_water_supply)
 - picked up from gerlinde in basel and replaced moni dining table legs
 
 ## <a name="todo-today"></a>todo today
