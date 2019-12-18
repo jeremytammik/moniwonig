@@ -1958,21 +1958,26 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - fix luxman amplifier
 - rebuild garden steps left of walnut up to johanna's garden
  
+2019-12-18
+
+- instaled rain water supply pipe from cistern into basement for water purifier [photos](/p/2019/2019-12-17_rain_water_supply)
+- picked up from gerlinde in basel and replaced moni dining table legs
 
 ## <a name="todo-today"></a>todo today
 
 
 ## <a name="todo-next"></a>todo next
 
+- moni bettschublade: h 20 x w 80 x t 100
+- clear my bedroom, store my clothes
+- install plumbing and pump for rainnwater toilet flushing
+- add anothr gate for bicycles in front of house to enter without a step
 - cornelius suggests:
     - bathroom sink tap
     - air flap
     - clay plaster
     - greenhouse
     - paint spots of wallpaper after taking down the plaster wall
-- moni bettschublade: h 20 x w 80 x t 100
-- clear my bedroom, store my clothes
-- install plumbing and pump for rainnwater toilet flushing
 - set up outdoor bathtub with fire compartment and chimney
 - install hot water solar heating panels
 - install electrical solar panels
@@ -2000,7 +2005,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - install solar hot water panels along dachfirst
 - install solar electrical panels along dachfirst
 - build platform in walnut tree
-- build platform in benner's oak trees
+- build platform in oberelben oak tree
 
 ## <a name="shop"></a>shop
 
