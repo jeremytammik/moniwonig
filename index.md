@@ -1965,10 +1965,12 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="todo-today"></a>todo today
 
-
 ## <a name="todo-next"></a>todo next
 
+- moni kitchen tap vibrates and leaks
 - moni bettschublade: h 20 x w 80 x t 100
+- install rain water pump and pressuriser from cistern to basement
+- install water purifier in basement
 - clear my bedroom, store my clothes
 - install plumbing and pump for rainnwater toilet flushing
 - add anothr gate for bicycles in front of house to enter without a step
@@ -2010,6 +2012,8 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 ## <a name="shop"></a>shop
 
 - cornelius bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
+- moni kitchen tap vibrates and leaks
+- armierungsgewebe for shoe repair
 
 <a href="#top">top</a>
 
