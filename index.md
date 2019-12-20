@@ -1967,6 +1967,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="todo-next"></a>todo next
 
+- connect moni's wood stove to the radiator heating system
 - moni kitchen tap vibrates and leaks
 - moni bettschublade: h 20 x w 80 x t 100
 - install rain water pump and pressuriser from cistern to basement
