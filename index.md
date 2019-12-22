@@ -2015,6 +2015,13 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - cornelius bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
 - moni kitchen tap vibrates and leaks
 - armierungsgewebe for shoe repair
+- 1 meter wasserfuehrendes ofenrohr 150 mm mit [heiko booster](http://heizungskontor.de)
+- ueberdruckventil
+- expansionsgefaess berechnen lassen nach volumen und temeraturbereich
+- wasserpumpe
+- termometer
+- regenwasserfilter?
+- hauswasserwerk?
 
 <a href="#top">top</a>
 
