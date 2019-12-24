@@ -1516,7 +1516,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## done 2018-08-17
 
-- kitchen tap is leaking
+- moni kitchen tap is leaking
 
 ## done 2018-08-27
 
@@ -1756,7 +1756,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - plan cornelius kitchen
 - shop
-    - return montgekleber to both g+m and bauhaus
+    - return montagekleber to both g+m and bauhaus
     - [flood light](https://www.conrad.de/de/osram-endura-flood-4058075064454-led-aussenstrahler-50-w-warm-weiss-1602610.html)
       or [LED-Aussenstrahler mit Bewegungsmelder](https://www.conrad.de/de/goobay-59082-led-aussenstrahler-mit-bewegungsmelder-tageslicht-weiss-1597826.html)
     - dehumidifier
