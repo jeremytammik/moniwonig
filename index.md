@@ -1958,7 +1958,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - fix luxman amplifier
 - rebuild garden steps left of walnut up to johanna's garden
  
-2019-12-25
+## done 2019-12-25
 
 - rene bought a kontiki for making charcoal: [gabelstaplerfundament, wasseranschluss zum fluten und entleeren](/p/2019/2019-12-22_compost_toilet/kontiki.jpg), [hydraulik zum kippen](/p/2019/2019-12-22_compost_toilet/kontiki_2.jpg)
 - installed rain water supply pipe from cistern into basement for water purifier &ndash; [photos](/p/2019/2019-12-17_rain_water_supply)
@@ -1968,9 +1968,15 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - cornelius bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
 - sika 221 and armierungsgewebe for shoe repair
 
+## done 2020-01-10
+
+- replace old bicycle chain
+- fix flat bicycle tube and replace old tire
+
 ## <a name="todo-today"></a>todo today
 
-- replace bicycle chain
+- move my clothes out of my bedroom
+- clear northwest bedroom for magnus' office
 - install cornelius bathroom tap 
 - fix walking boots shoe repair with sika 221 and armierungsgewebe 
 - set up my own peronal compost toilet and foetliwashplace outside &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom, water bottle
@@ -1979,7 +1985,6 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
 - connect moni's wood stove to the radiator heating system
-- moni kitchen tap vibrates and leaks
 - moni bettschublade: h 20 x w 80 x t 100
 - install rain water pump and pressuriser from cistern to basement
 - install water purifier in basement
