@@ -1983,6 +1983,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="todo-next"></a>todo next
 
+- cornelius water cistern
 - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
 - connect moni's wood stove to the radiator heating system
 - moni bettschublade: h 20 x w 80 x t 100
