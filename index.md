@@ -1999,9 +1999,12 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="todo-next"></a>todo next
 
+- drainage for waldrain
+- water conection from basement out to manhole for waldrain
+- electricity connection from shed up to waldrain: drehstrom 16 A requires 5 mm2 cross section area equals ca. 2.5 mm wire diameter
 - cornelius window insulation
 - cornelius wall insulation
-- cornelius water cistern
+- cornelius concrete wall and new water cistern
 - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
 - connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
 - moni bettschublade: h 20 x w 80 x t 100
