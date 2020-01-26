@@ -57,6 +57,7 @@
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
 - projects
+    - [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
     - [garnatilla](#garnatilla)
     - aussendusche bauen und anschliessen
     - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung
@@ -65,7 +66,7 @@
     - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
     - warmwasser- und heizungssolaranlage &ndash; install solar hot water panel, e.g., ciprian's romanian suggestion
     - install solarpumpe in pool
-
+    
 ## michael's architectural hints
 
 - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
@@ -164,7 +165,16 @@
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - [externe verbrennungsluftzufuhr fuer kamine und kaminoefen](http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/)
 
-## <a name="zaun"></a>zaun
+## <a name="ofenrohrwaermetauscher">ofenrohrwaermetauscher</a>
+
+- 1 meter wasserfuehrendes ofenrohr 150 mm mit [heiko booster](http://heizungskontor.de)
+- ueberdruckventil
+- expansionsgefaess berechnen lassen nach volumen und temeraturbereich
+- wasserpumpe
+- thermometer wasser
+- thermometer abgas in schornstein
+    
+## <a name="zaun">zaun</a>
 
 - gittermaschendrahtzaun auf metallpfosten
     1. metallpfosten mit fuss oben auf die betonmauer montieren
@@ -1973,23 +1983,30 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - replace old bicycle chain
 - fix flat bicycle tube and replace old tire
 
-## <a name="todo-today"></a>todo today
+## done 2020-01-26
 
+- clear my bedroom, store my clothes
 - move my clothes out of my bedroom
 - clear northwest bedroom for magnus' office
+- replace worn-out bicycle chain, fix it twice
+- set up my own peronal compost toilet and foetliwashplace indoors &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom, water bottle
+
+## <a name="todo-today"></a>todo today
+
 - install cornelius bathroom tap 
 - fix walking boots shoe repair with sika 221 and armierungsgewebe 
-- set up my own peronal compost toilet and foetliwashplace outside &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom, water bottle
+- set up my own peronal compost toilet and foetliwashplace outdoors &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom, water bottle
 
 ## <a name="todo-next"></a>todo next
 
+- cornelius window insulation
+- cornelius wall insulation
 - cornelius water cistern
 - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
-- connect moni's wood stove to the radiator heating system
+- connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
 - moni bettschublade: h 20 x w 80 x t 100
 - install rain water pump and pressuriser from cistern to basement
 - install water purifier in basement
-- clear my bedroom, store my clothes
 - install plumbing and pump for rainnwater toilet flushing
 - add anothr gate for bicycles in front of house to enter without a step
 - cornelius suggests:
@@ -2029,12 +2046,6 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="shop"></a>shop
 
-- 1 meter wasserfuehrendes ofenrohr 150 mm mit [heiko booster](http://heizungskontor.de)
-- ueberdruckventil
-- expansionsgefaess berechnen lassen nach volumen und temeraturbereich
-- wasserpumpe
-- termometer wasser
-- termometer abgas in schornstein
 - regenwasserfilter?
 - hauswasserwerk?
 
